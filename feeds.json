@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "generated": "2025-11-18T00:26:00Z",
+    "count": 36
+  },
+  "feeds": [
+    {
+      "title": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+      "xmlUrl": "https://legiscan.com/gaits/feed/781cfa95595529cefdf677fe9cdf5a21.rss",
+      "htmlUrl": "https://legiscan.com"
+    },
+    {
+      "title": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
+      "xmlUrl": "https://legiscan.com/gaits/feed/05eeda9667f515790bddb30bccd0ad7d.rss",
+      "htmlUrl": "https://legiscan.com"
+    },
+    {
+      "title": "LegiScan Search Feed - Veteran Search",
+      "xmlUrl": "https://legiscan.com/gaits/feed/f5e5841cfe44f1f17b2fda3cceb9cbdc.rss",
+      "htmlUrl": "https://legiscan.com"
+    },
+    {
+      "title": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
+      "xmlUrl": "https://legiscan.com/gaits/feed/29b429747797bf546cc5a4f9025052e8.rss",
+      "htmlUrl": "https://legiscan.com"
+    },
+    {
+      "title": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
+      "xmlUrl": "https://legiscan.com/gaits/feed/5d6c3b4632447f4cb93784b2036df886.rss",
+      "htmlUrl": "https://legiscan.com"
+    },
+    {
+      "title": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+      "xmlUrl": "https://legiscan.com/gaits/feed/28cfd10aca11ff8d1cf6ba03ba034ecd.rss",
+      "htmlUrl": "https://legiscan.com"
+    },
+    {
+      "title": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+      "xmlUrl": "https://legiscan.com/gaits/feed/3e6c5e1b9c80c2aceb2dc167c7678a37.rss",
+      "htmlUrl": "https://legiscan.com"
+    },
+    {
+      "title": "LegiScan Search Feed - CalVet Search",
+      "xmlUrl": "https://legiscan.com/gaits/feed/5f1f0b4db36491b369db0e574e9973ee.rss",
+      "htmlUrl": "https://legiscan.com"
+    },
+    {
+      "title": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+      "xmlUrl": "https://legiscan.com/gaits/feed/cec19f58ac627a58eb3b731981c1ad15.rss",
+      "htmlUrl": "https://legiscan.com"
+    },
+    {
+      "title": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+      "xmlUrl": "https://legiscan.com/gaits/feed/7bc9308f44025d2ebf9196a6b46c4ac6.rss",
+      "htmlUrl": "https://legiscan.com"
+    },
+    {
+      "title": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+      "xmlUrl": "https://legiscan.com/gaits/feed/c6c5184194b7c6bacd8fa217f99c1491.rss",
+      "htmlUrl": "https://legiscan.com"
+    },
+    {
+      "title": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
+      "xmlUrl": "https://legiscan.com/gaits/feed/abb76c9d600be1aa0baa83179543adf4.rss",
+      "htmlUrl": "https://legiscan.com"
+    },
+    {
+      "title": "LegiScan Search Feed - Military Search",
+      "xmlUrl": "https://legiscan.com/gaits/feed/ee900f90763128b8dff4866a894059d3.rss",
+      "htmlUrl": "https://legiscan.com"
+    },
+    {
+      "title": "California Playbook",
+      "xmlUrl": "http://www.politico.com/rss/california-playbook.xml",
+      "htmlUrl": "https://rss.politico.com/california-playbook.xml"
+    },
+    {
+      "title": "Public Policy Institute of California",
+      "xmlUrl": "http://www.ppic.org/feed/?topic=political-landscape",
+      "htmlUrl": "https://www.ppic.org/"
+    },
+    {
+      "title": "California Democratic Party",
+      "xmlUrl": "https://cadem.org/feed/",
+      "htmlUrl": "https://cadem.org/"
+    },
+    {
+      "title": "California Globe",
+      "xmlUrl": "https://californiaglobe.com/feed/",
+      "htmlUrl": "https://californiaglobe.com"
+    },
+    {
+      "title": "Governor of California",
+      "xmlUrl": "https://www.gov.ca.gov/feed/",
+      "htmlUrl": "https://www.gov.ca.gov"
+    },
+    {
+      "title": "Capitol Weekly",
+      "xmlUrl": "http://capitolweekly.net/feed/",
+      "htmlUrl": "https://capitolweekly.net/"
+    },
+    {
+      "title": "The Auditor",
+      "xmlUrl": "http://www.theauditoronline.com/feed/",
+      "htmlUrl": "https://www.theauditoronline.com/"
+    },
+    {
+      "title": "The Liberal OC",
+      "xmlUrl": "http://www.theliberaloc.com/feed/",
+      "htmlUrl": "https://theliberaloc.com"
+    },
+    {
+      "title": "Your Leo Nation",
+      "xmlUrl": "https://media.rss.com/yourleonation/feed.xml",
+      "htmlUrl": "http://www.yourleonation.org/"
+    },
+    {
+      "title": "Publication Archive - Public Policy Institute of California",
+      "xmlUrl": "https://www.ppic.org/feed/?post_type=publication",
+      "htmlUrl": "https://www.ppic.org/publication/"
+    },
+    {
+      "title": "Task & Purpose",
+      "xmlUrl": "http://taskandpurpose.com/feed/",
+      "htmlUrl": "https://taskandpurpose.com"
+    },
+    {
+      "title": "FlashReport",
+      "xmlUrl": "http://www.flashreport.org/blog/feed/",
+      "htmlUrl": "https://www.flashreport.org/blog"
+    },
+    {
+      "title": "CalMatters",
+      "xmlUrl": "https://calmatters.org/feed/",
+      "htmlUrl": "https://calmatters.org/"
+    },
+    {
+      "title": "CVA News & Media",
+      "xmlUrl": "https://cv4a.org/news-media/feed/",
+      "htmlUrl": "https://cv4a.org/news-media/"
+    },
+    {
+      "title": "Capital Public Radio: Latest News RSS",
+      "xmlUrl": "http://www.capradio.org/articles/rssnews.aspx",
+      "htmlUrl": "https://www.capradio.org/"
+    },
+    {
+      "title": "U.S. Dept. of Veterans Affairs",
+      "xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBvOzPLmbzjtpX-Htstp2vw",
+      "htmlUrl": "https://www.youtube.com/channel/UCBvOzPLmbzjtpX-Htstp2vw"
+    },
+    {
+      "title": "Legislative Analyst's Office: Recent Publications",
+      "xmlUrl": "http://www.lao.ca.gov/laoapp/rss/LAORSSFeedNew.aspx?laofeed=20",
+      "htmlUrl": "https://lao.ca.gov"
+    },
+    {
+      "title": "California State Commanders Veterans Council",
+      "xmlUrl": "https://calcommanders.org/feed/",
+      "htmlUrl": "https://calcommanders.org"
+    },
+    {
+      "title": "American Military News",
+      "xmlUrl": "http://americanmilitarynews.com/feed/",
+      "htmlUrl": "https://americanmilitarynews.com/"
+    },
+    {
+      "title": "The Official United States Marine Corps Public Website News",
+      "xmlUrl": "http://www.marines.mil/DesktopModules/ArticleCS/RSS.ashx?max=10&ContentType=1&Site=481",
+      "htmlUrl": "https://www.marines.mil"
+    },
+    {
+      "title": "Capitol Alert CA State Politics News |",
+      "xmlUrl": "http://www.sacbee.com/news/politics-government/capitol-alert/?widgetName=rssfeed&widgetContentId=713546&getXmlFeed=true",
+      "htmlUrl": "https://www.sacbee.com/news/politics-government/capitol-alert/"
+    },
+    {
+      "title": "California Political Review",
+      "xmlUrl": "https://capoliticalreview.com/feed/",
+      "htmlUrl": "https://capoliticalreview.com/"
+    },
+    {
+      "title": "VA News",
+      "xmlUrl": "http://www.blogs.va.gov/VAntage/?feed=rss2",
+      "htmlUrl": "https://news.va.gov"
+    }
+  ]
+}
