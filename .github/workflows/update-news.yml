@@ -2,8 +2,9 @@ name: Update News Feeds
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # every day at 6 AM UTC
-  workflow_dispatch:       # allow manual run
+    # Run 4 times per day: midnight, 6 AM, noon, 6 PM UTC
+    - cron: "0 0,6,12,18 * * *"
+  workflow_dispatch:   # allow manual run
 
 jobs:
   build:
@@ -30,5 +31,5 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add news.json
-          git commit -m "Automated update of news.json"
+          git diff --cached --quiet || git commit -m "Automated update of news.json"
           git push
