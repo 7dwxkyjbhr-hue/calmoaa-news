@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<title>MOAA News Preview</title>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 2rem; }
+  .item { margin: 0 0 1rem; padding: 0.75rem; border: 1px solid #ddd; border-radius: 6px; }
+  .title { font-weight: 600; }
+  .meta { color: #666; font-size: 0.9rem; }
+</style>
+<div id="status">Loading…</div>
+<div id="news"></div>
+<script>
+(async () => {
+  const url = 'news.json'; // local file in the same repo
+  try {
+    const r = await fetch(url, { cache: 'no-store' });
+    const items = await r.json();
+    const news = document.getElementById('news');
+    const status = document.getElementById('status');
+    status.textContent = `Loaded ${items.length} items`;
+    items.forEach(item => {
+      const div = document.createElement('div');
+      div.className = 'item';
+      div.innerHTML = `
+        <div class="title"><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></div>
+        <div class="meta">${item.source} — ${item.published || 'Unknown date'}</div>
+        <div>${item.summary || ''}</div>
+      `;
+      news.appendChild(div);
+    });
+  } catch (e) {
+    document.getElementById('status').textContent = 'Failed to load news.json';
+    console.error(e);
+  }
+})();
+</script>
