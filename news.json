@@ -1,24 +1,73 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2025-11-26T06:54:58Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2025-11-26T06:54:57Z",
+    "published": "2025-11-26T13:47:48Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
+    "published": "2025-11-26T13:47:48Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2025-11-26T06:54:56Z",
+    "published": "2025-11-26T13:47:47Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "CalMatters",
+    "title": "Misinformation spreads as Trump moves to cut aid for some California students",
+    "link": "https://calmatters.org/education/higher-education/2025/11/immigrant-students-california/",
+    "published": "2025-11-26T13:30:00Z",
+    "summary": "<figure><img alt=\"A close-up view of a table covered with colorful informational materials and stickers related to immigration services and campus organizations. In the center are square stickers for the Undocumented Community Center (UCC), featuring a stylized bird and wavy background. To the left is a pink and teal UCC hummingbird sticker, and to the right are College of San Mateo Bulldogs stickers. Various round buttons, brochures about free immigration legal services, and Spanish-language flyers are spread across the table.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/11/112823_DACA-Students_AE_CM_20.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The Trump administration is suing California, asking the state to end its policies allowing students without legal status to access in-state tuition and financial aid. But the administration's legal argument is weak, according to top legal experts."
+  },
+  {
+    "source": "CalMatters",
+    "title": "Harrowing experiences at the hands of ICE unify a diverse L.A. audience",
+    "link": "https://calmatters.org/commentary/2025/11/ice-experiences-unify-los-angeles/",
+    "published": "2025-11-26T13:30:00Z",
+    "summary": "<figure><img alt=\"A group of heavily armed federal agents in tactical gear, some wearing patches reading “POLICE U.S. BORDER PATROL,” stand on a city street. In the background, a Black woman in a light blue pantsuit—Los Angeles Mayor Karen Bass—steps out of a black SUV. Palm trees line the boulevard, hinting at a Southern California location. The agents&#039; body armor, helmets, and equipment suggest a high-security federal operation.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/07/070725-MacArthur-Park-Feds-JW-CM-20.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>Witnesses at a congressional hearing describe nightmarish experiences while in ICE custody, highlighting the cruelty and stupidity of federal detention."
+  },
+  {
+    "source": "CalMatters",
+    "title": "He fled religious persecution in Turkey. Then he got a one-day notice for an ICE check-in",
+    "link": "https://calmatters.org/justice/2025/11/san-diego-immigration-arrest/",
+    "published": "2025-11-26T13:25:00Z",
+    "summary": "<figure><img alt=\"Exterior view of the Edward J. Schwartz Federal Building, with large metallic signage above the entrance and tall glass windows reflecting nearby structures. In the foreground, two dark geometric sculptures frame the walkway leading to the building’s doors.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/11/092425-Padilla-SD-Court-AH-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The U.S. deported just five immigrants from Turkey in the 2024 federal budget year. One Turkish immigrant now fears deportation after being summoned to a San Diego ICE office."
+  },
+  {
+    "source": "CalMatters",
+    "title": "California court tosses Wonderful Company lawsuit over farmworker unionization law",
+    "link": "https://calmatters.org/economy/2025/11/wonderful-company-farm-union-lawsuit/",
+    "published": "2025-11-26T13:00:00Z",
+    "summary": "<figure><img alt=\"United Farm Workers march in Delano in a caravan heading to the state Capitol on Aug. 3, 2022. Photo by Larry Valenzuela, CalMatters/CatchLight Local\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2022/06/080322_UFWmarch_LV_CM_033.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The Wonderful Company sued to overturn a farmworker unionization law, but a California appeals court found the lawsuit was premature. The company contends the law is unconstitutional."
+  },
+  {
+    "source": "California Globe",
+    "title": "Covid Flashback: Remember Gov. Newsom’s 2020 Thanksgiving Stay-Home, No ‘Gatherings’, and Curfew Order",
+    "link": "https://californiaglobe.com/fl/covid-flashback-remember-gov-newsoms-2020-thanksgiving-stay-home-no-gatherings-and-curfew-order/",
+    "published": "2025-11-26T11:30:15Z",
+    "summary": "Stay home, no singing, no shouting, no music, no parties, eat outside and keep a mask on’"
+  },
+  {
+    "source": "California Globe",
+    "title": "Woke CA Christian Universities: Point Loma Nazarene Rejects a Turning Point USA Branch",
+    "link": "https://californiaglobe.com/fr/woke-ca-christian-universities-point-loma-nazarene-rejects-a-turning-point-usa-branch/",
+    "published": "2025-11-26T10:45:56Z",
+    "summary": "TPUSA is not permitted on campus but Point Loma had a Free Palestine protest, a No Kings gathering, free condoms, &#38; candlelight vigils when Republicans are elected"
+  },
+  {
+    "source": "California Globe",
+    "title": "Sanctions under the Civil Discovery Act",
+    "link": "https://californiaglobe.com/articles/sanctions-under-the-civil-discovery-act/",
+    "published": "2025-11-26T10:30:52Z",
+    "summary": "The court may impose a contempt sanction by an order treating the misuse of the discovery process as a contempt of court"
   },
   {
     "source": "California Globe",
@@ -49,20 +98,6 @@
     "summary": "<p>Staff Sgt. Jacob Hill, who was sent to Washington, D.C., with the Alabama National Guard, died from a medical emergency earlier this month.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/national-guard-jacob-hill/\">National Guardsman who died on DC mission remembered as ‘down-to-earth’ and ‘almost like Superman’</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "California Globe",
-    "title": "Governor Newsom Sues Trump administration Again for ‘Cruel’ Cuts to Homeless Housing Funding That will hurt families",
-    "link": "https://californiaglobe.com/fl/governor-newsom-sues-trump-administration-again-for-cruel-cuts-to-homeless-housing-funding-that-will-hurt-families/",
-    "published": "2025-11-25T20:33:04Z",
-    "summary": "Oh really? From the governor who blew through $37 billion and only grew homeless in the state?"
-  },
-  {
-    "source": "California Globe",
-    "title": "AZ Rep Hamadeh Introduces Bills to Exempt Military Pay from Income Taxes",
-    "link": "https://californiaglobe.com/fr/az-rep-hamadeh-introduces-bills-to-exempt-military-pay-from-income-taxes/",
-    "published": "2025-11-25T20:07:40Z",
-    "summary": "Both bills amend the tax code to exempt all military income earned by active-duty and reserve service members and all service-related retirement payments from federal income taxe"
-  },
-  {
     "source": "Task & Purpose",
     "title": "This EOD tech set a new record for running in a bomb suit",
     "link": "https://taskandpurpose.com/news/military-bomb-suit-record/",
@@ -91,13 +126,6 @@
     "summary": "<p>Mikhail Robin Wicker claimed to be an Iraq War veteran and Purple Heart recipient, collecting VA medical care and disability pay for years.</p>\n<p>The post <a href=\"https://taskandpurpose.com/military-life/fake-marine-stolen-valor-wicker-convicted/\">Fake Marine convicted of claiming Purple Heart for $140,000 in VA benefits</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "California Globe",
-    "title": "Revival of the Private Practice",
-    "link": "https://californiaglobe.com/fr/revival-of-the-private-practice/",
-    "published": "2025-11-25T15:13:20Z",
-    "summary": "Goodwill gives rise to well-being, and well-being gives rise to the common good"
-  },
-  {
     "source": "California Political Review",
     "title": "Stick a Fork in California: Gov. Newsom’s Proposed Retroactive Billionaire Tax",
     "link": "https://capoliticalreview.com/2025/11/25/stick-a-fork-in-california-gov-newsoms-proposed-retroactive-billionaire-tax/",
@@ -110,27 +138,6 @@
     "link": "https://calmatters.org/newsletter/artificial-intelligence-trump-executive-order/",
     "published": "2025-11-25T14:00:00Z",
     "summary": "<figure><img alt=\"A close-up view of dark purple round banners displayed at the top of a room filled with attendees at a conference. The banners include text that say, &quot;to value fast ...&quot; and &quot;AI, data, and ...&quot;\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/03/091824_Dreamforce_FM_CM_05.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>This year California lawmakers passed a handful of measures regulating artificial intelligence. But President Donald Trump and congressional Republicans are reigniting efforts to block states from regulating the technology — potentially upending these recent laws and prompting outcry from California officials.&#160; The Trump administration last week floated a draft of an executive order calling for [&#8230;]"
-  },
-  {
-    "source": "CalMatters",
-    "title": "California is about to cut power company profits to historic lows. Your bill will barely drop",
-    "link": "https://calmatters.org/economy/2025/11/electric-bills-will-not-reflect-historically-low-profit-margins/",
-    "published": "2025-11-25T13:30:00Z",
-    "summary": "<figure><img alt=\"A close-up of a PG&amp;E bill on a patterned table, showing a warning section highlighted in yellow. The notice lists past-due amounts and a total balance of $400.68, with payment instructions and icons visible near the bottom of the page.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/11/111023_Angelica-Vasquez_MO_CM_13.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>California utilities regulators are bringing down “return on equity” payments to power company shareholders. It’s the lowest profit margin in 20 years for PG&#038;E and Southern California Edison, but will be hard to notice in your payments."
-  },
-  {
-    "source": "CalMatters",
-    "title": "Gavin Newsom could have made electricity more affordable and climate-friendly. Here’s how",
-    "link": "https://calmatters.org/commentary/2025/11/electricity-affordable-virtual-power-plants/",
-    "published": "2025-11-25T13:30:00Z",
-    "summary": "<figure><img alt=\"Solar panels mounted on the roof of a house surrounded by trees, with soft sunlight filtering through the branches. The house has a shingle roof, brick exterior, and white window shutters, partially visible through the foliage.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/08/021820_Solar-Panels_AW_CM_03.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Gov. Newsom vetoed bills on virtual power plants, which deliver energy to the grid from such home devices as smart thermostats, solar panels, electric vehicle batteries and heat pumps."
-  },
-  {
-    "source": "CalMatters",
-    "title": "California schools can stop truancy without arresting parents.",
-    "link": "https://calmatters.org/commentary/2025/11/california-schools-truancy-parent-arrests/",
-    "published": "2025-11-25T13:30:00Z",
-    "summary": "<figure><img alt=\"A wide view of a teacher holding up four fingers in the air as they stand in front of students seated on a pink carpet inside a classroom.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/11/102924_BILINGUAL-RECOVERY_LV_CM_22.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>California parents of chronically absent students could be arrested, charged with a misdemeanor, fined up to $2,000 and face a year in jail.  A new law will end the practice."
   },
   {
     "source": "American Military News",
@@ -208,13 +215,6 @@
     "link": "https://cv4a.org/news-media/cva-statement-on-president-trumps-ukraine-russia-peace-plan/",
     "published": "2025-11-24T14:13:03Z",
     "summary": "<p>ARLINGTON, Va. –Concerned Veterans for America (CVA) today expressed support for the administration’s renewed diplomatic effort to end the war in Ukraine following President Trump’s release of a 28-point peace proposal.  CVA Executive Director John Vick issued the following statement: “We applaud the administration’s commitment to pursuing a peace deal that can stop the bloodshed [&#8230;]</p>\n<p>The post <a href=\"https://cv4a.org/news-media/cva-statement-on-president-trumps-ukraine-russia-peace-plan/\">CVA Statement on President Trump’s 28-Point Ukraine–Russia Peace Plan</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
-  },
-  {
-    "source": "CalMatters",
-    "title": "As farmworkers fear deportation, CA farm towns feel economic fallout from Trump raids",
-    "link": "https://calmatters.org/newsletter/california-immigration-farmworkers-trump/",
-    "published": "2025-11-24T14:00:00Z",
-    "summary": "<figure><img alt=\"A back view of a person in work clothes and a hat walking through a field of watermelons as workers harvest in the background on a tractor.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/11/091125-Melon-Farm-and-Kerman-LV-44.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Will migrant and undocumented immigrant workers return to California farms next year? As the harvest season comes to a close, that question looms over Central Valley — raising concerns about the region’s economy and the state’s agricultural industry, reports CalMatters’ Nigel Duara. In addition to California’s overall economy and the economies of its big cities, [&#8230;]"
   },
   {
     "source": "California Political Review",
