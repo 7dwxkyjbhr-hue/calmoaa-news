@@ -1,24 +1,59 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2025-11-28T06:55:20Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2025-11-28T13:31:52Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2025-11-28T06:55:20Z",
+    "published": "2025-11-28T13:31:45Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2025-11-28T06:55:19Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
+    "published": "2025-11-28T13:30:21Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "CalMatters",
+    "title": "Young California Democrats are challenging veteran House members in safe blue seats",
+    "link": "https://calmatters.org/politics/2025/11/congress-young-dem-challengers/",
+    "published": "2025-11-28T13:30:00Z",
+    "summary": "<figure><img alt=\"A person in glasses and a jacket stares into the distance, seated next to vegetation. At the bottom of the frame are pieces of a plate poking into it, with one stem passing through the center. The person has rays of golden sunlight shining through one side of their body.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/11/112125-Mai-Vang-Congress-MG-09.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The recent retirements of Nancy Pelosi and other longtime House Democrats have led to more calls for aging members to pass the torch. Incumbents argue their experience is crucial as the executive branch is upending the balance of power in Washington."
+  },
+  {
+    "source": "American Military News",
+    "title": "Pic: Historic gold ring tied to famous conspiracy up for auction",
+    "link": "https://americanmilitarynews.com/2025/11/pic-historic-gold-ring-tied-to-famous-conspiracy-up-for-auction/",
+    "published": "2025-11-28T12:43:03Z",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"511\" src=\"https://americanmilitarynews.com/wp-content/uploads/130821-F-EB935-051-768x511.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />A historic gold ring that many experts believe could have belonged to one of the conspirators in the 1605 Gunpowder Plot is currently scheduled for auction on Thursday. According to Hansons Auctioneers, the historic ring features an inner inscription with the words, &#8220;Your Frende in Deede.&#8221; The auction house suggested that the inscription could be &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2025/11/pic-historic-gold-ring-tied-to-famous-conspiracy-up-for-auction/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
+  },
+  {
+    "source": "American Military News",
+    "title": "Ukraine agrees to Trump admin’s peace deal: Report",
+    "link": "https://americanmilitarynews.com/2025/11/ukraine-agrees-to-trump-admins-peace-deal-report/",
+    "published": "2025-11-28T12:42:49Z",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://americanmilitarynews.com/wp-content/uploads/250818-O-D0439-002-768x512.jpeg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />A new report claims that Ukraine has agreed to a peace deal negotiated by President Donald Trump&#8217;s administration in an effort to end the war between Russia and Ukraine. ABC News reported that a U.S. official told the outlet on Tuesday that Ukraine agreed to a peace deal proposed by the United States following U.S. &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2025/11/ukraine-agrees-to-trump-admins-peace-deal-report/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
+  },
+  {
+    "source": "American Military News",
+    "title": "Hegseth Pays Surprise Thanksgiving Day Visit to Sailors in Southcom AOR",
+    "link": "https://americanmilitarynews.com/2025/11/hegseth-pays-surprise-thanksgiving-day-visit-to-sailors-in-southcom-aor/",
+    "published": "2025-11-28T12:42:22Z",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://americanmilitarynews.com/wp-content/uploads/Pete-Hegseth-Picture-768x512.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />Secretary of War Pete Hegseth paid a surprise Thanksgiving holiday visit today to a pair of Navy warships operating in the U.S. Southern Command&#8217;s area of responsibility as part of the military&#8217;s anti-narco-terror mission, Operation Southern Spear. Accompanied by his wife, Jennifer, Hegseth&#8217;s delegation visited both the aircraft carrier USS Gerald R. Ford and the &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2025/11/hegseth-pays-surprise-thanksgiving-day-visit-to-sailors-in-southcom-aor/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
+  },
+  {
+    "source": "California Globe",
+    "title": "Elections for Forming Harbor Districts",
+    "link": "https://californiaglobe.com/articles/elections-for-forming-harbor-districts/",
+    "published": "2025-11-28T10:30:16Z",
+    "summary": "Prohibits any action or proceeding from being maintained or prosecuted in any court to test or to invalidate the formation of the district"
   },
   {
     "source": "California Political Review",
@@ -40,13 +75,6 @@
     "link": "https://americanmilitarynews.com/2025/11/new-study-shows-baby-boomers-historic-wealth-far-outpaces-younger-generations/",
     "published": "2025-11-27T14:45:48Z",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"576\" src=\"https://americanmilitarynews.com/wp-content/uploads/bank-note-941246_960_720-768x576.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />A new research report shows that the Baby Boomer generation is the wealthiest generation in the United States, with over $85 trillion in assets, which is almost twice the wealth of Generation X and four times the wealth of millennials. According to The Washington Post, research conducted by Edward Wolf, an economics professor at New &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2025/11/new-study-shows-baby-boomers-historic-wealth-far-outpaces-younger-generations/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
-  },
-  {
-    "source": "American Military News",
-    "title": "Would-be Trump assassin files strange new motion",
-    "link": "https://americanmilitarynews.com/2025/11/would-be-trump-assassin-files-strange-new-motion/",
-    "published": "2025-11-27T14:45:40Z",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://americanmilitarynews.com/wp-content/uploads/President-Donald-Trump-768x512.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />Ryan Routh, who was recently convicted after trying to assassinate President Donald Trump in West Palm Beach, Florida, during last year&#8217;s presidential election, filed a new motion on Tuesday that included an offer for Trump to &#8220;punch him in the face as many times&#8221; as the president wanted. In the motion filed on Tuesday, Routh &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2025/11/would-be-trump-assassin-files-strange-new-motion/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
   },
   {
     "source": "California Globe",
@@ -91,25 +119,11 @@
     "summary": "Family Code provides general provisions regarding the adoption of adults and married minors"
   },
   {
-    "source": "California Globe",
-    "title": "Insights on Legislative and Regulatory Processes and Lobbying",
-    "link": "https://californiaglobe.com/articles/insights-on-legislative-and-regulatory-processes-and-lobbying/",
-    "published": "2025-11-26T22:00:24Z",
-    "summary": "There are a number of similarities, and differences, between the processes and lobbying in these two areas"
-  },
-  {
     "source": "Task & Purpose",
     "title": "2 National Guardsmen shot while deployed to Washington, DC",
     "link": "https://taskandpurpose.com/news/national-guard-shooting-dc/",
     "published": "2025-11-26T20:36:29Z",
     "summary": "<p>The shooting took place outside the Farragut West Metro station in downtown D.C., near the White House.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/national-guard-shooting-dc/\">2 National Guardsmen shot while deployed to Washington, DC</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
-    "source": "American Military News",
-    "title": "2 Nat’l Guard troops fatally shot near White House",
-    "link": "https://americanmilitarynews.com/2025/11/2-natl-guard-troops-shot-near-white-house/",
-    "published": "2025-11-26T20:16:45Z",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"514\" src=\"https://americanmilitarynews.com/wp-content/uploads/white-house-768x514.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />Officials have confirmed that two U.S. National Guard members were fatally shot near the White House on Wednesday. According to Fox News, sources told the outlet that the two National Guard members were shot roughly a mile away from the White House near Farragut Metro Station in Washington, D.C. President Donald Trump confirmed that the &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2025/11/2-natl-guard-troops-shot-near-white-house/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
   },
   {
     "source": "California Political Review",
@@ -124,13 +138,6 @@
     "link": "https://capoliticalreview.com/2025/11/26/friends-establish-legal-defense-fund-for-gov-newsoms-ex-top-aide/",
     "published": "2025-11-26T15:00:00Z",
     "summary": "<p>SACRAMENTO, Calif. — Friends of Gov. Newsom&#8217;s former chief of staff, Dana Williamson, on Monday started a legal defense fund after she was indicted earlier this month and is accused of several crimes. Sacramento-based political consultant Steven Maviglio told KCRA 3 he started the fund with a group of friends.&#160;The fund&#160;has a goal of $100,000 and is [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2025/11/26/friends-establish-legal-defense-fund-for-gov-newsoms-ex-top-aide/\">Read More and Comment: Friends establish legal defense fund for Gov. Newsom&#8217;s ex-top aide</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2025/11/26/friends-establish-legal-defense-fund-for-gov-newsoms-ex-top-aide/\">Friends establish legal defense fund for Gov. Newsom&#8217;s ex-top aide</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "American Military News",
-    "title": "2 suspects charged for plotting to invade Haitian island, take women as sex slaves",
-    "link": "https://americanmilitarynews.com/2025/11/2-suspects-charged-for-plotting-to-invade-haitian-island-take-women-as-sex-slaves/",
-    "published": "2025-11-26T14:36:36Z",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"394\" src=\"https://americanmilitarynews.com/wp-content/uploads/120203-F-IT949-002-768x394.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />The U.S. Attorney&#8217;s Office for the Eastern District of Texas announced charges against two men on Thursday who allegedly plotted to invade a Haitian island, murder all of the men, and take the women and children as sex slaves. In a Thursday press release, U.S. Attorney Jay R. Combs confirmed that two men from Texas &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2025/11/2-suspects-charged-for-plotting-to-invade-haitian-island-take-women-as-sex-slaves/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
   },
   {
     "source": "U.S. Dept. of Veterans Affairs",
@@ -173,13 +180,6 @@
     "link": "https://calmatters.org/justice/2025/11/san-diego-immigration-arrest/",
     "published": "2025-11-26T13:25:00Z",
     "summary": "<figure><img alt=\"Exterior view of the Edward J. Schwartz Federal Building, with large metallic signage above the entrance and tall glass windows reflecting nearby structures. In the foreground, two dark geometric sculptures frame the walkway leading to the building’s doors.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/11/092425-Padilla-SD-Court-AH-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The U.S. deported just five immigrants from Turkey in the 2024 federal budget year. One Turkish immigrant now fears deportation after being summoned to a San Diego ICE office."
-  },
-  {
-    "source": "CalMatters",
-    "title": "California court tosses Wonderful Company lawsuit over farmworker unionization law",
-    "link": "https://calmatters.org/economy/2025/11/wonderful-company-farm-union-lawsuit/",
-    "published": "2025-11-26T13:00:00Z",
-    "summary": "<figure><img alt=\"United Farm Workers march in Delano in a caravan heading to the state Capitol on Aug. 3, 2022. Photo by Larry Valenzuela, CalMatters/CatchLight Local\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2022/06/080322_UFWmarch_LV_CM_033.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The Wonderful Company sued to overturn a farmworker unionization law, but a California appeals court found the lawsuit was premature. The company contends the law is unconstitutional."
   },
   {
     "source": "Task & Purpose",
