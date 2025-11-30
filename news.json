@@ -1,24 +1,31 @@
 [
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2025-11-30T13:17:09Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2025-11-30T06:52:27Z",
+    "published": "2025-11-30T13:17:09Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2025-11-30T06:52:27Z",
+    "published": "2025-11-30T13:17:09Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2025-11-30T06:52:26Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+    "source": "California Globe",
+    "title": "Powers of Harbor Commissions",
+    "link": "https://californiaglobe.com/articles/powers-of-harbor-commissions/",
+    "published": "2025-11-30T10:30:32Z",
+    "summary": "Authorizes the Oxnard Harbor District to borrow money and incur indebtedness"
   },
   {
     "source": "California Globe",
@@ -82,13 +89,6 @@
     "link": "https://californiaglobe.com/articles/disapproval-vs-withdrawal-of-regulations/",
     "published": "2025-11-28T22:00:19Z",
     "summary": "What roles do these two procedures play in the California rulemaking process?"
-  },
-  {
-    "source": "California Globe",
-    "title": "President Trump Vows To ‘Permanently Pause Migration from All Third World Countries’ After National Guard Specialist Murdered by Afghan National",
-    "link": "https://californiaglobe.com/fl/president-trump-vows-to-permanently-pause-migration-from-all-third-world-countries-after-national-guard-specialist-murdered-by-afghan-national/",
-    "published": "2025-11-28T21:34:31Z",
-    "summary": "&#8216;This refugee burden is the leading cause of social dysfunction in America&#8217;"
   },
   {
     "source": "Task & Purpose",
