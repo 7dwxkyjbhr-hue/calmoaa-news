@@ -1,24 +1,24 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2025-12-13T02:01:20Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
+    "published": "2025-12-13T06:53:05Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2025-12-13T02:01:14Z",
+    "published": "2025-12-13T06:53:05Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2025-12-13T02:00:39Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2025-12-13T06:53:04Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "California Globe",
@@ -43,7 +43,7 @@
   },
   {
     "source": "CalMatters",
-    "title": "California’s unemployment agency spent millions on unused cellphones, audit says",
+    "title": "California unemployment agency paid $4.6 million in monthly fees for unused cellphones",
     "link": "https://calmatters.org/politics/2025/12/edd-cellphone-audit/",
     "published": "2025-12-12T19:18:55Z",
     "summary": "<figure><img alt=\"The offices of the Employment Development Department in Sacramento on Jan. 10, 2022. Photo by Miguel Gutierrez Jr., CalMatters\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2022/01/011022-EDD-Sacramento-MG-CM-03.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>California's unemployment department bought more cellphones than it needed for remote work during the COVID pandemic and kept paying for thousands of unused lines."
@@ -152,6 +152,13 @@
     "link": "https://calmatters.org/education/2025/12/teaching-jobs-california-foreign-worker-visa/",
     "published": "2025-12-12T05:30:00Z",
     "summary": "<figure><img alt=\"A person is sitting inside a gym room that is darkly lit with a ray of light landing on the back of the person sitting. The person is facing away from the frame with his back lit up by light from the sun shining through the gym, with the word “Columbia” written on the back of a black sweatshirt.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/12/110725_Teacher-H1B-Visa_MO_02.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The Trump administration is now requiring new H-1B visa applicants to pay $100,000. School districts that depend on hiring foreign workers to fill teacher jobs, especially in special education and bilingual education, say they can’t afford the new fee."
+  },
+  {
+    "source": "The Official United States Marine Corps Public Website News",
+    "title": "Steel Knight 25: ‘Support Within Striking Distance’",
+    "link": "https://www.marines.mil/News/News-Display/Article/4358483/steel-knight-25-support-within-striking-distance/",
+    "published": "2025-12-11T23:52:00Z",
+    "summary": "U.S. Marines with Marine Wing Support Squadron 372, Marine Air Control Group 38, 3rd Marine Aircraft<br /> \n<img alt=\"A U.S. Marine with Marine Wing Support Squadron 372, Marine Air Control Group 38, 3rd Marine Aircraft Wing, refuels an F-35B Lightning II assigned to Marine Fighter Attack Squadron (VMFA) 311during exercise Steel Knight 25 at Sacramento Mather Airport, California, Dec. 9, 2025. The forward node at Mather enabled aircraft to arm and refuel before launching a simulated Maritime Strike, demonstrating 3rd MAW’s ability to sustain fixed-wing operations from distributed locations. Steel Knight is an annual exercise that strengthens the Navy-Marine Corps team’s ability to respond forward, integrate across domains, and sustain Marine Air-Ground Task Force readiness. (U.S. Marine Corps photo by Sgt. Brian A. Stippey)\" src=\"https://media.defense.gov/2025/Dec/11/2003841895/115/75/0/251209-M-JE726-1482.JPG\" /> <br />"
   },
   {
     "source": "Public Policy Institute of California",
@@ -315,6 +322,13 @@
     "summary": "And the number of Democrats running for Congress in CA-40 just shrunk.  Paula Swift has read the tea leaves and announced she&#8217;s dropping out of <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2025/12/09/swift-pivots-from-ca-40-to-state-assembly/\" title=\"Swift Pivots from CA-40 to State Assembly\">[...]</a>"
   },
   {
+    "source": "The Official United States Marine Corps Public Website News",
+    "title": "EOTG holds Close Quarters Tactics Course for Recon Marines",
+    "link": "https://www.marines.mil/News/News-Display/Article/4353984/eotg-holds-close-quarters-tactics-course-for-recon-marines/",
+    "published": "2025-12-09T18:23:49Z",
+    "summary": "CAMP HANSEN, Okinawa, Japan – U.S. Marines with Force Reconnaissance Company, 3rd Reconnaissance Battalion, 3rd Marine Division, completed a Close Quarters Tactics Course from Sept. 15 to Nov. 5, across Camp Hansen. This training, hosted by the III Marine Expeditionary Force’s Expeditionary Operations Training Group, aimed to enhance their lethality as small unit leaders during high-paced, close-quarters combat.\n\n<br /> \n<img alt=\"U.S. Marines with 3rd Reconnaissance Battalion, 3rd Marine Division, post security during an Expeditionary Operations Training Group Close Quarters Tactics Course at Camp Hansen, Okinawa, Japan, Oct. 28, 2025.\" src=\"https://media.defense.gov/2025/Dec/08/2003839364/115/75/0/251027-M-WK421-1819.JPG\" /> <br />"
+  },
+  {
     "source": "Public Policy Institute of California",
     "title": "PPIC Statewide Survey: Californians and Their Government",
     "link": "https://www.ppic.org/publication/ppic-statewide-survey-californians-and-their-government-december-2025/?utm_source=rss&utm_medium=rss&utm_campaign=ppic-statewide-survey-californians-and-their-government-december-2025",
@@ -413,6 +427,13 @@
     "summary": "<p><img alt=\"photo - Welder\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2024/11/welder-dark-background.jpg\" width=\"2000\" /></p>About three in ten Californians say that their household has cut back on food to save money in the last year, according to the November PPIC Statewide Survey. A majority expects bad economic times ahead."
   },
   {
+    "source": "The Official United States Marine Corps Public Website News",
+    "title": "2nd Marine Regiment MCCRE: Advancing The Modern Warfighter",
+    "link": "https://www.marines.mil/News/News-Display/Article/4347168/2nd-marine-regiment-mccre-advancing-the-modern-warfighter/",
+    "published": "2025-12-02T13:18:00Z",
+    "summary": "MARINE CORPS BASE CAMP LEJEUNE, N.C. — Staff Sgt. Jacob Jones watched a small drone navigate through a tree canopy ahead of his Marines, confirming enemy positions without exposing a single rifleman. The company completed the movement with zero simulated casualties.<br /> \n<img alt=\"U.S. Navy Midshipmen 3rd Class Carter Breen, an Ohio native, prepares a SkydioX2D small Unmanned Aircraft System for flight during a Marine Corps Combat Readiness Evaluation on Marine Corps Base Camp Lejeune, North Carolina, Oct. 20, 2025. Marines and Sailors with 2nd Marine Regiment, 2nd Marine Division conducted the MCCRE in order to demonstrate combat proficiency through the combined use of modern infantry tactics and technology, ensuring readiness for any future conflict or operation. (U.S. Marine Corps photo by Lance Cpl. Preston Morris)\" src=\"https://media.defense.gov/2025/Dec/02/2003834334/115/75/0/251020-M-XP201-1082.JPG\" /> <br />"
+  },
+  {
     "source": "The Auditor",
     "title": "Your Management Review Has Data, But Does It Have Insight?",
     "link": "https://www.theauditoronline.com/your-management-review-has-data-but-does-it-have-insight/",
@@ -474,6 +495,20 @@
     "link": "https://rss.com/podcasts/yourleonation/2339761",
     "published": "2025-11-21T13:30:14Z",
     "summary": "<p>Unveiling New York's Political Shift: Sam Faddis On Radical Changes In this episode of Your LEO Nation, chief Mark Garrett speaks with Sam Faddis, a retired CIA Field Operations Officer, about the recent election in New York City. They discuss the implications of the new mayor's administration on law enforcement and the rule of law. Key topics include the incoming Chief of Staff's radical views, the goals of the Democratic Socialists of America (DSA), and the potential for revolutionary changes in policing policies. Is the future of New York City in jeopardy? How will these changes affect the everyday New Yorker?</p><p></p><p>Check out Sam's Substack here: <a href=\"https://andmagazine.substack.com/p/the-peoples-republic-of-new-york?utm_campaign=email-post&amp;r=6tmnf1&amp;utm_source=substack&amp;utm_medium=email\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">https://andmagazine.substack.com/p/the-peoples-republic-of-new-york?utm_campaign=email-post&amp;r=6tmnf1&amp;utm_source=substack&amp;utm_medium=email</a></p>"
+  },
+  {
+    "source": "The Official United States Marine Corps Public Website News",
+    "title": "Blue-green integration: MWSS-372 fuels the joint force at NAWDC 25.3",
+    "link": "https://www.marines.mil/News/News-Display/Article/4345516/blue-green-integration-mwss-372-fuels-the-joint-force-at-nawdc-253/",
+    "published": "2025-11-21T00:56:00Z",
+    "summary": "In a testament to joint force readiness and integration, U.S. Marines with Marine Wing Support Squadron 372, Marine Air Control Group 38, 3rd Marine Aircraft Wing, and U.S. Sailors with the Naval Aviation Warfighting Development Center (NAWDC), joined forces during NAWDC 25.3 Oct. 27-31, 2025, across multiple training sites at Marine Corps Base Camp Pendleton. The five-day exercise highlighted how combined naval and Marine aviation capabilities enhance the joint force’s ability to project power, sustain sorties, and expand operational reach in contested environments. <br /> \n<img alt=\"U.S. Marines and Sailors offload supplies from a CMV-22B Osprey assigned to Fleet Logistics Multi-Mission Squadron (VRM) 40 at Red Beach Combat Town, Marine Corps Base Camp Pendleton, California, Oct. 27, 2025.\" src=\"https://media.defense.gov/2025/Dec/01/2003833268/115/75/0/251028-M-WW713-5577.JPG\" /> <br />"
+  },
+  {
+    "source": "The Official United States Marine Corps Public Website News",
+    "title": "MCB Camp Lejeune, MCAS New River host First and Second Ladies of the United States",
+    "link": "https://www.marines.mil/News/News-Display/Article/4341437/mcb-camp-lejeune-mcas-new-river-host-first-and-second-ladies-of-the-united-stat/",
+    "published": "2025-11-20T00:50:00Z",
+    "summary": "In a mutual demonstration of support and appreciation, First Lady of the United States, Melania<br />"
   },
   {
     "source": "FlashReport",
@@ -663,40 +698,5 @@
     "link": "https://calcommanders.org/abc7-california-retired-veterans-and-families-to-benefit-from-new-military-pension-tax-exemption/",
     "published": "2025-10-02T17:22:35Z",
     "summary": "REDLANDS, Calif. (KABC) &#8212; Veterans have served and sacrificed for our nation, and on Tuesday, the state of California announced a new law to help them in retirement. That law will exempt part of their military pensions from state income tax. At American Legion Post 106 in Redlands, Assemblymember James Ramos (D-San Bernardino) stood before retired [&#8230;]"
-  },
-  {
-    "source": "California State Commanders Veterans Council",
-    "title": "PRESS RELEASE: Senate Judiciary Kicks Can Down the Road on Protecting Veterans from Claim Sharks",
-    "link": "https://calcommanders.org/press-release-senate-judiciary-kicks-can-down-the-road-on-protecting-veterans-from-claim-sharks/",
-    "published": "2025-09-09T19:26:30Z",
-    "summary": "For Immediate Release 9/9/25 Contact: Meghan Callahan, mc@callahanpa.com Today, California’s Senate Judiciary Committee chose to kick the can down the road and delay enacting needed protections for veterans from claim sharks. Rather than voting up or down on SB 694, they voted to send the bill to rules where the bill’s fate is uncertain.  SB [&#8230;]"
-  },
-  {
-    "source": "California Democratic Party",
-    "title": "California Democratic Party Expands “California Strong” Leadership Team with New Organizing and Communications Directors",
-    "link": "https://cadem.org/california-democratic-party-expands-california-strong-leadership-team-with-new-organizing-and-communications-directors/",
-    "published": "2025-09-02T19:28:13Z",
-    "summary": "<p>SACRAMENTO, CA&#160;— The California Democratic Party (CADEM) today announced the addition of two top strategists to its senior staff as Democrats gear up for a special election in November 2025 and pivotal midterm Congressional elections in 2026, including: Helen Amelga as Organizing and Training Director, and Emma Lenz as Communications Director. CADEM is expanding its [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-expands-california-strong-leadership-team-with-new-organizing-and-communications-directors/\">California Democratic Party Expands “California Strong” Leadership Team with New Organizing and Communications Directors</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA SB70",
-    "link": "https://legiscan.com/CA/bill/SB70/2025?utm_campaign=rss&guid=4wZy47IgbUS0QbEt5CZiC8",
-    "published": "2025-08-29T04:00:00Z",
-    "summary": "An act to amend Sections 14838.5 and 14838.64 of the Government Code, relating to public contracts.<br />\n<br />\n2025/08/29 August 29 hearing: Held in committee and under submission."
-  },
-  {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA SB781",
-    "link": "https://legiscan.com/CA/bill/SB781/2025?utm_campaign=rss&guid=35f1xUDDvkssvpk4ab8Tzr",
-    "published": "2025-08-29T04:00:00Z",
-    "summary": "An act to amend Sections 12098.3 and 12100.63 of the Government Code, and to add Chapter 2.7 (commencing with Section 22060) to Part 3 of Division 2 of the Public Contract Code, relating to small business.<br />\n<br />\n2025/08/29 August 29 hearing: Held in committee and under submission."
-  },
-  {
-    "source": "California Democratic Party",
-    "title": "CADEM Votes to Endorse Prop 50, The Election Rigging Response Act",
-    "link": "https://cadem.org/cadem-votes-to-endorse-the-election-rigging-response-act/",
-    "published": "2025-08-23T20:50:51Z",
-    "summary": "<p>California Democrats Unite to Defend Democracy, Counter Trump’s Power Grab SACRAMENTO – Today, the California Democratic Party (CADEM) voted to officially endorse the Election Rigging Response Act, Governor Gavin Newsom and California Democrats proposed statewide ballot measure designed to counter efforts by President Donald Trump and Texas Republicans to rig the 2026 election. Trump and [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/cadem-votes-to-endorse-the-election-rigging-response-act/\">CADEM Votes to Endorse Prop 50, The Election Rigging Response Act</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
   }
 ]
