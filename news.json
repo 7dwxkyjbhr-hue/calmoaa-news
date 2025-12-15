@@ -1,24 +1,73 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2025-12-15T06:59:39Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2025-12-15T06:59:39Z",
+    "published": "2025-12-15T13:53:07Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2025-12-15T06:59:39Z",
+    "published": "2025-12-15T13:53:07Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2025-12-15T13:53:06Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "CalMatters",
+    "title": "New federal law harms families who rely on CalFresh to put food on the table",
+    "link": "https://calmatters.org/commentary/2025/12/calfresh-federal-law-california-families/",
+    "published": "2025-12-15T13:30:00Z",
+    "summary": "<figure><img alt=\"A person wraps bags of potatoes placed in card boxes while surrounded by other people doing the same.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/12/10302025_LA-Food-Bank-SNAP_JWH_CM_07.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Guest Commentary written by Hannah Mudgett Hannah Mudgett is a student at University of California, Berkeley, pursuing a master&#8217;s in public health Every day more than 5 million Californians rely on the Supplemental Nutrition Assistance Program (SNAP), known here as CalFresh, to keep food on the table. It is our state’s largest anti-hunger program.  Yet [&#8230;]"
+  },
+  {
+    "source": "CalMatters",
+    "title": "Prison health workers are among the best-paid public employees. Why are so many jobs vacant?",
+    "link": "https://calmatters.org/health/2025/12/prison-health-jobs-vacant-state-audit/",
+    "published": "2025-12-15T13:05:00Z",
+    "summary": "<figure><img alt=\"Patients at the Central Coast’s Atascadero State Hospital walk the halls in 2006. Due to COVID, patients have at times been confined to their units, but still mingle in bathrooms, the dining hall and common day rooms. Of the state’s psychiatric hospitals, Atascadero houses the largest number of mentally ill inmates from state prisons. Photo by Peggy Peattie, ZUMA Press, Inc. / Alamy Stock Photo\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"696\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2020/11/Alamy_Atascadero_2006_01.jpg?fit=1024%2C696&amp;ssl=1\" width=\"1024\" /></figure>California spent hundreds of millions on prison and hospital healthcare staff, auditors found, but vacancy rates rose since 2019, exceeding 30% at three facilities despite bonuses and pay raises, with inadequate oversight and planning."
+  },
+  {
+    "source": "Task & Purpose",
+    "title": "Why (and how) the US military wants to resupply troops from space",
+    "link": "https://taskandpurpose.com/tech-tactics/us-military-rocket-cargo-space/",
+    "published": "2025-12-15T13:00:00Z",
+    "summary": "<p>Rapid delivery could be a game-changer, albeit a pricey one.</p>\n<p>The post <a href=\"https://taskandpurpose.com/tech-tactics/us-military-rocket-cargo-space/\">Why (and how) the US military wants to resupply troops from space</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+  },
+  {
+    "source": "California Globe",
+    "title": "John Moorlach: If I Were Governor, Here are Ten Ideas I’d Pursue to save California",
+    "link": "https://californiaglobe.com/fr/john-moorlach-if-i-were-governor-here-are-ten-ideas-id-pursue-to-save-california/",
+    "published": "2025-12-15T11:30:41Z",
+    "summary": "Let’s hope the next Governor can accomplish just one of these priorities in righting the fiscal ship of state"
+  },
+  {
+    "source": "California Globe",
+    "title": "California State Auditor: Governor Newsom and 8 Agencies Named ‘High-Risk’",
+    "link": "https://californiaglobe.com/fl/california-state-auditor-governor-newsom-and-8-agencies-named-high-risk/",
+    "published": "2025-12-15T10:55:15Z",
+    "summary": "The federal government provided California with $285 billion in federal COVID‑19 funds over two years"
+  },
+  {
+    "source": "California Globe",
+    "title": "Partition of Property in California",
+    "link": "https://californiaglobe.com/articles/partition-of-property-in-california/",
+    "published": "2025-12-15T10:30:07Z",
+    "summary": "Authorizes the court to issue temporary restraining orders and injunctions"
+  },
+  {
+    "source": "CalMatters",
+    "title": "EDD racked up $4.6m in fees for cell phones nobody used",
+    "link": "https://calmatters.org/newsletter/edd-cell-phones/",
+    "published": "2025-12-15T05:30:00Z",
+    "summary": "I’m CalMatters investigative editor Andrew Donohue, and I’m subbing for Lynn today. The state Employment Development Department acquired 7,224 cellphones and wireless hotspots in the pandemic so call center employees could work from home.&#160; Then it forgot to cancel them once nobody was using them.&#160; As CalMatters editor Adam Ashton reports, that’s how the agency [&#8230;]"
   },
   {
     "source": "The Auditor",
@@ -112,32 +161,11 @@
     "summary": "We all know the cost of someone breaking the law. That is not the issue. The question is what is the cost of the legal system not enforcing the law? In the current climate, some people have the belief that the criminal justice system is not working well for the perpetrators. Thus, they should be [&#8230;]"
   },
   {
-    "source": "California Globe",
-    "title": "Enforcement of Judgments in California",
-    "link": "https://californiaglobe.com/articles/enforcement-of-judgments-in-california/",
-    "published": "2025-12-13T22:00:35Z",
-    "summary": "Provides that a judgment is enforceable"
-  },
-  {
-    "source": "California Globe",
-    "title": "Dear President Trump, Dear America",
-    "link": "https://californiaglobe.com/fl/dear-president-trump-dear-america/",
-    "published": "2025-12-13T18:14:33Z",
-    "summary": "Ending the filibuster, securing election integrity, and empowering U.S. Attorneys and judges to uphold the rule of law are not optional—they are existential"
-  },
-  {
     "source": "Task & Purpose",
     "title": "Air Force relieves security squadron commander at FE Warren",
     "link": "https://taskandpurpose.com/news/fe-warren-security-commander-relieved-air-force/",
     "published": "2025-12-13T18:10:48Z",
     "summary": "<p>Lt. Col. Tyler Hiatt was removed from the 90th Missile Security Forces Squadron following disagreements with his commander and several deaths involving members of the unit.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/fe-warren-security-commander-relieved-air-force/\">Air Force relieves security squadron commander at FE Warren</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
-    "source": "Task & Purpose",
-    "title": "Two US soldiers killed in ambush in Syria",
-    "link": "https://taskandpurpose.com/news/two-us-soldiers-killed-syria/",
-    "published": "2025-12-13T17:10:54Z",
-    "summary": "<p>An ISIS gunman attacked an American delegation in Palmyra, Syria, killing the soldiers and an American interpreter and leaving more injured.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/two-us-soldiers-killed-syria/\">Two US soldiers killed in ambush in Syria</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
     "source": "California Political Review",
@@ -159,13 +187,6 @@
     "link": "https://americanmilitarynews.com/2025/12/man-diagnosed-with-deadly-lung-disease-linked-to-stone-countertop/",
     "published": "2025-12-13T14:37:32Z",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"508\" src=\"https://americanmilitarynews.com/wp-content/uploads/Stethoscope-768x508.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />The Massachusetts Department of Public Health issued a safety alert on Tuesday and confirmed that the state recorded its first case of silicosis, an &#8220;incurable lung disease&#8221; that can lead to death, linked to exposure from stone countertops. In a Tuesday press release, the Massachusetts Department of Public Health announced that it issued a safety &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2025/12/man-diagnosed-with-deadly-lung-disease-linked-to-stone-countertop/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
-  },
-  {
-    "source": "California Globe",
-    "title": "General Provisions Related to Family Law Support",
-    "link": "https://californiaglobe.com/articles/general-provisions-related-to-family-law-support/",
-    "published": "2025-12-13T10:30:34Z",
-    "summary": "Allows an appeal to be taken from an order or judgment under this division"
   },
   {
     "source": "CalMatters",
@@ -194,27 +215,6 @@
     "link": "https://calmatters.org/newsletter/h1b-visa-fee-public-schools/",
     "published": "2025-12-12T14:00:00Z",
     "summary": "<figure><img alt=\"A person wearing a sweatsuit and sneakers is sitting on a set of bleachers in a dark gym, with light coming from one side of the room, creating a silhouette of the person and darkening their face to protect their identity.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/12/110725_Teacher-H1B-Visa_MO_22.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Since September, American employers have been required to pay a $100,000 sponsorship fee for new H-1B visas, one of several policy shifts under President Donald Trump to restrict who gets to come in and out of the country. But while much attention has been paid to what this means for applicants in California’s tech industry, [&#8230;]"
-  },
-  {
-    "source": "CalMatters",
-    "title": "How an accessory dwelling could turn into a 20-story tower in Berkeley",
-    "link": "https://calmatters.org/commentary/2025/12/berkeley-student-housing-tower-development/",
-    "published": "2025-12-12T13:30:00Z",
-    "summary": "<figure><img alt=\"A close-up view of a construction worker using a nail gun on a wooden-framed structure.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2024/11/081623_Berkeley-Student-Housing_SN_CM_29.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Berkeley’s experience shows change is possible when local and state reforms align, and when communities let go of their fears about growth."
-  },
-  {
-    "source": "CalMatters",
-    "title": "Some Newsom detractors make up stuff, though there’s fodder for legitimate criticism",
-    "link": "https://calmatters.org/commentary/2025/12/gavin-newsom-detractors-for-president/",
-    "published": "2025-12-12T13:30:00Z",
-    "summary": "<figure><img alt=\"A person wearing a blue suit stands in front of two American flags while as they look straight off into the distance during a press conference.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/08/082125_Redistricting-Newsom_MG_CM_07.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>As California's governor prepares for an expected run for the presidency, a chorus of right-wing criticism is growing. Some of it isn't true."
-  },
-  {
-    "source": "CalMatters",
-    "title": "California schools that need foreign workers for teacher jobs can’t afford Trump’s new visa fee",
-    "link": "https://calmatters.org/education/2025/12/teaching-jobs-california-foreign-worker-visa/",
-    "published": "2025-12-12T05:30:00Z",
-    "summary": "<figure><img alt=\"A person is sitting inside a gym room that is darkly lit with a ray of light landing on the back of the person sitting. The person is facing away from the frame with his back lit up by light from the sun shining through the gym, with the word “Columbia” written on the back of a black sweatshirt.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/12/110725_Teacher-H1B-Visa_MO_02.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The Trump administration is now requiring new H-1B visa applicants to pay $100,000. School districts that depend on hiring foreign workers to fill teacher jobs, especially in special education and bilingual education, say they can’t afford the new fee."
   },
   {
     "source": "The Official United States Marine Corps Public Website News",
