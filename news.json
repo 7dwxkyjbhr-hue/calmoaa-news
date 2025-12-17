@@ -1,24 +1,73 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2025-12-17T06:57:58Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2025-12-17T06:57:58Z",
+    "published": "2025-12-17T13:45:25Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2025-12-17T06:57:58Z",
+    "published": "2025-12-17T13:45:25Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2025-12-17T13:45:24Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "CalMatters",
+    "title": "The WalMart of public defense: How justice gets sold to the lowest bidder in rural California",
+    "link": "https://calmatters.org/investigation/2025/12/the-walmart-of-public-defense/",
+    "published": "2025-12-17T13:30:00Z",
+    "summary": "<figure><img alt=\"A collage-style illustration, in blue and yellow tones, that shows a gray statue statue of lady justice holding scales with a large yellow sticker on it that says &quot;sale!&quot;\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/12/Public-Defenders_AH_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Flat-fee contracts have been banned in other parts of the country. But, as the story of one law firm shows, they have flourished in the Golden State."
+  },
+  {
+    "source": "CalMatters",
+    "title": "‘False hope’: Why families who celebrated California’s new mental health court feel let down by it",
+    "link": "https://calmatters.org/health/mental-health/2025/12/care-court-families/",
+    "published": "2025-12-17T13:10:00Z",
+    "summary": "<figure><img alt=\"A person sits indoors, seen through a window with soft reflections of trees and foliage overlaying the glass, looking slightly downward with a quiet, contemplative expression as warm autumn colors fill the background.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/12/102724-Ronda-DePlazes-FM-CM-04.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Californians with loved ones in the throes of severe mental illness embraced Gov. Newsom's CARE Court and helped him sign it into law. Two years later, some of them say little has changed."
+  },
+  {
+    "source": "CalMatters",
+    "title": "How Gavin Newsom’s CARE Court lost its teeth in the California Legislature",
+    "link": "https://calmatters.org/health/mental-health/2025/12/care-court-what-happened-in-legislature/",
+    "published": "2025-12-17T13:05:00Z",
+    "summary": "<figure><img alt=\"A government official speaks at a podium with a sign reading “Treatment Not Tents,” flanked by two other officials, with U.S. and California flags visible behind them.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/12/032124-Newsom-Prop-1-GETTY-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Gov. Newsom called for accountability on mental health and homelessness when he proposed his CARE Court program. What became law, however, pleased almost no one."
+  },
+  {
+    "source": "California Globe",
+    "title": "California’s Latest Ploy to Install a Public-Private System of Vaccine Coercion and Medical Surveillance",
+    "link": "https://californiaglobe.com/fr/californias-latest-ploy-to-install-a-public-private-system-of-vaccine-coercion-and-medical-surveillance/",
+    "published": "2025-12-17T10:55:18Z",
+    "summary": "Californians may soon find themselves subject to vaccination policies and enforcement mechanisms"
+  },
+  {
+    "source": "California Globe",
+    "title": "Procedures for Adult Adoptions",
+    "link": "https://californiaglobe.com/articles/procedures-for-adult-adoptions/",
+    "published": "2025-12-17T10:30:01Z",
+    "summary": "A person who is a resident of this state may file a petition for adult adoption with the court in any of the three specified counties"
+  },
+  {
+    "source": "CalMatters",
+    "title": "As oil and gas companies pivot to plastic, California neighborhoods become sacrifice zones again",
+    "link": "https://calmatters.org/commentary/2025/12/oil-gas-plastic-california-neighborhoods/",
+    "published": "2025-12-17T05:30:00Z",
+    "summary": "<figure><img alt=\"Plastic waste in a recycling bin at a home in Sacramento on June 30, 2022. Photo by Miguel Gutierrez Jr., CalMatters\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2022/06/063022-Plastic-Waste-Recycling-MG-CM-03.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>As oil and gas companies pivot to plastic, certain California neighborhoods become unhealthy sacrifice zones again."
+  },
+  {
+    "source": "CalMatters",
+    "title": "The U.S. is committed to cleaning up Tijuana River pollution. Will California follow through?",
+    "link": "https://calmatters.org/environment/2025/12/trump-administration-tijuana-river-pollution/",
+    "published": "2025-12-17T05:30:00Z",
+    "summary": "<figure><img alt=\"A yellow and red warning sign about sewage and chemical contamination is posted along the shore of a beach. A pier can be seen in the background as the sun begins to set.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/12/112125_Paloma-Aguirre_AH_CM_35.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>San Diego leaders are calling on California  to take stronger action to address the ongoing environmental crisis caused by sewage and industrial pollution flowing from the Tijuana River."
   },
   {
     "source": "California Globe",
@@ -49,20 +98,6 @@
     "summary": "<p>All medical shaving waivers issued to airmen and Space Force guardians before March 1 will be invalid as of Jan. 31, 2026</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/air-force-shaving-waivers/\">Medical shaving waivers will be invalid under Air Force grooming policy</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "California Globe",
-    "title": "EPA Announces New Agreement Between US and Mexico To End The Tijuana River Sewage Crisis",
-    "link": "https://californiaglobe.com/fr/epa-announces-new-agreement-between-us-and-mexico-to-end-the-tijuana-river-sewage-crisis/",
-    "published": "2025-12-16T20:33:51Z",
-    "summary": "Minute 333 outlines a list of new actions to end the decades-long &#8216;environmental catastrophe&#8217;"
-  },
-  {
-    "source": "CalMatters",
-    "title": "Republicans ask federal court to overturn California’s new Prop. 50 maps",
-    "link": "https://calmatters.org/politics/2025/12/proposition-50-republican-lawsuit-hearing/",
-    "published": "2025-12-16T20:06:43Z",
-    "summary": "<figure><img alt=\"A red, white, and blue sign reading “No on 50: Defend Fair Elections” sits on a table beside jars filled with pistachios and a small display about California’s political priorities. The background shows blurred lights and a screen displaying a broadcast.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/10/092525-Redistricting-Day-2-LV-CM-30.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Republicans and the Trump administration are hoping a panel of federal judges in Los Angeles will halt the new Prop. 50 maps from taking effect. But given the Supreme Court’s recent ruling greenlighting Texas’s redrawn maps, their odds are long."
-  },
-  {
     "source": "Task & Purpose",
     "title": "Privatizing galleys is an ‘open question,’ says Navy’s top enlisted leader",
     "link": "https://taskandpurpose.com/news/navy-galleys-privatized/",
@@ -75,13 +110,6 @@
     "link": "https://cv4a.org/news-media/cva-urges-house-to-pass-speed-act/",
     "published": "2025-12-16T19:58:21Z",
     "summary": "<p>ARLINGTON, Va. &#8213; This week, the U.S. House of Representatives is expected to consider H.R. 4776, the SPEED Act, alongside other permitting reform legislation. Concerned Veterans for America (CVA) is urging lawmakers to prioritize passage of the SPEED Act to speed up critical infrastructure development and strengthen America’s energy security. “Unnecessary federal permitting delays continue [&#8230;]</p>\n<p>The post <a href=\"https://cv4a.org/news-media/cva-urges-house-to-pass-speed-act/\">CVA Urges House to Pass SPEED Act to Strengthen U.S. Energy Security</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
-  },
-  {
-    "source": "California Globe",
-    "title": "Poll Reveals Democratic Strengths in California, But…",
-    "link": "https://californiaglobe.com/fr/poll-reveals-democratic-strengths-in-california-but/",
-    "published": "2025-12-16T19:00:27Z",
-    "summary": "An opening for candidates who want to take the state in a different direction"
   },
   {
     "source": "American Military News",
@@ -133,39 +161,11 @@
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://americanmilitarynews.com/wp-content/uploads/Tump-Is-768x512.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />President Donald Trump praised Ahmed al Ahmed, the Australian civilian immigrant who &#8220;frontally attacked&#8221; and disarmed one of the terrorists responsible for killing 15 victims and wounding 40 others at Bondi Beach in Sydney, Australia, on Sunday. Addressing the antisemitic terrorist attack in Australia on Sunday, Trump described Ahmed as a &#8220;very, very brave person,&#8221; &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2025/12/videos-trump-praises-civilian-hero-who-disarmed-terrorist-in-australia/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
   },
   {
-    "source": "CalMatters",
-    "title": "CA hires former CDC officials to lead new public health org",
-    "link": "https://calmatters.org/newsletter/newsom-cdc-monarez-houry/",
-    "published": "2025-12-16T14:00:00Z",
-    "summary": "<figure><img alt=\"A medical personnel member places a blood pressure cuff on a person&#039;s arm while the person faces away. In the background, a mobile medical unit is inside an equipment barn on a farm. Another medical personnel member is watching as the other puts on the meter.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/11/061625-Farm-Visit-Rural-Mobile-Health-LV-25.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>From CalMatters health reporter Kristen Hwang: Gov. Gavin Newsom has tapped two prominent former U.S. Centers for Disease Control and Prevention officials with jumpstarting a new public health initiative — though details of what precisely the initiative will accomplish in the coming months are sparse. Former CDC Director Dr. Susan Monarez and former chief medical [&#8230;]"
-  },
-  {
-    "source": "CalMatters",
-    "title": "Biomass is a money pit that won’t solve California’s energy or wildfire problems",
-    "link": "https://calmatters.org/commentary/2025/12/biomass-california-energy-wildfire-problems/",
-    "published": "2025-12-16T13:30:00Z",
-    "summary": "<figure><img alt=\"A view of a wooden pole with power lines on a clear blue sky. A lit up lamp outside a home can be seen in the foreground.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/01/092022_Power-Lines_RL_CM_13.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Utilities customers help pay for biomass because electric utilities buy its products to produce electricity, paying four times more. Is it worth it?"
-  },
-  {
     "source": "Task & Purpose",
     "title": "The Army once considered a nuclear-powered tank built by Chrysler",
     "link": "https://taskandpurpose.com/history/army-1950s-nuclear-tank/",
     "published": "2025-12-16T13:28:12Z",
     "summary": "<p>The Chrysler TV-8 was meant to be an amphibious, futuristic armored vehicle capable of fighting in — and powered by — the Atomic Age.</p>\n<p>The post <a href=\"https://taskandpurpose.com/history/army-1950s-nuclear-tank/\">The Army once considered a nuclear-powered tank built by Chrysler</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
-    "source": "CalMatters",
-    "title": "As job market tightens, more Californians are heading back to college",
-    "link": "https://calmatters.org/education/higher-education/2025/12/california-community-college-enrollment-3/",
-    "published": "2025-12-16T05:30:00Z",
-    "summary": "<figure><img alt=\"A student, wearing a black and red cap and gown, smiles and looks towards the audience section of a graduation ceremony as they walk alongside other graduates.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/10/052424_Southwestern-College-Graduation_AH_CM_14.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Some community college districts in California say enrollment is up by more than 10%, though official numbers have yet to be released. Historically, college enrollment fluctuates depending on the strength of the economy."
-  },
-  {
-    "source": "CalMatters",
-    "title": "California’s freeways are fueling its housing crisis",
-    "link": "https://calmatters.org/commentary/2025/12/california-freeways-fueling-housing-crisis/",
-    "published": "2025-12-16T05:30:00Z",
-    "summary": "<figure><img alt=\"The I-980 freeway in Oakland on Feb. 24, 2023. Photo by Martin do Nascimento, CalMatters\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2022/06/022423-OAKLAND-I-980-MHN-02-CM.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Guest Commentary written by Yesenia Perez Yesenia Perez is senior program manager for climate equity at the Greenlining Institute Hana Creger Hana Creger is associate director of climate equity at the Greenlining Institute Freeway expansion isn’t just a transportation issue; it’s one of the most overlooked drivers of California’s housing crisis.&#160; It didn’t arrive as [&#8230;]"
   },
   {
     "source": "American Military News",
@@ -257,13 +257,6 @@
     "link": "https://capoliticalreview.com/2025/12/14/newsom-and-team-go-lower-than-squid-poop-on-the-bottom-of-the-ocean/",
     "published": "2025-12-14T15:30:00Z",
     "summary": "<p>Newsom’s flip on trans kids is just more of Gavin attempting to reinvent Gavin History will not be kind to Gavin Newsom. But it will be accurate. Click Here to Subscribe to the California Political Review This week, Gavin flipped on the trans kids position he took in his first podcast with Charlie Kirk.&#160;On his&#160;podcast&#160;last [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2025/12/14/newsom-and-team-go-lower-than-squid-poop-on-the-bottom-of-the-ocean/\">Read More and Comment: Newsom and Team Go Lower than Squid Poop on the Bottom of the Ocean</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2025/12/14/newsom-and-team-go-lower-than-squid-poop-on-the-bottom-of-the-ocean/\">Newsom and Team Go Lower than Squid Poop on the Bottom of the Ocean</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "FlashReport",
-    "title": "The Cost of Lawlessness",
-    "link": "https://www.flashreport.org/blog/2025/12/14/the-cost-of-lawlessness/",
-    "published": "2025-12-14T10:00:00Z",
-    "summary": "We all know the cost of someone breaking the law. That is not the issue. The question is what is the cost of the legal system not enforcing the law? In the current climate, some people have the belief that the criminal justice system is not working well for the perpetrators. Thus, they should be [&#8230;]"
   },
   {
     "source": "The Official United States Marine Corps Public Website News",
@@ -420,13 +413,6 @@
     "summary": "<p>By Jackie Stapleton Recently, I was on a Zoom with a group of consultants organized by CertBetter. They host a monthly session to talk about all things related to ISO consulting and industry updates. The hot topic this week was ISO 42001:2023—the new AI management system standard. I’ve seen it mentioned online, and of course, we’ve [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/why-should-i-care-about-iso-42001/\">I’m an ISO Auditor, So Why Should I Care About ISO 42001?</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
-    "source": "FlashReport",
-    "title": "The Luckiest Person in America",
-    "link": "https://www.flashreport.org/blog/2025/12/07/the-luckiest-person-in-america/",
-    "published": "2025-12-07T10:00:00Z",
-    "summary": "You might be thinking it is someone who won a huge financial windfall. Or someone who survived a catastrophic accident with barely a scratch. Or a mother who had her child reunited with her after years of separation because of being kidnapped. No, the luckiest person in America is none of those things. This person [&#8230;]"
-  },
-  {
     "source": "Your Leo Nation",
     "title": "Exposing the Massive Fraud & Political Corruption in Minnesota and California",
     "link": "https://rss.com/podcasts/yourleonation/2372375",
@@ -490,20 +476,6 @@
     "summary": "<p><img alt=\"photo - Passengers Pushing Luggage Carts in Airport Terminal\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2025/11/passengers-pushing-luggage-carts-in-airport-terminal.jpg\" width=\"2000\" /></p>Federal policies on immigration may end up altering California’s population and workforce for years to come. A new policy brief examines the economic and demographic importance of immigrants in the Golden State and Californians’ views toward immigrants and immigration policy."
   },
   {
-    "source": "FlashReport",
-    "title": "No More Apartments for Rent",
-    "link": "https://www.flashreport.org/blog/2025/11/30/no-more-apartments-for-rent/",
-    "published": "2025-11-30T10:00:00Z",
-    "summary": "A candidate who ran for mayor of the largest city in America told residents he was going to freeze rents. This is in a city where landlords had already pulled more than 50,000 apartments off the market because it did not make economic sense to rent them. New York isn’t the only place that has [&#8230;]"
-  },
-  {
-    "source": "FlashReport",
-    "title": "Why Do You Want the Nobel Peace Prize Anyway?",
-    "link": "https://www.flashreport.org/blog/2025/11/23/why-do-you-want-the-nobel-peace-prize-anyway/",
-    "published": "2025-11-23T10:00:00Z",
-    "summary": "There is a lot of recent chatter about the Nobel Peace Prize. It strikes me as something that makes no sense for anyone to pursue. Especially anyone who is not distinctly liberal or leftist. Let me explain why. First you need to understand more about the prize itself. The Peace Prize, established in 1901, is [&#8230;]"
-  },
-  {
     "source": "Your Leo Nation",
     "title": "Red Alert: NYC's Radical Leftist Takeover",
     "link": "https://rss.com/podcasts/yourleonation/2339761",
@@ -516,13 +488,6 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4345516/blue-green-integration-mwss-372-fuels-the-joint-force-at-nawdc-253/",
     "published": "2025-11-21T00:56:00Z",
     "summary": "In a testament to joint force readiness and integration, U.S. Marines with Marine Wing Support Squadron 372, Marine Air Control Group 38, 3rd Marine Aircraft Wing, and U.S. Sailors with the Naval Aviation Warfighting Development Center (NAWDC), joined forces during NAWDC 25.3 Oct. 27-31, 2025, across multiple training sites at Marine Corps Base Camp Pendleton. The five-day exercise highlighted how combined naval and Marine aviation capabilities enhance the joint force’s ability to project power, sustain sorties, and expand operational reach in contested environments. <br /> \n<img alt=\"U.S. Marines and Sailors offload supplies from a CMV-22B Osprey assigned to Fleet Logistics Multi-Mission Squadron (VRM) 40 at Red Beach Combat Town, Marine Corps Base Camp Pendleton, California, Oct. 27, 2025.\" src=\"https://media.defense.gov/2025/Dec/01/2003833268/115/75/0/251028-M-WW713-5577.JPG\" /> <br />"
-  },
-  {
-    "source": "FlashReport",
-    "title": "Shocking News:  People in Blue States Vote for Democrats",
-    "link": "https://www.flashreport.org/blog/2025/11/16/shocking-news-people-in-blue-states-vote-for-democrats/",
-    "published": "2025-11-16T10:00:00Z",
-    "summary": "It is always better when you sit back for a while after a big event like the elections on November 4th before absorbing the aftermath. It is fun to read “sophisticated” political analysts give their instant dissection of what has occurred and then they tell us what the future holds as they bring out their [&#8230;]"
   },
   {
     "source": "Your Leo Nation",
@@ -698,5 +663,40 @@
     "link": "https://calcommanders.org/abc7-california-retired-veterans-and-families-to-benefit-from-new-military-pension-tax-exemption/",
     "published": "2025-10-02T17:22:35Z",
     "summary": "REDLANDS, Calif. (KABC) &#8212; Veterans have served and sacrificed for our nation, and on Tuesday, the state of California announced a new law to help them in retirement. That law will exempt part of their military pensions from state income tax. At American Legion Post 106 in Redlands, Assemblymember James Ramos (D-San Bernardino) stood before retired [&#8230;]"
+  },
+  {
+    "source": "California State Commanders Veterans Council",
+    "title": "PRESS RELEASE: Senate Judiciary Kicks Can Down the Road on Protecting Veterans from Claim Sharks",
+    "link": "https://calcommanders.org/press-release-senate-judiciary-kicks-can-down-the-road-on-protecting-veterans-from-claim-sharks/",
+    "published": "2025-09-09T19:26:30Z",
+    "summary": "For Immediate Release 9/9/25 Contact: Meghan Callahan, mc@callahanpa.com Today, California’s Senate Judiciary Committee chose to kick the can down the road and delay enacting needed protections for veterans from claim sharks. Rather than voting up or down on SB 694, they voted to send the bill to rules where the bill’s fate is uncertain.  SB [&#8230;]"
+  },
+  {
+    "source": "California Democratic Party",
+    "title": "California Democratic Party Expands “California Strong” Leadership Team with New Organizing and Communications Directors",
+    "link": "https://cadem.org/california-democratic-party-expands-california-strong-leadership-team-with-new-organizing-and-communications-directors/",
+    "published": "2025-09-02T19:28:13Z",
+    "summary": "<p>SACRAMENTO, CA&#160;— The California Democratic Party (CADEM) today announced the addition of two top strategists to its senior staff as Democrats gear up for a special election in November 2025 and pivotal midterm Congressional elections in 2026, including: Helen Amelga as Organizing and Training Director, and Emma Lenz as Communications Director. CADEM is expanding its [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-expands-california-strong-leadership-team-with-new-organizing-and-communications-directors/\">California Democratic Party Expands “California Strong” Leadership Team with New Organizing and Communications Directors</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA SB70",
+    "link": "https://legiscan.com/CA/bill/SB70/2025?utm_campaign=rss&guid=4wZy47IgbUS0QbEt5CZiC8",
+    "published": "2025-08-29T04:00:00Z",
+    "summary": "An act to amend Sections 14838.5 and 14838.64 of the Government Code, relating to public contracts.<br />\n<br />\n2025/08/29 August 29 hearing: Held in committee and under submission."
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA SB781",
+    "link": "https://legiscan.com/CA/bill/SB781/2025?utm_campaign=rss&guid=35f1xUDDvkssvpk4ab8Tzr",
+    "published": "2025-08-29T04:00:00Z",
+    "summary": "An act to amend Sections 12098.3 and 12100.63 of the Government Code, and to add Chapter 2.7 (commencing with Section 22060) to Part 3 of Division 2 of the Public Contract Code, relating to small business.<br />\n<br />\n2025/08/29 August 29 hearing: Held in committee and under submission."
+  },
+  {
+    "source": "California Democratic Party",
+    "title": "CADEM Votes to Endorse Prop 50, The Election Rigging Response Act",
+    "link": "https://cadem.org/cadem-votes-to-endorse-the-election-rigging-response-act/",
+    "published": "2025-08-23T20:50:51Z",
+    "summary": "<p>California Democrats Unite to Defend Democracy, Counter Trump’s Power Grab SACRAMENTO – Today, the California Democratic Party (CADEM) voted to officially endorse the Election Rigging Response Act, Governor Gavin Newsom and California Democrats proposed statewide ballot measure designed to counter efforts by President Donald Trump and Texas Republicans to rig the 2026 election. Trump and [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/cadem-votes-to-endorse-the-election-rigging-response-act/\">CADEM Votes to Endorse Prop 50, The Election Rigging Response Act</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
   }
 ]
