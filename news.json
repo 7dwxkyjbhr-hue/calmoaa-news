@@ -1,24 +1,31 @@
 [
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2025-12-20T06:15:31Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2025-12-20T00:46:12Z",
+    "published": "2025-12-20T06:15:31Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2025-12-20T00:46:12Z",
+    "published": "2025-12-20T06:15:31Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2025-12-20T00:46:11Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+    "source": "California Globe",
+    "title": "Tribal Court Civil Money Judgment Act",
+    "link": "https://californiaglobe.com/articles/tribal-court-civil-money-judgment-act/",
+    "published": "2025-12-20T01:24:35Z",
+    "summary": "Explains that the Uniform Foreign-Country Money Judgments Recognition Act"
   },
   {
     "source": "California Globe",
@@ -138,13 +145,6 @@
     "link": "https://taskandpurpose.com/news/jumpmaster-save-paratrooper-video/",
     "published": "2025-12-19T13:00:00Z",
     "summary": "<p>Sgt. Maj. Keith Platt explains why he stopped a paratrooper in a widely seen video whose static line was across his neck. His lesson: “If something isn’t right, say something.”</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/jumpmaster-save-paratrooper-video/\">Jumpmaster who saved paratrooper breaks down viral video</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
-    "source": "California Globe",
-    "title": "The Black-Box Warning That Wasn’t",
-    "link": "https://californiaglobe.com/fr/the-black-box-warning-that-wasnt/",
-    "published": "2025-12-19T11:30:26Z",
-    "summary": "FDA considered an internal recommendation to place this dire warning on the COVID shots – then rejected it"
   },
   {
     "source": "CalMatters",
