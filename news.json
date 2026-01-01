@@ -1,24 +1,24 @@
 [
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-01-01T06:17:57Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2026-01-01T00:57:20Z",
+    "published": "2026-01-01T06:17:57Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-01-01T00:57:20Z",
+    "published": "2026-01-01T06:17:57Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-01-01T00:57:19Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "California Globe",
@@ -215,6 +215,20 @@
     "link": "https://theliberaloc.com/2025/12/24/wishing-you-a-joyful-holiday/",
     "published": "2025-12-24T17:28:40Z",
     "summary": "As a wet Christmas holiday falls on Orange County, here&#8217;s wishing our readers a joyful and blessed holiday.  May 2026 offer positive change, new hope <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2025/12/24/wishing-you-a-joyful-holiday/\" title=\"Wishing You a Joyful Holiday\">[...]</a>"
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SB623",
+    "link": "https://legiscan.com/CA/bill/SB623/2025?utm_campaign=rss&guid=gH226HSNel8yuO2dclzCo",
+    "published": "2025-12-23T05:00:00Z",
+    "summary": "An act to amend Section 218 of the Revenue and Taxation Code, relating to property taxation, to take effect immediately, tax levy.<br />\n<br />\n2025/12/23 Set for hearing January 14."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SB623",
+    "link": "https://legiscan.com/CA/bill/SB623/2025?utm_campaign=rss&guid=gH226HSNel8yuO2dclzCo",
+    "published": "2025-12-23T05:00:00Z",
+    "summary": "An act to amend Section 218 of the Revenue and Taxation Code, relating to property taxation, to take effect immediately, tax levy.<br />\n<br />\n2025/12/23 Set for hearing January 14."
   },
   {
     "source": "The Auditor",
@@ -540,31 +554,24 @@
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB464",
-    "link": "https://legiscan.com/CA/bill/SB464/2025?utm_campaign=rss&guid=2WSc94abI97gSZf1Bmy4iv",
+    "title": "CA SB7",
+    "link": "https://legiscan.com/CA/bill/SB7/2025?utm_campaign=rss&guid=3xWZZdF2EqT3Shlf0kWxuY",
     "published": "2025-10-13T04:00:00Z",
-    "summary": "An act to amend, repeal, and add Section 12999 of the Government Code, relating to civil rights.<br />\n<br />\n2025/10/13 Chaptered by Secretary of State. Chapter 760, Statutes of 2025."
+    "summary": "An act to add Part 5.5.5 (commencing with Section 1520) to Division 2 of the Labor Code, relating to employment.<br />\n<br />\n2025/10/13 In Senate. Consideration of Governor's veto pending."
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB1136",
-    "link": "https://legiscan.com/CA/bill/AB1136/2025?utm_campaign=rss&guid=4rWwb5WM7RenjjM17qE9YU",
+    "title": "CA SB774",
+    "link": "https://legiscan.com/CA/bill/SB774/2025?utm_campaign=rss&guid=5PvEktlsymfnI7dyTcFlxW",
     "published": "2025-10-13T04:00:00Z",
-    "summary": "An act to add and repeal Chapter 3.3 (commencing with Section 1019.6) of Part 3 of Division 2 of the Labor Code, relating to employment.<br />\n<br />\n2025/10/13 Consideration of Governor's veto pending."
+    "summary": "An act to amend Sections 9882, 10050, 10071, 10073, 10078, 10082, 10151, 10151.2, 10151.3, 10153, 10153.2, 10153.5, 10156.2, 10156.6, 10156.7, 10162, 10167.4, 10170.5, 10471.1, 10471.4, 10471.5, 10472, 10473.1, 10475, 11001, 11301, 11411, and 11412 of, to add Sections 10152.5, 10167.45, 11411.5, 11412.2, 11413, 11413.1, 11413.2, 11413.3, 11413.4, 11414, 11414.1, 11414.2, 11415, 11415.1, 11416, 11417, 11417.1, 11417.2, 11417.3, 11417.4, 11417.5, 11417.6, 11417.7, 11418, 11418.1, 11418.2, 11418.3, 11418.4, 11419, 11419.1, 11419.2, 11419.3, and 11420 to, to add and repeal Section 11425 of, to repeal Section 10153.4 of, to repeal Chapter 8 (commencing with Section 11410) of Part 3 of Division 4 of, and to repeal, add, and repeal Section 10153.3 of, the Business and Professions Code, relating to professions and vocations, and making an appropriation therefor.<br />\n<br />\n2025/10/13 Chaptered by Secretary of State. Chapter 786, Statutes of 2025."
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB1388",
-    "link": "https://legiscan.com/CA/bill/AB1388/2025?utm_campaign=rss&guid=6rUPATe2l556YxhNx7Zj6E",
+    "title": "CA SB756",
+    "link": "https://legiscan.com/CA/bill/SB756/2025?utm_campaign=rss&guid=4U4RXi1vQ75uP0uF36VS3p",
     "published": "2025-10-13T04:00:00Z",
-    "summary": "An act to amend Sections 832.7 and 13510.9 of the Penal Code, relating to law enforcement.<br />\n<br />\n2025/10/13 Chaptered by Secretary of State - Chapter 729, Statutes of 2025."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB355",
-    "link": "https://legiscan.com/CA/bill/SB355/2025?utm_campaign=rss&guid=BHI6RfVwNPvuE3O2UaLPa",
-    "published": "2025-10-13T04:00:00Z",
-    "summary": "An act to add Section 96.9 to the Labor Code, relating to employment.<br />\n<br />\n2025/10/13 In Senate. Consideration of Governor's veto pending."
+    "summary": "An act to add Section 14998.14 to the Government Code, relating to motion picture tax credits.<br />\n<br />\n2025/10/13 In Senate. Consideration of Governor's veto pending."
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
@@ -589,10 +596,17 @@
   },
   {
     "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SB590",
-    "link": "https://legiscan.com/CA/bill/SB590/2025?utm_campaign=rss&guid=4Ix5ywUmfwkG7tq7gMc5Bh",
+    "title": "CA SB437",
+    "link": "https://legiscan.com/CA/bill/SB437/2025?utm_campaign=rss&guid=3CmSAEmZkA6qqesnUErCDE",
     "published": "2025-10-13T04:00:00Z",
-    "summary": "An act to amend, repeal, and add Sections 3301, 3302, and 3303 of the Unemployment Insurance Code, relating to disability compensation, and making an appropriation therefor.<br />\n<br />\n2025/10/13 Chaptered by Secretary of State. Chapter 772, Statutes of 2025."
+    "summary": "An act to add Chapter 4.8 (commencing with Section 8308) to Division 1 of Title 2 of the Government Code, relating to postsecondary education, and making an appropriation therefor.<br />\n<br />\n2025/10/13 Chaptered by Secretary of State. Chapter 755, Statutes of 2025."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SB774",
+    "link": "https://legiscan.com/CA/bill/SB774/2025?utm_campaign=rss&guid=5PvEktlsymfnI7dyTcFlxW",
+    "published": "2025-10-13T04:00:00Z",
+    "summary": "An act to amend Sections 9882, 10050, 10071, 10073, 10078, 10082, 10151, 10151.2, 10151.3, 10153, 10153.2, 10153.5, 10156.2, 10156.6, 10156.7, 10162, 10167.4, 10170.5, 10471.1, 10471.4, 10471.5, 10472, 10473.1, 10475, 11001, 11301, 11411, and 11412 of, to add Sections 10152.5, 10167.45, 11411.5, 11412.2, 11413, 11413.1, 11413.2, 11413.3, 11413.4, 11414, 11414.1, 11414.2, 11415, 11415.1, 11416, 11417, 11417.1, 11417.2, 11417.3, 11417.4, 11417.5, 11417.6, 11417.7, 11418, 11418.1, 11418.2, 11418.3, 11418.4, 11419, 11419.1, 11419.2, 11419.3, and 11420 to, to add and repeal Section 11425 of, to repeal Section 10153.4 of, to repeal Chapter 8 (commencing with Section 11410) of Part 3 of Division 4 of, and to repeal, add, and repeal Section 10153.3 of, the Business and Professions Code, relating to professions and vocations, and making an appropriation therefor.<br />\n<br />\n2025/10/13 Chaptered by Secretary of State. Chapter 786, Statutes of 2025."
   },
   {
     "source": "LegiScan Search Feed - Military Search",
@@ -607,20 +621,6 @@
     "link": "https://legiscan.com/CA/bill/AB76/2025?utm_campaign=rss&guid=3O4NcirDLNexeYaiir6gtL",
     "published": "2025-10-13T04:00:00Z",
     "summary": "An act to amend Section 54221 of the Government Code, relating to land use.<br />\n<br />\n2025/10/13 Consideration of Governor's veto pending."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB1388",
-    "link": "https://legiscan.com/CA/bill/AB1388/2025?utm_campaign=rss&guid=6rUPATe2l556YxhNx7Zj6E",
-    "published": "2025-10-13T04:00:00Z",
-    "summary": "An act to amend Sections 832.7 and 13510.9 of the Penal Code, relating to law enforcement.<br />\n<br />\n2025/10/13 Chaptered by Secretary of State - Chapter 729, Statutes of 2025."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SB680",
-    "link": "https://legiscan.com/CA/bill/SB680/2025?utm_campaign=rss&guid=2NdWkcPibz16V4oBFDwsLN",
-    "published": "2025-10-13T04:00:00Z",
-    "summary": "An act to amend Section 290 of the Penal Code, relating to sex offenses.<br />\n<br />\n2025/10/13 Chaptered by Secretary of State. Chapter 780, Statutes of 2025."
   },
   {
     "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
