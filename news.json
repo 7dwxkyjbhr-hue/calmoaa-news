@@ -1,24 +1,73 @@
 [
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-01-06T00:51:52Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2026-01-05T18:17:19Z",
+    "published": "2026-01-06T00:51:52Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-01-05T18:17:19Z",
+    "published": "2026-01-06T00:51:52Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-01-05T18:17:18Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+    "source": "California Globe",
+    "title": "New Trials in California",
+    "link": "https://californiaglobe.com/articles/new-trials-in-california/",
+    "published": "2026-01-06T00:10:22Z",
+    "summary": "Deals with new trial in civil actions"
+  },
+  {
+    "source": "California Globe",
+    "title": "The Gavin Newsom Effect: More People are Moving from California U-Haul Reports – Again",
+    "link": "https://californiaglobe.com/fr/the-gavin-newsom-effect-more-people-are-moving-from-california-u-haul-reports-again/",
+    "published": "2026-01-06T00:00:53Z",
+    "summary": "Florida ranks 2nd for one-way inbound customers; California is last for the 6th year in a row"
+  },
+  {
+    "source": "California Globe",
+    "title": "Gubernatorial and Controller Candidates Request Federal Investigation into California’s Widespread Fraud, Waste, and Mismanagement",
+    "link": "https://californiaglobe.com/fr/gubernatorial-and-controller-candidates-request-federal-investigation-into-californias-widespread-fraud-waste-and-mismanagement/",
+    "published": "2026-01-05T23:29:58Z",
+    "summary": "Steve Hilton and Herb Morgan request DOJ deploy FBI Public Corruption and Complex Fraud units for $250B in fraud"
+  },
+  {
+    "source": "The Auditor",
+    "title": "Procedure, Work Instruction, or Flowchart?",
+    "link": "https://www.theauditoronline.com/procedure-work-instruction-or-flowchart/",
+    "published": "2026-01-05T23:08:58Z",
+    "summary": "<p>By IJ Arora, Ph.D. The choice between writing a procedure or a work instruction is an essential decision when designing a management system. Clause 4.4.1 of ISO 9001:2015 (as well as all the ISO management system standards using the harmonized structure) requires the establishment and implementation of a management system. This management system will have [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/procedure-work-instruction-or-flowchart/\">Procedure, Work Instruction, or Flowchart?</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
+  },
+  {
+    "source": "Task & Purpose",
+    "title": "For some veterans, the specter of Iraq and Afghanistan looms over the Maduro raid",
+    "link": "https://taskandpurpose.com/news/iraq-afghanistan-veterans-maduro/",
+    "published": "2026-01-05T22:29:09Z",
+    "summary": "<p>Even as veterans of the wars in Iraq and Afghanistan acknowledge the skill required to pull off the operation, the question of “what comes next” hangs over it.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/iraq-afghanistan-veterans-maduro/\">For some veterans, the specter of Iraq and Afghanistan looms over the Maduro raid</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+  },
+  {
+    "source": "California Globe",
+    "title": "Energy Security Is National Security: Why California Can’t Afford Its Production Decline",
+    "link": "https://californiaglobe.com/fr/energy-security-is-national-security-why-california-cant-afford-its-production-decline/",
+    "published": "2026-01-05T22:03:20Z",
+    "summary": "Reversing harmful policies, restoring lawful access to mineral rights, and strengthening California’s production capacity are essential steps"
+  },
+  {
+    "source": "California Globe",
+    "title": "BREAKING: Arizona Supreme Court Evacuated After Suspicious Package Tests Positive for Explosives",
+    "link": "https://californiaglobe.com/fr/breaking-arizona-supreme-court-evacuated-after-suspicious-package-tests-positive-for-explosives/",
+    "published": "2026-01-05T21:07:19Z",
+    "summary": "Court officials say the package, which officials reported did not have a return address, was found in the building’s mailroom"
   },
   {
     "source": "American Military News",
@@ -35,25 +84,11 @@
     "summary": "<p>Sen. Mark Kelly may see his retirement pay reduced after participating in a video with other members of Congress urging troops not to obey unlawful military orders.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/hegseth-kelly-retirement-pay-unlawful-orders/\">Hegseth moves to reduce Sen. Kelly&#8217;s military retirement pay over unlawful orders video</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "California Political Review",
-    "title": "This California political leader wants federal immigration reform. First, she has to survive Trump",
-    "link": "https://capoliticalreview.com/2026/01/05/this-california-political-leader-wants-federal-immigration-reform-first-she-has-to-survive-trump/",
-    "published": "2026-01-05T15:30:00Z",
-    "summary": "<p>SANTA BARBARA&#160;—&#160;Since President Trump’s immigration raids began sweeping through California’s cities and farm fields, state Senate President Monique Limón has carried a copy of her passport. “Just in case,” she said. Limón is one of the most powerful politicians in the state behind Gov. Gavin Newsom, but the detainment of American citizens, including U.S. Sen. [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/01/05/this-california-political-leader-wants-federal-immigration-reform-first-she-has-to-survive-trump/\">Read More and Comment: This California political leader wants federal immigration reform. First, she has to survive Trump</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/01/05/this-california-political-leader-wants-federal-immigration-reform-first-she-has-to-survive-trump/\">This California political leader wants federal immigration reform. First, she has to survive Trump</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
     "source": "American Military News",
     "title": "Video: Trump admin condemns China’s military exercises around Taiwan",
     "link": "https://americanmilitarynews.com/2026/01/video-trump-admin-condemns-chinas-military-exercises-around-taiwan/",
     "published": "2026-01-05T15:00:31Z",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"353\" src=\"https://americanmilitarynews.com/wp-content/uploads/7f5989fd-b3c4-44ac-be17-2acffd14ba97.jpeg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"620\" />The U.S. State Department warned on Thursday that China&#8217;s &#8220;Justice Mission 2025&#8221; military exercises, which were conducted this week around Taiwan, &#8220;unnecessarily&#8221; caused tensions to increase in the region. President Donald Trump&#8217;s administration also urged China to stop using its military to &#8220;pressure&#8221; Taiwan and to instead pursue &#8220;meaningful dialogue.&#8221; The Eastern Theater Command of &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/01/video-trump-admin-condemns-chinas-military-exercises-around-taiwan/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
-  },
-  {
-    "source": "California Political Review",
-    "title": "U.S. military action in Venezuela sparks political backlash, protests in California",
-    "link": "https://capoliticalreview.com/2026/01/05/u-s-military-action-in-venezuela-sparks-political-backlash-protests-in-california/",
-    "published": "2026-01-05T15:00:00Z",
-    "summary": "<p>U.S. military strikes in Venezuela over the weekend have triggered sharp backlash from Democratic lawmakers and concern among immigrant communities, even as some Republicans praised the operation.&#160; Click Here to Subscribe to the California Political Review The Trump administration has defended the strike by accusing Venezuelan President Nicolas Maduro and his government of drug trafficking [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/01/05/u-s-military-action-in-venezuela-sparks-political-backlash-protests-in-california/\">Read More and Comment: U.S. military action in Venezuela sparks political backlash, protests in California</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/01/05/u-s-military-action-in-venezuela-sparks-political-backlash-protests-in-california/\">U.S. military action in Venezuela sparks political backlash, protests in California</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "CalMatters",
@@ -91,60 +126,11 @@
     "summary": "<p>A 1957 study looked at the possibility of an American strategic floating bomb force.</p>\n<p>The post <a href=\"https://taskandpurpose.com/history/1950s-military-nuclear-balloon-weapons/\">The military once considered using balloons as nuclear weapons systems</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "California Globe",
-    "title": "Americans Haven’t Stopped Caring – They’ve Stopped Trusting",
-    "link": "https://californiaglobe.com/fr/americans-havent-stopped-caring-theyve-stopped-trusting/",
-    "published": "2026-01-05T12:30:47Z",
-    "summary": "Donors give when they believe their money will be used as promised, managed competently, and produce tangible results"
-  },
-  {
-    "source": "California Globe",
-    "title": "American Freedom isn’t Available Through Commie Mamdani’s NYC or Comrade Newsom’s California",
-    "link": "https://californiaglobe.com/fl/american-freedom-isnt-achieved-through-commie-mamdani-nyc-or-comrade-newsoms-california/",
-    "published": "2026-01-05T11:55:57Z",
-    "summary": "No one really wants what Democrats are selling"
-  },
-  {
-    "source": "California Globe",
-    "title": "Property of Unincorporated Associations",
-    "link": "https://californiaglobe.com/articles/property-of-unincorporated-associations/",
-    "published": "2026-01-05T10:30:02Z",
-    "summary": "Deals with property held by an unincorporated association in this state"
-  },
-  {
-    "source": "California Globe",
-    "title": "Fourth Quiz on Where Areas of Law Are Found in the California Codes",
-    "link": "https://californiaglobe.com/fr/fourth-quiz-on-where-areas-of-law-are-found-in-the-california-codes/",
-    "published": "2026-01-04T23:12:11Z",
-    "summary": "Aquaculture Law is found in which Code?"
-  },
-  {
     "source": "Task & Purpose",
     "title": "More than 150 fighters, bombers and other aircraft took part in Venezuela strike",
     "link": "https://taskandpurpose.com/news/fighters-bombers-venezuela-attack-maduro/",
     "published": "2026-01-04T21:47:20Z",
     "summary": "<p>The force of Navy, Air Force and Marine F-22s, F/A-18s, F-35s and drones struck several sites in Caracas as the Army captured Nicolás Maduro.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/fighters-bombers-venezuela-attack-maduro/\">More than 150 fighters, bombers and other aircraft took part in Venezuela strike</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
-    "source": "California Globe",
-    "title": "DHS Delivers Epic Smackdown to Soros-Backed AZ Senator Ruben Gallego Over Trump’s Maduro Takedown",
-    "link": "https://californiaglobe.com/fr/dhs-delivers-epic-smackdown-to-soros-backed-az-senator-ruben-gallego-over-trumps-maduro-takedown/",
-    "published": "2026-01-04T18:17:59Z",
-    "summary": "Maduro, indicted in 2020 in New York on charges ranging from narco-terrorism to cocaine trafficking and corruption, is finally facing justice"
-  },
-  {
-    "source": "California Political Review",
-    "title": "California ban on open carry of firearms ruled unconstitutional by appeals court",
-    "link": "https://capoliticalreview.com/2026/01/04/california-ban-on-open-carry-of-firearms-ruled-unconstitutional-by-appeals-court/",
-    "published": "2026-01-04T15:30:00Z",
-    "summary": "<p>California’s ban on the open carry of firearms in most parts of the state is unconstitutional, a San Francisco-based federal appeals court ruled Friday. Click Here to Subscribe to the California Political Review The 9th U.S. Circuit Court of Appeals determined that the ban, which applied to counties with populations greater than 200,000, violates residents’ [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/01/04/california-ban-on-open-carry-of-firearms-ruled-unconstitutional-by-appeals-court/\">Read More and Comment: California ban on open carry of firearms ruled unconstitutional by appeals court</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/01/04/california-ban-on-open-carry-of-firearms-ruled-unconstitutional-by-appeals-court/\">California ban on open carry of firearms ruled unconstitutional by appeals court</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "California Political Review",
-    "title": "California AG Rob Bonta might be thinking about a run for governor. He shouldn’t",
-    "link": "https://capoliticalreview.com/2026/01/04/california-ag-rob-bonta-might-be-thinking-about-a-run-for-governor-he-shouldnt/",
-    "published": "2026-01-04T15:00:00Z",
-    "summary": "<p>Attorney General Rob Bonta, like many California Democrats of a certain level, looks at the field of candidates running to be governor and thinks: I could take that crew.  One word of advice as he ponders a run: Don’t.&#160; Click Here to Subscribe to the California Political Review Instead, do something that few other politicians consider when [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/01/04/california-ag-rob-bonta-might-be-thinking-about-a-run-for-governor-he-shouldnt/\">Read More and Comment: California AG Rob Bonta might be thinking about a run for governor. He shouldn’t</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/01/04/california-ag-rob-bonta-might-be-thinking-about-a-run-for-governor-he-shouldnt/\">California AG Rob Bonta might be thinking about a run for governor. He shouldn’t</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "Task & Purpose",
@@ -154,13 +140,6 @@
     "summary": "<p>President Donald Trump said no personnel were killed in the attack on Venezuela, dubbed “Operation Absolute Resolve.”</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/venezuela-maduro-delta-force-absolute-resolve/\">Delta Force, other special operations soldiers carried out Venezuela raid</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "California Political Review",
-    "title": "California lawmakers return to Capitol facing budget deficit, affordability pressures",
-    "link": "https://capoliticalreview.com/2026/01/03/california-lawmakers-return-to-capitol-facing-budget-deficit-affordability-pressures/",
-    "published": "2026-01-03T15:30:00Z",
-    "summary": "<p>Year 2 of the two-year legislative session will begin Monday Click Here to Subscribe to the California Political Review SAN FRANCISCO (KGO) &#8212;&#160;The year 2026 is sure to bring another round of big political battles and shifts in leadership ahead of what&#8217;s expected to be a hotly contested midterm election season. Needless to say, it&#8217;s [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/01/03/california-lawmakers-return-to-capitol-facing-budget-deficit-affordability-pressures/\">Read More and Comment: California lawmakers return to Capitol facing budget deficit, affordability pressures</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/01/03/california-lawmakers-return-to-capitol-facing-budget-deficit-affordability-pressures/\">California lawmakers return to Capitol facing budget deficit, affordability pressures</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
     "source": "American Military News",
     "title": "Venezuelan president Maduro captured by US, Trump reveals",
     "link": "https://americanmilitarynews.com/2026/01/venezuelan-president-maduro-captured-by-us-trump-reveals/",
@@ -168,11 +147,11 @@
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"474\" src=\"https://americanmilitarynews.com/wp-content/uploads/AJsNzv8AtAEwvAfYsUixY6bukBPuo7si-768x474.jpeg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />President Donald Trump revealed that the United States military carried out a strike against Venezuela on Saturday before capturing the nation&#8217;s president, Nicolas Maduro, and his wife. Here is Trump&#8217;s full statement, which was posted on Truth Social: The United States of America has successfully carried out a large scale strike against Venezuela and its &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/01/venezuelan-president-maduro-captured-by-us-trump-reveals/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
   },
   {
-    "source": "Task & Purpose",
-    "title": "US military captures Venezuelan president Nicolás Maduro after striking military sites",
-    "link": "https://taskandpurpose.com/news/us-strikes-venezuela-caracas/",
-    "published": "2026-01-03T09:03:30Z",
-    "summary": "<p>President Donald Trump has issued a statement saying U.S. forces have captured Venezuelan President Nicolas Maduro and his wife.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/us-strikes-venezuela-caracas/\">US military captures Venezuelan president Nicolás Maduro after striking military sites</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+    "source": "The Liberal OC",
+    "title": "Democrats of Greater Irvine Endorsement Meeting Jan 7",
+    "link": "https://theliberaloc.com/2026/01/02/democrats-of-greater-irvine-endorsement-meeting-jan-7/",
+    "published": "2026-01-02T19:42:20Z",
+    "summary": "Join us for our important Endorsement Meeting, where members-in-good standing will help determine our club’s endorsement support positions for those running for state and federal offices. <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/01/02/democrats-of-greater-irvine-endorsement-meeting-jan-7/\" title=\"Democrats of Greater Irvine Endorsement Meeting Jan 7\">[...]</a>"
   },
   {
     "source": "American Military News",
@@ -196,6 +175,13 @@
     "summary": "<figure><img alt=\"An over-the-shoulder view of a person looking at a cellphone on display with a row of iPhones on a store counter. In the background, there are two other people looking at phones on the other side of the counter, while another person walks into frame nearby in the store.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/12/120925-Cell-Phone-Shopper-TC-GETTY-01-CM.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Consumers will have to pay a 1.5% fee on all products with an embedded battery as the result of a new law aiming to curb risk of battery fires."
   },
   {
+    "source": "The Liberal OC",
+    "title": "Happy New Year!",
+    "link": "https://theliberaloc.com/2026/01/01/happy-new-year-9/",
+    "published": "2026-01-01T08:03:30Z",
+    "summary": ""
+  },
+  {
     "source": "American Military News",
     "title": "Video/Pics: 1 killed, 1 critically injured in major helicopter collision",
     "link": "https://americanmilitarynews.com/2025/12/video-pics-1-killed-1-critically-injured-in-major-helicopter-collision/",
@@ -203,11 +189,25 @@
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"399\" src=\"https://americanmilitarynews.com/wp-content/uploads/Ambulance-768x399.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />A major helicopter collision left one pilot dead and another pilot critically injured on Sunday morning in Hammonton, New Jersey. According to Fox News, the Hammonton Police Department told the outlet that it was notified at roughly 11:25 a.m. that two helicopters had crashed near the 100 block of Basin Road in Hammonton. The outlet &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2025/12/video-pics-1-killed-1-critically-injured-in-major-helicopter-collision/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
   },
   {
+    "source": "The Liberal OC",
+    "title": "Is a January 6th Hearing a Window into Tammy Kim’s Election Crime Case?",
+    "link": "https://theliberaloc.com/2025/12/29/is-a-january-6th-hearing-a-window-into-tammy-kims-election-crime-case/",
+    "published": "2025-12-30T00:07:42Z",
+    "summary": "TheLiberalOC has learned that former Irvine City Council member Tammy Kim will appear in Court January 6 at the Harbor Newport Beach courtroom on a <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2025/12/29/is-a-january-6th-hearing-a-window-into-tammy-kims-election-crime-case/\" title=\"Is a January 6th Hearing a Window into Tammy Kim&#8217;s Election Crime Case?\">[...]</a>"
+  },
+  {
     "source": "U.S. Dept. of Veterans Affairs",
     "title": "Glad You Asked: CHAMPVA Progress",
     "link": "https://www.youtube.com/watch?v=GSa-XuEMNN8",
     "published": "2025-12-26T14:00:24Z",
     "summary": "For years, Veterans and their families have waited too long for CHAMPVA coverage. \n\nThis year, VA turned a corner.\n\nIn this episode, Deputy Secretary, Paul R. Lawrence, Ph.D. shares how applications are moving faster, families are getting access to their health care coverage more quickly, and VA is delivering results by putting Veterans and their families first."
+  },
+  {
+    "source": "The Liberal OC",
+    "title": "Wishing You a Joyful Holiday",
+    "link": "https://theliberaloc.com/2025/12/24/wishing-you-a-joyful-holiday/",
+    "published": "2025-12-24T17:28:40Z",
+    "summary": "As a wet Christmas holiday falls on Orange County, here&#8217;s wishing our readers a joyful and blessed holiday.  May 2026 offer positive change, new hope <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2025/12/24/wishing-you-a-joyful-holiday/\" title=\"Wishing You a Joyful Holiday\">[...]</a>"
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
@@ -231,6 +231,13 @@
     "summary": "<p>By Jackie Stapleton I was sitting at my desk thinking about what on earth people would actually want to read the week before Christmas. Everyone is tired. Audits are being rushed to close out before shutdowns. Out-of-office replies are multiplying fast. The last thing anyone needs right now is another article telling them what they [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/the-12-things-iso-management-system-auditors-learned-this-year/\">The 12 Things ISO Management System Auditors Learned This Year</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
+    "source": "The Liberal OC",
+    "title": "Former Failed Irvine City Council/IUSD Trustee Candidate Mark Newgent to run for Congress in Texas",
+    "link": "https://theliberaloc.com/2025/12/22/former-failed-irvine-city-council-iusd-trustee-canddiate-mark-newgent-to-run-for-congress-in-texas/",
+    "published": "2025-12-22T20:51:11Z",
+    "summary": "&#160; Got a text message from a friend who&#8217;s Republican with the news that Mark Newgent, a former Irvine city council and school board candidate, <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2025/12/22/former-failed-irvine-city-council-iusd-trustee-canddiate-mark-newgent-to-run-for-congress-in-texas/\" title=\"Former Failed Irvine City Council/IUSD Trustee Candidate Mark Newgent to run for Congress in Texas\">[...]</a>"
+  },
+  {
     "source": "The Auditor",
     "title": "JASANZ Welcomes New Chair to Lead Technical Advisory Council",
     "link": "https://www.theauditoronline.com/jasanz-welcomes-new-chair-to-lead-technical-advisory-council/",
@@ -243,6 +250,13 @@
     "link": "https://www.youtube.com/watch?v=9RXcHA8e8fc",
     "published": "2025-12-19T14:00:12Z",
     "summary": "The disability claims backlog has been one of the toughest challenges VA has faced, but this year, we’ve made record progress.\n\nVeterans are now getting their claims decided faster than ever before, and more benefits are being delivered quickly to those who earned them.\n\nIn this episode, Deputy Secretary, Paul R. Lawrence, Ph.D. shares how VA made it happen, and what comes next."
+  },
+  {
+    "source": "The Official United States Marine Corps Public Website News",
+    "title": "Forward, Faithful, Focused: III Marine Expeditionary Force 2025 Year in Review",
+    "link": "https://www.marines.mil/News/News-Display/Article/4367827/forward-faithful-focused-iii-marine-expeditionary-force-2025-year-in-review/",
+    "published": "2025-12-19T05:38:00Z",
+    "summary": "MARINE CORPS BASE CAMP SMEDLEY D. BUTLER, Okinawa, Japan – For decades, III Marine Expeditionary Force has stood as a beacon of readiness and capability in the Indo-Pacific region. As the Marine Corps marks 250 years of service, III MEF shows no signs of slowing down.<br /> \n<img alt=\"Resolute Dragon 25 is an annual bilateral exercise in Japan that strengthens the command, control, and multi-domain maneuver capabilities of U.S. Marines in III Marine Expeditionary Force and Japan Self-Defense Force personnel, with a focus on controlling and defending key maritime terrain. (U.S. Marine Corps photo by Cpl. Evelyn Doherty)\" src=\"https://media.defense.gov/2025/Dec/19/2003849252/115/75/0/250917-M-AG307-1224.JPG\" /> <br />"
   },
   {
     "source": "CVA News & Media",
@@ -329,13 +343,6 @@
     "summary": "<p>ARLINGTON, Va. &#8213; As the Senate prepares to vote on the FY2026 National Defense Authorization Act (NDAA) during the final week of session before the holiday recess, Concerned Veterans for America (CVA) urges senators to pass the bill and send it to President Trump’s desk with its critical war powers reforms intact.  The House-passed conference [&#8230;]</p>\n<p>The post <a href=\"https://cv4a.org/news-media/cva-urges-senate-passage-ndaa-historic-war-powers-reform/\">Ahead of Senate Vote, CVA Urges Passage of FY2026 NDAA to Lock In Historic War Powers Reform and Accountability</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
   },
   {
-    "source": "The Auditor",
-    "title": "Looking Ahead: What’s Next for ISO Management System Auditors in 2026",
-    "link": "https://www.theauditoronline.com/what-is-next-for-iso-auditors-in-2026/",
-    "published": "2025-12-15T03:59:45Z",
-    "summary": "<p>By Jackie Stapleton I was sitting at my desk mapping out my tasks for the next month and then realized that would take me to Christmas! No wonder I am tired and irritable.&#x1f60a; This made me think, as yet another year comes to a close, that many professionals working with ISO management system standards are [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/what-is-next-for-iso-auditors-in-2026/\">Looking Ahead: What’s Next for ISO Management System Auditors in 2026</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
     "source": "The Official United States Marine Corps Public Website News",
     "title": "Steel Knight 25: Stingers, Scarface Deliver Persistent Close Air Support Across Distributed Battlespace",
     "link": "https://www.marines.mil/News/News-Display/Article/4363664/steel-knight-25-stingers-scarface-deliver-persistent-close-air-support-across-d/",
@@ -404,13 +411,6 @@
     "link": "https://www.ppic.org/publication/policy-brief-updating-californias-school-funding-formula/?utm_source=rss&utm_medium=rss&utm_campaign=policy-brief-updating-californias-school-funding-formula",
     "published": "2025-12-09T21:24:59Z",
     "summary": "<p><img alt=\"photo - School Building and School Yard in the Evening\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2025/12/school-building-and-school-yard-in-the-evening.jpg\" width=\"2000\" /></p>We model the state’s school funding system and consider several distinct changes, ranging in cost from $1.5 to $3.8 billion, that could address ongoing challenges. Each change leads to different funding levels across districts and student groups."
-  },
-  {
-    "source": "The Official United States Marine Corps Public Website News",
-    "title": "EOTG holds Close Quarters Tactics Course for Recon Marines",
-    "link": "https://www.marines.mil/News/News-Display/Article/4353984/eotg-holds-close-quarters-tactics-course-for-recon-marines/",
-    "published": "2025-12-09T18:23:49Z",
-    "summary": "CAMP HANSEN, Okinawa, Japan – U.S. Marines with Force Reconnaissance Company, 3rd Reconnaissance Battalion, 3rd Marine Division, completed a Close Quarters Tactics Course from Sept. 15 to Nov. 5, across Camp Hansen. This training, hosted by the III Marine Expeditionary Force’s Expeditionary Operations Training Group, aimed to enhance their lethality as small unit leaders during high-paced, close-quarters combat.\n\n<br /> \n<img alt=\"U.S. Marines with 3rd Reconnaissance Battalion, 3rd Marine Division, post security during an Expeditionary Operations Training Group Close Quarters Tactics Course at Camp Hansen, Okinawa, Japan, Oct. 28, 2025.\" src=\"https://media.defense.gov/2025/Dec/08/2003839364/115/75/0/251027-M-WK421-1819.JPG\" /> <br />"
   },
   {
     "source": "Public Policy Institute of California",
