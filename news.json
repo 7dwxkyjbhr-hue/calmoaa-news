@@ -1,24 +1,31 @@
 [
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-01-08T12:22:02Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2026-01-08T06:17:37Z",
+    "published": "2026-01-08T12:22:02Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-01-08T06:17:37Z",
+    "published": "2026-01-08T12:22:02Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-01-08T06:17:36Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+    "source": "California Globe",
+    "title": "Ringside: Reversing California’s Policies of Scarcity",
+    "link": "https://californiaglobe.com/fr/ringside-reversing-californias-policies-of-scarcity/",
+    "published": "2026-01-08T11:55:18Z",
+    "summary": "Politically contrived scarcity is not sustainable"
   },
   {
     "source": "The Auditor",
@@ -89,13 +96,6 @@
     "link": "https://californiaglobe.com/fr/san-franciscos-latest-proposal-a-curfew-on-corner-markets/",
     "published": "2026-01-07T20:32:09Z",
     "summary": "This proposed curfew is yet another symptom of left-wing progressive governance gone awry"
-  },
-  {
-    "source": "California Globe",
-    "title": "The CDC Just Overhauled the Childhood Vaccine Schedule — What It Means for California Families",
-    "link": "https://californiaglobe.com/fr/the-cdc-just-overhauled-the-childhood-vaccine-schedule-what-it-means-for-california-families/",
-    "published": "2026-01-07T19:57:44Z",
-    "summary": "A Major Federal Shift — And California’s Immediate Rejection"
   },
   {
     "source": "California Democratic Party",
@@ -210,6 +210,20 @@
     "summary": "An act to amend Section 18999.8 of the Welfare and Institutions Code, relating to homelessness.<br />\n<br />\n2026/01/07 Set for hearing January 12."
   },
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA SB99",
+    "link": "https://legiscan.com/CA/bill/SB99/2025?utm_campaign=rss&guid=1aIdftNHimtjsICjTe39At",
+    "published": "2026-01-07T05:00:00Z",
+    "summary": "An act to amend Sections 6306 and 6383 of, and to add Section 6326.5 to, the Family Code, relating to protective orders.<br />\n<br />\n2026/01/07 Set for hearing January 13 in JUD. pending receipt."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA SB99",
+    "link": "https://legiscan.com/CA/bill/SB99/2025?utm_campaign=rss&guid=1aIdftNHimtjsICjTe39At",
+    "published": "2026-01-07T05:00:00Z",
+    "summary": "An act to amend Sections 6306 and 6383 of, and to add Section 6326.5 to, the Family Code, relating to protective orders.<br />\n<br />\n2026/01/07 Set for hearing January 13 in JUD. pending receipt."
+  },
+  {
     "source": "LegiScan Search Feed - Military Search",
     "title": "CA SB457",
     "link": "https://legiscan.com/CA/bill/SB457/2025?utm_campaign=rss&guid=67mWfkpe7RcJcfcOEMGH7",
@@ -292,20 +306,6 @@
     "link": "https://legiscan.com/CA/bill/SB574/2025?utm_campaign=rss&guid=49wLNNC6hxSz0m9A09M7yl",
     "published": "2026-01-06T05:00:00Z",
     "summary": "An act to add Section 6068.1 to the Business and Professions Code, and to amend Section 128.7 of, and to add Section 1282.1 to, the Code of Civil Procedure, relating to artificial intelligence.<br />\n<br />\n2026/01/06 Set for hearing January 13."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA SB99",
-    "link": "https://legiscan.com/CA/bill/SB99/2025?utm_campaign=rss&guid=3ezJt1hjrH7bncrZGjyX6B",
-    "published": "2026-01-06T05:00:00Z",
-    "summary": "An act to amend Sections 6306 and 6383 of, and to add Section 6326.5 to, the Family Code, relating to protective orders.<br />\n<br />\n2026/01/06 Set for hearing January 13."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA SB99",
-    "link": "https://legiscan.com/CA/bill/SB99/2025?utm_campaign=rss&guid=3ezJt1hjrH7bncrZGjyX6B",
-    "published": "2026-01-06T05:00:00Z",
-    "summary": "An act to amend Sections 6306 and 6383 of, and to add Section 6326.5 to, the Family Code, relating to protective orders.<br />\n<br />\n2026/01/06 Set for hearing January 13."
   },
   {
     "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
