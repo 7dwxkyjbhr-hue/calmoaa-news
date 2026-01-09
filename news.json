@@ -1,24 +1,31 @@
 [
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-01-09T12:21:16Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2026-01-09T06:17:49Z",
+    "published": "2026-01-09T12:21:16Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-01-09T06:17:49Z",
+    "published": "2026-01-09T12:21:16Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-01-09T06:17:48Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+    "source": "California Political Review",
+    "title": "Gavin Newsom confronts $18B budget disaster he helped create",
+    "link": "https://capoliticalreview.com/2026/01/09/gavin-newsom-confronts-18b-budget-disaster-he-helped-create/",
+    "published": "2026-01-09T08:00:00Z",
+    "summary": "<p>California Gov. Gavin Newsom is waking up to an $18 billion budget hangover — and fixing it won’t be pretty. After years of surpluses, the Golden State is facing staggering deficits that could balloon to $35 billion in the coming years, according to the state’s Legislative Analyst, after a yearslong spending spree combined with federal [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/01/09/gavin-newsom-confronts-18b-budget-disaster-he-helped-create/\">Read More and Comment: Gavin Newsom confronts $18B budget disaster he helped create</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/01/09/gavin-newsom-confronts-18b-budget-disaster-he-helped-create/\">Gavin Newsom confronts $18B budget disaster he helped create</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "CalMatters",
@@ -131,6 +138,20 @@
     "link": "https://legiscan.com/CA/bill/SCR106/2025?utm_campaign=rss&guid=3t4xequDwu4a7hCfyFr9dz",
     "published": "2026-01-08T05:00:00Z",
     "summary": "Relative to Korean American Day.<br />\n<br />\n2026/01/08 From committee: Ordered to third reading."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB52",
+    "link": "https://legiscan.com/CA/bill/AB52/2025?utm_campaign=rss&guid=HQlUBLkgKP58YGIA96KzD",
+    "published": "2026-01-08T05:00:00Z",
+    "summary": "An act to add Section 513.5 to the Food and Agricultural Code, relating to food and agriculture.<br />\n<br />\n2026/01/08 From committee chair, with author's amendments: Amend, and re-refer to Com. on AGRI. Read second time and amended."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SB457",
+    "link": "https://legiscan.com/CA/bill/SB457/2025?utm_campaign=rss&guid=1Cq8rfSivlBhMyUsZ6hY6u",
+    "published": "2026-01-08T05:00:00Z",
+    "summary": "An act to amend Section 65583.1 of the Government Code, relating to land use.<br />\n<br />\n2026/01/08 Read second time and amended. Re-referred to Com. on APPR."
   },
   {
     "source": "LegiScan Search Feed - Military Search",
@@ -257,27 +278,6 @@
     "link": "https://legiscan.com/CA/bill/SB99/2025?utm_campaign=rss&guid=1aIdftNHimtjsICjTe39At",
     "published": "2026-01-07T05:00:00Z",
     "summary": "An act to amend Sections 6306 and 6383 of, and to add Section 6326.5 to, the Family Code, relating to protective orders.<br />\n<br />\n2026/01/07 Set for hearing January 13 in JUD. pending receipt."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SB876",
-    "link": "https://legiscan.com/CA/bill/SB876/2025?utm_campaign=rss&guid=7RoO7OX8a6E4OBmfQgrfN4",
-    "published": "2026-01-07T05:00:00Z",
-    "summary": "An act to amend Sections 790.035, 2051, 2051.5, 2060, 2071, 10102, 10103, 10103.4, 10103.7, 12928.7, and 14047 of, to add Section 10103.8 to, and to repeal and add Section 10103.2 of, the Insurance Code, relating to insurance.<br />\n<br />\n2026/01/07 From printer. May be acted upon on or after February 6."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SB99",
-    "link": "https://legiscan.com/CA/bill/SB99/2025?utm_campaign=rss&guid=1aIdftNHimtjsICjTe39At",
-    "published": "2026-01-07T05:00:00Z",
-    "summary": "An act to amend Sections 6306 and 6383 of, and to add Section 6326.5 to, the Family Code, relating to protective orders.<br />\n<br />\n2026/01/07 Set for hearing January 13 in JUD. pending receipt."
-  },
-  {
-    "source": "California Political Review",
-    "title": "The political peril of California’s billionaire tax",
-    "link": "https://capoliticalreview.com/2026/01/06/the-political-peril-of-californias-billionaire-tax/",
-    "published": "2026-01-07T03:00:00Z",
-    "summary": "<p>Silicon Valley&#8217;s congressman is facing a revolt from some of his wealthiest constituents, and even could get primaried. Click Here to Subscribe to the California Political Review Why it matters:&#160;This is ground zero for the thorny politics of income inequality, which will become pervasive as the AI revolution mints more billionaires and costs &#8220;normies&#8221; their [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/01/06/the-political-peril-of-californias-billionaire-tax/\">Read More and Comment: The political peril of California&#8217;s billionaire tax</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/01/06/the-political-peril-of-californias-billionaire-tax/\">The political peril of California&#8217;s billionaire tax</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "The Liberal OC",
