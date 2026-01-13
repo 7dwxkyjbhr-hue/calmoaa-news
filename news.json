@@ -3,22 +3,29 @@
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2026-01-13T06:17:49Z",
+    "published": "2026-01-13T12:22:03Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-01-13T06:17:49Z",
+    "published": "2026-01-13T12:22:03Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-01-13T06:17:48Z",
+    "published": "2026-01-13T12:22:02Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Globe",
+    "title": "The Division of Property Concerning Reimbursements",
+    "link": "https://californiaglobe.com/articles/the-division-of-property-concerning-reimbursements/",
+    "published": "2026-01-13T10:55:43Z",
+    "summary": "The amount reimbursed is to be with interest at the legal rate"
   },
   {
     "source": "California Globe",
@@ -61,13 +68,6 @@
     "link": "https://californiaglobe.com/fl/bye-bye-billionaires-gavin-newsoms-california-exodus/",
     "published": "2026-01-12T20:12:30Z",
     "summary": "The total wealth that has left California is now $1T &#8211; we had $2T of billionaire wealth just a few weeks ago"
-  },
-  {
-    "source": "California Globe",
-    "title": "Voter Fraud Alarm: 449,000 Non-Citizens Reportedly Excused from Jury Duty in California, Raising Red Flags on Voter Rolls",
-    "link": "https://californiaglobe.com/fr/voter-fraud-alarm-449000-non-citizens-reportedly-excused-from-jury-duty-in-california-raising-red-flags-on-voter-rolls/",
-    "published": "2026-01-12T19:54:52Z",
-    "summary": "Without mandatory proof of citizenship and Voter ID, California&#8217;s voter registration and election system invites abuse"
   },
   {
     "source": "The Official United States Marine Corps Public Website News",
@@ -147,6 +147,13 @@
     "summary": "<p>Warthogs have been a major part of recent U.S. operations against ISIS in Syria, including this A-10 paying homage to a classic video game character.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/a10-warthog-samus-metroid-syria/\">An A-10 taking part in Syria airstrikes sports ‘Metroid’ nose art</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
+    "title": "CA SB879",
+    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=6QM9XKjeiqWgQIf9bsXBKW",
+    "published": "2026-01-12T05:00:00Z",
+    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/12 Read first time."
+  },
+  {
     "source": "LegiScan Search Feed - Veteran Search",
     "title": "CA AB1573",
     "link": "https://legiscan.com/CA/bill/AB1573/2025?utm_campaign=rss&guid=5NnDETHiGotrwoEuEWQzDw",
@@ -155,10 +162,10 @@
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB826",
-    "link": "https://legiscan.com/CA/bill/AB826/2025?utm_campaign=rss&guid=2SrI0CCjXHwFgcEIfsemOS",
+    "title": "CA SB879",
+    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=6QM9XKjeiqWgQIf9bsXBKW",
     "published": "2026-01-12T05:00:00Z",
-    "summary": "An act to amend Section 1770 of the Civil Code, relating to consumer remedies.<br />\n<br />\n2026/01/12 In committee: Set, second hearing. Hearing canceled at the request of author."
+    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/12 Read first time."
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
@@ -169,10 +176,45 @@
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB826",
+    "link": "https://legiscan.com/CA/bill/AB826/2025?utm_campaign=rss&guid=2SrI0CCjXHwFgcEIfsemOS",
+    "published": "2026-01-12T05:00:00Z",
+    "summary": "An act to amend Section 1770 of the Civil Code, relating to consumer remedies.<br />\n<br />\n2026/01/12 In committee: Set, second hearing. Hearing canceled at the request of author."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
     "title": "CA SB96",
     "link": "https://legiscan.com/CA/bill/SB96/2025?utm_campaign=rss&guid=24KIdMYgkvtLZU4U4JzhHf",
     "published": "2026-01-12T05:00:00Z",
     "summary": "An act to amend Sections 22775 and 22776 of, and to amend the heading of Chapter 27.3 (commencing with Section 22775) of Division 8 of, the Business and Professions Code, relating to streaming services.<br />\n<br />\n2026/01/12 From committee: Do pass. (Ayes 9. Noes 0.) (January 12)."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA SB879",
+    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=6QM9XKjeiqWgQIf9bsXBKW",
+    "published": "2026-01-12T05:00:00Z",
+    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/12 Read first time."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA SB879",
+    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=6QM9XKjeiqWgQIf9bsXBKW",
+    "published": "2026-01-12T05:00:00Z",
+    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/12 Read first time."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+    "title": "CA SB879",
+    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=6QM9XKjeiqWgQIf9bsXBKW",
+    "published": "2026-01-12T05:00:00Z",
+    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/12 Read first time."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SB879",
+    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=6QM9XKjeiqWgQIf9bsXBKW",
+    "published": "2026-01-12T05:00:00Z",
+    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/12 Read first time."
   },
   {
     "source": "LegiScan Search Feed - Military Search",
@@ -273,7 +315,21 @@
     "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/10 From printer."
   },
   {
-    "source": "LegiScan Search Feed - Veteran Search",
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB1563",
+    "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=4bZZvEojIAIizyAug87HUC",
+    "published": "2026-01-10T05:00:00Z",
+    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/10 From printer."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA AB1563",
+    "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=4bZZvEojIAIizyAug87HUC",
+    "published": "2026-01-10T05:00:00Z",
+    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/10 From printer."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
     "title": "CA AB1563",
     "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=4bZZvEojIAIizyAug87HUC",
     "published": "2026-01-10T05:00:00Z",
@@ -308,67 +364,11 @@
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"549\" src=\"https://americanmilitarynews.com/wp-content/uploads/170612-N-BL637-074-768x549.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />President Donald Trump called on Wednesday for the United States to pass a $1.5 trillion military budget for 2027 to build the &#8220;Dream Military.&#8221; While the budget would mark a roughly 50% increase over this year&#8217;s defense budget, Trump suggested that tariffs would help fund the higher military budget. &#8220;After long and difficult negotiations with &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/01/trump-calls-for-1-5-trillion-defense-spending-for-dream-military/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
-    "title": "CA SB879",
-    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=5kz31aMKmoCla9OQILjsWV",
-    "published": "2026-01-09T05:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/09 Introduced. Referred to Com. on B. & F. R."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA SB879",
-    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=5kz31aMKmoCla9OQILjsWV",
-    "published": "2026-01-09T05:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/09 Introduced. Referred to Com. on B. & F. R."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB1563",
-    "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=1mwyyUfQ0ZwZn7NigLgiq5",
-    "published": "2026-01-09T05:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/09 Read first time. To print."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA AB1563",
-    "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=1mwyyUfQ0ZwZn7NigLgiq5",
-    "published": "2026-01-09T05:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/09 Read first time. To print."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA SB879",
-    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=5kz31aMKmoCla9OQILjsWV",
-    "published": "2026-01-09T05:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/09 Introduced. Referred to Com. on B. & F. R."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA AB1563",
-    "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=1mwyyUfQ0ZwZn7NigLgiq5",
-    "published": "2026-01-09T05:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/09 Read first time. To print."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA SB879",
-    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=5kz31aMKmoCla9OQILjsWV",
-    "published": "2026-01-09T05:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/09 Introduced. Referred to Com. on B. & F. R."
-  },
-  {
     "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
     "title": "CA SB247",
     "link": "https://legiscan.com/CA/bill/SB247/2025?utm_campaign=rss&guid=nwv9cOAbvaguUOEQfloCI",
     "published": "2026-01-09T05:00:00Z",
     "summary": "An act to add Article 1.7 (commencing with Section 10117) to Chapter 1 of Part 2 of Division 2 of the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/01/09 Set for hearing January 20."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA ACR118",
-    "link": "https://legiscan.com/CA/bill/ACR118/2025?utm_campaign=rss&guid=5jdBN4YJfTsN7a4GTQFFDW",
-    "published": "2026-01-09T05:00:00Z",
-    "summary": "Relative to Korean American Day.<br />\n<br />\n2026/01/09 From printer."
   },
   {
     "source": "The Auditor",
