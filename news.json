@@ -1,24 +1,31 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2026-01-15T06:17:40Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-01-15T06:17:40Z",
+    "published": "2026-01-15T12:21:18Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-01-15T06:17:39Z",
+    "published": "2026-01-15T12:21:17Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
+    "published": "2026-01-15T12:21:17Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Globe",
+    "title": "Service of Summons on Persons",
+    "link": "https://californiaglobe.com/articles/service-of-summons-on-persons/",
+    "published": "2026-01-15T10:30:57Z",
+    "summary": "Allows a summons to be served on a corporation that has forfeited its charter or right to do business"
   },
   {
     "source": "Public Policy Institute of California",
@@ -96,13 +103,6 @@
     "link": "https://taskandpurpose.com/history/veterans-afghan-allies-shooting-politics/",
     "published": "2026-01-14T19:30:49Z",
     "summary": "<p>Established visa pipelines for Afghan allies have been shuttered, veterans say, despite having no connection to a November National Guard shooting.</p>\n<p>The post <a href=\"https://taskandpurpose.com/history/veterans-afghan-allies-shooting-politics/\">Veterans defend Afghan ally programs as Trump closes doors</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
-    "source": "California Globe",
-    "title": "LA County Supervisors Approve ‘ICE-Free Zones’ on County Property, Defying Federal Enforcement",
-    "link": "https://californiaglobe.com/fr/la-county-supervisors-approve-ice-free-zones-on-county-property-defying-federal-enforcement/",
-    "published": "2026-01-14T17:45:36Z",
-    "summary": "This latest escalation fits squarely into California&#8217;s long pattern of obstructing federal immigration law"
   },
   {
     "source": "CalMatters",
@@ -197,10 +197,31 @@
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SCA4",
+    "link": "https://legiscan.com/CA/bill/SCA4/2025?utm_campaign=rss&guid=1LZxzpYLIx5L7EmS1PE3jj",
+    "published": "2026-01-14T05:00:00Z",
+    "summary": "A resolution to propose to the people of the State of California an amendment to the Constitution of the State, by amending Section 3 of Article XIII thereof, relating to property taxation.<br />\n<br />\n2026/01/14 From committee: Be adopted and re-refer to Com. on E. & C.A. (Ayes 5. Noes 0.) (January 14). Re-referred to Com. on E. & C.A."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
     "title": "CA SB381",
     "link": "https://legiscan.com/CA/bill/SB381/2025?utm_campaign=rss&guid=sOUB4soEPn6wXTbvfxtR6",
     "published": "2026-01-14T05:00:00Z",
     "summary": "An act to amend Section 1798.24 of the Civil Code, and to amend Sections 102645, 102685, and 102705 of, to add Sections 102620 and 102706 to, and to repeal Section 102675 of, the Health and Safety Code, relating to vital records.<br />\n<br />\n2026/01/14 From committee: Do pass and re-refer to Com. on HEALTH. (Ayes 13. Noes 0.) (January 13). Re-referred to Com. on HEALTH."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA SB892",
+    "link": "https://legiscan.com/CA/bill/SB892/2025?utm_campaign=rss&guid=39I1EKCkZwUgxnCCIuVQMQ",
+    "published": "2026-01-14T05:00:00Z",
+    "summary": "An act to amend, repeal, and add Section 66025.8 of the Education Code, relating to public postsecondary education.<br />\n<br />\n2026/01/14 Introduced. Read first time. To Com. on RLS. for assignment. To print."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA SB99",
+    "link": "https://legiscan.com/CA/bill/SB99/2025?utm_campaign=rss&guid=4G0CtcYYNuiH0aa5fToWfH",
+    "published": "2026-01-14T05:00:00Z",
+    "summary": "An act to amend Sections 6306 and 6383 of, and to add Section 6326.5 to, the Family Code, relating to protective orders.<br />\n<br />\n2026/01/14 From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (January 13)."
   },
   {
     "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
@@ -217,6 +238,13 @@
     "summary": "An act to add Section 6068.1 to the Business and Professions Code, and to amend Section 128.7 of, and to add Section 1282.1 to, the Code of Civil Procedure, relating to artificial intelligence.<br />\n<br />\n2026/01/14 From committee: Do pass and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (January 13). Re-referred to Com. on APPR."
   },
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+    "title": "CA SB33",
+    "link": "https://legiscan.com/CA/bill/SB33/2025?utm_campaign=rss&guid=3IjK4MNyjE5N3vW21JAQHn",
+    "published": "2026-01-14T05:00:00Z",
+    "summary": "An act to amend Section 9204 of the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/01/14 From committee: Do pass and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (January 13). Re-referred to Com. on APPR."
+  },
+  {
     "source": "LegiScan Search Feed - Military Search",
     "title": "CA SB892",
     "link": "https://legiscan.com/CA/bill/SB892/2025?utm_campaign=rss&guid=39I1EKCkZwUgxnCCIuVQMQ",
@@ -229,6 +257,13 @@
     "link": "https://legiscan.com/CA/bill/SB574/2025?utm_campaign=rss&guid=7XTnE5CY83FSp1nUJdTwtE",
     "published": "2026-01-14T05:00:00Z",
     "summary": "An act to add Section 6068.1 to the Business and Professions Code, and to amend Section 128.7 of, and to add Section 1282.1 to, the Code of Civil Procedure, relating to artificial intelligence.<br />\n<br />\n2026/01/14 From committee: Do pass and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (January 13). Re-referred to Com. on APPR."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SCA4",
+    "link": "https://legiscan.com/CA/bill/SCA4/2025?utm_campaign=rss&guid=1LZxzpYLIx5L7EmS1PE3jj",
+    "published": "2026-01-14T05:00:00Z",
+    "summary": "A resolution to propose to the people of the State of California an amendment to the Constitution of the State, by amending Section 3 of Article XIII thereof, relating to property taxation.<br />\n<br />\n2026/01/14 From committee: Be adopted and re-refer to Com. on E. & C.A. (Ayes 5. Noes 0.) (January 14). Re-referred to Com. on E. & C.A."
   },
   {
     "source": "LegiScan Search Feed - Military Search",
@@ -285,13 +320,6 @@
     "link": "https://americanmilitarynews.com/2026/01/videos-trump-issues-major-warning-to-iran-as-hundreds-of-protests-are-killed/",
     "published": "2026-01-13T13:51:00Z",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://americanmilitarynews.com/wp-content/uploads/Trump-talks-to-reporters-768x512.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />President Donald Trump warned on Sunday that the U.S. military is &#8220;looking at some very strong options&#8221; with regard to Iran after reports have indicated that the Iranian government is killing hundreds of protesters across the Middle Eastern nation. According to the Human Rights Activists News Agency, over 544 people have been killed and over &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/01/videos-trump-issues-major-warning-to-iran-as-hundreds-of-protests-are-killed/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA SB99",
-    "link": "https://legiscan.com/CA/bill/SB99/2025?utm_campaign=rss&guid=7OCzWEYZCUprywi2nTU3vI",
-    "published": "2026-01-13T05:00:00Z",
-    "summary": "An act to amend Sections 6306 and 6383 of, and to add Section 6326.5 to, the Family Code, relating to protective orders.<br />\n<br />\n2026/01/13 From committee: Do pass and re-refer to Com. on JUD. (Ayes 5. Noes 0.) (January 13). Re-referred to Com. on JUD."
   },
   {
     "source": "The Official United States Marine Corps Public Website News",
@@ -362,13 +390,6 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4377344/v16-sharpens-skills-in-south-korea-during-unit-deployment-program/",
     "published": "2026-01-11T16:15:00Z",
     "summary": "U.S. Marines with 1st Battalion, 6th Marines, forward deployed with 4th Marine Regiment, 3rd Marine Division as part of the Unit Deployment Program, honed warfighting skills while training across South Korea, from Nov. 29, 2025 to Jan. 10, 2026.<br /> \n<img alt=\"U.S. Marine Corps Lance Cpl. Aaron Duran, left, and Lance Cpl. Juan Hilario, both machine gunners with 1st Battalion, 6th Marines, forward deployed with 4th Marine Regiment, 3rd Marine Division as part of the Unit Deployment Program, fire on simulated adversary forces with an M240B machine gun while conducting platoon attacks in an urban environment during Korea Viper 26.1 at Camp Rodriguez, South Korea, Dec. 17, 2025. Korea Viper is a recurring exercise series that demonstrates the Republic of Korea and U.S. Marine Corps\" src=\"https://media.defense.gov/2026/Jan/11/2003856031/115/75/0/251217-M-SH338-1056.JPG\" /> <br />"
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "The Most Transparent Administration in History — Isn’t",
-    "link": "https://theliberaloc.com/2026/01/10/the-most-transparent-administration-in-history-isnt/",
-    "published": "2026-01-10T17:02:10Z",
-    "summary": "Many of you know my day job is running a technology PR firm that specializes in cybersecurity.  When we pitch new clients &#8212; often start-ups <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/01/10/the-most-transparent-administration-in-history-isnt/\" title=\"The Most Transparent Administration in History &#8212; Isn&#8217;t\">[...]</a>"
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
@@ -448,34 +469,6 @@
     "summary": "Explore how VA telehealth services are revolutionizing Veteran health care! U.S. Army Veteran Carmen Drummond shares why more Veterans trust VA Video Connect for mental health appointments, primary care, and routine check-ins—bringing care to your home or on the go.\n \nWe also celebrate 100 years of VA medical research and spotlight the Million Veteran Program (MVP)—a groundbreaking genetic research study that examines how DNA, lifestyle, and military experience impact Veteran health outcomes. These innovations are shaping the future of Veteran care, telemedicine, and personalized medicine.\n \nLearn more:\n- VA Telehealth | https://telehealth.va.gov/\n- Million Veteran Program | https://www.mvp.va.gov/\n \nThank you for watching—and thank you for your service!\n#VANews #Veterans #Telehealth #VAResearch #MVP #VeteranCare #Innovation #VAHealthCare #Telemedicine #MentalHealthSupport #VeteranBenefits"
   },
   {
-    "source": "The Liberal OC",
-    "title": "Don’t Let MAGA Whitewash January 6",
-    "link": "https://theliberaloc.com/2026/01/06/dont-let-maga-whitewash-january-6/",
-    "published": "2026-01-06T17:57:19Z",
-    "summary": "&#160; President Trump&#8217;s mass pardon of the January 6 rioters remains a black eye in our history.  These were not Patriots.  They were insurrectionists seeking <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/01/06/dont-let-maga-whitewash-january-6/\" title=\"Don&#8217;t Let MAGA Whitewash January 6\">[...]</a>"
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SCA4",
-    "link": "https://legiscan.com/CA/bill/SCA4/2025?utm_campaign=rss&guid=7bVnY1B8dWHRPVw0iNRtsc",
-    "published": "2026-01-06T05:00:00Z",
-    "summary": "A resolution to propose to the people of the State of California an amendment to the Constitution of the State, by amending Section 3 of Article XIII thereof, relating to property taxation.<br />\n<br />\n2026/01/06 Set for hearing January 14."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA SB33",
-    "link": "https://legiscan.com/CA/bill/SB33/2025?utm_campaign=rss&guid=4OK7NJc8aYJ1nk6iO3OeIr",
-    "published": "2026-01-06T05:00:00Z",
-    "summary": "An act to amend Section 9204 of the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/01/06 Set for hearing January 13."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SCA4",
-    "link": "https://legiscan.com/CA/bill/SCA4/2025?utm_campaign=rss&guid=7bVnY1B8dWHRPVw0iNRtsc",
-    "published": "2026-01-06T05:00:00Z",
-    "summary": "A resolution to propose to the people of the State of California an amendment to the Constitution of the State, by amending Section 3 of Article XIII thereof, relating to property taxation.<br />\n<br />\n2026/01/06 Set for hearing January 14."
-  },
-  {
     "source": "Legislative Analyst's Office: Recent Publications",
     "title": "Assessing a Shift to Enrollment-Based School Funding",
     "link": "https://lao.ca.gov/Publications/Detail/5100",
@@ -490,32 +483,11 @@
     "summary": "<p>By IJ Arora, Ph.D. The choice between writing a procedure or a work instruction is an essential decision when designing a management system. Clause 4.4.1 of ISO 9001:2015 (as well as all the ISO management system standards using the harmonized structure) requires the establishment and implementation of a management system. This management system will have [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/procedure-work-instruction-or-flowchart/\">Procedure, Work Instruction, or Flowchart?</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
-    "source": "The Liberal OC",
-    "title": "Democrats of Greater Irvine Endorsement Meeting Jan 7",
-    "link": "https://theliberaloc.com/2026/01/02/democrats-of-greater-irvine-endorsement-meeting-jan-7/",
-    "published": "2026-01-02T19:42:20Z",
-    "summary": "Join us for our important Endorsement Meeting, where members-in-good standing will help determine our club’s endorsement support positions for those running for state and federal offices. <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/01/02/democrats-of-greater-irvine-endorsement-meeting-jan-7/\" title=\"Democrats of Greater Irvine Endorsement Meeting Jan 7\">[...]</a>"
-  },
-  {
     "source": "The Official United States Marine Corps Public Website News",
     "title": "From Master Sergeant to First Sergeant: Master Sgt. Joseph B. Stoker Paves the Way for Future Leadership in the Marine Corps",
     "link": "https://www.marines.mil/News/News-Display/Article/4372318/from-master-sergeant-to-first-sergeant-master-sgt-joseph-b-stoker-paves-the-way/",
     "published": "2026-01-02T16:14:00Z",
     "summary": "A new program offering a unique career transition for Marine Corps enlisted leaders has attracted attention, and a local Marine with U.S. Marine Corps Forces Reserve is one of the first to benefit from the program.<br /> \n<img alt=\"Master Sgt. Cord E. Burgan, is redesignated to the rank of first sergeant at the National Museum of the Marine Corps Jan. 5, 2025.\" src=\"https://media.defense.gov/2026/Jan/07/2003851923/115/75/0/260105-M-RG120-1047.JPG\" /> <br />"
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "Happy New Year!",
-    "link": "https://theliberaloc.com/2026/01/01/happy-new-year-9/",
-    "published": "2026-01-01T08:03:30Z",
-    "summary": ""
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "Is a January 6th Hearing a Window into Tammy Kim’s Election Crime Case?",
-    "link": "https://theliberaloc.com/2025/12/29/is-a-january-6th-hearing-a-window-into-tammy-kims-election-crime-case/",
-    "published": "2025-12-30T00:07:42Z",
-    "summary": "TheLiberalOC has learned that former Irvine City Council member Tammy Kim will appear in Court January 6 at the Harbor Newport Beach courtroom on a <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2025/12/29/is-a-january-6th-hearing-a-window-into-tammy-kims-election-crime-case/\" title=\"Is a January 6th Hearing a Window into Tammy Kim&#8217;s Election Crime Case?\">[...]</a>"
   },
   {
     "source": "The Auditor",
@@ -698,5 +670,33 @@
     "link": "https://rss.com/podcasts/yourleonation/2276526",
     "published": "2025-10-17T17:50:36Z",
     "summary": "<p>Federal Government Focus: School Board Controversy &amp; FBI Achievements</p><p>Do you remember the controversy over the federal government's intervention in school board meetings? This episode delves into the Department of Justice's priorities under Merrick Garland and the involvement of the National Security Division in parental disagreements at school boards. Additionally, we highlight the FBI's achievements in combating violent crime, seizing illegal firearms and drugs, and arresting top criminals during the Trump administration. Is this the best use of federal resources? Should local or state law enforcement handle such issues? Discover the contrasting focuses and effectiveness between administrations.</p>"
+  },
+  {
+    "source": "California Democratic Party",
+    "title": "CADEM Ramps Up Voter Protection Efforts Ahead of November 2025 Election",
+    "link": "https://cadem.org/cadem-ramps-up-voter-protection-efforts-ahead-of-november-2025-election/",
+    "published": "2025-10-13T16:44:22Z",
+    "summary": "<p>SACRAMENTO, CA —&#160;Today the California Democratic Party (CADEM) announced expanded voter protection efforts across the state leading up to the Special Election on November 4, 2025 to ensure voters have access to trusted information, legal support, and on-the-ground assistance from trained volunteers at every step of the voting process.&#160; Since 1992, the California Democratic Party’s [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/cadem-ramps-up-voter-protection-efforts-ahead-of-november-2025-election/\">CADEM Ramps Up Voter Protection Efforts Ahead of November 2025 Election</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA SB257",
+    "link": "https://legiscan.com/CA/bill/SB257/2025?utm_campaign=rss&guid=3bpUrpETasEZrsoqlRZVLi",
+    "published": "2025-10-13T04:00:00Z",
+    "summary": "An act to amend Section 1399.849 of the Health and Safety Code, and to amend Section 10965.3 of the Insurance Code, relating to health care coverage.<br />\n<br />\n2025/10/13 In Senate. Consideration of Governor's veto pending."
+  },
+  {
+    "source": "Your Leo Nation",
+    "title": "Beyond Wokeness: A Call for True Leadership in Law Enforcement and Politics",
+    "link": "https://rss.com/podcasts/yourleonation/2266004",
+    "published": "2025-10-11T16:48:39Z",
+    "summary": "<p>Beyond Wokeness: A Call for True Leadership in Law Enforcement and Politics</p><p>With special guest Marc Gomez (Retired Sergeant CHP) we dive into the current state of leadership and its challenges. From the Attorney General candidate Jay Jones' scandal in Virginia to the controversial decision by Chicago PD's Chief of Patrol, we explore how politics influence critical decisions. We also examine Secretary of War Pete Hegseth's bold statements on restoring military standards and how this contrasts with the perceived lack of leadership in places like Chicago. How is leadership shaping the future of our institutions? Can we navigate through political influence to uphold professionalism and safety? Join the discussion and get the facts.</p>"
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA SB647",
+    "link": "https://legiscan.com/CA/bill/SB647/2025?utm_campaign=rss&guid=2jTrblzVSoVbxlvoBAR7OE",
+    "published": "2025-10-03T04:00:00Z",
+    "summary": "An act to amend Section 25665.1 of the Public Resources Code, and to amend Section 382.1 of the Public Utilities Code, relating to energy.<br />\n<br />\n2025/10/03 In Senate. Consideration of Governor's veto pending."
   }
 ]
