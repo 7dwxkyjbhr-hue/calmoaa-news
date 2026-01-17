@@ -1,24 +1,24 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2026-01-17T00:49:47Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-01-17T04:46:40Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-01-17T00:49:47Z",
+    "published": "2026-01-17T04:46:32Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-01-17T00:49:46Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
+    "published": "2026-01-17T04:45:45Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "California Globe",
@@ -161,6 +161,76 @@
     "summary": "<p>The Defense Commissary Agency will offer online delivery from 70 base stores by the end of January and the remaining 108 stores by the summer.</p>\n<p>The post <a href=\"https://taskandpurpose.com/military-life/commissary-online-delivery/\">The military will now do grocery delivery for 70 on-base commissaries across the US</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SB893",
+    "link": "https://legiscan.com/CA/bill/SB893/2025?utm_campaign=rss&guid=woIUeipFaHhx1hJTzsCM2",
+    "published": "2026-01-16T05:00:00Z",
+    "summary": "An act to add Section 5011.4 to the Public Resources Code, relating to state parks.<br />\n<br />\n2026/01/16 From printer. May be acted upon on or after February 15."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB939",
+    "link": "https://legiscan.com/CA/bill/AB939/2025?utm_campaign=rss&guid=sdTPjGHJAKdG24vCDKVql",
+    "published": "2026-01-16T05:00:00Z",
+    "summary": "An act to amend Section 65915 of the Government Code, relating to housing.<br />\n<br />\n2026/01/16 Re-referred to Com. on APPR."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB1597",
+    "link": "https://legiscan.com/CA/bill/AB1597/2025?utm_campaign=rss&guid=XmeWXoOTIA73LIe5fg5Jv",
+    "published": "2026-01-16T05:00:00Z",
+    "summary": "An act to amend Section 8211 of the Government Code, relating to notary public.<br />\n<br />\n2026/01/16 Read first time. To print."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SB381",
+    "link": "https://legiscan.com/CA/bill/SB381/2025?utm_campaign=rss&guid=3VABtWgMYuqvrr76onHFea",
+    "published": "2026-01-16T05:00:00Z",
+    "summary": "An act to amend Section 1798.24 of the Civil Code, and to amend Sections 102645 and 102685 of, to amend, repeal, and add Section 102705 of, to add Sections 102620 and 102706 to, and to repeal Section 102675 of, the Health and Safety Code, relating to vital records.<br />\n<br />\n2026/01/16 Read second time and amended. Re-referred to Com. on APPR."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB1184",
+    "link": "https://legiscan.com/CA/bill/AB1184/2025?utm_campaign=rss&guid=1xWUnbWj6VP2MmMkgNAXST",
+    "published": "2026-01-16T05:00:00Z",
+    "summary": "An act to amend Sections 4360, 4910, 4935, 4950, 5100, 5120, 5205, and 5235 of, and to add Sections 4921 and 4941 to, the Civil Code, relating to common interest developments.<br />\n<br />\n2026/01/16 Read second time. Ordered to third reading."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SCR113",
+    "link": "https://legiscan.com/CA/bill/SCR113/2025?utm_campaign=rss&guid=6V1cc8bH63YN3HBYzGixFr",
+    "published": "2026-01-16T05:00:00Z",
+    "summary": "Relative to Gold Star Mothers’ and Families’ Day.<br />\n<br />\n2026/01/16 Introduced. Referred to Com. on RLS."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB1597",
+    "link": "https://legiscan.com/CA/bill/AB1597/2025?utm_campaign=rss&guid=XmeWXoOTIA73LIe5fg5Jv",
+    "published": "2026-01-16T05:00:00Z",
+    "summary": "An act to amend Section 8211 of the Government Code, relating to notary public.<br />\n<br />\n2026/01/16 Read first time. To print."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB1184",
+    "link": "https://legiscan.com/CA/bill/AB1184/2025?utm_campaign=rss&guid=1xWUnbWj6VP2MmMkgNAXST",
+    "published": "2026-01-16T05:00:00Z",
+    "summary": "An act to amend Sections 4360, 4910, 4935, 4950, 5100, 5120, 5205, and 5235 of, and to add Sections 4921 and 4941 to, the Civil Code, relating to common interest developments.<br />\n<br />\n2026/01/16 Read second time. Ordered to third reading."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB1589",
+    "link": "https://legiscan.com/CA/bill/AB1589/2025?utm_campaign=rss&guid=20gaAZLo3h7vfLVaqXTiIx",
+    "published": "2026-01-16T05:00:00Z",
+    "summary": "An act to amend Section 33415 of the Penal Code, relating to firearms.<br />\n<br />\n2026/01/16 From printer. May be heard in committee February 15."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB1265",
+    "link": "https://legiscan.com/CA/bill/AB1265/2025?utm_campaign=rss&guid=iy7nWOSdiPJXQTgqLyIaa",
+    "published": "2026-01-16T05:00:00Z",
+    "summary": "An act to amend Section 17053.91 of, and to add and repeal Sections 17053.92 and 23692 of, the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/01/16 Read second time and amended."
+  },
+  {
     "source": "Task & Purpose",
     "title": "VA watchdog issues warning on AI use by medical staff",
     "link": "https://taskandpurpose.com/military-life/va-inspector-general-ai-medical-use/",
@@ -210,41 +280,6 @@
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://americanmilitarynews.com/wp-content/uploads/Kristi-noem-photo-768x512.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />President Donald Trump&#8217;s administration announced on Tuesday that it is ending Temporary Protected Status for Somali nationals currently living in the United States. The administration confirmed that Somali nationals will need to leave the United States after the Temporary Protected Status designation expires on March 17. In a Tuesday statement on X, formerly Twitter, Homeland &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/01/trump-admin-ends-temporary-protected-status-for-somali-migrants/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
   },
   {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB892",
-    "link": "https://legiscan.com/CA/bill/SB892/2025?utm_campaign=rss&guid=6CnXDjBP57tjOik4ZzUtii",
-    "published": "2026-01-15T05:00:00Z",
-    "summary": "An act to amend, repeal, and add Section 66025.8 of the Education Code, relating to public postsecondary education.<br />\n<br />\n2026/01/15 From printer. May be acted upon on or after February 14."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB381",
-    "link": "https://legiscan.com/CA/bill/SB381/2025?utm_campaign=rss&guid=4mkAJhBjujpVg5Tj864ujT",
-    "published": "2026-01-15T05:00:00Z",
-    "summary": "An act to amend Section 1798.24 of the Civil Code, and to amend Sections 102645, 102685, and 102705 of, to add Sections 102620 and 102706 to, and to repeal Section 102675 of, the Health and Safety Code, relating to vital records.<br />\n<br />\n2026/01/15 From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (January 14)."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB893",
-    "link": "https://legiscan.com/CA/bill/SB893/2025?utm_campaign=rss&guid=6UoZ8m1hRCholGIJzj0eVC",
-    "published": "2026-01-15T05:00:00Z",
-    "summary": "An act to add Section 5011.4 to the Public Resources Code, relating to state parks.<br />\n<br />\n2026/01/15 Introduced. Read first time. To Com. on RLS. for assignment. To print."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB623",
-    "link": "https://legiscan.com/CA/bill/SB623/2025?utm_campaign=rss&guid=41ngZL9H44a2lfMX3dASZP",
-    "published": "2026-01-15T05:00:00Z",
-    "summary": "An act to amend Section 218 of the Revenue and Taxation Code, relating to property taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/01/15 Set for hearing January 20."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB479",
-    "link": "https://legiscan.com/CA/bill/SB479/2025?utm_campaign=rss&guid=4bGrMTeEjULIbnx7JoPVqS",
-    "published": "2026-01-15T05:00:00Z",
-    "summary": "An act to amend Section 18999.8 of the Welfare and Institutions Code, relating to homelessness.<br />\n<br />\n2026/01/15 Set for hearing January 20."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
     "title": "CA SB892",
     "link": "https://legiscan.com/CA/bill/SB892/2025?utm_campaign=rss&guid=6CnXDjBP57tjOik4ZzUtii",
@@ -278,41 +313,6 @@
     "link": "https://legiscan.com/CA/bill/SB33/2025?utm_campaign=rss&guid=5hqwMIRmKdUNlHGy9lLf5t",
     "published": "2026-01-15T05:00:00Z",
     "summary": "An act to amend Section 9204 of the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/01/15 Set for hearing January 20."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SB623",
-    "link": "https://legiscan.com/CA/bill/SB623/2025?utm_campaign=rss&guid=41ngZL9H44a2lfMX3dASZP",
-    "published": "2026-01-15T05:00:00Z",
-    "summary": "An act to amend Section 218 of the Revenue and Taxation Code, relating to property taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/01/15 Set for hearing January 20."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB1589",
-    "link": "https://legiscan.com/CA/bill/AB1589/2025?utm_campaign=rss&guid=4FU3UGoQZt5xdHKCY6WZAC",
-    "published": "2026-01-15T05:00:00Z",
-    "summary": "An act to amend Section 33415 of the Penal Code, relating to firearms.<br />\n<br />\n2026/01/15 Read first time. To print."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SB574",
-    "link": "https://legiscan.com/CA/bill/SB574/2025?utm_campaign=rss&guid=2YTuYRK22CNZoaPRCHoaiA",
-    "published": "2026-01-15T05:00:00Z",
-    "summary": "An act to add Section 6068.1 to the Business and Professions Code, and to amend Section 128.7 of, and to add Section 1282.1 to, the Code of Civil Procedure, relating to artificial intelligence.<br />\n<br />\n2026/01/15 Set for hearing January 20."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB1184",
-    "link": "https://legiscan.com/CA/bill/AB1184/2025?utm_campaign=rss&guid=4apO2guuVD8azrRgPoM5C0",
-    "published": "2026-01-15T05:00:00Z",
-    "summary": "An act to amend Sections 4360, 4910, 4935, 4950, 5100, 5120, 5205, and 5235 of, and to add Sections 4921 and 4941 to, the Civil Code, relating to common interest developments.<br />\n<br />\n2026/01/15 Read second time and amended. Ordered returned to second reading."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SB888",
-    "link": "https://legiscan.com/CA/bill/SB888/2025?utm_campaign=rss&guid=2Won4BhaNVIfF3WMwP0Dfz",
-    "published": "2026-01-15T05:00:00Z",
-    "summary": "An act to amend, repeal, and add Section 205.5 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/01/15 From printer. May be acted upon on or after February 14."
   },
   {
     "source": "Public Policy Institute of California",
