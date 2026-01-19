@@ -3,22 +3,36 @@
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2026-01-19T06:22:14Z",
+    "published": "2026-01-19T12:22:38Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-01-19T06:22:14Z",
+    "published": "2026-01-19T12:22:38Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-01-19T06:22:13Z",
+    "published": "2026-01-19T12:22:37Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Globe",
+    "title": "California’s Failing Schools Would Distress Martin Luther King Today",
+    "link": "https://californiaglobe.com/fr/californias-failing-schools-would-distress-martin-luther-king-today/",
+    "published": "2026-01-19T11:00:48Z",
+    "summary": "Overwhelmingly, schools named for Dr. King fail to meet basic academic benchmarks established by the state for Reading and Math"
+  },
+  {
+    "source": "California Globe",
+    "title": "Advertising Securities",
+    "link": "https://californiaglobe.com/articles/advertising-securities/",
+    "published": "2026-01-19T10:40:39Z",
+    "summary": "Deals with advertising securities under the Corporate Securities Act Law of 1968"
   },
   {
     "source": "Task & Purpose",
@@ -56,13 +70,6 @@
     "summary": "&#8216;Good luck walking to work, a–holes&#8217;"
   },
   {
-    "source": "California Globe",
-    "title": "GDP hits 5.5%! Productivity Growth Tripled, Wages are Growing, Layoffs are the Lowest",
-    "link": "https://californiaglobe.com/fr/gdp-hits-5-5-productivity-growth-tripled-wages-are-growing-layoffs-are-the-lowest/",
-    "published": "2026-01-18T17:00:32Z",
-    "summary": "The economy grows even faster than Congress can spend it"
-  },
-  {
     "source": "California Political Review",
     "title": "Walters: California politicians wrongly fixate on education spending instead of results",
     "link": "https://capoliticalreview.com/2026/01/18/walters-california-politicians-wrongly-fixate-on-education-spending-instead-of-results/",
@@ -75,13 +82,6 @@
     "link": "https://capoliticalreview.com/2026/01/18/no-campaign-no-problem-inside-california-political-elites-shadowy-spending/",
     "published": "2026-01-18T15:00:00Z",
     "summary": "<p>California Sen. Mike McGuire, D-Santa Rosa, is a die-hard San Francisco 49ers fan. During his first speech as Senate President pro Tempore in early 2024, McGuire gave a shout-out to his beloved team, who were days away from facing the Kansas City Chiefs at the Super Bowl. His late grandmother “would be more excited that [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/01/18/no-campaign-no-problem-inside-california-political-elites-shadowy-spending/\">Read More and Comment: No campaign? No problem. Inside California political elites’ shadowy spending</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/01/18/no-campaign-no-problem-inside-california-political-elites-shadowy-spending/\">No campaign? No problem. Inside California political elites’ shadowy spending</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "California Globe",
-    "title": "Support During Pendency of Proceedings",
-    "link": "https://californiaglobe.com/articles/support-during-pendency-of-proceedings/",
-    "published": "2026-01-18T10:30:31Z",
-    "summary": "Specifies that an order for child support continues in effect until the order is terminated by the court or terminates by operation of law"
   },
   {
     "source": "Task & Purpose",
@@ -280,6 +280,13 @@
     "summary": "SD36 Candidate Rick Foster sent this on social media today…. After careful consideration and conversations with friends, supporters and Democratic leaders, I am suspending my <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/01/15/rick-foster-drops-out-of-sd36/\" title=\"Rick Foster drops out of SD36\">[...]</a>"
   },
   {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "What is CHAMPVA?",
+    "link": "https://www.youtube.com/watch?v=rs_qB52fcpo",
+    "published": "2026-01-15T17:49:21Z",
+    "summary": "CHAMPVA is the Civilian Health and Medical Program of the Department of Veterans Affairs. It provides health care coverage for eligible spouses and children of Veterans. There are no premiums, no enrollment periods, and it can work alongside other coverage. Learn what CHAMPVA offers and how to check eligibility."
+  },
+  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
     "title": "CA SB892",
     "link": "https://legiscan.com/CA/bill/SB892/2025?utm_campaign=rss&guid=6CnXDjBP57tjOik4ZzUtii",
@@ -336,11 +343,25 @@
     "summary": "<p><img alt=\"photo - People Holding US Flags\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2024/01/people-holding-us-flags.jpg\" width=\"2000\" /></p>California is home to almost 11 million immigrants, comprising over a quarter of the state’s population and a third of prime-working-age adults. The vast majority of foreign-born residents are citizens or have some other legal residency status."
   },
   {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Glad You Asked: When a Veteran Passes Away With a Pending Claim",
+    "link": "https://www.youtube.com/watch?v=CoACcNrVf2Y",
+    "published": "2026-01-14T14:00:20Z",
+    "summary": "In this episode of Glad You Asked, Deputy Secretary Paul R. Lawrence, Ph.D. explains what happens when a Veteran passes away with a pending claim. He discusses accrued benefits, payments owed up until the Veteran’s date of death, and explains who can apply, how the one-year application window works, and what families should expect."
+  },
+  {
     "source": "The Official United States Marine Corps Public Website News",
     "title": "Ready, Engaged, Lethal: I Marine Expeditionary Force Year in Review",
     "link": "https://www.marines.mil/News/News-Display/Article/4374460/ready-engaged-lethal-i-marine-expeditionary-force-year-in-review/",
     "published": "2026-01-12T19:15:45Z",
     "summary": "From the littorals of the Indo-Pacific to the familiar training grounds of Southern California, 2025<br /> \n<img alt=\"A U.S. Marine Corps F-35B Lightning II assigned to Marine Fighter Attack Training Squadron (VMFAT) 502, front, and an F-35C Lightning II assigned to Marine Fighter Attack Squadron (VMFA) 314, rear, Marine Aircraft Group 11, 3rd Marine Aircraft Wing, conduct a formation as part of Project Legacy off the coast of San Diego, March 4, 2025. The Project Legacy flight was a unique opportunity for all aircraft platforms across MAG-11 to fly as one team, practice tight formations, and take part in the documentation of a historical flight. (U.S. Marine Corps photo by Lance Cpl. Jennifer Sanchez)\" src=\"https://media.defense.gov/2026/Jan/09/2003854740/115/75/0/260109-M-IU010-1002.JPG\" /> <br />"
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Virtual Reality Helping Veterans in Primary Care",
+    "link": "https://www.youtube.com/watch?v=t2lHHvtEXJg",
+    "published": "2026-01-12T19:00:00Z",
+    "summary": "Veteran meeting with his primary care provider, wanting to decrease anxiety to help improve blood pressure. Provider offers patient Virtual Reality. Veteran's son is also inspired by his father's interest in VR and the VA's use of it."
   },
   {
     "source": "Public Policy Institute of California",
@@ -427,6 +448,13 @@
     "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/10 From printer."
   },
   {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "2026 National Veterans Creative Arts Festival | Columbia, SC",
+    "link": "https://www.youtube.com/watch?v=RZwIP3BqR9g",
+    "published": "2026-01-09T14:12:00Z",
+    "summary": "Experience the 2026 National Veterans Creative Arts Festival in Columbia, SC. Co-presented by the Department of Veterans Affairs and the American Legion Auxiliary, the National Veterans Creative Arts Festival is the culmination of VA facility competitions in art, creative writing, dance, drama and music for Veterans enrolled in the VA health care system. Veterans exhibit their gold medal winning artwork, original writings, and perform music, dance or dramatic pieces. All Veterans invited to participate are gold medal winners in a national creative arts competition in which thousands of Veterans enter from VA medical facilities across the nation.\n\nFor more information:\nhttps://department.va.gov/veteran-sports/national-veterans-creative-arts-festival/\nhttps://www.va.gov\nhttps://member.legion-aux.org/Home\n\n#veteransaffairs #veteran #arttherapy"
+  },
+  {
     "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
     "title": "CA SB247",
     "link": "https://legiscan.com/CA/bill/SB247/2025?utm_campaign=rss&guid=nwv9cOAbvaguUOEQfloCI",
@@ -434,18 +462,18 @@
     "summary": "An act to add Article 1.7 (commencing with Section 10117) to Chapter 1 of Part 2 of Division 2 of the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/01/09 Set for hearing January 20."
   },
   {
-    "source": "The Auditor",
-    "title": "Put SQF Unites on Your 2026 Calendar",
-    "link": "https://www.theauditoronline.com/put-sqf-unites-on-your-2026-calendar/",
-    "published": "2026-01-08T02:17:49Z",
-    "summary": "<p>A new year brings new priorities, and now is the perfect time to plan for how you’ll prepare for SQF Code, Edition 10. Edition 10 places a stronger emphasis on how food safety programs perform in practice, not just how they’re documented. With a focus on practical application, SQF Unites 2026 brings concepts to life with [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/put-sqf-unites-on-your-2026-calendar/\">Put SQF Unites on Your 2026 Calendar</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
     "source": "California Democratic Party",
     "title": "California Democratic Party Announces Leadership Transition: Yvette Martinez Named Senior Advisor, Melanie V. Ramil Promoted to Executive Director",
     "link": "https://cadem.org/california-democratic-party-announces-leadership-transition-yvette-martinez-named-senior-advisor-melanie-v-ramil-promoted-to-executive-director/",
     "published": "2026-01-07T19:14:57Z",
     "summary": "<p>Andrés Molina Will Serve as Acting Political Director SACRAMENTO, CA — The California Democratic Party (CADEM) today announced a leadership transition that builds on years of historic growth and electoral success. Yvette Martinez, who has served as Executive Director of CADEM, will step into a new role as Senior Advisor to Chair Rusty Hicks on [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-announces-leadership-transition-yvette-martinez-named-senior-advisor-melanie-v-ramil-promoted-to-executive-director/\">California Democratic Party Announces Leadership Transition: Yvette Martinez Named Senior Advisor, Melanie V. Ramil Promoted to Executive Director</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Glad You Asked: Tips for Filing Your Benefits Claims",
+    "link": "https://www.youtube.com/watch?v=P-thGluFIew",
+    "published": "2026-01-07T14:00:45Z",
+    "summary": "In this episode of Glad You Asked, Deputy Secretary Paul R. Lawrence, Ph.D. shares practical filing tips from VA and VSO experts. He highlights common mistakes, best practices, and even explains why filing online, rather than by mail, can result in receiving more money due to faster and more accurate processing."
   },
   {
     "source": "CVA News & Media",
@@ -469,13 +497,6 @@
     "summary": "Chapter 442 of 2024 (SB 98, Portantino) requires our office to report on the effects of changing the student count methodology of the Local Control Funding Formula and other K-12 education programs from average daily attendance to student enrollment. In this report, we provide our assessment of such a shift, describe a few policy alternatives that maintain the attendance-based system, and identify key issues for the Legislature to consider if switching to enrollment-based funding."
   },
   {
-    "source": "The Auditor",
-    "title": "Procedure, Work Instruction, or Flowchart?",
-    "link": "https://www.theauditoronline.com/procedure-work-instruction-or-flowchart/",
-    "published": "2026-01-05T23:08:58Z",
-    "summary": "<p>By IJ Arora, Ph.D. The choice between writing a procedure or a work instruction is an essential decision when designing a management system. Clause 4.4.1 of ISO 9001:2015 (as well as all the ISO management system standards using the harmonized structure) requires the establishment and implementation of a management system. This management system will have [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/procedure-work-instruction-or-flowchart/\">Procedure, Work Instruction, or Flowchart?</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
     "source": "The Liberal OC",
     "title": "Democrats of Greater Irvine Endorsement Meeting Jan 7",
     "link": "https://theliberaloc.com/2026/01/02/democrats-of-greater-irvine-endorsement-meeting-jan-7/",
@@ -488,20 +509,6 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4372318/from-master-sergeant-to-first-sergeant-master-sgt-joseph-b-stoker-paves-the-way/",
     "published": "2026-01-02T16:14:00Z",
     "summary": "A new program offering a unique career transition for Marine Corps enlisted leaders has attracted attention, and a local Marine with U.S. Marine Corps Forces Reserve is one of the first to benefit from the program.<br /> \n<img alt=\"Master Sgt. Cord E. Burgan, is redesignated to the rank of first sergeant at the National Museum of the Marine Corps Jan. 5, 2025.\" src=\"https://media.defense.gov/2026/Jan/07/2003851923/115/75/0/260105-M-RG120-1047.JPG\" /> <br />"
-  },
-  {
-    "source": "The Auditor",
-    "title": "The 12 Things ISO Management System Auditors Learned This Year",
-    "link": "https://www.theauditoronline.com/the-12-things-iso-management-system-auditors-learned-this-year/",
-    "published": "2025-12-23T00:01:39Z",
-    "summary": "<p>By Jackie Stapleton I was sitting at my desk thinking about what on earth people would actually want to read the week before Christmas. Everyone is tired. Audits are being rushed to close out before shutdowns. Out-of-office replies are multiplying fast. The last thing anyone needs right now is another article telling them what they [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/the-12-things-iso-management-system-auditors-learned-this-year/\">The 12 Things ISO Management System Auditors Learned This Year</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
-    "source": "The Auditor",
-    "title": "JASANZ Welcomes New Chair to Lead Technical Advisory Council",
-    "link": "https://www.theauditoronline.com/jasanz-welcomes-new-chair-to-lead-technical-advisory-council/",
-    "published": "2025-12-22T02:22:50Z",
-    "summary": "<p>The Joint Accreditation System of Australia and New Zealand (JASANZ) recently appointed Dr. Graeme Benny as chair of its Technical Advisory Council (TAC), strengthening accreditation across the Tasman. Dr. Benny brings extensive experience, including serving on the Accreditation Council of New Zealand and as chair of the Accreditation Committee of IANZ. The TAC provides independent [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/jasanz-welcomes-new-chair-to-lead-technical-advisory-council/\">JASANZ Welcomes New Chair to Lead Technical Advisory Council</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "The Official United States Marine Corps Public Website News",
@@ -523,13 +530,6 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4363978/marine-corps-announces-updated-physical-fitness-standards/",
     "published": "2025-12-18T18:02:00Z",
     "summary": "The Marine Corps is implementing changes to its Physical Fitness Test and body composition standards in accordance with the Secretary of War’s Military Fitness Standards memorandum issued on Sept. 30, 2025. These changes, announced in MARADMIN 613/25, will take effect on Jan. 1, 2026.<br /> \n<img alt=\"U.S. Marine Corps recruits with Alpha Company, 1st Recruit Training Battalion conduct the run portion of an initial strength assessment at Marine Corps Recruit Depot San Diego, California, Sept. 6, 2025. The ISA is a baseline test for new recruits to ensure they meet the physical requirements to begin the 13-week transformation to earn the title United States Marine. (U.S. Marine Corps photo by Cpl. Sarah M. Grawcock)\" src=\"https://media.defense.gov/2025/Dec/18/2003844779/115/75/0/250906-M-JK941-2419.JPG\" /> <br />"
-  },
-  {
-    "source": "The Auditor",
-    "title": "ANAB Conformity Assessment Symposium Coming Soon",
-    "link": "https://www.theauditoronline.com/anab-conformity-assessment-symposium-coming-soon/",
-    "published": "2025-12-18T17:55:03Z",
-    "summary": "<p>The inaugural ANAB Conformity Assessment Symposium (ACAS) is coming up on January 19–20 at the beautiful Gaylord Palms Resort &#38; Convention Center in Orlando, Florida. This event will embody the theme, “Connecting Community. Advancing Trust.” It is designed to serve as the central meeting point for everyone engaged in conformity assessment. Whether you represent a [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/anab-conformity-assessment-symposium-coming-soon/\">ANAB Conformity Assessment Symposium Coming Soon</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "Public Policy Institute of California",
