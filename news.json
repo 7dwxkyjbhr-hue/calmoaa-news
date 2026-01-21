@@ -1,24 +1,31 @@
 [
   {
+    "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
+    "published": "2026-01-21T12:23:05Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-01-21T06:19:45Z",
+    "published": "2026-01-21T12:23:05Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-01-21T06:19:44Z",
+    "published": "2026-01-21T12:23:04Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2026-01-21T06:19:44Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
+    "source": "California Globe",
+    "title": "Dissenting Limited Partners’ Rights",
+    "link": "https://californiaglobe.com/articles/dissenting-limited-partners-rights/",
+    "published": "2026-01-21T10:46:45Z",
+    "summary": "Under the California Uniform Limited Partnership Act of 2008"
   },
   {
     "source": "CalMatters",
@@ -126,13 +133,6 @@
     "summary": "<p>Intact, an inspection, audit, certification, and standards software company, has announced the appointment of Janneck Peersman as Vice President of Customer Success and Market Strategy. Peersman, who has a wealth of experience in the testing, inspection, and certification (TIC) sector, is uniquely positioned to drive forward the company’s continuous improvement efforts. He brings Intact deep [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/janneck-peersman-joins-intact/\">Janneck Peersman Joins Intact</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
-    "source": "California Globe",
-    "title": "Nevada Launches First-Ever Public Corruption Strike Force to Root Out Government Graft",
-    "link": "https://californiaglobe.com/fr/nevada-launches-first-ever-public-corruption-strike-force-to-root-out-government-graft/",
-    "published": "2026-01-20T19:13:13Z",
-    "summary": "The strike force, housed within the office&#8217;s Criminal Division, will draw on assistant U.S. attorneys experienced in handling public corruption matters"
-  },
-  {
     "source": "Task & Purpose",
     "title": "Minnesota Guardsmen told to wear reflective vests to distinguish them from ‘other agencies’",
     "link": "https://taskandpurpose.com/news/minnesota-national-guard-vests/",
@@ -224,11 +224,39 @@
     "summary": "An act to amend Section 9120 of the Welfare and Institutions Code, relating to disaster and emergency preparedness.<br />\n<br />\n2026/01/20 January 20 hearing: Placed on APPR. suspense file."
   },
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA SB99",
+    "link": "https://legiscan.com/CA/bill/SB99/2025?utm_campaign=rss&guid=69yv47EgHbpGzeSt7TLQeE",
+    "published": "2026-01-20T05:00:00Z",
+    "summary": "An act to amend Sections 6306 and 6383 of, and to add Section 6310 to, the Family Code, relating to protective orders.<br />\n<br />\n2026/01/20 January 20 hearing: Placed on APPR. suspense file."
+  },
+  {
     "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
     "title": "CA SB99",
     "link": "https://legiscan.com/CA/bill/SB99/2025?utm_campaign=rss&guid=69yv47EgHbpGzeSt7TLQeE",
     "published": "2026-01-20T05:00:00Z",
     "summary": "An act to amend Sections 6306 and 6383 of, and to add Section 6310 to, the Family Code, relating to protective orders.<br />\n<br />\n2026/01/20 January 20 hearing: Placed on APPR. suspense file."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA SB574",
+    "link": "https://legiscan.com/CA/bill/SB574/2025?utm_campaign=rss&guid=5ohSRFpi4pOWReQQIYGT0s",
+    "published": "2026-01-20T05:00:00Z",
+    "summary": "An act to add Section 6068.1 to the Business and Professions Code, and to amend Section 128.7 of, and to add Section 1282.1 to, the Code of Civil Procedure, relating to artificial intelligence.<br />\n<br />\n2026/01/20 January 20 hearing: Placed on APPR. suspense file."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+    "title": "CA SB33",
+    "link": "https://legiscan.com/CA/bill/SB33/2025?utm_campaign=rss&guid=2FCZtAEub8akOkE5CbKeeP",
+    "published": "2026-01-20T05:00:00Z",
+    "summary": "An act to amend Section 9204 of the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/01/20 From committee: Be ordered to second reading pursuant to Senate Rule 28.8."
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA SB247",
+    "link": "https://legiscan.com/CA/bill/SB247/2025?utm_campaign=rss&guid=1yZcffBEClRdMs1elAKmzw",
+    "published": "2026-01-20T05:00:00Z",
+    "summary": "An act to add Article 1.7 (commencing with Section 10117) to Chapter 1 of Part 2 of Division 2 of the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/01/20 January 20 hearing: Placed on APPR. suspense file."
   },
   {
     "source": "LegiScan Search Feed - Military Search",
@@ -355,27 +383,6 @@
     "link": "https://legiscan.com/CA/bill/SB892/2025?utm_campaign=rss&guid=6CnXDjBP57tjOik4ZzUtii",
     "published": "2026-01-15T05:00:00Z",
     "summary": "An act to amend, repeal, and add Section 66025.8 of the Education Code, relating to public postsecondary education.<br />\n<br />\n2026/01/15 From printer. May be acted upon on or after February 14."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA SB99",
-    "link": "https://legiscan.com/CA/bill/SB99/2025?utm_campaign=rss&guid=4aXoWyW7ouATPn9cmxsxYC",
-    "published": "2026-01-15T05:00:00Z",
-    "summary": "An act to amend Sections 6306 and 6383 of, and to add Section 6310 to, the Family Code, relating to protective orders.<br />\n<br />\n2026/01/15 Set for hearing January 20."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA SB574",
-    "link": "https://legiscan.com/CA/bill/SB574/2025?utm_campaign=rss&guid=2YTuYRK22CNZoaPRCHoaiA",
-    "published": "2026-01-15T05:00:00Z",
-    "summary": "An act to add Section 6068.1 to the Business and Professions Code, and to amend Section 128.7 of, and to add Section 1282.1 to, the Code of Civil Procedure, relating to artificial intelligence.<br />\n<br />\n2026/01/15 Set for hearing January 20."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA SB33",
-    "link": "https://legiscan.com/CA/bill/SB33/2025?utm_campaign=rss&guid=5hqwMIRmKdUNlHGy9lLf5t",
-    "published": "2026-01-15T05:00:00Z",
-    "summary": "An act to amend Section 9204 of the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/01/15 Set for hearing January 20."
   },
   {
     "source": "Public Policy Institute of California",
@@ -509,13 +516,6 @@
     "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=4bZZvEojIAIizyAug87HUC",
     "published": "2026-01-10T05:00:00Z",
     "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/10 From printer."
-  },
-  {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA SB247",
-    "link": "https://legiscan.com/CA/bill/SB247/2025?utm_campaign=rss&guid=nwv9cOAbvaguUOEQfloCI",
-    "published": "2026-01-09T05:00:00Z",
-    "summary": "An act to add Article 1.7 (commencing with Section 10117) to Chapter 1 of Part 2 of Division 2 of the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/01/09 Set for hearing January 20."
   },
   {
     "source": "The Auditor",
