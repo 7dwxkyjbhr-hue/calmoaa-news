@@ -1,24 +1,31 @@
 [
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-01-24T12:18:19Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2026-01-24T06:16:02Z",
+    "published": "2026-01-24T12:18:19Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-01-24T06:16:02Z",
+    "published": "2026-01-24T12:18:19Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-01-24T06:16:01Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+    "source": "California Globe",
+    "title": "General Provisions for Support Order Enforcement",
+    "link": "https://californiaglobe.com/articles/general-provisions-for-support-order-enforcement/",
+    "published": "2026-01-24T10:30:51Z",
+    "summary": "Deals with the enforcement of child support orders"
   },
   {
     "source": "CalMatters",
@@ -61,13 +68,6 @@
     "link": "https://californiaglobe.com/articles/indispensable-evidence-in-california/",
     "published": "2026-01-23T22:34:17Z",
     "summary": "Does not affect the creation of a trust nor prevent any trust from arising or being extinguished by implication or operation of law"
-  },
-  {
-    "source": "California Globe",
-    "title": "Aaron Ford’s Radical Ties Risk Alienating Nevada’s Surging Independent Voters in 2026 Governor Race",
-    "link": "https://californiaglobe.com/fr/aaron-fords-radical-ties-risk-alienating-nevadas-surging-independent-voters-in-2026-governor-race/",
-    "published": "2026-01-23T21:54:56Z",
-    "summary": "Ford&#8217;s record and radical ties signals his willingness to court extremists who view political opponents not as fellow Americans, but as enemies of the state"
   },
   {
     "source": "Task & Purpose",
@@ -168,6 +168,20 @@
     "summary": "<figure><img alt=\"Sprinklers spray water across long, evenly spaced rows of young crops in a farm field, with mist drifting through the air in soft light.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/01/021125-Farm-Salinas-LV_CM-33.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Assemblymember David Alvarez is pushing a proposal to get Prop. 4 dollars out the door faster more than a year after voters approved the state’s biggest climate bond to date."
   },
   {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB1620",
+    "link": "https://legiscan.com/CA/bill/AB1620/2025?utm_campaign=rss&guid=2CppqnP5ldahYPs126Nu5x",
+    "published": "2026-01-23T05:00:00Z",
+    "summary": "An act to add and repeal Section 17226 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/01/23 From printer. May be heard in committee February 22."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB1624",
+    "link": "https://legiscan.com/CA/bill/AB1624/2025?utm_campaign=rss&guid=6X8Q7y7Stw1dIXmLLO50wo",
+    "published": "2026-01-23T05:00:00Z",
+    "summary": "An act to add Section 65852.10 to the Government Code, relating to land use, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/01/23 From printer. May be heard in committee February 22."
+  },
+  {
     "source": "California Democratic Party",
     "title": "Speaker Emerita Nancy Pelosi to Address 2026 California Democratic Party Convention",
     "link": "https://cadem.org/speaker-emerita-nancy-pelosi-to-address-2026-california-democratic-party-convention/",
@@ -194,13 +208,6 @@
     "link": "https://www.youtube.com/watch?v=-0QQYj-KoCs",
     "published": "2026-01-22T20:44:33Z",
     "summary": "This video provides information on requesting a ride through the VetRide Self-Service Website and App.\n\n\n #vetride #vetrideselfserviceportal #schedulearide"
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "The Long Odds for The Mental Diversion Defense in Irvine’s Tammy Kim Fraud/Perjury Case",
-    "link": "https://theliberaloc.com/2026/01/22/the-long-odds-for-the-mental-diversion-defense-in-irvines-tammy-kim-fraud-perjury-case/",
-    "published": "2026-01-22T20:38:26Z",
-    "summary": "&#160; Former Irvine council member and Mayoral candidate Tammy Kim will be in court next week with her lawyer to argue for a Mental Health <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/01/22/the-long-odds-for-the-mental-diversion-defense-in-irvines-tammy-kim-fraud-perjury-case/\" title=\"The Long Odds for The Mental Diversion Defense in Irvine&#8217;s Tammy Kim Fraud/Perjury Case\">[...]</a>"
   },
   {
     "source": "Task & Purpose",
@@ -267,13 +274,6 @@
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB1620",
-    "link": "https://legiscan.com/CA/bill/AB1620/2025?utm_campaign=rss&guid=2MbINrgpBQCAF1H6wK0yHw",
-    "published": "2026-01-22T05:00:00Z",
-    "summary": "An act to add and repeal Section 17226 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/01/22 Read first time. To print."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
     "title": "CA SB574",
     "link": "https://legiscan.com/CA/bill/SB574/2025?utm_campaign=rss&guid=2xyALkEOz91a1LtQS1nyJ6",
     "published": "2026-01-22T05:00:00Z",
@@ -309,17 +309,10 @@
   },
   {
     "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SB99",
-    "link": "https://legiscan.com/CA/bill/SB99/2025?utm_campaign=rss&guid=4Yj8MOnS0nTf4Qiai7KZEi",
+    "title": "CA AB1616",
+    "link": "https://legiscan.com/CA/bill/AB1616/2025?utm_campaign=rss&guid=1NNJP0BxNpItcItbyh02dL",
     "published": "2026-01-22T05:00:00Z",
-    "summary": "An act to amend Section 6383 of, and to add Section 6310 to, the Family Code, relating to protective orders.<br />\n<br />\n2026/01/22 Read second time and amended. Ordered to second reading."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB81",
-    "link": "https://legiscan.com/CA/bill/AB81/2025?utm_campaign=rss&guid=4LOydGsQhwO8fzNqQdnzXQ",
-    "published": "2026-01-22T05:00:00Z",
-    "summary": "An act to add and repeal Section 716 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/01/22 Stricken from file."
+    "summary": "An act to add and repeal Section 709 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/01/22 From printer. May be heard in committee February 21."
   },
   {
     "source": "LegiScan Search Feed - Military Search",
@@ -330,17 +323,17 @@
   },
   {
     "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB76",
+    "link": "https://legiscan.com/CA/bill/AB76/2025?utm_campaign=rss&guid=3oSs6AWHZfJg1CEJczpMqz",
+    "published": "2026-01-22T05:00:00Z",
+    "summary": "An act to amend Section 54221 of the Government Code, relating to land use.<br />\n<br />\n2026/01/22 Stricken from file."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
     "title": "CA AB742",
     "link": "https://legiscan.com/CA/bill/AB742/2025?utm_campaign=rss&guid=qCsTZGFgtTVIqLWHz9s4Z",
     "published": "2026-01-22T05:00:00Z",
     "summary": "An act to add and repeal Section 115.7 of the Business and Professions Code, relating to professions and vocations.<br />\n<br />\n2026/01/22 Stricken from file."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SJR9",
-    "link": "https://legiscan.com/CA/bill/SJR9/2025?utm_campaign=rss&guid=3StNVRCGBhtLprPHPcDTFb",
-    "published": "2026-01-22T05:00:00Z",
-    "summary": "Relative to immigration raids.<br />\n<br />\n2026/01/22 Assembly amendments concurred in. (Ayes 29. Noes 10.) Ordered to engrossing and enrolling."
   },
   {
     "source": "Your Leo Nation",
@@ -427,13 +420,6 @@
     "summary": "<p><img alt=\"photo - Kindergarten Friends Playing Together\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/01/kindergarten-friends-playing-together.jpg\" width=\"2000\" /></p>Nearly 6 million students attend California’s public schools—but that number is on the decline, with decreases across most racial/ethnic groups. Declines are steepest among students who speak a language other than English at home."
   },
   {
-    "source": "The Liberal OC",
-    "title": "We don’t need to invade Greenland to protect America; Just reoccupy 17 Military Bases There",
-    "link": "https://theliberaloc.com/2026/01/20/we-dont-need-to-invade-greenland-to-protect-america-just-reoccupy-17-military-bases-there/",
-    "published": "2026-01-20T20:49:04Z",
-    "summary": "The United States has had a significant military presence in Greenland dating back to World War II, when it established facilities to protect the island <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/01/20/we-dont-need-to-invade-greenland-to-protect-america-just-reoccupy-17-military-bases-there/\" title=\"We don&#8217;t need to invade Greenland to protect America; Just reoccupy 17 Military Bases There\">[...]</a>"
-  },
-  {
     "source": "U.S. Dept. of Veterans Affairs",
     "title": "Pharmacist Providers Help Veterans Get Their Lives Back-MSG Jerry K Crump VA Clinic, North Carolina",
     "link": "https://www.youtube.com/watch?v=4Do1Bhp7GdY",
@@ -460,27 +446,6 @@
     "link": "https://lao.ca.gov/Publications/Detail/5102",
     "published": "2026-01-20T00:00:00Z",
     "summary": "Assembly Committee on Budget"
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "ICE Protest at Pacifica High in Garden Grove January 20; Other High Schools Should Join In",
-    "link": "https://theliberaloc.com/2026/01/19/ice-protest-at-pacifica-high-in-garden-grove-january-20-other-high-schools-should-join-in/",
-    "published": "2026-01-19T17:45:25Z",
-    "summary": "Editor&#8217;s Note:  Last week, I received an email from Skye Cervantes, a senior at Pacifica High School in Garden Grove.  Like so many Americans, she&#8217;s <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/01/19/ice-protest-at-pacifica-high-in-garden-grove-january-20-other-high-schools-should-join-in/\" title=\"ICE Protest at Pacifica High in Garden Grove January 20; Other High Schools Should Join In\">[...]</a>"
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "What Happens When We Invade Greenland?",
-    "link": "https://theliberaloc.com/2026/01/16/what-happens-when-we-invade-greenland/",
-    "published": "2026-01-16T21:15:42Z",
-    "summary": "&#160; Brent Molnar is an American writer, political satirist, commentator, and independent media voice known for his strongly anti-fascist, anti-Trump, and progressive-leaning commentary.  He runs &#8220;Brent <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/01/16/what-happens-when-we-invade-greenland/\" title=\"What Happens When We Invade Greenland?\">[...]</a>"
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "Rick Foster drops out of SD36",
-    "link": "https://theliberaloc.com/2026/01/15/rick-foster-drops-out-of-sd36/",
-    "published": "2026-01-15T22:15:59Z",
-    "summary": "SD36 Candidate Rick Foster sent this on social media today…. After careful consideration and conversations with friends, supporters and Democratic leaders, I am suspending my <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/01/15/rick-foster-drops-out-of-sd36/\" title=\"Rick Foster drops out of SD36\">[...]</a>"
   },
   {
     "source": "U.S. Dept. of Veterans Affairs",
@@ -693,10 +658,45 @@
     "summary": "<p>SACRAMENTO, CA — The California Democratic Party (CADEM) today celebrated the decisive passage of Proposition 50, a landmark victory for democracy and a clear rebuke of Trump and Republican efforts to rig the 2026 midterm elections. “Tonight, California sent a message loud and clear: we will always stand up for free and fair elections and [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-celebrates-overwhelming-passage-of-prop-50/\">California Democratic Party Celebrates Overwhelming Passage of Prop 50</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
   },
   {
-    "source": "California State Commanders Veterans Council",
-    "title": "Welcoming the Montford Point Marine Association California",
-    "link": "https://calcommanders.org/welcoming-the-montford-point-marine-association-los-angeles-chapter-8/",
-    "published": "2025-10-21T18:04:39Z",
-    "summary": "The California State Commanders Veterans Council is proud to welcome the Montford Point Marine Association California as our newest member. Founded in 1965, the Montford Point Marine Association is dedicated to honoring and preserving the legacy of the first African American Marines who trained at Montford Point, Camp Lejeune, North Carolina, between 1942 and 1949. Despite [&#8230;]"
+    "source": "Your Leo Nation",
+    "title": "From Protection to Prosecution: The New Face of DOJ",
+    "link": "https://rss.com/podcasts/yourleonation/2276526",
+    "published": "2025-10-17T17:50:36Z",
+    "summary": "<p>Federal Government Focus: School Board Controversy &amp; FBI Achievements</p><p>Do you remember the controversy over the federal government's intervention in school board meetings? This episode delves into the Department of Justice's priorities under Merrick Garland and the involvement of the National Security Division in parental disagreements at school boards. Additionally, we highlight the FBI's achievements in combating violent crime, seizing illegal firearms and drugs, and arresting top criminals during the Trump administration. Is this the best use of federal resources? Should local or state law enforcement handle such issues? Discover the contrasting focuses and effectiveness between administrations.</p>"
+  },
+  {
+    "source": "California Democratic Party",
+    "title": "CADEM Ramps Up Voter Protection Efforts Ahead of November 2025 Election",
+    "link": "https://cadem.org/cadem-ramps-up-voter-protection-efforts-ahead-of-november-2025-election/",
+    "published": "2025-10-13T16:44:22Z",
+    "summary": "<p>SACRAMENTO, CA —&#160;Today the California Democratic Party (CADEM) announced expanded voter protection efforts across the state leading up to the Special Election on November 4, 2025 to ensure voters have access to trusted information, legal support, and on-the-ground assistance from trained volunteers at every step of the voting process.&#160; Since 1992, the California Democratic Party’s [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/cadem-ramps-up-voter-protection-efforts-ahead-of-november-2025-election/\">CADEM Ramps Up Voter Protection Efforts Ahead of November 2025 Election</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA SB257",
+    "link": "https://legiscan.com/CA/bill/SB257/2025?utm_campaign=rss&guid=3bpUrpETasEZrsoqlRZVLi",
+    "published": "2025-10-13T04:00:00Z",
+    "summary": "An act to amend Section 1399.849 of the Health and Safety Code, and to amend Section 10965.3 of the Insurance Code, relating to health care coverage.<br />\n<br />\n2025/10/13 In Senate. Consideration of Governor's veto pending."
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA SB647",
+    "link": "https://legiscan.com/CA/bill/SB647/2025?utm_campaign=rss&guid=2jTrblzVSoVbxlvoBAR7OE",
+    "published": "2025-10-03T04:00:00Z",
+    "summary": "An act to amend Section 25665.1 of the Public Resources Code, and to amend Section 382.1 of the Public Utilities Code, relating to energy.<br />\n<br />\n2025/10/03 In Senate. Consideration of Governor's veto pending."
+  },
+  {
+    "source": "California Democratic Party",
+    "title": "California Democratic Party Expands “California Strong” Leadership Team with New Organizing and Communications Directors",
+    "link": "https://cadem.org/california-democratic-party-expands-california-strong-leadership-team-with-new-organizing-and-communications-directors/",
+    "published": "2025-09-02T19:28:13Z",
+    "summary": "<p>SACRAMENTO, CA&#160;— The California Democratic Party (CADEM) today announced the addition of two top strategists to its senior staff as Democrats gear up for a special election in November 2025 and pivotal midterm Congressional elections in 2026, including: Helen Amelga as Organizing and Training Director, and Emma Lenz as Communications Director. CADEM is expanding its [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-expands-california-strong-leadership-team-with-new-organizing-and-communications-directors/\">California Democratic Party Expands “California Strong” Leadership Team with New Organizing and Communications Directors</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA SB70",
+    "link": "https://legiscan.com/CA/bill/SB70/2025?utm_campaign=rss&guid=4wZy47IgbUS0QbEt5CZiC8",
+    "published": "2025-08-29T04:00:00Z",
+    "summary": "An act to amend Sections 14838.5 and 14838.64 of the Government Code, relating to public contracts.<br />\n<br />\n2025/08/29 August 29 hearing: Held in committee and under submission."
   }
 ]
