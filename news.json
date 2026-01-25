@@ -1,24 +1,31 @@
 [
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-01-25T12:19:22Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2026-01-25T06:16:28Z",
+    "published": "2026-01-25T12:19:22Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-01-25T06:16:28Z",
+    "published": "2026-01-25T12:19:22Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-01-25T06:16:27Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+    "source": "California Globe",
+    "title": "Civil Liability in Securities Cases",
+    "link": "https://californiaglobe.com/articles/civil-liability-in-securities-cases/",
+    "published": "2026-01-25T10:30:10Z",
+    "summary": "Deals with civil liability in the enforcement of the Corporate Securities Law of 1968"
   },
   {
     "source": "Task & Purpose",
@@ -103,13 +110,6 @@
     "link": "https://californiaglobe.com/fl/u-s-atty-bill-essayli-busts-open-california-homeless-fraud-scheme/",
     "published": "2026-01-24T00:39:39Z",
     "summary": "&#8216;California is the epicenter of Fraud&#8217;"
-  },
-  {
-    "source": "California Globe",
-    "title": "Arizona Rep Adelita Grijalva Defends MN Church Disruption as DOJ Weighs Possible FACE Act Violations",
-    "link": "https://californiaglobe.com/articles/arizona-rep-adelita-grijalva-defends-mn-church-disruption-as-doj-weighs-possible-face-act-violations/",
-    "published": "2026-01-24T00:08:27Z",
-    "summary": "Rather than condemning the intrusion, Grijalva appeared on CNN’s The Source on January 19 and defended the demonstrators, stating that churches are ‘open door’ spaces and that protesters ‘have the right to go in there’”"
   },
   {
     "source": "CalMatters",
