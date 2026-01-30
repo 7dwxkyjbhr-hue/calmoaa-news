@@ -1,24 +1,24 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-01-30T01:00:34Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2026-01-30T01:00:34Z",
+    "published": "2026-01-30T06:33:07Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-01-30T01:00:34Z",
+    "published": "2026-01-30T06:33:07Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-01-30T06:33:06Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "California Globe",
@@ -53,7 +53,7 @@
     "title": "Marines suspend use of all-weather coat that ‘bleeds’ orange",
     "link": "https://taskandpurpose.com/culture/marines-suspend-all-weather-coat/",
     "published": "2026-01-29T21:22:45Z",
-    "summary": "<p>Sometimes called the \"Inspector Gadget\" jacket for its dated styling, recently delivered lots of the Marine's all-weather coat were found to leak an orange liquid.</p>\n<p>The post <a href=\"https://taskandpurpose.com/culture/marines-suspend-all-weather-coat/\">Marines suspend use of all-weather coat that ‘bleeds’ orange</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+    "summary": "<p>Sometimes called the \"Inspector Gadget\" jacket for its dated styling, the Marines' all-weather coats were found to leak an orange liquid.</p>\n<p>The post <a href=\"https://taskandpurpose.com/culture/marines-suspend-all-weather-coat/\">Marines suspend use of all-weather coat that ‘bleeds’ orange</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
     "source": "California Globe",
@@ -161,6 +161,83 @@
     "summary": "<p>Officials are looking at alternative funds to keep base stores open if a government shutdown hits this weekend.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/commissaries-government-shutdown-2026/\">Military commissaries are planning ahead for possible government shutdown</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SR74",
+    "link": "https://legiscan.com/CA/bill/SR74/2025?utm_campaign=rss&guid=1iu6kHZ2jrnfF198fb4wJH",
+    "published": "2026-01-29T05:00:00Z",
+    "summary": "Relative to the Standing Rules of the Senate for the 2025–26 Regular Session.<br />\n<br />\n2026/01/29 Read. Adopted. (Ayes 39. Noes 0.)"
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB1165",
+    "link": "https://legiscan.com/CA/bill/AB1165/2025?utm_campaign=rss&guid=429q6YuZLUujnSljAOFngv",
+    "published": "2026-01-29T05:00:00Z",
+    "summary": "An act to add Chapter 4 (commencing with Section 50570) to Part 2 of Division 31 of the Health and Safety Code, relating to housing.<br />\n<br />\n2026/01/29 In Senate. Read first time. To Com. on RLS. for assignment."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AJR25",
+    "link": "https://legiscan.com/CA/bill/AJR25/2025?utm_campaign=rss&guid=2AafE1PXIXzb9hs54I1UeX",
+    "published": "2026-01-29T05:00:00Z",
+    "summary": "Relative to enhanced Affordable Care Act premium tax credits.<br />\n<br />\n2026/01/29 Introduced. To print."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SB837",
+    "link": "https://legiscan.com/CA/bill/SB837/2025?utm_campaign=rss&guid=2ulv6bLaoiXPjqzH4Ybj9i",
+    "published": "2026-01-29T05:00:00Z",
+    "summary": "An act to amend Section 9120 of the Welfare and Institutions Code, relating to disaster and emergency preparedness.<br />\n<br />\n2026/01/29 In Assembly. Read first time. Held at Desk."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB939",
+    "link": "https://legiscan.com/CA/bill/AB939/2025?utm_campaign=rss&guid=umdfHeZENIWvqoqV5QmvM",
+    "published": "2026-01-29T05:00:00Z",
+    "summary": "An act to amend Section 65915 of the Government Code, relating to housing.<br />\n<br />\n2026/01/29 In Senate. Read first time. To Com. on RLS. for assignment."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA SB574",
+    "link": "https://legiscan.com/CA/bill/SB574/2025?utm_campaign=rss&guid=qfrGnfKxaBT9SjlXumepC",
+    "published": "2026-01-29T05:00:00Z",
+    "summary": "An act to add Section 6068.1 to the Business and Professions Code, and to amend Section 128.7 of, and to add Section 1282.1 to, the Code of Civil Procedure, relating to artificial intelligence.<br />\n<br />\n2026/01/29 In Assembly. Read first time. Held at Desk."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB1655",
+    "link": "https://legiscan.com/CA/bill/AB1655/2025?utm_campaign=rss&guid=2IqUY2lISN48wq6YltPzdv",
+    "published": "2026-01-29T05:00:00Z",
+    "summary": "An act to amend Section 11269 of the Welfare and Institutions Code, relating to CalWORKs.<br />\n<br />\n2026/01/29 Read first time. To print."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SR74",
+    "link": "https://legiscan.com/CA/bill/SR74/2025?utm_campaign=rss&guid=1iu6kHZ2jrnfF198fb4wJH",
+    "published": "2026-01-29T05:00:00Z",
+    "summary": "Relative to the Standing Rules of the Senate for the 2025–26 Regular Session.<br />\n<br />\n2026/01/29 Read. Adopted. (Ayes 39. Noes 0.)"
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SCR106",
+    "link": "https://legiscan.com/CA/bill/SCR106/2025?utm_campaign=rss&guid=44eo4lm2E24UIgJ39kJ7gc",
+    "published": "2026-01-29T05:00:00Z",
+    "summary": "Relative to Korean American Day.<br />\n<br />\n2026/01/29 In Senate. Ordered to engrossing and enrolling."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB1659",
+    "link": "https://legiscan.com/CA/bill/AB1659/2025?utm_campaign=rss&guid=6zVG00pR6nv0rz9Ep6Ln9k",
+    "published": "2026-01-29T05:00:00Z",
+    "summary": "An act to amend Sections 48647, 49069.5, and 51225.2 of the Education Code, relating to pupil instruction.<br />\n<br />\n2026/01/29 Read first time. To print."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SB623",
+    "link": "https://legiscan.com/CA/bill/SB623/2025?utm_campaign=rss&guid=2o2fDLfSIM9AtzdQPZeBN7",
+    "published": "2026-01-29T05:00:00Z",
+    "summary": "An act to amend Section 218 of the Revenue and Taxation Code, relating to property taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/01/29 In Assembly. Read first time. Held at Desk."
+  },
+  {
     "source": "Publication Archive - Public Policy Institute of California",
     "title": "Teen Mental Health and School-Based Services in California",
     "link": "https://www.ppic.org/publication/teen-mental-health-and-school-based-services-in-california/?utm_source=rss&utm_medium=rss&utm_campaign=teen-mental-health-and-school-based-services-in-california",
@@ -238,34 +315,6 @@
     "summary": "In this episode of Glad You Asked, Deputy Secretary Paul R. Lawrence, Ph.D., explains how the Digital GI Bill is transforming the way Veterans access their education benefits. He answers common questions from student Veterans, walks through the information needed to apply, and shows how some Veterans are now receiving decisions within seconds thanks to improved online tools and streamlined processes."
   },
   {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SR74",
-    "link": "https://legiscan.com/CA/bill/SR74/2025?utm_campaign=rss&guid=7Sdr5Nx8rHTSOAN3bjRMvm",
-    "published": "2026-01-28T05:00:00Z",
-    "summary": "Relative to the Standing Rules of the Senate for the 2025–26 Regular Session.<br />\n<br />\n2026/01/28 From committee: Ordered to third reading."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SR74",
-    "link": "https://legiscan.com/CA/bill/SR74/2025?utm_campaign=rss&guid=7Sdr5Nx8rHTSOAN3bjRMvm",
-    "published": "2026-01-28T05:00:00Z",
-    "summary": "Relative to the Standing Rules of the Senate for the 2025–26 Regular Session.<br />\n<br />\n2026/01/28 From committee: Ordered to third reading."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SJR9",
-    "link": "https://legiscan.com/CA/bill/SJR9/2025?utm_campaign=rss&guid=4ArgKsvhKQknyb1vWEkK33",
-    "published": "2026-01-28T05:00:00Z",
-    "summary": "Relative to immigration raids.<br />\n<br />\n2026/01/28 Chaptered by Secretary of State. Res. Chapter 1, Statutes of 2026."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SCR113",
-    "link": "https://legiscan.com/CA/bill/SCR113/2025?utm_campaign=rss&guid=2N0hVWILkm3Jfw0XauerCI",
-    "published": "2026-01-28T05:00:00Z",
-    "summary": "Relative to Gold Star Mothers’ and Families’ Day.<br />\n<br />\n2026/01/28 From committee: Ordered to third reading."
-  },
-  {
     "source": "Legislative Analyst's Office: Recent Publications",
     "title": "Implementing California’s Child Welfare Prevention Services Program",
     "link": "https://lao.ca.gov/Publications/Detail/5106",
@@ -294,34 +343,6 @@
     "summary": "<p>SACRAMENTO&#160;—&#160;When a California governor&#160;goes to Europe and lectures world leaders&#160;that they must “grow a spine” and “stand tall” against the American president, I wince. Not that they shouldn’t, nor that President Trump doesn’t deserve almost&#160;any nasty thing said about him. It just seems a tad arrogant. A world stage in the Swiss Alps is not [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/01/27/skelton-newsom-tried-to-punch-over-his-weight-class-in-the-alps/\">Read More and Comment: Skelton: Newsom tried to punch over his weight class in the Alps</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/01/27/skelton-newsom-tried-to-punch-over-his-weight-class-in-the-alps/\">Skelton: Newsom tried to punch over his weight class in the Alps</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB1638",
-    "link": "https://legiscan.com/CA/bill/AB1638/2025?utm_campaign=rss&guid=45qmMJjy9csh7Mp2yuYSxG",
-    "published": "2026-01-27T05:00:00Z",
-    "summary": "An act to add Section 972.3 to the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/01/27 From printer. May be heard in committee February 26."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB381",
-    "link": "https://legiscan.com/CA/bill/SB381/2025?utm_campaign=rss&guid=7XzIRo4rBNGCGs5Z4dEMHW",
-    "published": "2026-01-27T05:00:00Z",
-    "summary": "An act to amend Section 1798.24 of the Civil Code, and to amend Sections 102645 and 102685 of, to amend, repeal, and add Section 102705 of, to add Sections 102620 and 102706 to, and to repeal Section 102675 of, the Health and Safety Code, relating to vital records.<br />\n<br />\n2026/01/27 In Assembly. Read first time. Held at Desk."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB288",
-    "link": "https://legiscan.com/CA/bill/SB288/2025?utm_campaign=rss&guid=6HB0friAKiUoq87w9JIZu6",
-    "published": "2026-01-27T05:00:00Z",
-    "summary": "An act to amend Section 63.2 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/01/27 In Assembly. Read first time. Held at Desk."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB492",
-    "link": "https://legiscan.com/CA/bill/SB492/2025?utm_campaign=rss&guid=Andl0g5CxSY0ma3gn8jEi",
-    "published": "2026-01-27T05:00:00Z",
-    "summary": "An act to add Part 14.4 (commencing with Section 53700) to Division 31 of the Health and Safety Code, relating to the Youth Housing Bond Act of 2026, by providing the funds necessary therefor through an election for the issuance and sale of bonds of the State of California and for the handling and disposition of those funds, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/01/27 In Assembly. Read first time. Held at Desk."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
     "title": "CA SB99",
     "link": "https://legiscan.com/CA/bill/SB99/2025?utm_campaign=rss&guid=2bXPlJKOTVZLto36PHNNqG",
@@ -334,20 +355,6 @@
     "link": "https://legiscan.com/CA/bill/SB247/2025?utm_campaign=rss&guid=IQavT9SSkunuF8KkhA66C",
     "published": "2026-01-27T05:00:00Z",
     "summary": "An act to add Article 1.7 (commencing with Section 10117) to Chapter 1 of Part 2 of Division 2 of the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/01/27 In Assembly. Read first time. Held at Desk."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB1265",
-    "link": "https://legiscan.com/CA/bill/AB1265/2025?utm_campaign=rss&guid=2o3nzxapTUzLyF5XR0Eu0W",
-    "published": "2026-01-27T05:00:00Z",
-    "summary": "An act to amend Section 17053.91 of, and to add and repeal Sections 17053.92 and 23692 of, the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/01/27 In Senate. Read first time. To Com. on RLS. for assignment."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB1627",
-    "link": "https://legiscan.com/CA/bill/AB1627/2025?utm_campaign=rss&guid=2SCcO19O9tQVFIe8N8VBaR",
-    "published": "2026-01-27T05:00:00Z",
-    "summary": "An act to amend Sections 1029 and 1029.1 of, and to add Sections 1035 and 1035.1 to, the Government Code, relating to public employment.<br />\n<br />\n2026/01/27 From printer. May be heard in committee February 26."
   },
   {
     "source": "Publication Archive - Public Policy Institute of California",
@@ -378,11 +385,11 @@
     "summary": "<p>&#8220;California Democrats stand in solidarity with the people of Minnesota who are making their voices heard and peacefully demanding justice, transparency, and accountability after the fatal shooting of devoted ICU nurse Alex Pretti by federal agents in Minneapolis.  The right to protest and insist that no one is above the law is fundamental to our [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/statement-from-cadem-chair-rusty-hicks-on-tragic-ice-killings/\">Statement from CADEM Chair Rusty Hicks on Tragic ICE Killings:</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
   },
   {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA SB574",
-    "link": "https://legiscan.com/CA/bill/SB574/2025?utm_campaign=rss&guid=2O4NO6aQBSETVX1XQgh7Av",
-    "published": "2026-01-26T05:00:00Z",
-    "summary": "An act to add Section 6068.1 to the Business and Professions Code, and to amend Section 128.7 of, and to add Section 1282.1 to, the Code of Civil Procedure, relating to artificial intelligence.<br />\n<br />\n2026/01/26 Ordered to special consent calendar."
+    "source": "The Official United States Marine Corps Public Website News",
+    "title": "2nd Marine Logistics Group; Innovating the Future of Mobile Satellite Communications",
+    "link": "https://www.marines.mil/News/News-Display/Article/4389316/2nd-marine-logistics-group-innovating-the-future-of-mobile-satellite-communicat/",
+    "published": "2026-01-26T14:50:00Z",
+    "summary": "Innovation is the process of turning limitations into opportunities. When existing equipment failed to meet operational demands, U.S. Marines with 2nd Marine Logistics Group, II Marine Expeditionary Force, used ingenuity, technical skill, and mission-first thinking to develop a custom StarShield Satellite mount for Joint Light Tactical Vehicles, increasing flexibility and connectivity in austere environments.<br /> \n<img alt=\"U.S. Marine Corps Cpl. Austin Scott, a data systems administrator with Combat Logistics Battalion 6, Combat Logistics Regiment 2, 2nd Marine Logistics Group, poses for a photo during Exercise Freezing Winds 2025 in Gylto, Finland, Dec. 1, 2025. The Cisco 1835 router works in tangent with the Star Shield communication system to provide internet capabilities for a variety of classification levels in an austere environment. Freezing Winds is conducted to increase interoperability between Marines, Finland, and NATO Allies by executing combined amphibious operations in and around the Baltic Sea littorals, and is part of a regularly occurring series of exercises in northern Europe that demonstrates the capability to deploy and train Marines and Sailors in support of the NATO Alliance. Scott is a native of California. (U.S. Marine Corps photo by Lance Cpl. Brady V. Hathaway)\" src=\"https://media.defense.gov/2026/Jan/26/2003865044/115/75/0/260126-M-IU010-1003.JPG\" /> <br />"
   },
   {
     "source": "The Auditor",
@@ -397,6 +404,13 @@
     "link": "https://www.theauditoronline.com/new-event-max/",
     "published": "2026-01-26T02:32:07Z",
     "summary": "<p>BNP Media has launched the Manufacturing &#38; Automation eXchange (MAX), an event combining The Assembly Show South, The Quality Show, and additional BNP events spanning sectors such as adhesives, safety, packaging, and coatings. This is the inaugural year of MAX, which will occur in Nashville, Tennessee, March 25–26. MAX marks the first time BNP has [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/new-event-max/\">New Event: MAX</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
+  },
+  {
+    "source": "The Official United States Marine Corps Public Website News",
+    "title": "3rd Maintenance Battalion Increase ACV Readiness in Okinawa",
+    "link": "https://www.marines.mil/News/News-Display/Article/4391596/3rd-maintenance-battalion-increase-acv-readiness-in-okinawa/",
+    "published": "2026-01-26T00:20:00Z",
+    "summary": "Marines and contractors with 3rd Maintenance Battalion, 3rd Marine Logistics Group, have established yet another example of Marine Corps ingenuity and adaptability, this time in the repair and maintenance of the new Amphibious Combat Vehicles.<br /> \n<img alt=\"Marines with the General Support Maintenance Platoon, Intermediate Repair Company, 3d Maintenance Battalion, 3d Marine Logistics Group, conduct work on an Amphibious Combat Vehicle wheel end assembly at Camp Kinser, Okinawa, Japan, Nov. 13, 2025. Marines with the GSM Platoon, in concert with 3d Maint. Bn’s Manufacturing Platoon, has been building their ACV secondary repairable capabilities beyond the traditional scope of an intermediate-level repair facility, out-pacing Marine Corps Logistics Command to support the overall readiness of III Marine Expeditionary Force’s ACV units.\" src=\"https://media.defense.gov/2026/Jan/28/2003867304/115/75/0/251113-M-UY543-1055.JPG\" /> <br />"
   },
   {
     "source": "U.S. Dept. of Veterans Affairs",
@@ -490,6 +504,13 @@
     "summary": "<p>ARLINGTON, Va. &#8213; Concerned Veterans for America applauds the full withdrawal of U.S. forces from Iraq’s federal territory, marking the end of a military presence that has stretched far too long beyond what our Constitution and national interests require. Concerned Veterans for America Executive Director John Vick had this to say: “I last set foot [&#8230;]</p>\n<p>The post <a href=\"https://cv4a.org/news-media/closing-the-chapter-on-endless-war-in-iraq/\">Closing the Chapter on Endless War in Iraq</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
   },
   {
+    "source": "The Official United States Marine Corps Public Website News",
+    "title": "31st MEU | U.S. Marines, Sailors Honor Legacy of Operation Swift During Battlefield Visit in Vietnam",
+    "link": "https://www.marines.mil/News/News-Display/Article/4383840/31st-meu-us-marines-sailors-honor-legacy-of-operation-swift-during-battlefield/",
+    "published": "2026-01-21T16:55:00Z",
+    "summary": "From January 9–11, 2026, U.S. Marines and Sailors assigned to the 31st Marine Expeditionary Unit (MEU) conducted a battlefield visit to the site of Operation Swift, a pivotal engagement of the Vietnam War, to honor the legacy of those who fought there and to reflect on the enduring bonds between past and present generations of service members.\n\nDuring the Vietnam War, Marine forces conducted amphibious and helicopter-borne operations as part of Special Landing Force Alpha, including during Operation Swift, employing integrated air, ground, and logistics elements in combat that reinforced the MAGTF construct and helped shape the MEU’s role as a forward-deployed, rapid-response force.<br /> \n<img alt=\"U.S. Marines and Sailors with the 31st Marine Expeditionary Unit, look at photos during a tour of a battlefield in an area formerly known as the Que Son Valley near Da Nang, Vietnam, Jan. 10, 2026. Marines and Sailors visited this battle site to honor and show reverence for the service members who fought in the Vietnam War. The 31st MEU, the Marine Corps’ only continuously forward-deployed MEU, provides a flexible and lethal force ready to perform a wide range of military operations as the premiere crisis response force in the Indo-Pacific region. (U.S. Marine Corps photo by Lance Cpl. Victor Gurrola)\" src=\"https://media.defense.gov/2026/Jan/20/2003858400/115/75/0/260110-M-MH864-1047.JPG\" /> <br />"
+  },
+  {
     "source": "Legislative Analyst's Office: Recent Publications",
     "title": "Senate Handout: Overview of the Governor’s Budget",
     "link": "https://lao.ca.gov/Publications/Detail/5103",
@@ -530,6 +551,20 @@
     "link": "https://www.ppic.org/publication/californias-population/?utm_source=rss&utm_medium=rss&utm_campaign=californias-population",
     "published": "2026-01-15T00:06:39Z",
     "summary": "<p><img alt=\"photo - Blurred People Walking in the City\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2024/01/blurred-people-walking-in-the-city.jpg\" width=\"2000\" /></p>More people live in California than any other state. Growth has slowed dramatically over the past quarter century, but the state’s population is still one of the most diverse in the nation."
+  },
+  {
+    "source": "The Official United States Marine Corps Public Website News",
+    "title": "Tripoli Expeditionary Strike Group operates in 7th Fleet",
+    "link": "https://www.marines.mil/News/News-Display/Article/4380742/tripoli-expeditionary-strike-group-operates-in-7th-fleet/",
+    "published": "2026-01-14T02:45:00Z",
+    "summary": "The Tripoli Expeditionary Strike Group, composed of the 31st Marine Expeditionary Unit (MEU), America-class amphibious assault ship USS Tripoli (LHA 7), Ticonderoga-class guided-missile cruiser USS Robert Smalls (CG 62) and Arleigh Burke-class guided-missile destroyer USS Rafael Peralta (DDG 115), is conducting routine operations in the U.S. 7th Fleet area of operations, Dec. 11. <br /> \n<img alt=\"251211-N-MQ780-1389\nAn F-35B Lighting II, attached to Marine Fighter Attack Squadron 242 takes off from the flight deck of America-class amphibious assault ship USS Tripoli (LHA 7) during flight operations in the South China Sea, Dec. 11, 2025. Marine Fighter Squadron 242, part of the Tripoli Expeditionary Strike Group, is conducting routine operations in the U.S. 7th Fleet area of operations. U.S. 7th Fleet is the U.S. Navy’s largest forward-deployed numbered fleet and routinely interacts and operates with allies and partners in preserving a free and open Indo-Pacific region. (U.S. Navy photo by Mass Communication Specialist Seaman Angel Conde)\" src=\"https://media.defense.gov/2026/Jan/13/2003857084/115/75/0/251211-N-MQ780-1389.JPG\" /> <br />"
+  },
+  {
+    "source": "The Official United States Marine Corps Public Website News",
+    "title": "Ready, Engaged, Lethal: I Marine Expeditionary Force Year in Review",
+    "link": "https://www.marines.mil/News/News-Display/Article/4374460/ready-engaged-lethal-i-marine-expeditionary-force-year-in-review/",
+    "published": "2026-01-12T19:15:45Z",
+    "summary": "From the littorals of the Indo-Pacific to the familiar training grounds of Southern California, 2025<br /> \n<img alt=\"A U.S. Marine Corps F-35B Lightning II assigned to Marine Fighter Attack Training Squadron (VMFAT) 502, front, and an F-35C Lightning II assigned to Marine Fighter Attack Squadron (VMFA) 314, rear, Marine Aircraft Group 11, 3rd Marine Aircraft Wing, conduct a formation as part of Project Legacy off the coast of San Diego, March 4, 2025. The Project Legacy flight was a unique opportunity for all aircraft platforms across MAG-11 to fly as one team, practice tight formations, and take part in the documentation of a historical flight. (U.S. Marine Corps photo by Lance Cpl. Jennifer Sanchez)\" src=\"https://media.defense.gov/2026/Jan/09/2003854740/115/75/0/260109-M-IU010-1002.JPG\" /> <br />"
   },
   {
     "source": "Public Policy Institute of California",
@@ -663,40 +698,5 @@
     "link": "https://calcommanders.org/welcoming-the-montford-point-marine-association-los-angeles-chapter-8/",
     "published": "2025-10-21T18:04:39Z",
     "summary": "The California State Commanders Veterans Council is proud to welcome the Montford Point Marine Association California as our newest member. Founded in 1965, the Montford Point Marine Association is dedicated to honoring and preserving the legacy of the first African American Marines who trained at Montford Point, Camp Lejeune, North Carolina, between 1942 and 1949. Despite [&#8230;]"
-  },
-  {
-    "source": "California State Commanders Veterans Council",
-    "title": "Protecting Veterans’ Benefits: Why California’s SB 694 Should Lead the Nation",
-    "link": "https://calcommanders.org/protecting-veterans-benefits-why-californias-sb-694-should-lead-the-nation/",
-    "published": "2025-10-20T14:59:10Z",
-    "summary": "An Analytical Brief from CAL EANGUS Leadership A National Issue, A California Solution A recent Washington Post investigation has renewed scrutiny on the Department of Veterans Affairs (VA) disability compensation system, alleging widespread overreach, fraud, and inefficiencies. The report described how outdated disability rules, a surge of minor and unverifiable claims, and a lack of enforcement capacity [&#8230;]"
-  },
-  {
-    "source": "California State Commanders Veterans Council",
-    "title": "California State Commanders Veterans Council Unites for Legislative Priorities in Visalia",
-    "link": "https://calcommanders.org/california-state-commanders-veterans-council-unites-for-legislative-priorities-in-visalia/",
-    "published": "2025-10-20T14:54:30Z",
-    "summary": "On October 18, 2025, the California State Commanders Veterans Council (CSCVC) convened its quarterly conference in Visalia, California, bringing together more than 20 representatives from Military and Veterans Service Organizations (MSOs and VSOs) from across the state. The CSCVC serves as a unified voice for California’s veterans community—advocating for legislation, benefits, and policies that improve [&#8230;]"
-  },
-  {
-    "source": "Your Leo Nation",
-    "title": "From Protection to Prosecution: The New Face of DOJ",
-    "link": "https://rss.com/podcasts/yourleonation/2276526",
-    "published": "2025-10-17T17:50:36Z",
-    "summary": "<p>Federal Government Focus: School Board Controversy &amp; FBI Achievements</p><p>Do you remember the controversy over the federal government's intervention in school board meetings? This episode delves into the Department of Justice's priorities under Merrick Garland and the involvement of the National Security Division in parental disagreements at school boards. Additionally, we highlight the FBI's achievements in combating violent crime, seizing illegal firearms and drugs, and arresting top criminals during the Trump administration. Is this the best use of federal resources? Should local or state law enforcement handle such issues? Discover the contrasting focuses and effectiveness between administrations.</p>"
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA SB257",
-    "link": "https://legiscan.com/CA/bill/SB257/2025?utm_campaign=rss&guid=3bpUrpETasEZrsoqlRZVLi",
-    "published": "2025-10-13T04:00:00Z",
-    "summary": "An act to amend Section 1399.849 of the Health and Safety Code, and to amend Section 10965.3 of the Insurance Code, relating to health care coverage.<br />\n<br />\n2025/10/13 In Senate. Consideration of Governor's veto pending."
-  },
-  {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA SB647",
-    "link": "https://legiscan.com/CA/bill/SB647/2025?utm_campaign=rss&guid=2jTrblzVSoVbxlvoBAR7OE",
-    "published": "2025-10-03T04:00:00Z",
-    "summary": "An act to amend Section 25665.1 of the Public Resources Code, and to amend Section 382.1 of the Public Utilities Code, relating to energy.<br />\n<br />\n2025/10/03 In Senate. Consideration of Governor's veto pending."
   }
 ]
