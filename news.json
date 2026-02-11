@@ -3,36 +3,50 @@
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
-    "published": "2026-02-11T06:48:45Z",
+    "published": "2026-02-11T12:39:01Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-02-11T06:48:44Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2026-02-11T06:48:43Z",
+    "published": "2026-02-11T12:39:00Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-02-11T06:48:43Z",
+    "published": "2026-02-11T12:39:00Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-02-11T12:39:00Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-02-11T06:48:42Z",
+    "published": "2026-02-11T12:38:59Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Globe",
+    "title": "Sen. Weiner’s Bill is Turning Every Neighborhood in California into a Dangerous Political Experiment",
+    "link": "https://californiaglobe.com/fl/sen-weiners-bill-is-turning-every-neighborhood-in-california-into-a-dangerous-political-experiment/",
+    "published": "2026-02-11T12:00:42Z",
+    "summary": "It is a death knell for conventional family-oriented residential living"
+  },
+  {
+    "source": "California Globe",
+    "title": "Regulating Sales of Franchises",
+    "link": "https://californiaglobe.com/articles/regulating-sales-of-franchises/",
+    "published": "2026-02-11T10:30:53Z",
+    "summary": "The notification may be given summarily without notice of hearing"
   },
   {
     "source": "California Globe",
@@ -56,13 +70,6 @@
     "summary": "It is wrong for critics to claim there is a ‘loophole’ when companies claim a tax credit or exemption when these companies clearly qualify for the particular tax incentive"
   },
   {
-    "source": "California Globe",
-    "title": "Ecological Reserves",
-    "link": "https://californiaglobe.com/articles/ecological-reserves/",
-    "published": "2026-02-10T22:00:43Z",
-    "summary": "No land will be acquired by eminent domain"
-  },
-  {
     "source": "CalMatters",
     "title": "Newsom takes aim at veterans ‘claim sharks’ as he signs law banning fees for help with VA",
     "link": "https://calmatters.org/digital-democracy/2026/02/veterans-claims-consulting-law/",
@@ -75,13 +82,6 @@
     "link": "https://calmatters.org/economy/technology/2026/02/blacklight-update-tiktok-x-twitter/",
     "published": "2026-02-10T19:42:00Z",
     "summary": "<figure><img alt=\"Hands rest on a black computer keyboard as a person types at a desk, with a computer mouse and folders blurred in the background.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"642\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/01/012926-Hands-On-Keyboard-IS-CM-01.jpg?fit=1024%2C642&amp;ssl=1\" width=\"1024\" /></figure>We’ve updated Blacklight, The Markup’s privacy inspector, to help you understand how sites are tracking you."
-  },
-  {
-    "source": "California Globe",
-    "title": "California to Feed College Students via ‘CalFresh for Students Act’",
-    "link": "https://californiaglobe.com/fr/california-to-feed-college-students-via-calfresh-for-students-act/",
-    "published": "2026-02-10T19:31:36Z",
-    "summary": "Why do California college students receive food stamps?"
   },
   {
     "source": "Task & Purpose",
@@ -117,6 +117,41 @@
     "link": "https://calmatters.org/calmatters-en-espanol/2026/02/california-demanda-a-sitios-web-que-publican-planos-de-pistolas-fantasma-para-impresoras-3d/",
     "published": "2026-02-10T15:44:20Z",
     "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/02/080118_3D-Printed-Gun_AP_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Las fuerzas del orden de California incautan unas 11,000 armas fantasma al año. El estado está demandando a los sitios web que ayudan a fabricar armas de fuego imposibles de rastrear."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "#GerofitExercise: Foundational Fitness",
+    "link": "https://www.youtube.com/watch?v=hu4dLyL4FnE",
+    "published": "2026-02-10T14:30:26Z",
+    "summary": "This #GerofitExercise session is a 44-minute full body routine designed to build a strong base for health and mobility. Led by Physical Therapist Paul Froehlich and Nurse Coordinator Iliana Reyes, this routine focuses on essential movements including cardio, strength, balance and flexibility. These are suitable for individuals of all abilities and can be performed with little to no equipment\rDeveloping a foundational fitness habit is vital for your physical, mental, and emotional health, especially as you age. Join our Gerofit team for a great workout today! If you find this video helpful, please share it with family and friends, and be sure to check out our other #Gerofitexercise videos.\r\n\nVideo Chapters:\n00:00 Veteran Testimonial\n00:29 Disclaimer\n01:04 Introduction\n02:24 Warm Up\n06:39 Strength First Round\n15:34 Strength Second Round\n26:32 Cardio Section\n33:18 Balance/3rd Round\n38:24 Cool Down"
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "PTSD and Substance Use Disorder",
+    "link": "https://www.youtube.com/watch?v=jVGYoKHVJ9g",
+    "published": "2026-02-10T13:38:16Z",
+    "summary": "PTSD and Substance Use Disorder: Learn about how posttraumatic stress disorder (PTSD) and substance use problems are related. This short animated video describes both PTSD and substance use disorder and describes treatments that work for both. Created by VA’s National Center for PTSD."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Improving Your Daily Life with PTSD Treatment",
+    "link": "https://www.youtube.com/watch?v=MLmkTazmgfQ",
+    "published": "2026-02-10T13:38:06Z",
+    "summary": "• Improving Your Daily Life with PTSD Treatment: When you complete an effective treatment for posttraumatic stress disorder (PTSD) it’s likely that you will be better able to manage daily life. PTSD symptoms can get in the way of work, school, parenting, relationships, and more. In PTSD treatment, you can talk with your provider about how to improve your daily life as well as get relief from symptoms. Created by VA’s National Center for PTSD."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "PTSD and Substance Use Disorder (descriptive audio)",
+    "link": "https://www.youtube.com/watch?v=MaVRHGFrCnQ",
+    "published": "2026-02-10T13:37:54Z",
+    "summary": "PTSD and Substance Use Disorder: Learn about how posttraumatic stress disorder (PTSD) and substance use problems are related. This short animated video describes both PTSD and substance use disorder and describes treatments that work for both. Created by VA’s National Center for PTSD."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Improving Your Daily Life with PTSD Treatment (descriptive audio)",
+    "link": "https://www.youtube.com/watch?v=nQnmM94jOtU",
+    "published": "2026-02-10T13:37:42Z",
+    "summary": "• Improving Your Daily Life with PTSD Treatment: When you complete an effective treatment for posttraumatic stress disorder (PTSD) it’s likely that you will be better able to manage daily life. PTSD symptoms can get in the way of work, school, parenting, relationships, and more. In PTSD treatment, you can talk with your provider about how to improve your daily life as well as get relief from symptoms. Created by VA’s National Center for PTSD."
   },
   {
     "source": "Task & Purpose",
@@ -663,40 +698,5 @@
     "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=4bZZvEojIAIizyAug87HUC",
     "published": "2026-01-10T05:00:00Z",
     "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/10 From printer."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB1563",
-    "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=4bZZvEojIAIizyAug87HUC",
-    "published": "2026-01-10T05:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/10 From printer."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA AB1563",
-    "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=4bZZvEojIAIizyAug87HUC",
-    "published": "2026-01-10T05:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/10 From printer."
-  },
-  {
-    "source": "The Auditor",
-    "title": "Put SQF Unites on Your 2026 Calendar",
-    "link": "https://www.theauditoronline.com/put-sqf-unites-on-your-2026-calendar/",
-    "published": "2026-01-08T02:17:49Z",
-    "summary": "<p>A new year brings new priorities, and now is the perfect time to plan for how you’ll prepare for SQF Code, Edition 10. Edition 10 places a stronger emphasis on how food safety programs perform in practice, not just how they’re documented. With a focus on practical application, SQF Unites 2026 brings concepts to life with [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/put-sqf-unites-on-your-2026-calendar/\">Put SQF Unites on Your 2026 Calendar</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
-    "source": "California Democratic Party",
-    "title": "California Democratic Party Announces Leadership Transition: Yvette Martinez Named Senior Advisor, Melanie V. Ramil Promoted to Executive Director",
-    "link": "https://cadem.org/california-democratic-party-announces-leadership-transition-yvette-martinez-named-senior-advisor-melanie-v-ramil-promoted-to-executive-director/",
-    "published": "2026-01-07T19:14:57Z",
-    "summary": "<p>Andrés Molina Will Serve as Acting Political Director SACRAMENTO, CA — The California Democratic Party (CADEM) today announced a leadership transition that builds on years of historic growth and electoral success. Yvette Martinez, who has served as Executive Director of CADEM, will step into a new role as Senior Advisor to Chair Rusty Hicks on [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-announces-leadership-transition-yvette-martinez-named-senior-advisor-melanie-v-ramil-promoted-to-executive-director/\">California Democratic Party Announces Leadership Transition: Yvette Martinez Named Senior Advisor, Melanie V. Ramil Promoted to Executive Director</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "The Auditor",
-    "title": "Procedure, Work Instruction, or Flowchart?",
-    "link": "https://www.theauditoronline.com/procedure-work-instruction-or-flowchart/",
-    "published": "2026-01-05T23:08:58Z",
-    "summary": "<p>By IJ Arora, Ph.D. The choice between writing a procedure or a work instruction is an essential decision when designing a management system. Clause 4.4.1 of ISO 9001:2015 (as well as all the ISO management system standards using the harmonized structure) requires the establishment and implementation of a management system. This management system will have [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/procedure-work-instruction-or-flowchart/\">Procedure, Work Instruction, or Flowchart?</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   }
 ]
