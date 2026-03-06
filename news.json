@@ -1,31 +1,94 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-03-05T19:04:59Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
-    "published": "2026-03-05T19:04:58Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-03-05T19:04:58Z",
+    "published": "2026-03-06T01:07:35Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-03-06T01:07:35Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-03-05T19:04:57Z",
+    "published": "2026-03-06T01:07:34Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=1Gh1DUnF4ElHFHTMrxMnBQ",
+    "published": "2026-03-06T01:07:34Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=1Gh1DUnF4ElHFHTMrxMnBQ\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Globe",
+    "title": "LADWP CEO Resigns Following Court Ruling That Could Cost Utility Billions Over Palisades Fire Debacle",
+    "link": "https://californiaglobe.com/fr/ladwp-ceo-resigns-following-court-ruling-that-could-cost-utility-billions-over-palisades-fire-debacle/",
+    "published": "2026-03-05T22:46:41Z",
+    "summary": "Janisse Quiñones leaves her $750,000 salary behind and heads to her hometown of Puerto Rico to modernize their electrical grid"
+  },
+  {
+    "source": "California Globe",
+    "title": "St. HOPE Charter School Teachers Successfully OUST SCTA Labor Union",
+    "link": "https://californiaglobe.com/fr/st-hope-charter-school-teachers-successfully-oust-scta-labor-union/",
+    "published": "2026-03-05T22:33:48Z",
+    "summary": "That was fast!"
+  },
+  {
+    "source": "California Globe",
+    "title": "General Provisions on Dismissals for Delay",
+    "link": "https://californiaglobe.com/articles/general-provisions-on-dismissals-for-delay/",
+    "published": "2026-03-05T22:00:34Z",
+    "summary": "Seven sections provide general provisions on Dismissals for Delay"
+  },
+  {
+    "source": "CalMatters",
+    "title": "Would Sacramento voters send a Republican to Congress? Kevin Kiley is betting on it",
+    "link": "https://calmatters.org/politics/2026/03/kevin-kiley-chooses-reelection-district/",
+    "published": "2026-03-05T21:53:56Z",
+    "summary": "<figure><img alt=\"A person in a blue suit speaks into a microphone while seated at a desk in a government hearing room, with nameplates visible on the desks and other people blurred in the background.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/03/030426-Kevin-Kiley-AD-Getty-CM-001.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Kiley's much-anticipated decision comes after Prop. 50 turned the two-term congressman's current district solidly Democratic and left him with no easy path to reelection."
+  },
+  {
+    "source": "California Globe",
+    "title": "Arizona Lawmakers Pass Bill Targeting Use of Sharia Law in State Courts",
+    "link": "https://californiaglobe.com/fr/arizona-lawmakers-pass-bill-targeting-use-of-sharia-law-in-state-courts/",
+    "published": "2026-03-05T21:00:46Z",
+    "summary": "The measure would amend Arizona law to specify that the definition of ‘foreign law’ includes Sharia law, the religious legal tradition associated with Islam"
+  },
+  {
+    "source": "Task & Purpose",
+    "title": "Marine who crawled under bridge to plant explosives approved for Medal of Honor",
+    "link": "https://taskandpurpose.com/news/marine-john-ripley-medal-of-honor/",
+    "published": "2026-03-05T20:58:33Z",
+    "summary": "<p>Marine Capt. John Ripley hung 500 pounds of explosives on the underside of a key bridge to stop an enemy offensive. He swung hand-over-hand for three hours while under fire from snipers and tanks.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/marine-john-ripley-medal-of-honor/\">Marine who crawled under bridge to plant explosives approved for Medal of Honor</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+  },
+  {
+    "source": "Your Leo Nation",
+    "title": "Operation Epic Fury: Why Trump’s Iran Strikes Don’t Need Congress",
+    "link": "",
+    "published": "2026-03-05T20:43:00Z",
+    "summary": "<p>Operation Epic Fury: Why Trump’s Iran Strikes Don’t Need Congress<br /><br />Is it inconsistent for Democrats to label President Trump a dictator over “Operation Epic Fury” against Iran while ignoring U.S. history? <br /><br />Have presidents of both parties not led multiple undeclared wars and military actions, and does Article II not grant the president authority to initiate and direct military operations? <br /><br />Is the 1973 War Powers Act unnecessary and unconstitutional, especially in light of Nancy Pelosi’s statement that President Obama did not need congressional authorization to bomb Libya? <br /><br />Has the United States not effectively been at war with Iran since 1979, with Iran and its proxies killing at least 1,000 Americans? <br /><br />Does waiting not risk a catastrophic nuclear attack, and did President Trump not act to protect Americans and U.S. allies, including Israel?</p>"
+  },
+  {
+    "source": "CalMatters",
+    "title": "California, 23 other states sue Trump over new tariffs",
+    "link": "https://calmatters.org/economy/2026/03/trump-tariff-ca-lawsuit/",
+    "published": "2026-03-05T20:27:15Z",
+    "summary": "<figure><img alt=\"Rows of while shipping containers sit idle while overlooking stacks of pink and red shipping containers nearby.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/01/021225_Port-of-LA_JAJ_CM_03.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The states argue that President Trump is incorrectly using a never-before-invoked law to put these tariffs in place."
+  },
+  {
+    "source": "California Globe",
+    "title": "Reform California Submits 1.35 Million Signatures to Place Voter ID Initiative on 2026 Ballot",
+    "link": "https://californiaglobe.com/fl/reform-california-submits-1-35-million-signatures-to-place-voter-id-initiative-on-2026-ballot/",
+    "published": "2026-03-05T19:51:47Z",
+    "summary": "DeMaio vows that the grassroots effort will bring this energy to races in the fall: &#8216;This is what Democracy looks like&#8217;"
   },
   {
     "source": "Public Policy Institute of California",
@@ -56,13 +119,6 @@
     "summary": "In this episode of Aging Strong with VA, , Deputy Secretary Paul R. Lawrence, PhD, discusses Adult Day Health Care. He breaks down how Adult Day Health Care provides daytime health services, supervision, and meaningful social interaction for Veterans living at home. It also supports caregivers by offering reliable care during the day while keeping Veterans safe and engaged.\n\nWatch the episode below."
   },
   {
-    "source": "California Globe",
-    "title": "US Labor Department’s 2024 Independent Contractor Rule on Chopping Block",
-    "link": "https://californiaglobe.com/fr/us-labor-departments-2024-independent-contractor-rule-on-chopping-block/",
-    "published": "2026-03-05T14:00:56Z",
-    "summary": "The proposed rule will pave the path for flexibility in hiring freelancers and gig workers"
-  },
-  {
     "source": "CalMatters",
     "title": "Why would anyone want ‘the second-hardest job’ in California?",
     "link": "https://calmatters.org/newsletter/insurance-commissioner/",
@@ -84,34 +140,6 @@
     "summary": "<figure><img alt=\"A person wearing a white sweater with blue stripes on the arm and a blue UCLA shirt underneath stands in a field near an apartment building, with tree branches poking into the background.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/03/022726-DJ-Lynn-MO-26-CM.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>The popular College Corps program pays students up to $10,000 for community service work including tutoring incarcerated youth, assisting at food banks and more. The program is expanding from 45 to 52 campuses, adding hundreds of more students."
   },
   {
-    "source": "CalMatters",
-    "title": "Should Los Angeles’ City Council get bigger for better representation? Let voters decide",
-    "link": "https://calmatters.org/commentary/2026/03/los-angeles-city-council-voters/",
-    "published": "2026-03-05T13:30:00Z",
-    "summary": "<figure><img alt=\"LA City Hall is framed by lush green trees and a partly cloudy sky, standing tall in the center with a clear view of its tiered architecture. The foliage in the foreground adds depth and contrast to the modern lines of the building.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2024/10/080719_LosAngeles_AW_CM-26.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>California’s largest city has 265,000 people per council member, more than most major cities. Voters might vote to reduce that by expanding the council."
-  },
-  {
-    "source": "CalMatters",
-    "title": "Trump’s Medicaid work mandate could kick thousands of homeless Californians off coverage",
-    "link": "https://calmatters.org/health/2026/03/homeless-health-work-rules-medical/",
-    "published": "2026-03-05T13:30:00Z",
-    "summary": "<figure><img alt=\"Dr. Mathew Beare examines a patient&#039;s foot at a meeting area near the Kern River on March 16, 2023. Photo by Larry Valenzuela, CalMatters/CatchLight Local\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2023/07/070523-Street-Medicine-Project-LV-CM_03.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>A majority of California’s roughly 180,000 people experiencing homelessness have health insurance through Medi-Cal. Providers predict that many will lose insurance under President Donald Trump’s upcoming work mandates even if they qualify for exemptions."
-  },
-  {
-    "source": "California Globe",
-    "title": "Ringside – Building the Abundant Water Coalition",
-    "link": "https://californiaglobe.com/fr/ringside-building-the-abundant-water-coalition/",
-    "published": "2026-03-05T13:00:11Z",
-    "summary": "If projects this ambitious were realized, farms and cities would have access to more water than they need"
-  },
-  {
-    "source": "California Globe",
-    "title": "Aquaculture Disease Control",
-    "link": "https://californiaglobe.com/articles/aquaculture-disease-control/",
-    "published": "2026-03-05T10:30:19Z",
-    "summary": "Regulations recommended and adopted by the commission may include eight specified activities"
-  },
-  {
     "source": "Legislative Analyst's Office: Recent Publications",
     "title": "The 2026-27 Budget: California Community Colleges",
     "link": "https://lao.ca.gov/Publications/Detail/5150",
@@ -126,11 +154,11 @@
     "summary": "Presented to: Senate Committee on Budget and Fiscal Review Subcommittee No. 5 on Corrections, Public Safety, Judiciary, Labor and Transportation"
   },
   {
-    "source": "California Globe",
-    "title": "Stay of Appeals",
-    "link": "https://californiaglobe.com/articles/stay-of-appeals/",
-    "published": "2026-03-04T22:00:42Z",
-    "summary": "Deals with a stay of enforcement and other proceedings in California"
+    "source": "Legislative Analyst's Office: Recent Publications",
+    "title": "The 2026-27 Budget: County Administration and H.R. 1 Implementation",
+    "link": "https://lao.ca.gov/Publications/Detail/5149",
+    "published": "2026-03-05T00:00:00Z",
+    "summary": "In this brief, we assess the Governor's proposed funding for county administration of Medi-Cal and CalFresh in response to H.R. 1 and provide related recommendations."
   },
   {
     "source": "Task & Purpose",
@@ -140,25 +168,11 @@
     "summary": "<p>A Los Angeles-class fast-attack submarine used a torpedo to sink an Iranian warship on Tuesday, marking the first such sinking by an American submarine since 1945.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/los-angeles-class-submarine-iran/\">Why Iran&#8217;s warship &#8216;didn&#8217;t have a chance&#8217; against a Los Angeles-class submarine</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "California Globe",
-    "title": "Andy Biggs Files Most Signatures of Any 2026 Arizona Gubernatorial Candidate, Surpassing 20,000",
-    "link": "https://californiaglobe.com/articles/andy-biggs-files-most-signatures-of-any-2026-arizona-gubernatorial-candidate-surpassing-20000/",
-    "published": "2026-03-04T21:20:18Z",
-    "summary": "Under Arizona election law, candidates for statewide office, such as governor, must submit a minimum number of valid signatures signed by registered voters to qualify for the primary ballot"
-  },
-  {
     "source": "Task & Purpose",
     "title": "The Army hopes to lure civilian tech workers by letting some join as captains",
     "link": "https://taskandpurpose.com/news/army-direct-commissioning-tech-civilians/",
     "published": "2026-03-04T19:30:00Z",
     "summary": "<p>“In this case, the direct commissioning program, we're really focused on folks coming in at the lieutenant and the captain level to help us in the technical areas in our operational units.”</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/army-direct-commissioning-tech-civilians/\">The Army hopes to lure civilian tech workers by letting some join as captains</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
-    "source": "Task & Purpose",
-    "title": "Senate authorizes Trump to award Recon Marine the Medal of Honor",
-    "link": "https://taskandpurpose.com/news/marine-james-capers-2026/",
-    "published": "2026-03-04T16:48:53Z",
-    "summary": "<p>The Senate has passed a bill to clear the way for retired Marine Maj. James Capers Jr. to receive the Medal of Honor for his heroism during a 1967 ambush in Vietnam.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/marine-james-capers-2026/\">Senate authorizes Trump to award Recon Marine the Medal of Honor</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
     "source": "California Political Review",
@@ -334,13 +348,6 @@
     "link": "https://lao.ca.gov/Publications/Detail/5147",
     "published": "2026-03-03T00:00:00Z",
     "summary": "California’s children and family programs include an array of services to protect children from abuse and neglect and to keep families safely together when possible. This analysis outlines the Governor’s proposed 2026-27 budget for child welfare and foster care programs under the Department of Social Services (DSS), and raises questions and issues for the Legislature to consider."
-  },
-  {
-    "source": "Legislative Analyst's Office: Recent Publications",
-    "title": "The 2026-27 Budget: Supplemental Security Income/State Supplementary Payment (SSI/SSP) Program",
-    "link": "https://lao.ca.gov/Publications/Detail/5148",
-    "published": "2026-03-03T00:00:00Z",
-    "summary": "For 2026-27, the Governor’s budget proposes $3.6 billion from the General Fund for the state’s share of SSI/SSP—an increase of $94 million (2.7 percent) from the Governor’s revised 2025-26 budget estimate. This increase would bring total program funding to $11.5 billion ($3.6 billion from the General Fund and $7.9 billion federal funds) in 2026-27. We note that while the year-over-year change in General Fund costs for the program is relatively flat, it is increasing slightly despite the fact that caseload is expected to decline and the average state cost for grants is remaining flat. We have been informed by the administration that this is due to a technical adjustment to the current year and we discuss this at a high level in this post."
   },
   {
     "source": "Publication Archive - Public Policy Institute of California",
@@ -691,12 +698,5 @@
     "link": "https://legiscan.com/CA/bill/SB475/2025?utm_campaign=rss&guid=6rFxG1pOZt2bRcXjkkBLKV",
     "published": "2026-02-02T05:00:00Z",
     "summary": "An act to amend Section 12098.3 of the Government Code, relating to state government.<br />\n<br />\n2026/02/02 Returned to Secretary of Senate pursuant to Joint Rule 56."
-  },
-  {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA SB656",
-    "link": "https://legiscan.com/CA/bill/SB656/2025?utm_campaign=rss&guid=3DNB37uUMkCHAsntQ3LvaT",
-    "published": "2026-02-02T05:00:00Z",
-    "summary": "An act to amend Sections 11148 and 11148.5 of, and to add Section 11149 to, the Government Code, relating to business.<br />\n<br />\n2026/02/02 Returned to Secretary of Senate pursuant to Joint Rule 56."
   }
 ]
