@@ -1,24 +1,59 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-03-16T07:02:45Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-03-16T07:02:45Z",
+    "published": "2026-03-16T12:41:48Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
+    "published": "2026-03-16T12:41:47Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-03-16T07:02:44Z",
+    "published": "2026-03-16T12:41:46Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "CalMatters",
+    "title": "Lawmakers tried to kill California’s online community college. Now it’s growing rapidly",
+    "link": "https://calmatters.org/education/higher-education/2026/03/online-community-college-california/",
+    "published": "2026-03-16T12:01:00Z",
+    "summary": "<figure><img alt=\"A close-up view of a person&#039;s hands near the keyboard of a laptop. The person wears a denim jacket and holds a pen in between their right index and middle finger.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/03/030526_Lapttop-Typing_BANG_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Calbright College, the state’s free online community college, is growing rapidly, despite concerns about its effectiveness. Gov. Gavin Newsom proposes tripling its annual budget."
+  },
+  {
+    "source": "California Globe",
+    "title": "Why Are Violent Predators Are Walking Free in California?",
+    "link": "https://californiaglobe.com/fr/why-are-violent-predators-are-walking-free-in-california/",
+    "published": "2026-03-16T12:00:11Z",
+    "summary": "A justice system that forgets victims is not justice at all"
+  },
+  {
+    "source": "Task & Purpose",
+    "title": "The Reaper just won’t quit: Try as they might, the military can’t ditch the MQ-9",
+    "link": "https://taskandpurpose.com/tech-tactics/air-force-reaper-drone-extension/",
+    "published": "2026-03-16T12:00:00Z",
+    "summary": "<p>The military is turning the aging drone into an effective system, extending its life with new weapons, boosting its range and electronic warfare capabilities. </p>\n<p>The post <a href=\"https://taskandpurpose.com/tech-tactics/air-force-reaper-drone-extension/\">The Reaper just won&#8217;t quit: Try as they might, the military can’t ditch the MQ-9</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+  },
+  {
+    "source": "CalMatters",
+    "title": "California bets on an obscure tool to replace clean air authority Trump revoked",
+    "link": "https://calmatters.org/environment/2026/03/indirect-source-air-quality-trump/",
+    "published": "2026-03-16T12:00:00Z",
+    "summary": "<figure><img alt=\"Semi-tractor trailers pull in and out of an Amazon fulfillment in San Bernardino on Jan. 26, 2020. The Inland Empire has experienced a rise in construction of warehouses. Photo by Jay Calderon, The Desert Sun\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2022/06/012620-Inland-Empire-Warehouse-REUTERS-CM-01.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>The rules would hold pollution magnets like warehouses, ports and railyards accountable for the trucks and ships they attract."
+  },
+  {
+    "source": "California Globe",
+    "title": "California’s Unclaimed Property Law",
+    "link": "https://californiaglobe.com/articles/californias-unclaimed-property-law/",
+    "published": "2026-03-16T09:30:40Z",
+    "summary": "Provides that property received by the state under this chapter does not permanently escheat to the state"
   },
   {
     "source": "California Globe",
@@ -84,20 +119,6 @@
     "summary": "<p>The Super Hornet, assigned to VFA-87 on the USS Gerald R. Ford, got a kill marking for taking out a Syrian Su-22 in 2017.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/navy-fa18-syria-iran/\">Navy F-18 that got the US&#8217;s first air-to-air kill in the 21st century is taking part in the Iran War</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "California Globe",
-    "title": "Nevada AG Aaron Ford Joins California-Led Coalition in Latest Legal Assault on Trump Tariffs",
-    "link": "https://californiaglobe.com/fr/nevada-ag-aaron-ford-joins-california-led-coalition-in-latest-legal-assault-on-trump-tariffs/",
-    "published": "2026-03-14T21:48:39Z",
-    "summary": "With this tariff motion, the total number of lawsuits Ford has filed or joined against the Trump administration now exceeds 73, contributing to a broader wave of over 70 challenges from Democratic attorneys general nationwide since 2025"
-  },
-  {
-    "source": "California Globe",
-    "title": "President Trump Invokes Emergency Law to Restart California Offshore Oil",
-    "link": "https://californiaglobe.com/fl/president-trump-invokes-emergency-law-to-restart-california-offshore-oil/",
-    "published": "2026-03-14T19:25:39Z",
-    "summary": "U.S. Secretary of Energy Chris Wright Friday directed Sable Offshore Corp. to restore operations of the Santa Ynez Unit and Santa Ynez Pipeline System"
-  },
-  {
     "source": "California Political Review",
     "title": "No love lost between top Republicans in CA governor’s race Steve Hilton and Chad Bianco",
     "link": "https://capoliticalreview.com/2026/03/14/no-love-lost-between-top-republicans-in-ca-governors-race-steve-hilton-and-chad-bianco/",
@@ -140,13 +161,6 @@
     "summary": "<figure><img alt=\"An offshore oil platform stands in the ocean near Santa Barbara as waves roll in the foreground and coastal mountains rise in the background during sunset light.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/03/031326-Offhore-Oil-Santa-Barbara-GETTY-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The Trump administration ordered the restart of a Santa Barbara oil pipeline shut since the 2015 Refugio spill, invoking emergency powers under the Defense Production Act."
   },
   {
-    "source": "Task & Purpose",
-    "title": "VA responds to worries about new focus on ‘telltale signs’ of fraud",
-    "link": "https://taskandpurpose.com/military-life/va-disability-benefits-fraud-tool/",
-    "published": "2026-03-13T20:23:24Z",
-    "summary": "<p>VA officials said it will look for patterns that identify fraud, adding that “No veteran’s claim or benefit will be reduced or denied because of this effort.” </p>\n<p>The post <a href=\"https://taskandpurpose.com/military-life/va-disability-benefits-fraud-tool/\">VA responds to worries about new focus on ‘telltale signs’ of fraud</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
     "source": "California Political Review",
     "title": "Gov. Newsom addresses questions about California’s security amid Iran war, says no ‘imminent threat’",
     "link": "https://capoliticalreview.com/2026/03/13/gov-newsom-addresses-questions-about-californias-security-amid-iran-war-says-no-imminent-threat/",
@@ -168,20 +182,6 @@
     "summary": "<figure><img alt=\"A person wearing a purple shirt sits in the front row of the audience section at a press conference, where four people stand behind a lectern as one of them speaks into a microphone. A graphic displayed on an easel shows an image of traffic cones with the words &quot;Stop DUIs, Save Lives&quot; on it.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/03/020226_DUI-Laws_FG_CM_21.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Real journalism is distinct from social news tricks for clicks. Journalists hold the powerful accountable, and most won't ask you for money."
   },
   {
-    "source": "CalMatters",
-    "title": "Get ready for California’s 2026 primary. Your questions about voting, answered",
-    "link": "https://calmatters.org/politics/elections/2026/03/california-voter-guide-2026-faq/",
-    "published": "2026-03-13T12:00:00Z",
-    "summary": "<figure><img alt=\"CalMatters California Voter Guide 2026 Frequently Asked Questions\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/03/2026-VG-FAQ-scaled.png?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>Where do I vote? Am I registered to vote? Does everyone get a ballot in the mail? Answers to your election day questions ahead of June 2."
-  },
-  {
-    "source": "CalMatters",
-    "title": "California passed a law to curb spikes in gas prices. Why isn’t it using those powers now?",
-    "link": "https://calmatters.org/environment/2026/03/california-iran-oil-profit-spike/",
-    "published": "2026-03-13T12:00:00Z",
-    "summary": "<figure><img alt=\"A Shell gas station price sign displays the cost of regular, plus, V-Power gasoline, and renewable diesel. A car is parked near the pumps beneath the station canopy in the background.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/03/030926_SoCal_Gas_Prices_ZC_CM_15.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>California built a first-in-the-nation system to police refinery profits during price spikes. Regulators delayed it for five years."
-  },
-  {
     "source": "Legislative Analyst's Office: Recent Publications",
     "title": "The 2026-27 Budget: Department of Developmental Services",
     "link": "https://lao.ca.gov/Publications/Detail/5157",
@@ -201,20 +201,6 @@
     "link": "https://cv4a.org/news-media/patrick-henrys-fight-for-liberty-in-the-american-revolution/",
     "published": "2026-03-12T18:13:05Z",
     "summary": "<p>On March 23, 1775, Patrick Henry stood inside St. John’s Church in Richmond and made his case for independence. British troops were occupying Boston. The king closed the ports and cut off trade. This meant merchants lost income, workers lost jobs, and families felt the strain. When colonists asked for relief, the king wouldn’t listen. [&#8230;]</p>\n<p>The post <a href=\"https://cv4a.org/news-media/patrick-henrys-fight-for-liberty-in-the-american-revolution/\">More than words: Patrick Henry and the fight for freedom</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "Irvine Mayor Agran Delivers State of the City Address",
-    "link": "https://theliberaloc.com/2026/03/12/irvine-mayor-agran-delivers-state-of-the-city-address/",
-    "published": "2026-03-12T16:48:22Z",
-    "summary": "Mayor Larry Agran delivered the 2026 State of the City Address Tuesday night, reaffirming a continued commitment to ensuring Irvine is America’s safest, smartest, greenest, <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/03/12/irvine-mayor-agran-delivers-state-of-the-city-address/\" title=\"Irvine Mayor Agran Delivers State of the City Address\">[...]</a>"
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "DPOC announces CA SoS Shirley Weber as Women’s Leadershop Awards Speaker",
-    "link": "https://theliberaloc.com/2026/03/12/dpoc-announces-ca-sos-shirley-weber-as-womens-leadershop-awards-speaker/",
-    "published": "2026-03-12T16:41:54Z",
-    "summary": "&#160; The Democratic Party of Orange County is proud to announce our first confirmed speaker for the Women’s Leadership Awards on April 11th in Buena <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/03/12/dpoc-announces-ca-sos-shirley-weber-as-womens-leadershop-awards-speaker/\" title=\"DPOC announces CA SoS Shirley Weber as Women&#8217;s Leadershop Awards Speaker\">[...]</a>"
   },
   {
     "source": "U.S. Dept. of Veterans Affairs",
@@ -273,11 +259,46 @@
     "summary": "An act to amend Sections 17132.9 and 17132.10 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/03/12 March 25 set for first hearing canceled at the request of author."
   },
   {
-    "source": "The Liberal OC",
-    "title": "CA-40 Democratic Frontrunner Esther Kim-Varet Announces March 12th Virtual Town Hall Event Featuring Kim-Varet Campaign Advisor Chuck Rocha",
-    "link": "https://theliberaloc.com/2026/03/11/ca-40-democratic-frontrunner-esther-kim-varet-announces-march-12th-virtual-town-hall-event-featuring-kim-varet-campaign-advisor-chuck-rocha/",
-    "published": "2026-03-11T23:31:30Z",
-    "summary": "&#160; Fresh off his key role in the James Talarico campaign’s overperformance with Latino voters, Kim-Varet campaign advisor Chuck Rocha will discuss plans to engage <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/03/11/ca-40-democratic-frontrunner-esther-kim-varet-announces-march-12th-virtual-town-hall-event-featuring-kim-varet-campaign-advisor-chuck-rocha/\" title=\"CA-40 Democratic Frontrunner Esther Kim-Varet Announces March 12th Virtual Town Hall Event Featuring Kim-Varet Campaign Advisor Chuck Rocha\">[...]</a>"
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA AB2787",
+    "link": "https://legiscan.com/CA/bill/AB2787/2025?utm_campaign=rss&guid=1HUIZuXa6BFRZbN4xJbAsd",
+    "published": "2026-03-12T04:00:00Z",
+    "summary": "An act to amend Section 1745 of, and to amend, renumber, and add Section 3480 of, the Fish and Game Code, to amend Section 675 of the Harbors and Navigation Code, to amend Sections 9853 and 9860 of the Vehicle Code, and to amend Section 10722.4 of the Water Code, relating to public resources.<br />\n<br />\n2026/03/12 Read first time. To print."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SB1439",
+    "link": "https://legiscan.com/CA/bill/SB1439/2025?utm_campaign=rss&guid=tkTgJnnOFTbTWe8lDdAM5",
+    "published": "2026-03-12T04:00:00Z",
+    "summary": "An act to amend Sections 24011, 26802, 26803, 26803.5, 26807, 26809, 26831, 26837, 26840.1, 27297.7, 53601, 53651, and 54221 of the Government Code, relating to local government.<br />\n<br />\n2026/03/12 From printer. May be acted upon on or after April 11."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SB1188",
+    "link": "https://legiscan.com/CA/bill/SB1188/2025?utm_campaign=rss&guid=46pdlpQx69qb9shZSmCr5i",
+    "published": "2026-03-12T04:00:00Z",
+    "summary": "An act to amend Section 51750 of the Education Code, relating to pupil instruction.<br />\n<br />\n2026/03/12 March 25 set for first hearing canceled at the request of author."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SCR110",
+    "link": "https://legiscan.com/CA/bill/SCR110/2025?utm_campaign=rss&guid=5XKo75tREbsM1Z44i9nxdN",
+    "published": "2026-03-12T04:00:00Z",
+    "summary": "Relative to Women’s Military History Week.<br />\n<br />\n2026/03/12 In Assembly. Held at Desk."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SB1407",
+    "link": "https://legiscan.com/CA/bill/SB1407/2025?utm_campaign=rss&guid=7DNMCL1LL2kpPWZkJ812r5",
+    "published": "2026-03-12T04:00:00Z",
+    "summary": "An act to amend Sections 17132.9 and 17132.10 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/03/12 March 25 set for first hearing canceled at the request of author."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SCR137",
+    "link": "https://legiscan.com/CA/bill/SCR137/2025?utm_campaign=rss&guid=5a73qv8vEZPojYC560UnQT",
+    "published": "2026-03-12T04:00:00Z",
+    "summary": "Relative to Justice Ruth Bader Ginsburg Day.<br />\n<br />\n2026/03/12 In Assembly. Held at Desk."
   },
   {
     "source": "Publication Archive - Public Policy Institute of California",
@@ -322,18 +343,18 @@
     "summary": "<p>SACRAMENTO, CA – Today, California Democratic Party (CADEM) Chair Rusty Hicks announced the launch of the California Voter Opinion, Trend, &#38; Engagement Research (VOTER) Index, a new large-sample statewide polling project designed to provide a consistent snapshot of the California Governor’s race ahead of the Primary Election. Following a recent open letter to candidates for [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/cadem-chair-rusty-hicks-launches-california-voter-index-to-track-governors-race/\">CADEM Chair Rusty Hicks Launches California VOTER Index to Track Governor’s Race</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
   },
   {
-    "source": "The Liberal OC",
-    "title": "Steve Hilton, GOP Candidate for Governor, All Promises with Little Ability to Keep Them",
-    "link": "https://theliberaloc.com/2026/03/10/steve-hilton-gop-candidate-for-governor-all-promises-with-little-ability-to-keep-them/",
-    "published": "2026-03-10T18:08:19Z",
-    "summary": "&#160; If you&#8217;re on X.com enough, GOP candidate for governor Steve Hilton has been making a number of promises about things he would do as <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/03/10/steve-hilton-gop-candidate-for-governor-all-promises-with-little-ability-to-keep-them/\" title=\"Steve Hilton, GOP Candidate for Governor, All Promises with Little Ability to Keep Them\">[...]</a>"
-  },
-  {
     "source": "Public Policy Institute of California",
     "title": "Commentary: Why Civic Education Matters Now More than Ever",
     "link": "https://www.ppic.org/blog/commentary-why-civic-education-matters-now-more-than-ever/?utm_source=rss&utm_medium=rss&utm_campaign=commentary-why-civic-education-matters-now-more-than-ever",
     "published": "2026-03-10T16:48:58Z",
     "summary": "<p><img alt=\"photo - Rear View of Students in Classroom and Teacher Standing in Front of the Class\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/03/rear-view-of-students-in-classroom-and-teacher-standing-in-front-of-the-class.jpg\" width=\"2000\" /></p>The second week of March is known as Civic Learning Week, an effort to promote the importance of understanding our governing system. In a time of deep political polarization, the need is urgent."
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA SB1044",
+    "link": "https://legiscan.com/CA/bill/SB1044/2025?utm_campaign=rss&guid=6suvE2BGnYCafPkXE3m5yS",
+    "published": "2026-03-10T04:00:00Z",
+    "summary": "An act to amend Sections 14838.5 and 14838.64 of the Government Code, relating to public contracts.<br />\n<br />\n2026/03/10 Set for hearing March 24."
   },
   {
     "source": "Legislative Analyst's Office: Recent Publications",
@@ -348,13 +369,6 @@
     "link": "https://www.ppic.org/publication/college-completion-in-california/?utm_source=rss&utm_medium=rss&utm_campaign=college-completion-in-california",
     "published": "2026-03-09T21:44:12Z",
     "summary": "<p><img alt=\"photo - Young Woman Holding a Diploma on Graduation\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1334\" src=\"https://www.ppic.org/wp-content/uploads/2024/09/young-woman-holding-a-diploma-on-graduation.jpg\" width=\"2000\" /></p>Many California freshmen finish a bachelor’s degree within four years, but rates vary across institutions and student groups. Meeting the state’s goal of improving bachelor’s degree attainment will require expanding direct access to four-year institutions, streamlining transfer pathways, and boosting graduation rates."
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "Former State Rep. Bill Brough Pulls Papers to Challenge Dave Min in CA47",
-    "link": "https://theliberaloc.com/2026/03/09/former-state-rep-bill-brough-pulls-papers-to-challenge-dave-min-in-ca47/",
-    "published": "2026-03-09T17:53:56Z",
-    "summary": "Jacob Rubashkin, the deputy editor of InsideElections, posts on X.com (formerly known as Twitter) that former State Assembly Representation Bill Brough pulled papers to run <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/03/09/former-state-rep-bill-brough-pulls-papers-to-challenge-dave-min-in-ca47/\" title=\"Former State Rep. Bill Brough Pulls Papers to Challenge Dave Min in CA47\">[...]</a>"
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
@@ -448,6 +462,13 @@
     "summary": "<p><img alt=\"photo - California State Capitol\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2021/09/california-state-capitol-survey-cag.jpg\" width=\"2000\" /></p>No top candidates for governor have emerged in June’s primary race, as California’s likely voters are dividing their support across two Republicans and three Democrats. The top issue is clearer: Affordability."
   },
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
+    "title": "CA SB892",
+    "link": "https://legiscan.com/CA/bill/SB892/2025?utm_campaign=rss&guid=6yYXxCVMA3n5W9WmT94CgS",
+    "published": "2026-03-05T05:00:00Z",
+    "summary": "An act to amend, repeal, and add Section 66025.8 of the Education Code, relating to public postsecondary education.<br />\n<br />\n2026/03/05 Set for hearing March 18."
+  },
+  {
     "source": "Public Policy Institute of California",
     "title": "Who Turned Out to Vote on California’s Proposition 50?",
     "link": "https://www.ppic.org/blog/who-turned-out-to-vote-on-californias-proposition-50/?utm_source=rss&utm_medium=rss&utm_campaign=who-turned-out-to-vote-on-californias-proposition-50",
@@ -504,6 +525,20 @@
     "summary": "An act to amend Section 1399.849 of the Health and Safety Code, and to amend Section 10965.3 of the Insurance Code, relating to health care coverage.<br />\n<br />\n2026/03/02 Veto sustained."
   },
   {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA SB647",
+    "link": "https://legiscan.com/CA/bill/SB647/2025?utm_campaign=rss&guid=1vmOg66AOEMfYVfatWwgat",
+    "published": "2026-03-02T05:00:00Z",
+    "summary": "An act to amend Section 25665.1 of the Public Resources Code, and to amend Section 382.1 of the Public Utilities Code, relating to energy.<br />\n<br />\n2026/03/02 Veto sustained."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
+    "title": "CA AB1920",
+    "link": "https://legiscan.com/CA/bill/AB1920/2025?utm_campaign=rss&guid=2ZXg1FXXMkZNmelbAq3qUD",
+    "published": "2026-03-02T05:00:00Z",
+    "summary": "An act to amend Section 76396.3 of the Education Code, relating to community colleges.<br />\n<br />\n2026/03/02 Referred to Com. on HIGHER ED."
+  },
+  {
     "source": "CVA News & Media",
     "title": "CVA Responds to US Military Action Against Iran",
     "link": "https://cv4a.org/news-media/cva-responds-to-us-military-action-against-iran/",
@@ -546,20 +581,6 @@
     "summary": "<p><img alt=\"photo - California State Capitol\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2021/09/california-state-capitol-survey-cag.jpg\" width=\"2000\" /></p>Ahead of the primary elections, Californians share their views of the top issues facing the state and nation. Our latest survey examines support for candidates in the gubernatorial primary race and opinions of Governor Newsom’s proposal to address the state budget deficit. The survey also explores views of federal cuts to Medicaid and sentiment toward ICE. Survey analyst Lauren Mora will outline key findings and discuss takeaways."
   },
   {
-    "source": "The Auditor",
-    "title": "Join Your Quality Peers for ASQ’s WCQI",
-    "link": "https://www.theauditoronline.com/join-your-quality-peers-for-asqs-wcqi/",
-    "published": "2026-02-24T01:36:09Z",
-    "summary": "<p>The World Conference on Quality and Improvement (WCQI), presented by ASQ, is one of the major events on the calendar for quality professionals. Running from May 17–20 in Orlando, Florida, WCQI offers a dynamic blend of purpose-driven strategy and actionable solutions to tackle daily challenges. With the theme, “When Purpose and Quality Meet, Magic Happens,” [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/join-your-quality-peers-for-asqs-wcqi/\">Join Your Quality Peers for ASQ&#8217;s WCQI</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
-    "source": "The Auditor",
-    "title": "Nominations Open for Standards Australia’s 2026 Standards Awards",
-    "link": "https://www.theauditoronline.com/nominations-open-for-standards-australias-2026-standards-awards/",
-    "published": "2026-02-23T21:43:46Z",
-    "summary": "<p>For more than 30 years, Standards Australia has celebrated those shaping the future of standards. The organization’s annual Standards Awards recognize collaboration and innovation—the collective effort that drives standards development and strengthens industries. The Standards Awards honor individuals, accredited standards development organizations, committees, and, more recently, corporate partners and nominating organizations. Nominations for the 2026 [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/nominations-open-for-standards-australias-2026-standards-awards/\">Nominations Open for Standards Australia&#8217;s 2026 Standards Awards</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
     "source": "The Official United States Marine Corps Public Website News",
     "title": "Beneath Norway's Mountains",
     "link": "https://www.marines.mil/News/News-Display/Article/4412038/beneath-norways-mountains/",
@@ -572,13 +593,6 @@
     "link": "https://cv4a.org/news-media/government-shutdown-threatens-coast-guard-readiness-and-public-safety/",
     "published": "2026-02-23T14:09:55Z",
     "summary": "<p>ARLINGTON, Va. &#8213; Concerned Veterans for America (CVA) on Monday warned that the ongoing Department of Homeland Security spending freeze and resulting partial government shutdown are undermining the operational readiness of the United States Coast Guard and placing unnecessary strain on service members and public safety. As the nation’s only armed service within DHS, the [&#8230;]</p>\n<p>The post <a href=\"https://cv4a.org/news-media/government-shutdown-threatens-coast-guard-readiness-and-public-safety/\">Government Shutdown Threatens Coast Guard Readiness and Public Safety</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
-  },
-  {
-    "source": "The Auditor",
-    "title": "What Certified Professionals Need to Know About ISO 9001 and ISO 14001 Revisions",
-    "link": "https://www.theauditoronline.com/what-certified-professionals-need-to-know-about-iso-9001-and-iso-14001-revisions/",
-    "published": "2026-02-23T00:35:04Z",
-    "summary": "<p>As many will be aware, ongoing revisions to ISO 9001 and ISO 14001 are reaching their conclusion. The latest guidance provided by the International Organization for Standardization anticipates that these standards will emerge from the FDIS review stage in the coming months. Exemplar Global has structured processes in place to update our requirements related to [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/what-certified-professionals-need-to-know-about-iso-9001-and-iso-14001-revisions/\">What Certified Professionals Need to Know About ISO 9001 and ISO 14001 Revisions</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "California Democratic Party",
@@ -600,20 +614,6 @@
     "link": "https://cv4a.org/news-media/us-foreign-policy-key-victories-and-wins-recap/",
     "published": "2026-02-20T17:16:49Z",
     "summary": "<p>As President George Washington warned in his Farewell Address, the United States should avoid being pulled into unnecessary conflicts and permanent rivalries abroad. He wisely believed America would be stronger, safer, and more united if it acted with care and discipline on the world stage. We couldn’t agree more. War puts a great strain on [&#8230;]</p>\n<p>The post <a href=\"https://cv4a.org/news-media/us-foreign-policy-key-victories-and-wins-recap/\">2025 U.S. foreign policy wins</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
-  },
-  {
-    "source": "The Auditor",
-    "title": "Audit Focus Areas Under ISO 28000 for 2026 (and Beyond)",
-    "link": "https://www.theauditoronline.com/audit-focus-areas-under-iso-28000-for-2026-and-beyond/",
-    "published": "2026-02-18T05:23:41Z",
-    "summary": "<p>By IJ Arora, Ph.D. In this article on ISO 28000:2022, “Security and resilience—Security management systems—Requirements,” I want to emphasize the audit focus areas for the standard, based on what 2025 revealed and what auditors must prioritize in 2026 and beyond. This focus will allow organizations registered to the standard to go from mere compliance to [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/audit-focus-areas-under-iso-28000-for-2026-and-beyond/\">Audit Focus Areas Under ISO 28000 for 2026 (and Beyond)</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
-    "source": "The Auditor",
-    "title": "The Shift from Managing Change to Leading Through It",
-    "link": "https://www.theauditoronline.com/the-shift-from-managing-change-to-leading-through-it/",
-    "published": "2026-02-17T02:43:57Z",
-    "summary": "<p>By Jackie Stapleton I was reading an article recently, and while I can’t remember where it was published, one small detail stuck with me. The author mentioned how many times the word “change” appears in the draft version of the forthcoming revision of ISO 9001 compared to the 2015 version. That single comment was enough [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/the-shift-from-managing-change-to-leading-through-it/\">The Shift from Managing Change to Leading Through It</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "American Military News",
@@ -658,6 +658,20 @@
     "summary": "An act to amend Section 987.53 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/02/02 Returned to Secretary of Senate pursuant to Joint Rule 56."
   },
   {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA SB475",
+    "link": "https://legiscan.com/CA/bill/SB475/2025?utm_campaign=rss&guid=6rFxG1pOZt2bRcXjkkBLKV",
+    "published": "2026-02-02T05:00:00Z",
+    "summary": "An act to amend Section 12098.3 of the Government Code, relating to state government.<br />\n<br />\n2026/02/02 Returned to Secretary of Senate pursuant to Joint Rule 56."
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA SB656",
+    "link": "https://legiscan.com/CA/bill/SB656/2025?utm_campaign=rss&guid=3DNB37uUMkCHAsntQ3LvaT",
+    "published": "2026-02-02T05:00:00Z",
+    "summary": "An act to amend Sections 11148 and 11148.5 of, and to add Section 11149 to, the Government Code, relating to business.<br />\n<br />\n2026/02/02 Returned to Secretary of Senate pursuant to Joint Rule 56."
+  },
+  {
     "source": "California Democratic Party",
     "title": "California Democratic Party and Contest Every Race Announce Statewide Candidate Recruitment Initiative",
     "link": "https://cadem.org/california-democratic-party-and-contest-every-race-announce-statewide-candidate-recruitment-initiative/",
@@ -684,19 +698,5 @@
     "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=6QM9XKjeiqWgQIf9bsXBKW",
     "published": "2026-01-12T05:00:00Z",
     "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/12 Read first time."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
-    "title": "CA AB1563",
-    "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=4bZZvEojIAIizyAug87HUC",
-    "published": "2026-01-10T05:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/10 From printer."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA AB1563",
-    "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=4bZZvEojIAIizyAug87HUC",
-    "published": "2026-01-10T05:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/10 From printer."
   }
 ]
