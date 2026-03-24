@@ -1,23 +1,23 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-03-24T00:00:33Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-03-24T00:00:31Z",
+    "published": "2026-03-24T06:49:46Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-03-24T06:49:45Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-03-24T00:00:21Z",
+    "published": "2026-03-24T03:51:38Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
   },
   {
@@ -40,6 +40,13 @@
     "link": "https://californiaglobe.com/fr/another-illegal-california-gun-control-law-struck-down/",
     "published": "2026-03-23T21:36:48Z",
     "summary": "The state must pay the NRA nearly $500K in attorney fees"
+  },
+  {
+    "source": "The Auditor",
+    "title": "Live Webinar on AI for Audits and Certification",
+    "link": "https://www.theauditoronline.com/live-webinar-on-ai-for-audits-and-certification/",
+    "published": "2026-03-23T21:21:09Z",
+    "summary": "<p>Exemplar Global and Intact are very pleased to announce a live webinar titled, “Intact AI: The Productivity Workspace for Audits and Certification.” The event will occur on Tuesday, March 31, at 2 p.m. U.S. Eastern time. Register here. In this event, you will be introduced to a unique AI productivity workspace for use across the [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/live-webinar-on-ai-for-audits-and-certification/\">Live Webinar on AI for Audits and Certification</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "California Globe",
@@ -68,13 +75,6 @@
     "link": "https://californiaglobe.com/fr/supreme-court-hears-landmark-case-on-whether-federal-law-bars-counting-ballots-received-after-election-day/",
     "published": "2026-03-23T18:24:42Z",
     "summary": "Justice Alito delivered a sharp analogy to counter arguments for flexibility in ballot receipt deadlines, emphasizing the fixed and precise nature of federal Election Day"
-  },
-  {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "VA Domiciliary Hato Rey VA Clinic",
-    "link": "https://www.youtube.com/watch?v=23-lTAuM48g",
-    "published": "2026-03-23T18:13:53Z",
-    "summary": "VA Caribbean Healthcare System - VA Domiciliary, Hato Rey VA Clinic\r\n\nThe Mental Heath Rehabilitation and Recovery Treatment Program. (also called Domiciliary) is a structured, supportive and safe environment. We are focused on instilling hope, validating strengths and teaching skills, while preparing veterans for reintegration into the community. It is a residential program that offers intensive treatment with a strong focus on evidence-based psychotherapies, group psychotherapy and psycho education as well as outpatient-level medical and psychiatric management."
   },
   {
     "source": "Task & Purpose",
@@ -133,6 +133,76 @@
     "summary": "<figure><img alt=\"A side view of a man on a bike next to homeless tents lined up along a sidewalk underneath a highway in Sacramento.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2024/10/102524_Unhoused-Voting_FG_CM_28.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Only 3% of the state’s homeless beds are reserved for youth, which feeds a pipeline to chronic homelessness. Most vulnerable: foster kids."
   },
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
+    "title": "CA AB2645",
+    "link": "https://legiscan.com/CA/bill/AB2645/2025?utm_campaign=rss&guid=4US6rk4Pu3qundGIErowIT",
+    "published": "2026-03-23T04:00:00Z",
+    "summary": "An act to add Article 3 (commencing with Section 983) to Chapter 6 of Division 4 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/03/23 Re-referred to Coms. on M. & V.A. and TRANS. pursuant to Assembly Rule 96."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2645",
+    "link": "https://legiscan.com/CA/bill/AB2645/2025?utm_campaign=rss&guid=4US6rk4Pu3qundGIErowIT",
+    "published": "2026-03-23T04:00:00Z",
+    "summary": "An act to add Article 3 (commencing with Section 983) to Chapter 6 of Division 4 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/03/23 Re-referred to Coms. on M. & V.A. and TRANS. pursuant to Assembly Rule 96."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2442",
+    "link": "https://legiscan.com/CA/bill/AB2442/2025?utm_campaign=rss&guid=4Xzjz3oCVYj5Hqnz61r8rl",
+    "published": "2026-03-23T04:00:00Z",
+    "summary": "An act to add and repeal Chapter 26 (commencing with Section 28005) of Division 20 of the Health and Safety Code, relating to public health.<br />\n<br />\n2026/03/23 Re-referred to Com. on HEALTH."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB1838",
+    "link": "https://legiscan.com/CA/bill/AB1838/2025?utm_campaign=rss&guid=5TZ2W9m1vnr3LeE9rfCbdw",
+    "published": "2026-03-23T04:00:00Z",
+    "summary": "An act to add Section 2011 to the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/03/23 Read second time. Ordered to third reading."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA ACR161",
+    "link": "https://legiscan.com/CA/bill/ACR161/2025?utm_campaign=rss&guid=5U2vwLjBWgqvv0hT2YWzAC",
+    "published": "2026-03-23T04:00:00Z",
+    "summary": "Relative to Special Districts Week.<br />\n<br />\n2026/03/23 From committee: Be adopted. To Consent Calendar. (Ayes 7. Noes 0.) (March 23)."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB1896",
+    "link": "https://legiscan.com/CA/bill/AB1896/2025?utm_campaign=rss&guid=1pruawJVbmwrhSPAdpq9f8",
+    "published": "2026-03-23T04:00:00Z",
+    "summary": "An act to amend Sections 1029, 1031, and 18935 of, and to add Section 1025 to, the Government Code, relating to public employment.<br />\n<br />\n2026/03/23 Referred to Coms. on P. E. & R. and PUB. S."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA SB962",
+    "link": "https://legiscan.com/CA/bill/SB962/2025?utm_campaign=rss&guid=71wnNL4Y8MiarPSOH9w3Tb",
+    "published": "2026-03-23T04:00:00Z",
+    "summary": "An act to amend Section 25258 of the Vehicle Code, relating to vehicles.<br />\n<br />\n2026/03/23 Set for hearing April 7."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB2526",
+    "link": "https://legiscan.com/CA/bill/AB2526/2025?utm_campaign=rss&guid=6wr7hFJE8wjFwZ7NCzM4Ew",
+    "published": "2026-03-23T04:00:00Z",
+    "summary": "An act to amend Sections 2574, 2575, 2575.5 2576, 42238.02, and 46600 of the Education Code, relating to education finance.<br />\n<br />\n2026/03/23 Re-referred to Com. on ED."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA SB1082",
+    "link": "https://legiscan.com/CA/bill/SB1082/2025?utm_campaign=rss&guid=4bMpocNQdpPHCfTZh9z0lS",
+    "published": "2026-03-23T04:00:00Z",
+    "summary": "An act to amend Sections 46600 and 46600.2 of the Education Code, relating to pupil attendance.<br />\n<br />\n2026/03/23 Set for hearing April 8."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA AB2247",
+    "link": "https://legiscan.com/CA/bill/AB2247/2025?utm_campaign=rss&guid=HPQBesJ2BPZbtxreIhsvh",
+    "published": "2026-03-23T04:00:00Z",
+    "summary": "An act to amend Section 1367.03 of the Health and Safety Code, to amend Section 10133.54 of the Insurance Code, and to add Chapter 9 (commencing Section 8270) to Division 8 of the Welfare and Institutions Code, relating to victims of crime.<br />\n<br />\n2026/03/23 From committee chair, with author's amendments: Amend, and re-refer to Com. on HEALTH. Read second time and amended."
+  },
+  {
     "source": "Task & Purpose",
     "title": "Army receives a new Black Hawk helicopter, pilot optional",
     "link": "https://taskandpurpose.com/news/army-pilot-optional-black-hawk/",
@@ -161,13 +231,6 @@
     "summary": "<p>Update the safety brief.</p>\n<p>The post <a href=\"https://taskandpurpose.com/tech-tactics/french-aircraft-carrier-strava-location/\">French sailor goes running, reveals flagship’s location via fitness app</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "Faster VA Community Care Scheduling",
-    "link": "https://www.youtube.com/shorts/6PyBbQEGA3c",
-    "published": "2026-03-22T12:00:16Z",
-    "summary": "VA is speeding up community care scheduling for eligible Veterans.\n\nThe new External Provider Scheduling is live at every VA facility, allowing staff to see providers’ calendars and book appointments faster. VA can use that information to book appointments that fit a Veterans’ schedule.\n\nThe tool can boost scheduling from just a handful of appointments a day to as many as 25. \n\n27,000 providers in 78 specialties are already part of the program, with more expected to join this year. \n\nTo learn more, visit https://news.va.gov/ and search: \"press room.\"\n\n— \n \nExplore VA.gov to learn about your benefits. \n \nPrint out your VA Welcome Kit: https://www.va.gov/welcome-kit/ \n \nWhether you’re just getting out of the service or you’ve been a civilian for years now, the VA Welcome Kit can help guide you to the benefits and services you’ve earned. Based on where you are in life, your VA benefits and services can support you in different ways. \n \nSign up for the #VetResources email newsletter: https://news.va.gov/vetresources/ \n \n#VetResources features Veteran-centric news stories, various deals and discounts, employment opportunities, and much more. \n \n#Veterans #VA #VABenefits #Healthcare"
-  },
-  {
     "source": "Task & Purpose",
     "title": "Pentagon wants to increase naval, special operations capabilities on Greenland",
     "link": "https://taskandpurpose.com/news/northcom-greenland-expand-operations/",
@@ -180,13 +243,6 @@
     "link": "https://capoliticalreview.com/2026/03/21/gop-sheriff-leading-california-poll-rips-newsoms-love-affair-with-criminals/",
     "published": "2026-03-21T14:30:00Z",
     "summary": "<p>&#8216;California is in dire, desperate search of someone that they can trust,&#8217; said Sheriff Chad Bianco, who is surging in recent gubernatorial polls Sheriff Chad Bianco, a Republican who is ranked at the top of recent California gubernatorial polls, believes that Californians finally have had enough and are ready to end Gov.&#160;Gavin Newsom&#160;and state Democratic [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/03/21/gop-sheriff-leading-california-poll-rips-newsoms-love-affair-with-criminals/\">Read More and Comment: GOP sheriff leading California poll rips Newsom’s ‘love affair’ with criminals</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/03/21/gop-sheriff-leading-california-poll-rips-newsoms-love-affair-with-criminals/\">GOP sheriff leading California poll rips Newsom’s ‘love affair’ with criminals</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "VA Dental Care Access",
-    "link": "https://www.youtube.com/shorts/k9E5XkKcR3c",
-    "published": "2026-03-21T12:01:16Z",
-    "summary": "VA is working to improve dental care access for eligible Veterans and is looking for a new administrator to operate the next generation of community care dental providers.\n\nThe goal is to build a stronger dental network with general and specialty care, preventive services, and pharmacy support.\n\nCurrently, about 26% of Veterans enrolled in VA health care are eligible for dental care.\n\nTo learn more, visit https://news.va.gov/press-room/va-moves-to-improve-dental-care-access-for-eligible-veterans/\n\n— \n \nExplore VA.gov to learn about your benefits. \n \nPrint out your VA Welcome Kit: https://www.va.gov/welcome-kit/ \n \nWhether you’re just getting out of the service or you’ve been a civilian for years now, the VA Welcome Kit can help guide you to the benefits and services you’ve earned. Based on where you are in life, your VA benefits and services can support you in different ways. \n \nSign up for the #VetResources email newsletter: https://news.va.gov/vetresources/ \n \n#VetResources features Veteran-centric news stories, various deals and discounts, employment opportunities, and much more. \n \n#Veterans #VA #VABenefits #Healthcare"
   },
   {
     "source": "The Official United States Marine Corps Public Website News",
@@ -210,53 +266,11 @@
     "summary": "<p>A new  poll of 1,000 Americans from YouGov released today shows broad public opposition to U.S. military escalation in Iran and strong support for greater congressional involvement in decisions about war.  The survey highlights growing concern among Americans about both the direction of the conflict and its consequences at home.  Key findings include:  60% oppose [&#8230;]</p>\n<p>The post <a href=\"https://cv4a.org/news-media/new-yougov-poll-shows-americans-oppose-ground-forces-in-iran-and-express-deep-concern-about-the-conflict/\">New YouGov Poll Shows Americans Oppose Ground Forces in Iran and Express Deep Concern About the Conflict</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
   },
   {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2156",
-    "link": "https://legiscan.com/CA/bill/AB2156/2025?utm_campaign=rss&guid=7bSp5JhUgDznQj3p2ELqHY",
-    "published": "2026-03-20T04:00:00Z",
-    "summary": "An act to amend Sections 6700 and 6717 of the Government Code, relating to state holidays, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/03/20 From committee chair, with author's amendments: Amend, and re-refer to Com. on TRANS. Read second time and amended."
-  },
-  {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "Aging Strong with VA: Community Residential Care (CRC)",
-    "link": "https://www.youtube.com/watch?v=_OZewS3FVLc",
-    "published": "2026-03-19T14:40:11Z",
-    "summary": "In this episode of Aging Strong with VA, Deputy Secretary Paul R. Lawrence, PhD, discusses Community Residential Care (CRC). A program for Veterans who don’t need hospital or nursing home care but still need support, CRC offers VA-approved housing options across the country. Veterans can choose from assisted living, personal care homes, family care homes, and group living homes. These homes are inspected to ensure safety, quality, and dignity.\n\nHe'll walk you through how CRC helps Veterans maintain independence while receiving the care they need.\n\nWatch the episode below."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
-    "title": "CA AB2645",
-    "link": "https://legiscan.com/CA/bill/AB2645/2025?utm_campaign=rss&guid=71M8TlITQ6hOFb7i3zs30e",
-    "published": "2026-03-19T04:00:00Z",
-    "summary": "An act to add Article 3 (commencing with Section 983) to Chapter 6 of Division 4 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/03/19 Re-referred to Com. on ED."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2645",
-    "link": "https://legiscan.com/CA/bill/AB2645/2025?utm_campaign=rss&guid=71M8TlITQ6hOFb7i3zs30e",
-    "published": "2026-03-19T04:00:00Z",
-    "summary": "An act to add Article 3 (commencing with Section 983) to Chapter 6 of Division 4 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/03/19 Re-referred to Com. on ED."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2442",
-    "link": "https://legiscan.com/CA/bill/AB2442/2025?utm_campaign=rss&guid=3vmNvhnIjSFApuxAjspaOP",
-    "published": "2026-03-19T04:00:00Z",
-    "summary": "An act to add and repeal Chapter 26 (commencing with Section 28005) of Division 20 of the Health and Safety Code, relating to public health.<br />\n<br />\n2026/03/19 From committee chair, with author's amendments: Amend, and re-refer to Com. on HEALTH. Read second time and amended."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB1838",
-    "link": "https://legiscan.com/CA/bill/AB1838/2025?utm_campaign=rss&guid=7VjVelT25nQGd0WDad725n",
-    "published": "2026-03-19T04:00:00Z",
-    "summary": "An act to add Section 2011 to the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/03/19 From committee: Do pass. (Ayes 7. Noes 0.) (March 18)."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2609",
-    "link": "https://legiscan.com/CA/bill/AB2609/2025?utm_campaign=rss&guid=74fbuh4jtx8ocweBvng0L4",
-    "published": "2026-03-19T04:00:00Z",
-    "summary": "An act to amend Section 1950.5 of, and to add Section 1947.16 to, the Civil Code, relating to housing.<br />\n<br />\n2026/03/19 From committee chair, with author's amendments: Amend, and re-refer to Com. on JUD. Read second time and amended."
+    "source": "The Auditor",
+    "title": "From Employee to Consultant",
+    "link": "https://www.theauditoronline.com/from-employee-to-consultant/",
+    "published": "2026-03-19T21:48:34Z",
+    "summary": "<p>By Jackie Stapleton For years, I carried a notebook everywhere with me. It was at work, sitting beside my keyboard. It was in my handbag when I went out for coffee. It lived in the car. If an idea came to me, it went straight into that notebook. There are pages in there that don’t [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/from-employee-to-consultant/\">From Employee to Consultant</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
@@ -273,67 +287,11 @@
     "summary": "An act to amend Section 3302.1 of the Unemployment Insurance Code, relating to unemployment insurance, and making an appropriation therefor.<br />\n<br />\n2026/03/19 Re-referred to Coms. on M. & V.A. and INS. pursuant to Assembly Rule 96."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2526",
-    "link": "https://legiscan.com/CA/bill/AB2526/2025?utm_campaign=rss&guid=5UzPhDrlb19PAybFsmI8G9",
-    "published": "2026-03-19T04:00:00Z",
-    "summary": "An act to amend Sections 2574, 2575, 2575.5 2576, 42238.02, and 46600 of the Education Code, relating to education finance.<br />\n<br />\n2026/03/19 From committee chair, with author's amendments: Amend, and re-refer to Com. on ED. Read second time and amended."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA SB1082",
-    "link": "https://legiscan.com/CA/bill/SB1082/2025?utm_campaign=rss&guid=3JXN70uLM9FUUWffzKtJj9",
-    "published": "2026-03-19T04:00:00Z",
-    "summary": "An act to amend Sections 46600 and 46600.2 of the Education Code, relating to pupil attendance.<br />\n<br />\n2026/03/19 From committee with author's amendments. Read second time and amended. Re-referred to Com. on ED."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB1940",
-    "link": "https://legiscan.com/CA/bill/AB1940/2025?utm_campaign=rss&guid=wWo4kYxCmYuF5GVdzRQHh",
-    "published": "2026-03-19T04:00:00Z",
-    "summary": "An act to amend Sections 12926 and 12950 of, and to add Section 8423 to, the Government Code, relating to civil rights.<br />\n<br />\n2026/03/19 From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 0.) (March 18). Re-referred to Com. on JUD."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
     "title": "CA AB2496",
     "link": "https://legiscan.com/CA/bill/AB2496/2025?utm_campaign=rss&guid=5b4DEldxDRLUTAgfYgtDT3",
     "published": "2026-03-19T04:00:00Z",
     "summary": "An act to amend Sections 1240, 14501, 32286, 33352, 41020, 41409, 44258.9, 47605, 47605.6, 47606.5, 51101.1, 52062, 52064.1, 52068, 56366, 60800, and 60811.8 of, to repeal Sections 33126.1, 33126.15, 33126.2, 35256.1, 35258, and 41409.3 of, and to repeal and add Sections 33126 and 35256 of, the Education Code, relating to school accountability.<br />\n<br />\n2026/03/19 From committee chair, with author's amendments: Amend, and re-refer to Com. on ED. Read second time and amended."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB2645",
-    "link": "https://legiscan.com/CA/bill/AB2645/2025?utm_campaign=rss&guid=71M8TlITQ6hOFb7i3zs30e",
-    "published": "2026-03-19T04:00:00Z",
-    "summary": "An act to add Article 3 (commencing with Section 983) to Chapter 6 of Division 4 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/03/19 Re-referred to Com. on ED."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB1725",
-    "link": "https://legiscan.com/CA/bill/AB1725/2025?utm_campaign=rss&guid=4TImZ5Jy0u1Y7PoGoRu1E7",
-    "published": "2026-03-19T04:00:00Z",
-    "summary": "An act to add Sections 1102.151 and 1940.7.1 to the Civil Code, and to add Section 17926.5 to the Health and Safety Code, relating to housing.<br />\n<br />\n2026/03/19 From committee chair, with author's amendments: Amend, and re-refer to Com. on JUD. Read second time and amended."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SCR125",
-    "link": "https://legiscan.com/CA/bill/SCR125/2025?utm_campaign=rss&guid=43Uk9amvwflfe1Ihuc3Cjd",
-    "published": "2026-03-19T04:00:00Z",
-    "summary": "Relative to Ramadan.<br />\n<br />\n2026/03/19 In Senate. Ordered to engrossing and enrolling."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB2496",
-    "link": "https://legiscan.com/CA/bill/AB2496/2025?utm_campaign=rss&guid=5b4DEldxDRLUTAgfYgtDT3",
-    "published": "2026-03-19T04:00:00Z",
-    "summary": "An act to amend Sections 1240, 14501, 32286, 33352, 41020, 41409, 44258.9, 47605, 47605.6, 47606.5, 51101.1, 52062, 52064.1, 52068, 56366, 60800, and 60811.8 of, to repeal Sections 33126.1, 33126.15, 33126.2, 35256.1, 35258, and 41409.3 of, and to repeal and add Sections 33126 and 35256 of, the Education Code, relating to school accountability.<br />\n<br />\n2026/03/19 From committee chair, with author's amendments: Amend, and re-refer to Com. on ED. Read second time and amended."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB1999",
-    "link": "https://legiscan.com/CA/bill/AB1999/2025?utm_campaign=rss&guid=4FFcBN3r2yKZhD7U10r8wj",
-    "published": "2026-03-19T04:00:00Z",
-    "summary": "An act to amend Sections 4825.1, 4826.6, 4827, 4830, 4840.5, 4858, 4858.1, 4858.2, 4900, 4901, 4902, and 4905 of, to add Sections 4846.3, 4846.4, and 4848.2 to, and to repeal Sections 4843.5 and 4844 of, the Business and Professions Code, relating to professions and vocations.<br />\n<br />\n2026/03/19 From committee chair, with author's amendments: Amend, and re-refer to Com. on B. & P. Read second time and amended."
   },
   {
     "source": "Legislative Analyst's Office: Recent Publications",
@@ -357,18 +315,18 @@
     "summary": "In this post, we assess the Governor's budget augmentation proposals for the Office of Land Use and Climate Innovation's administrative and policy activities and statutorily required activities."
   },
   {
+    "source": "The Auditor",
+    "title": "What the ISM Code Can Teach Us About Risk: Part One",
+    "link": "https://www.theauditoronline.com/what-ism-code-can-teach-us-about-risk-part-one/",
+    "published": "2026-03-18T20:51:32Z",
+    "summary": "<p>By IJ Arora, Ph.D. Editor’s note: This is the first of a two-part article examining the risk-based thinking lessons to be learned from maritime safety and security protocols. Part two will be appearing next week. For centuries, individuals have sailed the sea, perhaps for their livelihood, perhaps for adventure, or perhaps for reasons of their [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/what-ism-code-can-teach-us-about-risk-part-one/\">What the ISM Code Can Teach Us About Risk: Part One</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
+  },
+  {
     "source": "The Liberal OC",
     "title": "Min backs Kang for Irvine City Council District 1",
     "link": "https://theliberaloc.com/2026/03/18/min-backs-kang-for-irvine-city-council-district-1/",
     "published": "2026-03-18T20:14:44Z",
     "summary": "&#160; CA47 Congressman Dave Min has endorsed former Irvine Mayor and Council member Sukhee Kang for election to the Irvine City Council in District 1.  <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/03/18/min-backs-kang-for-irvine-city-council-district-1/\" title=\"Min backs Kang for Irvine City Council District 1\">[...]</a>"
-  },
-  {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "Introduction to the Strength at Home app",
-    "link": "https://www.youtube.com/watch?v=MbvcwA2qPe0",
-    "published": "2026-03-18T19:13:16Z",
-    "summary": "Strength at Home is a trauma-informed group program for those who struggle with conflict and anger in relationships and may be at risk for intimate partner violence. The Strength at Home mobile app is a free and publicly available app for people participating in the Strength at Home program. It was created by a team at the National Center for PTSD, Department of Veterans Affairs. The app can help you manage your sessions, handouts, and assignments; give you tools to help relax; and track your progress. This app is not intended for self-care. #strengthathome #intimatepartnerviolence #ipv"
   },
   {
     "source": "Public Policy Institute of California",
@@ -397,13 +355,6 @@
     "link": "https://legiscan.com/CA/bill/SB1433/2025?utm_campaign=rss&guid=P5nNcbzBYL308L8GmCYYC",
     "published": "2026-03-18T04:00:00Z",
     "summary": "An act to amend Sections 733, 2242.2, 2553.5, 3046.1, 4073.5, 4602, 4610, 4826.5, 4858, 6126.7, 16608, and 17810 of the Business and Professions Code, to amend Sections 714.6, 798.14, 798.74.4, 1714.27, 3273.29, 4752, and 8811 of the Civil Code, to amend Sections 697.680 and 1094.9 of the Code of Civil Procedure, to amend Sections 234.7, 35221, 38134, 44043.5, 46392, 49001, 51140, 69436, 70022, 70034, and 88821 of the Education Code, to amend Sections 6915, 12304, and 12309 of the Elections Code, to amend Section 5654 of the Fish and Game Code, to amend Section 21283 of the Food and Agricultural Code, to amend Sections 1031.5, 6215, 6588.7, 8010, 8557, 10233, 10240, 11041, 11123.2, 12100.33, 12100.162, 12910, 12960, 12965, 15475.6, 19829.9854, 53398.52, 54953.4, 54953.8, 54953.8.1, 54954.2, 54957.9, 63049.71, 65589.5, 65914.2, 65950, 66300.6.5, 66323, 67784, 67786, 67788, and 87202 of, and to repeal the heading of Chapter 17.45 (commencing with Section 7289) of Division 7 of Title 1 of, the Government Code, to amend Section 676 of the Harbors and Navigation Code, to amend Sections 1279.6, 1342.74, 1367.25, 1597.640, 8028.73, 17021.8, 17970.3, 38532, 38562, 38562.3, 38591.2, 40100.5.5, 41313, 44501, 44515, 44559.14, 50406.4, 50410, 53545.14, 104660, 104661, and 108980 of the Health and Safety Code, to amend Sections 937, 10123.1933, and 10123.196 of the Insurance Code, to amend Sections 923.1, 1401, and 2810.8 of the Labor Code, to amend Section 59 of the Military and Veterans Code, to amend Sections 136.1, 636.6, 1170, 2780.6, 11105.04, and 13667 of the Penal Code, to amend Sections 4291.5, 4584.1, 4584.2, 5006.1, 5598, 5797.4, 21080.28.5, 21080.43, 21080.44, 25354, 25545, 25545.16, 25545.19, 30166, 30168, 30600.5, and 42652.5 of the Public Resources Code, to amend Sections 748.5, 850, 3299.2, 3310, 8501, and 180305 of, to amend the heading of Chapter 10 (commencing with Section 8500) of Division 4.1 of, and to repeal the heading of Article 7 of Chapter 3 of Division 1.5 of, the Public Utilities Code, to amend Sections 17053.40, 19002, and 23640 of the Revenue and Taxation Code, to amend Sections 21201 and 21450.5 of the Vehicle Code, to amend Sections 351, 50976, 60385, 60414, 74467, and 74850 of the Water Code, to amend Sections 309, 827, 9630, 10213.5, 11330.6, 13300.5, 14005.62, 14005.27, 14105.47, 14132.968, 16000.1, 16121.5, and 18900 of, and to repeal Section 12306.16 of, the Welfare and Institutions Code, and to amend Section 3 of Chapter 578 of the Statutes of 2025, relating to maintenance of the codes.<br />\n<br />\n2026/03/18 Referred to Com. on JUD."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
-    "title": "CA SB892",
-    "link": "https://legiscan.com/CA/bill/SB892/2025?utm_campaign=rss&guid=61IiCrMrm1YAecIE93eMiS",
-    "published": "2026-03-18T04:00:00Z",
-    "summary": "An act to amend, repeal, and add Section 66025.8 of the Education Code, relating to public postsecondary education.<br />\n<br />\n2026/03/18 From committee: Do pass and re-refer to Com. on M. & V.A. with recommendation: To consent calendar. (Ayes 7. Noes 0.) (March 18). Re-referred to Com. on M. & V.A."
   },
   {
     "source": "Legislative Analyst's Office: Recent Publications",
@@ -474,13 +425,6 @@
     "link": "https://legiscan.com/CA/bill/AB2404/2025?utm_campaign=rss&guid=3hLCHevG4NtTXOBhjQhKsQ",
     "published": "2026-03-16T04:00:00Z",
     "summary": "An act to amend Section 51226.1 of, and to add Section 33000.1 to, the Education Code, to add Sections 1347.16 and 125290.31 to the Health and Safety Code, and to add Section 66.3 to the Military and Veterans Code, relating to state government.<br />\n<br />\n2026/03/16 Referred to Coms. on ED. and HEALTH."
-  },
-  {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA AB2787",
-    "link": "https://legiscan.com/CA/bill/AB2787/2025?utm_campaign=rss&guid=6ZeKRLMW3L6dfsQo0BJXrF",
-    "published": "2026-03-16T04:00:00Z",
-    "summary": "An act to amend Section 1745 of, and to amend, renumber, and add Section 3480 of, the Fish and Game Code, to amend Section 675 of the Harbors and Navigation Code, to amend Sections 9853 and 9860 of the Vehicle Code, and to amend Section 10722.4 of the Water Code, relating to public resources.<br />\n<br />\n2026/03/16 Referred to Com. on W., P., & W."
   },
   {
     "source": "The Official United States Marine Corps Public Website News",
@@ -567,13 +511,6 @@
     "summary": "<p><img alt=\"photo - Rear View of Students in Classroom and Teacher Standing in Front of the Class\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/03/rear-view-of-students-in-classroom-and-teacher-standing-in-front-of-the-class.jpg\" width=\"2000\" /></p>The second week of March is known as Civic Learning Week, an effort to promote the importance of understanding our governing system. In a time of deep political polarization, the need is urgent."
   },
   {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA SB1044",
-    "link": "https://legiscan.com/CA/bill/SB1044/2025?utm_campaign=rss&guid=6suvE2BGnYCafPkXE3m5yS",
-    "published": "2026-03-10T04:00:00Z",
-    "summary": "An act to amend Sections 14838.5 and 14838.64 of the Government Code, relating to public contracts.<br />\n<br />\n2026/03/10 Set for hearing March 24."
-  },
-  {
     "source": "Publication Archive - Public Policy Institute of California",
     "title": "College Completion in California",
     "link": "https://www.ppic.org/publication/college-completion-in-california/?utm_source=rss&utm_medium=rss&utm_campaign=college-completion-in-california",
@@ -616,27 +553,6 @@
     "summary": "<p>Open Letter to the Democratic Candidates for Governor: California Democrats have no shortage of strong candidates to consider in the race for Governor &#8211; current and former Congressmembers, statewide elected officials, State Legislators, Mayors and leaders of Democratic causes. Each of you brings a unique story, history of service and deep experience to the role. [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/open-letter-to-the-democratic-candidates-for-governor/\">Open Letter to the Democratic Candidates for Governor</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
   },
   {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA AB2066",
-    "link": "https://legiscan.com/CA/bill/AB2066/2025?utm_campaign=rss&guid=3ySnSYsXZYcrVBgTGhL2AM",
-    "published": "2026-03-02T05:00:00Z",
-    "summary": "An act to amend Section 1399.849 of the Health and Safety Code, and to amend Section 10965.3 of the Insurance Code, relating to health care coverage.<br />\n<br />\n2026/03/02 Referred to Com. on HEALTH."
-  },
-  {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA SB647",
-    "link": "https://legiscan.com/CA/bill/SB647/2025?utm_campaign=rss&guid=1vmOg66AOEMfYVfatWwgat",
-    "published": "2026-03-02T05:00:00Z",
-    "summary": "An act to amend Section 25665.1 of the Public Resources Code, and to amend Section 382.1 of the Public Utilities Code, relating to energy.<br />\n<br />\n2026/03/02 Veto sustained."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
-    "title": "CA AB1920",
-    "link": "https://legiscan.com/CA/bill/AB1920/2025?utm_campaign=rss&guid=2ZXg1FXXMkZNmelbAq3qUD",
-    "published": "2026-03-02T05:00:00Z",
-    "summary": "An act to amend Section 76396.3 of the Education Code, relating to community colleges.<br />\n<br />\n2026/03/02 Referred to Com. on HIGHER ED."
-  },
-  {
     "source": "CVA News & Media",
     "title": "CVA Responds to US Military Action Against Iran",
     "link": "https://cv4a.org/news-media/cva-responds-to-us-military-action-against-iran/",
@@ -649,6 +565,20 @@
     "link": "https://cv4a.org/news-media/cva-responds-to-president-trumps-state-of-the-union-address/",
     "published": "2026-02-25T04:21:38Z",
     "summary": "<p>ARLINGTON, Va. – In response to President Trump’s State of the Union address on Tuesday, Concerned Veterans for America (CVA) Executive Director John Vick issued the following statement: “Tonight, President Trump laid out a vision for strengthening America at home and abroad. For veterans and military families, the direction of our foreign policy, economic opportunity, [&#8230;]</p>\n<p>The post <a href=\"https://cv4a.org/news-media/cva-responds-to-president-trumps-state-of-the-union-address/\">CVA Responds to President Trump’s State of the Union Address</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
+  },
+  {
+    "source": "The Auditor",
+    "title": "Join Your Quality Peers for ASQ’s WCQI",
+    "link": "https://www.theauditoronline.com/join-your-quality-peers-for-asqs-wcqi/",
+    "published": "2026-02-24T01:36:09Z",
+    "summary": "<p>The World Conference on Quality and Improvement (WCQI), presented by ASQ, is one of the major events on the calendar for quality professionals. Running from May 17–20 in Orlando, Florida, WCQI offers a dynamic blend of purpose-driven strategy and actionable solutions to tackle daily challenges. With the theme, “When Purpose and Quality Meet, Magic Happens,” [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/join-your-quality-peers-for-asqs-wcqi/\">Join Your Quality Peers for ASQ&#8217;s WCQI</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
+  },
+  {
+    "source": "The Auditor",
+    "title": "Nominations Open for Standards Australia’s 2026 Standards Awards",
+    "link": "https://www.theauditoronline.com/nominations-open-for-standards-australias-2026-standards-awards/",
+    "published": "2026-02-23T21:43:46Z",
+    "summary": "<p>For more than 30 years, Standards Australia has celebrated those shaping the future of standards. The organization’s annual Standards Awards recognize collaboration and innovation—the collective effort that drives standards development and strengthens industries. The Standards Awards honor individuals, accredited standards development organizations, committees, and, more recently, corporate partners and nominating organizations. Nominations for the 2026 [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/nominations-open-for-standards-australias-2026-standards-awards/\">Nominations Open for Standards Australia&#8217;s 2026 Standards Awards</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "CVA News & Media",
@@ -698,5 +628,75 @@
     "link": "https://americanmilitarynews.com/2026/02/democrat-delegate-exposed-for-connections-to-epstein-report/",
     "published": "2026-02-03T14:04:32Z",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"224\" src=\"https://americanmilitarynews.com/wp-content/uploads/Stacey-Plaskett.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"200\" />New documents released by the U.S. Justice Department allegedly expose Virgin Islands Delegate Stacey Plaskett, a Democrat, for being linked to Jeffrey Epstein, a convicted child sex offender and former financier who died in 2019. In a Friday press release, the Justice Department announced the public release of more than 3 million pages related to &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/democrat-delegate-exposed-for-connections-to-epstein-report/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
+  },
+  {
+    "source": "LegiScan Search Feed - CalVet Search",
+    "title": "CA SB604",
+    "link": "https://legiscan.com/CA/bill/SB604/2025?utm_campaign=rss&guid=49YOH7PRN3Cv2cgzrjvQgF",
+    "published": "2026-02-02T05:00:00Z",
+    "summary": "An act to amend Section 987.53 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/02/02 Returned to Secretary of Senate pursuant to Joint Rule 56."
+  },
+  {
+    "source": "California Democratic Party",
+    "title": "California Democratic Party and Contest Every Race Announce Statewide Candidate Recruitment Initiative",
+    "link": "https://cadem.org/california-democratic-party-and-contest-every-race-announce-statewide-candidate-recruitment-initiative/",
+    "published": "2026-01-28T22:15:11Z",
+    "summary": "<p>SACRAMENTO – On Saturday, January 31st, the California Democratic Party is launching a statewide texting campaign to recruit hundreds of Democrats to run for local office, with a focus in rural areas where GOP incumbents often run uncontested. This is CADEM&#8217;s fifth cycle participating in this national campaign by Contest Every Race to ensure that no [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-and-contest-every-race-announce-statewide-candidate-recruitment-initiative/\">California Democratic Party and Contest Every Race Announce Statewide Candidate Recruitment Initiative</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
+  },
+  {
+    "source": "California Democratic Party",
+    "title": "Statement from CADEM Chair Rusty Hicks on Tragic ICE Killings:",
+    "link": "https://cadem.org/statement-from-cadem-chair-rusty-hicks-on-tragic-ice-killings/",
+    "published": "2026-01-26T18:13:56Z",
+    "summary": "<p>&#8220;California Democrats stand in solidarity with the people of Minnesota who are making their voices heard and peacefully demanding justice, transparency, and accountability after the fatal shooting of devoted ICU nurse Alex Pretti by federal agents in Minneapolis.  The right to protest and insist that no one is above the law is fundamental to our [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/statement-from-cadem-chair-rusty-hicks-on-tragic-ice-killings/\">Statement from CADEM Chair Rusty Hicks on Tragic ICE Killings:</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
+    "title": "CA SB879",
+    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=6QM9XKjeiqWgQIf9bsXBKW",
+    "published": "2026-01-12T05:00:00Z",
+    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/12 Read first time."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+    "title": "CA SB879",
+    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=6QM9XKjeiqWgQIf9bsXBKW",
+    "published": "2026-01-12T05:00:00Z",
+    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/12 Read first time."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
+    "title": "CA AB1563",
+    "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=4bZZvEojIAIizyAug87HUC",
+    "published": "2026-01-10T05:00:00Z",
+    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/10 From printer."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+    "title": "CA AB1563",
+    "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=4bZZvEojIAIizyAug87HUC",
+    "published": "2026-01-10T05:00:00Z",
+    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/10 From printer."
+  },
+  {
+    "source": "California State Commanders Veterans Council",
+    "title": "Welcoming the Montford Point Marine Association California",
+    "link": "https://calcommanders.org/welcoming-the-montford-point-marine-association-los-angeles-chapter-8/",
+    "published": "2025-10-21T18:04:39Z",
+    "summary": "The California State Commanders Veterans Council is proud to welcome the Montford Point Marine Association California as our newest member. Founded in 1965, the Montford Point Marine Association is dedicated to honoring and preserving the legacy of the first African American Marines who trained at Montford Point, Camp Lejeune, North Carolina, between 1942 and 1949. Despite [&#8230;]"
+  },
+  {
+    "source": "California State Commanders Veterans Council",
+    "title": "Protecting Veterans’ Benefits: Why California’s SB 694 Should Lead the Nation",
+    "link": "https://calcommanders.org/protecting-veterans-benefits-why-californias-sb-694-should-lead-the-nation/",
+    "published": "2025-10-20T14:59:10Z",
+    "summary": "An Analytical Brief from CAL EANGUS Leadership A National Issue, A California Solution A recent Washington Post investigation has renewed scrutiny on the Department of Veterans Affairs (VA) disability compensation system, alleging widespread overreach, fraud, and inefficiencies. The report described how outdated disability rules, a surge of minor and unverifiable claims, and a lack of enforcement capacity [&#8230;]"
+  },
+  {
+    "source": "California State Commanders Veterans Council",
+    "title": "California State Commanders Veterans Council Unites for Legislative Priorities in Visalia",
+    "link": "https://calcommanders.org/california-state-commanders-veterans-council-unites-for-legislative-priorities-in-visalia/",
+    "published": "2025-10-20T14:54:30Z",
+    "summary": "On October 18, 2025, the California State Commanders Veterans Council (CSCVC) convened its quarterly conference in Visalia, California, bringing together more than 20 representatives from Military and Veterans Service Organizations (MSOs and VSOs) from across the state. The CSCVC serves as a unified voice for California’s veterans community—advocating for legislation, benefits, and policies that improve [&#8230;]"
   }
 ]
