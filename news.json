@@ -1,5 +1,26 @@
 [
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-03-27T06:54:29Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
+    "published": "2026-03-27T06:54:28Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-03-27T06:54:27Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
     "source": "CalMatters",
     "title": "Judge rejects Green Party candidate’s bid to appear on California governor ballots",
     "link": "https://calmatters.org/politics/2026/03/green-party-candidate-governor/",
@@ -14,25 +35,11 @@
     "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/03/021725_Chad-Bianco_GETTY_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Riverside Sheriff Chad Bianco says it's coincidence he got a California ballot seizure warrant from a judge who praised him and whom he endorsed in 2022."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-03-26T23:00:56Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-03-26T23:00:52Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-03-26T23:00:13Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+    "source": "California Globe",
+    "title": "Arizona Bill Targeting Financial Services for Illegal Immigrants Advances in House Committee",
+    "link": "https://californiaglobe.com/fr/arizona-bill-targeting-financial-services-for-illegal-immigrants-advances-in-house-committee/",
+    "published": "2026-03-26T22:46:45Z",
+    "summary": "Senate Bill 1421 bars banks from accepting “a license or identification card issued exclusively to an unauthorized alien or undocumented immigrant” when opening accounts or providing services"
   },
   {
     "source": "Your Leo Nation",
@@ -42,11 +49,39 @@
     "summary": "<p>USC cancels gubernatorial debate amid uproar over candidates of color being excluded. The debate cancellation sparks controversy over race-based exclusion and the impact of identity politics on political events.</p><p></p><p>Chapters</p><ul><li>00:00 USC Cancels Gubernatorial Debate</li><li>06:22 Impact of Identity Politics</li></ul>"
   },
   {
+    "source": "California Globe",
+    "title": "Game Refuges in California",
+    "link": "https://californiaglobe.com/articles/game-refuges-in-california/",
+    "published": "2026-03-26T21:00:27Z",
+    "summary": "Provides that the areas described in this article are game refuges"
+  },
+  {
+    "source": "California Globe",
+    "title": "San Francisco School Board Reverses 12-Year ‘Equity’ Math Experiment",
+    "link": "https://californiaglobe.com/fr/san-francisco-school-board-reverses-12-year-equity-math-experiment/",
+    "published": "2026-03-26T20:17:05Z",
+    "summary": "In a 4-3 vote, the board reinstated eighth-grade Algebra 1"
+  },
+  {
     "source": "CalMatters",
     "title": "César Chávez Day is no more. California lawmakers officially scrap the holiday name",
     "link": "https://calmatters.org/politics/2026/03/cesar-chavez-day-renamed/",
     "published": "2026-03-26T20:14:31Z",
     "summary": "<figure><img alt=\"A person holds up a large image of an elderly Latino person during an outdoor concert. Other signs and flags can be seen nearby.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/03/092122_Tom-Morello-Farmworkers_RL_CM_15.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>California became the first state to create César Chávez Day 26 years ago. Now it's leading the effort to erase his name from the state holiday."
+  },
+  {
+    "source": "California Globe",
+    "title": "Democrats’ Policies Have Put Innocent Americans at Risk and Gotten Others Murdered",
+    "link": "https://californiaglobe.com/fr/democrats-policies-have-put-innocent-americans-at-risk-and-gotten-others-murdered/",
+    "published": "2026-03-26T18:00:50Z",
+    "summary": "California is an unsafe hellhole and more innocent citizens are going to die"
+  },
+  {
+    "source": "California Globe",
+    "title": "Ringside: The Economics of Managing Mono Lake",
+    "link": "https://californiaglobe.com/fr/ringside-the-economics-of-managing-mono-lake/",
+    "published": "2026-03-26T16:00:00Z",
+    "summary": "Posturing over the sacred nature of Mono Lake should not dominate the moral arguments put before the State Water Resources Control Board"
   },
   {
     "source": "Task & Purpose",
@@ -77,13 +112,6 @@
     "summary": "<p>The conversation delves into the rampant fraud and corruption in California, with a focus on voter fraud, criminal activities, obstruction of investigations, and the call for criminal investigations and prosecutions. It also explores the state controller's plan for transparency, federal funding, hospice care fraud, fiscal fraud, and the culture of fraud and criminal behavior in California.</p><p></p><p>Takeaways</p><ul><li>Rampant fraud and corruption in California</li><li>Efforts to expose and combat fraud</li></ul><p></p><p>Chapters</p><ul><li>00:00 Introduction to Fraud and Corruption in California</li><li>10:01 Criminal Activities and Conspiracy</li><li>15:38 Call for Criminal Investigations and Prosecutions</li><li>21:28 Hospice Care Fraud and Federal Involvement</li></ul>"
   },
   {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "Aging Strong with VA: Community Living Centers",
-    "link": "https://www.youtube.com/watch?v=U1XIpsnrnls",
-    "published": "2026-03-26T13:00:52Z",
-    "summary": "In this episode of Aging Strong with VA, Deputy Secretary Paul R. Lawrence, PhD, discusses Community Living Centers. Community Living Centers provide skilled, Veteran-centered care for those who need short-term rehabilitation or long-term nursing support. These centers focus on comfort, dignity, and restorative care.\n\nHe'll walk you through how Community Living Centers support Veterans and families with temporary or ongoing care.\n\nWatch the episode below."
-  },
-  {
     "source": "CalMatters",
     "title": "Want government records? This California lawmaker wants you to pay more for them",
     "link": "https://calmatters.org/politics/2026/03/california-public-records-fees/",
@@ -96,6 +124,55 @@
     "link": "https://calmatters.org/newsletter/meta-google-verdict/",
     "published": "2026-03-26T13:00:00Z",
     "summary": "<figure><img alt=\"A young boy lounges on a bed with a blue and white patterned blanket, holding a camera, in a softly lit bedroom decorated with family photos and a framed sign that reads &quot;It&#039;s always better when we&#039;re together.&quot;\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/04/09152021_Triplets_PU_CM_08.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>A California jury directed Google and Meta to cough up a total of $3 million Wednesday in a landmark verdict in favor of&#160;a young plaintiff whose family claimed that the companies knowingly made their social media platforms addictive to teens. As CalMatters’ Colin Lecher explains, the case is one of a spate of lawsuits that [&#8230;]"
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2433",
+    "link": "https://legiscan.com/CA/bill/AB2433/2025?utm_campaign=rss&guid=1gEmtyGMX9N5ITbBCFGlMH",
+    "published": "2026-03-26T04:00:00Z",
+    "summary": "An act to amend Section 65915 of the Government Code, relating to housing.<br />\n<br />\n2026/03/26 Read second time and amended."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SB980",
+    "link": "https://legiscan.com/CA/bill/SB980/2025?utm_campaign=rss&guid=6C5uj8HYsOoPC3TUr1Zyo2",
+    "published": "2026-03-26T04:00:00Z",
+    "summary": "An act to amend Section 123114 of the Health and Safety Code, relating to medical records.<br />\n<br />\n2026/03/26 Set for hearing April 15."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2022",
+    "link": "https://legiscan.com/CA/bill/AB2022/2025?utm_campaign=rss&guid=1DOpHIxA7F8GAyzsj8USJ2",
+    "published": "2026-03-26T04:00:00Z",
+    "summary": "An act to add and repeal Section 205.5.1 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/03/26 Read second time and amended."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2567",
+    "link": "https://legiscan.com/CA/bill/AB2567/2025?utm_campaign=rss&guid=7dZwOp9zWf0sL1WTUQUIgE",
+    "published": "2026-03-26T04:00:00Z",
+    "summary": "An act to amend Section 11266 of the Welfare and Institutions Code, relating to CalWORKs.<br />\n<br />\n2026/03/26 Read second time and amended."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SB974",
+    "link": "https://legiscan.com/CA/bill/SB974/2025?utm_campaign=rss&guid=7bJT9JzAYTULjCZUT4hHm5",
+    "published": "2026-03-26T04:00:00Z",
+    "summary": "An act to amend Section 63.2 of the Revenue and Taxation Code, relating to taxation.<br />\n<br />\n2026/03/26 Set for hearing April 8."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB2590",
+    "link": "https://legiscan.com/CA/bill/AB2590/2025?utm_campaign=rss&guid=463EwB8kYYLe1E5nnFGeNq",
+    "published": "2026-03-26T04:00:00Z",
+    "summary": "An act to amend Section 10230.2 of, and to add Division 9.5 (commencing with Section 9975) to, the Public Resources Code, relating to public resources, and making an appropriation therefor.<br />\n<br />\n2026/03/26 From committee chair, with author's amendments: Amend, and re-refer to Com. on W., P., & W. Read second time and amended."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA SB1167",
+    "link": "https://legiscan.com/CA/bill/SB1167/2025?utm_campaign=rss&guid=7mX42m2Orx79Dm1lW29KOZ",
+    "published": "2026-03-26T04:00:00Z",
+    "summary": "An act to amend Section 26300 of the Health and Safety Code, and to amend Sections 312.5, 405, 406, 426, 472, 672, 4020, 5030, 5031, 5032, 5033, 5034, 5035, 5036, 5037, 5038, 5039, 12500, 12509, 12509.5, 12804.9, 12814.6, 21113, 21201.3, 21203, 21207.5, 21209, 21712, 21960, 22651.08, 23103, 23135, 23330, 24015, 24951, 25650, 27800, 27802, 27803, 38012, 38366, 38505, and 38601 of, to amend the heading of Article 8.1 (commencing with Section 5030) of Chapter 1 of Division 3 of, to add Section 21065 to, to add Article 9 (commencing with Section 21310) to Chapter 1 of Division 11 of, and to add Article 7.5 (commencing with Section 27850) to Chapter 5 of Division 12 of, the Vehicle Code, relating to vehicles.<br />\n<br />\n2026/03/26 From committee with author's amendments. Read second time and amended. Re-referred to Com. on TRANS."
   },
   {
     "source": "Publication Archive - Public Policy Institute of California",
@@ -154,41 +231,6 @@
     "summary": "<p>The Assembly passed the bill known as AB 2156 in an initial 67-0 vote. The bill heads next to the State Senate, where lawmakers in the upper house are expected to send it to the governor on Thursday. SACRAMENTO, Calif. —California lawmakers on Monday moved forward with a measure that will rename the March 31 [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/03/25/california-lawmakers-move-forward-with-renaming-cesar-chavez-day-to-farmworkers-day/\">Read More and Comment: California lawmakers move forward with renaming César Chávez Day to Farmworkers Day</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/03/25/california-lawmakers-move-forward-with-renaming-cesar-chavez-day-to-farmworkers-day/\">California lawmakers move forward with renaming César Chávez Day to Farmworkers Day</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB1974",
-    "link": "https://legiscan.com/CA/bill/AB1974/2025?utm_campaign=rss&guid=42iYpdpYoU91OHTYL7iHmc",
-    "published": "2026-03-25T04:00:00Z",
-    "summary": "An act to amend Sections 25570, 26392, 26406, 26577, and 27922 of, and to add Section 25010 to, the Penal Code, relating to firearms.<br />\n<br />\n2026/03/25 From committee chair, with author's amendments: Amend, and re-refer to Com. on PUB. S. Read second time and amended."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2433",
-    "link": "https://legiscan.com/CA/bill/AB2433/2025?utm_campaign=rss&guid=7Fn6yPQpmUhQDuCnq0kmRa",
-    "published": "2026-03-25T04:00:00Z",
-    "summary": "An act to amend Section 65915 of the Government Code, relating to housing.<br />\n<br />\n2026/03/25 From committee: Amend, and do pass as amended and re-refer to Com. on L. GOV. (Ayes 12. Noes 0.) (March 25)."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB1016",
-    "link": "https://legiscan.com/CA/bill/SB1016/2025?utm_campaign=rss&guid=73nPqtwlufKggugqSsFOT1",
-    "published": "2026-03-25T04:00:00Z",
-    "summary": "An act to amend Sections 5201, 5206, 5207, 5211, 5972, 5975, 5976.5, 5977, 5977.4, 5979, 5983, and 5985 to, the Welfare and Institutions Code, relating to mental health.<br />\n<br />\n2026/03/25 From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB1824",
-    "link": "https://legiscan.com/CA/bill/AB1824/2025?utm_campaign=rss&guid=4itYjTnMsnQXb5iW4m37eU",
-    "published": "2026-03-25T04:00:00Z",
-    "summary": "An act to amend Sections 1460, 1474, 1500.1, 1510, 1511, 1513, 1513.2, 1516.5, and 2250 of, to add Sections 1459.1, 1459.2, 1459.3, 1459.4, 1459.6, and 1459.7 to, to repeal Section 1460.2 of, and to repeal and add Sections 1449, 1459, and 1459.5 of, the Probate Code, relating to Indian children.<br />\n<br />\n2026/03/25 From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (March 24). Re-referred to Com. on APPR."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2022",
-    "link": "https://legiscan.com/CA/bill/AB2022/2025?utm_campaign=rss&guid=4LkT54Y5JLEAMxNYjLbuUR",
-    "published": "2026-03-25T04:00:00Z",
-    "summary": "An act to add and repeal Section 205.5.1 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/03/25 From committee: Amend, and do pass as amended and re-refer to Com. on REV. & TAX. (Ayes 8. Noes 0.) (March 24)."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
     "title": "CA SB1407",
     "link": "https://legiscan.com/CA/bill/SB1407/2025?utm_campaign=rss&guid=5cTKgUSHqX9na3MaEOqxSC",
@@ -197,17 +239,17 @@
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2066",
-    "link": "https://legiscan.com/CA/bill/AB2066/2025?utm_campaign=rss&guid=1dEiq70n09gSsO9hAqxxme",
-    "published": "2026-03-25T04:00:00Z",
-    "summary": "An act to amend Section 1399.849 of the Health and Safety Code, and to amend Section 10965.3 of the Insurance Code, relating to health care coverage.<br />\n<br />\n2026/03/25 From committee: Do pass and re-refer to Com. on APPR. (Ayes 16. Noes 0.) (March 24). Re-referred to Com. on APPR."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
     "title": "CA SB1354",
     "link": "https://legiscan.com/CA/bill/SB1354/2025?utm_campaign=rss&guid=2k7dqeers5pWnBLXOmT2eO",
     "published": "2026-03-25T04:00:00Z",
     "summary": "An act to add Part 3 (commencing with Section 570) to Division 2 of the Military and Veterans Code, relating to the military.<br />\n<br />\n2026/03/25 From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB2066",
+    "link": "https://legiscan.com/CA/bill/AB2066/2025?utm_campaign=rss&guid=1dEiq70n09gSsO9hAqxxme",
+    "published": "2026-03-25T04:00:00Z",
+    "summary": "An act to amend Section 1399.849 of the Health and Safety Code, and to amend Section 10965.3 of the Insurance Code, relating to health care coverage.<br />\n<br />\n2026/03/25 From committee: Do pass and re-refer to Com. on APPR. (Ayes 16. Noes 0.) (March 24). Re-referred to Com. on APPR."
   },
   {
     "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
@@ -287,13 +329,6 @@
     "summary": "<p> “If you’re going to be a bear, be a grizzly.”</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/navy-harvey-barnum-flag/\">Navy destroyer with grizzly bear battle flag pays tribute to heroic Marine</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB1702",
-    "link": "https://legiscan.com/CA/bill/AB1702/2025?utm_campaign=rss&guid=1tETMFQXRpqEo87g9LrXoI",
-    "published": "2026-03-24T04:00:00Z",
-    "summary": "An act to amend Section 5011.5 of, and to add Section 5011.8 to, the Public Resources Code, relating to parks.<br />\n<br />\n2026/03/24 From committee: Do pass and re-refer to Com. on M. & V.A. (Ayes 12. Noes 0.) (March 24). Re-referred to Com. on M. & V.A."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
     "title": "CA AB2478",
     "link": "https://legiscan.com/CA/bill/AB2478/2025?utm_campaign=rss&guid=3pAzbyVwQ01lig4c8lWKsn",
@@ -329,13 +364,6 @@
     "summary": "<p>Exemplar Global and Intact are very pleased to announce a live webinar titled, “Intact AI: The Productivity Workspace for Audits and Certification.” The event will occur on Tuesday, March 31, at 2 p.m. U.S. Eastern time. Register here. In this event, you will be introduced to a unique AI productivity workspace for use across the [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/live-webinar-on-ai-for-audits-and-certification/\">Live Webinar on AI for Audits and Certification</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "VA Domiciliary Hato Rey VA Clinic",
-    "link": "https://www.youtube.com/watch?v=23-lTAuM48g",
-    "published": "2026-03-23T18:13:53Z",
-    "summary": "VA Caribbean Healthcare System - VA Domiciliary, Hato Rey VA Clinic\r\n\nThe Mental Heath Rehabilitation and Recovery Treatment Program. (also called Domiciliary) is a structured, supportive and safe environment. We are focused on instilling hope, validating strengths and teaching skills, while preparing veterans for reintegration into the community. It is a residential program that offers intensive treatment with a strong focus on evidence-based psychotherapies, group psychotherapy and psycho education as well as outpatient-level medical and psychiatric management."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
     "title": "CA AB2645",
     "link": "https://legiscan.com/CA/bill/AB2645/2025?utm_campaign=rss&guid=4US6rk4Pu3qundGIErowIT",
@@ -343,32 +371,11 @@
     "summary": "An act to add Article 3 (commencing with Section 983) to Chapter 6 of Division 4 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/03/23 Re-referred to Coms. on M. & V.A. and TRANS. pursuant to Assembly Rule 96."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA SB1082",
-    "link": "https://legiscan.com/CA/bill/SB1082/2025?utm_campaign=rss&guid=4bMpocNQdpPHCfTZh9z0lS",
-    "published": "2026-03-23T04:00:00Z",
-    "summary": "An act to amend Sections 46600 and 46600.2 of the Education Code, relating to pupil attendance.<br />\n<br />\n2026/03/23 Set for hearing April 8."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
     "title": "CA AB2496",
     "link": "https://legiscan.com/CA/bill/AB2496/2025?utm_campaign=rss&guid=7l85qGJhrOScnUQTIKB5kM",
     "published": "2026-03-23T04:00:00Z",
     "summary": "An act to amend Sections 1240, 14501, 32286, 33352, 41020, 41409, 44258.9, 47605, 47605.6, 47606.5, 51101.1, 52062, 52064.1, 52068, 56366, 60800, and 60811.8 of, to repeal Sections 33126.1, 33126.15, 33126.2, 35256.1, 35258, and 41409.3 of, and to repeal and add Sections 33126 and 35256 of, the Education Code, relating to school accountability.<br />\n<br />\n2026/03/23 Re-referred to Com. on ED."
-  },
-  {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "Faster VA Community Care Scheduling",
-    "link": "https://www.youtube.com/shorts/6PyBbQEGA3c",
-    "published": "2026-03-22T12:00:16Z",
-    "summary": "VA is speeding up community care scheduling for eligible Veterans.\n\nThe new External Provider Scheduling is live at every VA facility, allowing staff to see providers’ calendars and book appointments faster. VA can use that information to book appointments that fit a Veterans’ schedule.\n\nThe tool can boost scheduling from just a handful of appointments a day to as many as 25. \n\n27,000 providers in 78 specialties are already part of the program, with more expected to join this year. \n\nTo learn more, visit https://news.va.gov/ and search: \"press room.\"\n\n— \n \nExplore VA.gov to learn about your benefits. \n \nPrint out your VA Welcome Kit: https://www.va.gov/welcome-kit/ \n \nWhether you’re just getting out of the service or you’ve been a civilian for years now, the VA Welcome Kit can help guide you to the benefits and services you’ve earned. Based on where you are in life, your VA benefits and services can support you in different ways. \n \nSign up for the #VetResources email newsletter: https://news.va.gov/vetresources/ \n \n#VetResources features Veteran-centric news stories, various deals and discounts, employment opportunities, and much more. \n \n#Veterans #VA #VABenefits #Healthcare"
-  },
-  {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "VA Dental Care Access",
-    "link": "https://www.youtube.com/shorts/k9E5XkKcR3c",
-    "published": "2026-03-21T12:01:16Z",
-    "summary": "VA is working to improve dental care access for eligible Veterans and is looking for a new administrator to operate the next generation of community care dental providers.\n\nThe goal is to build a stronger dental network with general and specialty care, preventive services, and pharmacy support.\n\nCurrently, about 26% of Veterans enrolled in VA health care are eligible for dental care.\n\nTo learn more, visit https://news.va.gov/press-room/va-moves-to-improve-dental-care-access-for-eligible-veterans/\n\n— \n \nExplore VA.gov to learn about your benefits. \n \nPrint out your VA Welcome Kit: https://www.va.gov/welcome-kit/ \n \nWhether you’re just getting out of the service or you’ve been a civilian for years now, the VA Welcome Kit can help guide you to the benefits and services you’ve earned. Based on where you are in life, your VA benefits and services can support you in different ways. \n \nSign up for the #VetResources email newsletter: https://news.va.gov/vetresources/ \n \n#VetResources features Veteran-centric news stories, various deals and discounts, employment opportunities, and much more. \n \n#Veterans #VA #VABenefits #Healthcare"
   },
   {
     "source": "The Official United States Marine Corps Public Website News",
@@ -397,13 +404,6 @@
     "link": "https://www.theauditoronline.com/from-employee-to-consultant/",
     "published": "2026-03-19T21:48:34Z",
     "summary": "<p>By Jackie Stapleton For years, I carried a notebook everywhere with me. It was at work, sitting beside my keyboard. It was in my handbag when I went out for coffee. It lived in the car. If an idea came to me, it went straight into that notebook. There are pages in there that don’t [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/from-employee-to-consultant/\">From Employee to Consultant</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "Aging Strong with VA: Community Residential Care (CRC)",
-    "link": "https://www.youtube.com/watch?v=_OZewS3FVLc",
-    "published": "2026-03-19T14:40:11Z",
-    "summary": "In this episode of Aging Strong with VA, Deputy Secretary Paul R. Lawrence, PhD, discusses Community Residential Care (CRC). A program for Veterans who don’t need hospital or nursing home care but still need support, CRC offers VA-approved housing options across the country. Veterans can choose from assisted living, personal care homes, family care homes, and group living homes. These homes are inspected to ensure safety, quality, and dignity.\n\nHe'll walk you through how CRC helps Veterans maintain independence while receiving the care they need.\n\nWatch the episode below."
   },
   {
     "source": "Legislative Analyst's Office: Recent Publications",
