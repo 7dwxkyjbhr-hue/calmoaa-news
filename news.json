@@ -1,24 +1,66 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-04-08T05:18:15Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-04-08T05:18:09Z",
+    "published": "2026-04-08T12:51:59Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-04-08T05:17:13Z",
+    "published": "2026-04-08T12:51:59Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-04-08T12:51:57Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "CalMatters",
+    "title": "Candidate comment: He lost his home in the Palisades fire. Now he’s running to ‘fix the broken system’",
+    "link": "https://calmatters.org/commentary/2026/04/palisades-fire-insurance-commissioner-race/",
+    "published": "2026-04-08T12:00:00Z",
+    "summary": "<figure><img alt=\"People wearing white jumpsuits and yellow safety vests gather up debris from a home destroyed during a wildfire.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/01/041525_Palisades-Fire-House_GETTY_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>After the fires, homeowners were traumatized by insurers. Farren's philosophy: “The best response to hardship is to create change that protects others.”"
+  },
+  {
+    "source": "CalMatters",
+    "title": "Candidates for governor are playing it safe. Gen Z voters can’t afford that.",
+    "link": "https://calmatters.org/commentary/2026/04/governor-candidates-gen-z-california/",
+    "published": "2026-04-08T12:00:00Z",
+    "summary": "<figure><img alt=\"Several candidates raise their hands as they sit in chairs on a stage in front of a crowd. Behind the candidates is a banner that reads “Affordability and Rural California,” with decor of an American flag, a California flag, and potted plants.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/040126-Fresno-State-Gov-Forum-LV-16-CM.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Gen Z voters, especially Latino students, felt the effects of  budget cuts and now question if candidates care about their economic mobility."
+  },
+  {
+    "source": "CalMatters",
+    "title": "Battles over business regulation resume  in California’s Capitol with new legislation",
+    "link": "https://calmatters.org/commentary/2026/04/business-regulation-bills-california-sacramento/",
+    "published": "2026-04-08T12:00:00Z",
+    "summary": "<figure><img alt=\"Petroleum pump jacks are pictured in the Kern River oil field in Bakersfield. Photo by Jonathan Alcorn, Reuters\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2022/06/100322-KERN-OIL-PUMP-REUTERS-JA-CM.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Lawmakers discussed bills that allow lawsuits against business monopolies and businesses that affect climate change."
+  },
+  {
+    "source": "CalMatters",
+    "title": "California wants to fund green jet fuel — by raiding your road repair budget",
+    "link": "https://calmatters.org/environment/2026/04/newsom-aviation-fuel-credit-refinery/",
+    "published": "2026-04-08T12:00:00Z",
+    "summary": "<figure><img alt=\"The tails of two airplanes that sit idle on the tarmac of an airport. Another plane can be seen taking off in the distance.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/03/110525_SFO_GETTY_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The proposal could be funded with transportation money typically reserved to fix local streets and roads."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Downhill Daily | Curling at the 40th National Disabled Veterans Winter Sports Clinic",
+    "link": "https://www.youtube.com/watch?v=hAHt_Q-eOU8",
+    "published": "2026-04-08T11:01:11Z",
+    "summary": "Today on the ice, it's curling. For two battle brothers who've been pushing each other for over 20 years, finally making it to the 40th National Disabled Veterans Winter Sports Clinic together means more than just the sport. It's family showing up for family.\n\nStay tuned all week for more episodes of the Downhill Daily!\n\nLearn more: www.wintersportsclinic.org\n\nU.S. Department of Veterans Affairs: www.va.gov\n\nProudly supported by DAV: www.dav.org\n\n#VeteransFirst #WinterSportsClinic #AdaptiveSports #DisabledVeterans #DAV #recreationtherapy"
+  },
+  {
+    "source": "California Globe",
+    "title": "Limited Liability Partnerships in California",
+    "link": "https://californiaglobe.com/articles/limited-liability-partnerships-in-california/",
+    "published": "2026-04-08T09:30:03Z",
+    "summary": "Deals with limited liability partnerships under California’s Uniform Partnership Act of 1994"
   },
   {
     "source": "California Globe",
@@ -47,13 +89,6 @@
     "link": "https://californiaglobe.com/fr/operation-not-forgotten-expands-federal-support-for-tribal-investigations-as-arizona-communities-address-violent-crime/",
     "published": "2026-04-07T21:11:36Z",
     "summary": "At the start of the fiscal year, the FBI’s Indian Country program reported approximately 4,100 open investigations, reflecting the scope of ongoing cases across tribal jurisdictions"
-  },
-  {
-    "source": "California Globe",
-    "title": "Exemptions from Securities Regulation",
-    "link": "https://californiaglobe.com/articles/exemptions-from-securities-regulation/",
-    "published": "2026-04-07T21:00:57Z",
-    "summary": "Deals with exemptions from regulation and notice filing requirements"
   },
   {
     "source": "CalMatters",
@@ -103,20 +138,6 @@
     "link": "https://capoliticalreview.com/2026/04/07/democratic-infighting-may-spell-trouble-in-quest-to-gain-san-diego-house-seat/",
     "published": "2026-04-07T14:00:00Z",
     "summary": "<p>A former Republican stronghold in California has been redrawn to favor Democratic candidates — pitting Democrats against each other in a&#160;high-profile race&#160;to be the district’s next representative in Congress, report CalMatters’ Nadia Lathan and Deborah Brennan. After President Donald Trump pushed Texas Republicans to create five additional GOP seats in the U.S. House of Representatives, [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/04/07/democratic-infighting-may-spell-trouble-in-quest-to-gain-san-diego-house-seat/\">Read More and Comment: Democratic infighting may spell trouble in quest to gain San Diego House seat</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/04/07/democratic-infighting-may-spell-trouble-in-quest-to-gain-san-diego-house-seat/\">Democratic infighting may spell trouble in quest to gain San Diego House seat</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "CalMatters",
-    "title": "Could Trump’s Hilton endorsement sabotage GOP chances?",
-    "link": "https://calmatters.org/newsletter/trump-hilton-endorsement/",
-    "published": "2026-04-07T13:00:00Z",
-    "summary": "<figure><img alt=\"Two people sit on chairs set up on a small stage overlooking a crowd. The person on the left wears a gray suit blazer with a white shirt, and l;ooks towards the person on the right, who wears a navy suit blazer with a white shirt. Banners with images of rural life can be seen behind them.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/040126_Fresno-State-Gov-Forum_LV_CM_03.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>From CalMatters Capitol reporter Jeanne Kuang: President Donald Trump has endorsed Republican Steve Hilton in the California governor’s race, a move that could consolidate the conservative vote and, ironically, tank the GOP’s best chances of winning the seat. With California’s top-two primary system, the eight Democratic candidates could split the vote such that the two [&#8230;]"
-  },
-  {
-    "source": "CalMatters",
-    "title": "Sheriff Chad Bianco’s ballot grab is a campaign stunt, not an investigation",
-    "link": "https://calmatters.org/commentary/2026/04/sheriff-bianco-ballot-grab-stunt/",
-    "published": "2026-04-07T12:00:00Z",
-    "summary": "<figure><img alt=\"A man in a grey suit sits on a chair on a stage in front of a banner that reads “Affordability and Rural California” with an American flag,\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/040126-Fresno-State-Gov-Forum-LV-22-CM.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Riverside County Sheriff Chad Bianco, a Republican running for governor, seized 650,000 ballots cast in 2025, though his deputies aren’t trained vote fraud investigators."
   },
   {
     "source": "U.S. Dept. of Veterans Affairs",
@@ -217,18 +238,46 @@
     "summary": "An act to amend Section 8586.7 of the Government Code, relating to wildfires.<br />\n<br />\n2026/04/07 From committee chair, with author's amendments: Amend, and re-refer to Com. on E.M. Read second time and amended."
   },
   {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SB970",
+    "link": "https://legiscan.com/CA/bill/SB970/2025?utm_campaign=rss&guid=4huN9RGKPUdOVFEe3X9GNE",
+    "published": "2026-04-07T04:00:00Z",
+    "summary": "An act to amend Section 3101 of the Elections Code, relating to voting.<br />\n<br />\n2026/04/07 From committee: Do pass and re-refer to Com. on APPR. (Ayes 4. Noes 0.) (April 7). Re-referred to Com. on APPR."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB2645",
+    "link": "https://legiscan.com/CA/bill/AB2645/2025?utm_campaign=rss&guid=5piVlKRFgFLku7qSqLb78o",
+    "published": "2026-04-07T04:00:00Z",
+    "summary": "An act to add Article 3 (commencing with Section 983) to Chapter 6 of Division 4 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/04/07 From committee chair, with author's amendments: Amend, and re-refer to Com. on M. & V.A. Read second time and amended."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SB1072",
+    "link": "https://legiscan.com/CA/bill/SB1072/2025?utm_campaign=rss&guid=4LyYKyv9aJwBCCdN8pK3Pg",
+    "published": "2026-04-07T04:00:00Z",
+    "summary": "An act to amend Sections 65588, 65863.10, 65863.11, 65912.101, 65912.123, and 66300 of, and to repeal Section 65584.6 of, the Government Code, to amend Sections 50199.7, 50408, 50676, 50827, and 50828 of the Health and Safety Code, and to amend Sections 12206, 17058, and 23610.5 of the Revenue and Taxation Code, relating to housing.<br />\n<br />\n2026/04/07 April 15 hearing postponed by committee."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB1775",
+    "link": "https://legiscan.com/CA/bill/AB1775/2025?utm_campaign=rss&guid=BYfEq40AE0nRIduLu3hlo",
+    "published": "2026-04-07T04:00:00Z",
+    "summary": "An act to amend Sections 115.4 and 115.8 of the Business and Professions Code, and to amend Section 885 of, and to add Section 886 to, the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/04/07 From committee: Do pass and re-refer to Com. on APPR. (Ayes 16. Noes 0.) (April 7). Re-referred to Com. on APPR."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB1627",
+    "link": "https://legiscan.com/CA/bill/AB1627/2025?utm_campaign=rss&guid=3QkeaYPsPbWKDlx5bhVZFk",
+    "published": "2026-04-07T04:00:00Z",
+    "summary": "An act to amend Sections 1029 and 1029.1 of, and to add Sections 1035 and 1035.1 to, the Government Code, relating to public employment.<br />\n<br />\n2026/04/07 From committee chair, with author's amendments: Amend, and re-refer to Com. on PUB. S. Read second time and amended."
+  },
+  {
     "source": "The Liberal OC",
     "title": "Esther Kim-Varet Leads CA-40 Primary Contest in 800-Voter Poll",
     "link": "https://theliberaloc.com/2026/04/06/esther-kim-varet-leads-ca-40-primary-contest-in-800-voter-poll/",
     "published": "2026-04-06T23:24:38Z",
     "summary": "Raises Additional $350K in Q1 as Momentum Accelerates First-Time Candidate Tops Both Republican Incumbents in 800-Voter Survey; Continues to Outraise All Democratic Opponents Combined Lake <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/04/06/esther-kim-varet-leads-ca-40-primary-contest-in-800-voter-poll/\" title=\"Esther Kim-Varet Leads CA-40 Primary Contest in 800-Voter Poll\">[...]</a>"
-  },
-  {
-    "source": "CalMatters",
-    "title": "Trump endorsing Hilton may help keep California governorship in Democratic hands",
-    "link": "https://calmatters.org/commentary/2026/04/trump-endorses-hilton-california-governorship/",
-    "published": "2026-04-06T21:30:00Z",
-    "summary": "<figure><img alt=\"A person in a dark suit and light blue tie stands outdoors among a crowd, facing the camera with a serious expression. Behind them, an American flag waves near a construction crane, with trees and a bright blue sky in the background.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/040626-Donald-Trump-AP-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>If ex-TV commentator Steve Hilton pulls far ahead of Sheriff Chad Bianco, it cuts the chances for a 1-2 GOP outcome — likely the only way California can get a Republican governor."
   },
   {
     "source": "The Liberal OC",
@@ -243,13 +292,6 @@
     "link": "https://taskandpurpose.com/news/individual-ready-reserve-policy-2026/",
     "published": "2026-04-06T20:12:11Z",
     "summary": "<p>The new Pentagon policy was likely in the works before the Iran war began, but it still holds relevance as the military plans for any future mass mobilization, experts say.    </p>\n<p>The post <a href=\"https://taskandpurpose.com/news/individual-ready-reserve-policy-2026/\">Pentagon calls Individual Ready Reserve a ‘mobilization asset’ in new policy</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
-    "source": "CalMatters",
-    "title": "Se suponía que los camioneros inmigrantes recuperarían sus licencias. ¿Por qué el DMV de California está demorando el proceso?",
-    "link": "https://calmatters.org/calmatters-en-espanol/2026/04/camioneros-inmigrantes-licencias-california/",
-    "published": "2026-04-06T19:15:21Z",
-    "summary": "<figure><img alt=\"A row of semi trucks and refrigerated trailers are parked side by side in a dusty lot under a clear blue sky, with long shadows stretching across the pavement.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/01/011626-Sikh-Truckers-LV-17.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Miles de camioneros inmigrantes en California perdieron sus licencias a principios de este año como resultado de una orden del gobierno de Trump, y muchos más conductores pronto correrán la misma suerte. Se han presentado demandas para recuperar las licencias, pero su resolución podría demorar meses o incluso años."
   },
   {
     "source": "Task & Purpose",
@@ -399,13 +441,6 @@
     "summary": "<p>For their sacrifice and service, our country promised veterans that they would get the care they need and deserve. Congress mandated it. The Department of Veterans Affairs acknowledged it. And the VA MISSION Act of 2018 was passed to guarantee it. But the truth is that veterans still don’t have the access they’ve earned and [&#8230;]</p>\n<p>The post <a href=\"https://cv4a.org/news-media/why-we-are-still-fighting-for-the-veterans-access-act/\">Why we’re still fighting for Veterans’ ACCESS</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
   },
   {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "Aging Strong with VA: Hospice Care",
-    "link": "https://www.youtube.com/watch?v=OuoJguuPdms",
-    "published": "2026-04-02T13:00:42Z",
-    "summary": "In this episode of Aging Strong with VA, ,Deputy Secretary Paul R. Lawrence, PhD, discusses VA Hospice Care and how it provides compassionate, comfort-focused support for Veterans nearing the end of life and for their families. This care honors Veterans’ service while addressing medical, emotional, and spiritual needs.\n\nHe'll walk you through how VA Hospice Care works and how it supports Veterans and families during this important stage."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "CA SB1439",
     "link": "https://legiscan.com/CA/bill/SB1439/2025?utm_campaign=rss&guid=1xUeFXWAu5JE3WuSJGsrzw",
@@ -474,6 +509,13 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4447364/closing-the-sensor-to-shooter-gap-one-dynamis-serial-at-a-time/",
     "published": "2026-03-27T15:27:00Z",
     "summary": "In an increasingly complex global landscape, the speed of decision-making on the battlefield is not just an advantage, it is the ultimate arbiter of victory.<br /> \n<img alt=\"N. Charleston, SC (March 18, 2026) Naval Information Warfare Center (NIWC) Atlantic hosted the Systems of Systems Naval Integration Experiment (SOSNIE) for its 7th year. The two-week experiment stress-tested more than 40 state-of-the-art communications technologies used for a variety of essential military capabilities and included the use of manned and unmanned autonomous systems on land, sea and in the air. More than 150 Sailors, Marines, soldiers, Department of Navy civilians, and industry partners participated in the experiment, which took place in both a field environment at NIWC Atlantic’s Small Autonomous Unmanned Systems Research (SAUSR) Range and off the shore of Sullivan’s Island, South Carolina. (U.S. Navy photo by Joe Bullinger/Released)\" src=\"https://media.defense.gov/2026/Mar/27/2003903882/115/75/0/260318-N-GB257-1003.JPG\" /> <br />"
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA SB1044",
+    "link": "https://legiscan.com/CA/bill/SB1044/2025?utm_campaign=rss&guid=42QJJ9vpQTwb6QhjWMn7a5",
+    "published": "2026-03-27T04:00:00Z",
+    "summary": "An act to amend Sections 14838.5 and 14838.64 of the Government Code, relating to public contracts.<br />\n<br />\n2026/03/27 Set for hearing April 13."
   },
   {
     "source": "Your Leo Nation",
@@ -602,6 +644,13 @@
     "summary": "<p><img alt=\"photo - Family paying Bills at Home\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/03/family-paying-bills-at-home-and-sitting-on-the-couch-while-daugher-looks-over-shoulder.jpg\" width=\"2000\" /></p>An overwhelming majority of Californians see bad financial times ahead and don’t think their income is keeping up with inflation. Still, most expect their own finances to hold steady—for now."
   },
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
+    "title": "CA SB892",
+    "link": "https://legiscan.com/CA/bill/SB892/2025?utm_campaign=rss&guid=61IiCrMrm1YAecIE93eMiS",
+    "published": "2026-03-18T04:00:00Z",
+    "summary": "An act to amend, repeal, and add Section 66025.8 of the Education Code, relating to public postsecondary education.<br />\n<br />\n2026/03/18 From committee: Do pass and re-refer to Com. on M. & V.A. with recommendation: To consent calendar. (Ayes 7. Noes 0.) (March 18). Re-referred to Com. on M. & V.A."
+  },
+  {
     "source": "Public Policy Institute of California",
     "title": "California’s Health Care Safety Net",
     "link": "https://www.ppic.org/publication/californias-health-care-safety-net/?utm_source=rss&utm_medium=rss&utm_campaign=californias-health-care-safety-net",
@@ -614,6 +663,13 @@
     "link": "https://www.ppic.org/publication/public-health-insurance-in-california/?utm_source=rss&utm_medium=rss&utm_campaign=public-health-insurance-in-california",
     "published": "2026-03-16T21:42:53Z",
     "summary": "<p><img alt=\"photo - Adult Hand Holding Infant Hand\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2022/06/adult-hand-holding-infant-hand.jpg\" width=\"2000\" /></p>Public health insurance covers about half of Californians, including low- to moderate-income, older, and disabled individuals, as well as military members and veterans."
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA AB2787",
+    "link": "https://legiscan.com/CA/bill/AB2787/2025?utm_campaign=rss&guid=6ZeKRLMW3L6dfsQo0BJXrF",
+    "published": "2026-03-16T04:00:00Z",
+    "summary": "An act to amend Section 1745 of, and to amend, renumber, and add Section 3480 of, the Fish and Game Code, to amend Section 675 of the Harbors and Navigation Code, to amend Sections 9853 and 9860 of the Vehicle Code, and to amend Section 10722.4 of the Water Code, relating to public resources.<br />\n<br />\n2026/03/16 Referred to Com. on W., P., & W."
   },
   {
     "source": "Your Leo Nation",
@@ -642,61 +698,5 @@
     "link": "https://cadem.org/cadem-chair-rusty-hicks-launches-california-voter-index-to-track-governors-race/",
     "published": "2026-03-10T18:41:54Z",
     "summary": "<p>SACRAMENTO, CA – Today, California Democratic Party (CADEM) Chair Rusty Hicks announced the launch of the California Voter Opinion, Trend, &#38; Engagement Research (VOTER) Index, a new large-sample statewide polling project designed to provide a consistent snapshot of the California Governor’s race ahead of the Primary Election. Following a recent open letter to candidates for [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/cadem-chair-rusty-hicks-launches-california-voter-index-to-track-governors-race/\">CADEM Chair Rusty Hicks Launches California VOTER Index to Track Governor’s Race</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "Your Leo Nation",
-    "title": "Operation Epic Fury: Why Trump’s Iran Strikes Don’t Need Congress",
-    "link": "",
-    "published": "2026-03-05T20:43:00Z",
-    "summary": "<p>Operation Epic Fury: Why Trump’s Iran Strikes Don’t Need Congress<br /><br />Is it inconsistent for Democrats to label President Trump a dictator over “Operation Epic Fury” against Iran while ignoring U.S. history? <br /><br />Have presidents of both parties not led multiple undeclared wars and military actions, and does Article II not grant the president authority to initiate and direct military operations? <br /><br />Is the 1973 War Powers Act unnecessary and unconstitutional, especially in light of Nancy Pelosi’s statement that President Obama did not need congressional authorization to bomb Libya? <br /><br />Has the United States not effectively been at war with Iran since 1979, with Iran and its proxies killing at least 1,000 Americans? <br /><br />Does waiting not risk a catastrophic nuclear attack, and did President Trump not act to protect Americans and U.S. allies, including Israel?</p>"
-  },
-  {
-    "source": "California Democratic Party",
-    "title": "Open Letter to the Democratic Candidates for Governor",
-    "link": "https://cadem.org/open-letter-to-the-democratic-candidates-for-governor/",
-    "published": "2026-03-03T13:55:00Z",
-    "summary": "<p>Open Letter to the Democratic Candidates for Governor: California Democrats have no shortage of strong candidates to consider in the race for Governor &#8211; current and former Congressmembers, statewide elected officials, State Legislators, Mayors and leaders of Democratic causes. Each of you brings a unique story, history of service and deep experience to the role. [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/open-letter-to-the-democratic-candidates-for-governor/\">Open Letter to the Democratic Candidates for Governor</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "The Auditor",
-    "title": "Join Your Quality Peers for ASQ’s WCQI",
-    "link": "https://www.theauditoronline.com/join-your-quality-peers-for-asqs-wcqi/",
-    "published": "2026-02-24T01:36:09Z",
-    "summary": "<p>The World Conference on Quality and Improvement (WCQI), presented by ASQ, is one of the major events on the calendar for quality professionals. Running from May 17–20 in Orlando, Florida, WCQI offers a dynamic blend of purpose-driven strategy and actionable solutions to tackle daily challenges. With the theme, “When Purpose and Quality Meet, Magic Happens,” [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/join-your-quality-peers-for-asqs-wcqi/\">Join Your Quality Peers for ASQ&#8217;s WCQI</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
-    "source": "The Auditor",
-    "title": "Nominations Open for Standards Australia’s 2026 Standards Awards",
-    "link": "https://www.theauditoronline.com/nominations-open-for-standards-australias-2026-standards-awards/",
-    "published": "2026-02-23T21:43:46Z",
-    "summary": "<p>For more than 30 years, Standards Australia has celebrated those shaping the future of standards. The organization’s annual Standards Awards recognize collaboration and innovation—the collective effort that drives standards development and strengthens industries. The Standards Awards honor individuals, accredited standards development organizations, committees, and, more recently, corporate partners and nominating organizations. Nominations for the 2026 [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/nominations-open-for-standards-australias-2026-standards-awards/\">Nominations Open for Standards Australia&#8217;s 2026 Standards Awards</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
-    "source": "California Democratic Party",
-    "title": "CALIFORNIA DEMOCRATIC PARTY ANNOUNCES 2026 ENDORSEMENTS FOR STATEWIDE AND LEGISLATIVE CANDIDATES",
-    "link": "https://cadem.org/for-immediate-release-february-22-2026/",
-    "published": "2026-02-22T20:15:46Z",
-    "summary": "<p>For Immediate Release: February 22, 2026Contact: Robin Swanson, robin@cadem.org or Emma Lenz, elenz@cadem.org  San Francisco, CA &#8211; Today, the California Democratic Party (CADEM), the nation’s largest state Democratic Party representing 10 million Democrats, announced 2026 endorsements for statewide and legislative candidates across California.&#160; View the 2026 California Democratic Party endorsement results at: cadem.org/endorsements.</p>\n<p>The post <a href=\"https://cadem.org/for-immediate-release-february-22-2026/\">CALIFORNIA DEMOCRATIC PARTY ANNOUNCES 2026 ENDORSEMENTS FOR STATEWIDE AND LEGISLATIVE CANDIDATES </a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "American Military News",
-    "title": "US Congress Approves Funds For Baltics As Russia Tests NATO’s Eastern Flank",
-    "link": "https://americanmilitarynews.com/2026/02/us-congress-approves-funds-for-baltics-as-russia-tests-natos-eastern-flank/",
-    "published": "2026-02-05T14:45:21Z",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1152\" src=\"https://americanmilitarynews.com/wp-content/uploads/WinterStormPhoto-ezgif.com-webp-to-jpg-converter-768x1152.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />This article was originally published by Radio Free Europe/Radio Liberty and is reprinted with permission. WASHINGTON &#8212; Congress has approved $200 million in security assistance for the Baltic states as Russian activity along NATO’s eastern flank intensifies. The funding, approved this week as part of the Fiscal Year 2026 Defense Appropriations Act secures continued US backing for &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/us-congress-approves-funds-for-baltics-as-russia-tests-natos-eastern-flank/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
-  },
-  {
-    "source": "American Military News",
-    "title": "Matryoshka Satellites, Robotic Arms: Former US Space Force Commander Warns Of Russian, Chinese Threats",
-    "link": "https://americanmilitarynews.com/2026/02/matryoshka-satellites-robotic-arms-former-us-space-force-commander-warns-of-russian-chinese-threats/",
-    "published": "2026-02-04T15:47:51Z",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"584\" src=\"https://americanmilitarynews.com/wp-content/uploads/Screenshot_77-768x584.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />This article was originally published by Radio Free Europe/Radio Liberty and is reprinted with permission. When a Russian “nesting-doll” satellite maneuvered into close proximity to a US satellite last June, it was the latest move in a dangerous game of cat-and-mouse in space. Cosmos 2558 had been observed shadowing USA 326 ever since being launched in 2022. &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/matryoshka-satellites-robotic-arms-former-us-space-force-commander-warns-of-russian-chinese-threats/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
-  },
-  {
-    "source": "American Military News",
-    "title": "Video: Shots fired as Border Patrol aids state troopers in Texas ‘pursuit’",
-    "link": "https://americanmilitarynews.com/2026/02/video-shots-fired-as-border-patrol-aids-state-troopers-in-texas-pursuit/",
-    "published": "2026-02-03T14:04:44Z",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://americanmilitarynews.com/wp-content/uploads/Border-Patrol-768x512.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />A video shows a Texas Department of Public Safety trooper firing shots at a moving vehicle after it allegedly rammed into a law enforcement vehicle during a &#8220;pursuit&#8221; that was &#8220;initiated&#8221; by the Texas Department of Public Safety and aided by U.S. Border Patrol agents on Saturday. The video, which was shared on X, formerly &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/video-shots-fired-as-border-patrol-aids-state-troopers-in-texas-pursuit/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
   }
 ]
