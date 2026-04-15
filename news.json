@@ -1,38 +1,66 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-04-15T07:15:14Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-04-15T07:15:13Z",
+    "published": "2026-04-15T12:55:09Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-04-15T12:55:09Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-04-15T07:15:12Z",
+    "published": "2026-04-15T12:55:07Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "California Globe",
-    "title": "California’s Oil and Gas Crisis: From Military Threat to Mass Starvation",
-    "link": "https://californiaglobe.com/fr/from-military-threat-to-mass-starvation/",
-    "published": "2026-04-14T22:00:15Z",
-    "summary": "Since 2023, California’s policies have resulted in a loss of 700,000 barrels per day, or 35% of refining capacity"
+    "source": "CalMatters",
+    "title": "How gangs connected to India are terrorizing a California immigrant community",
+    "link": "https://calmatters.org/justice/2026/04/bishnoi-california-extortion/",
+    "published": "2026-04-15T12:05:00Z",
+    "summary": "<figure><img alt=\"A tall vertical sign reading “STOCKTON” rises in the foreground beside a historic building with arched walkways, columns, and green trim. The architecture has a Spanish or Mediterranean revival style, with decorative details and a tiled roofline. Cars are parked along the street, and a few palm trees and modern buildings appear further down the block under a clear sky.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/032626-Indian-Gangs-LV-CM-17.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The FBI and Indian authorities allege that gangs based in India are terrorizing Sikh immigrants in California by threatening them and demanding money."
   },
   {
-    "source": "California Globe",
-    "title": "US Sen. Ruben Gallego Scrambles to Distance Himself From Swalwell Scandal Days After Defending Him",
-    "link": "https://californiaglobe.com/fr/us-sen-ruben-gallego-scrambles-to-distance-himself-from-swalwell-scandal-days-after-defending-him/",
-    "published": "2026-04-14T21:15:49Z",
-    "summary": "Critics argue the timeline suggests not a change of principle or the emergence of new information, but a response to mounting political pressure"
+    "source": "CalMatters",
+    "title": "Cities scramble to comply with or fight major state housing law",
+    "link": "https://calmatters.org/housing/2026/04/sb-79-implementation/",
+    "published": "2026-04-15T12:01:00Z",
+    "summary": "<figure><img alt=\"Evelyn Aguilar takes the subway towards North Hollywood from Union Station in downtown Los Angeles on July 16, 2024. Aguilar takes the subway regularly around Los Angeles County and says she has seen an increase in Metro Transit Security officers in recent months. Photo by Zaydee Sanchez for CalMatters\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2024/07/071624_LA-Metro-Officers_ZS_CM_06.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The final version of Senate Bill 79 offered local governments plenty of wiggle room over the where, when and how of the law. Cities across California are starting to wiggle."
+  },
+  {
+    "source": "Task & Purpose",
+    "title": "How a Navy photographer snapped an iconic Artemis II astronaut photo",
+    "link": "https://taskandpurpose.com/news/august-clawson-artemis-ii-photos/",
+    "published": "2026-04-15T12:00:00Z",
+    "summary": "<p> “I was trying to be kind of respectful and not intrusive, because they did just get back from space.”</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/august-clawson-artemis-ii-photos/\">How a Navy photographer snapped an iconic Artemis II astronaut photo</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+  },
+  {
+    "source": "CalMatters",
+    "title": "Court strikes down California law targeting dialysis industry profits",
+    "link": "https://calmatters.org/health/2026/04/kidney-dialysis-appeals-court-california/",
+    "published": "2026-04-15T12:00:00Z",
+    "summary": "<figure><img alt=\"A person sits on a medical chair during a dialysis treatment, with tubes connected to both arms carrying blood to and from a machine. Their arms rest on supports with bandages at the insertion points, while their legs are crossed and a pair of sandals sits on the floor nearby.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"700\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/041426-Dialysis-Treatment-GETTY-CM.jpg?fit=1024%2C700&amp;ssl=1\" width=\"1024\" /></figure>The 9th Circuit found California didn't narrowly enough tailor its law to address concerns about high dialysis costs in the private insurance market."
+  },
+  {
+    "source": "CalMatters",
+    "title": "Candidates for California governor ought to get serious about these pressing issues",
+    "link": "https://calmatters.org/commentary/2026/04/candidates-california-governor-pressing-issues/",
+    "published": "2026-04-15T12:00:00Z",
+    "summary": "<figure><img alt=\"Five people sit on chairs set-up on a stage as they overlook a wide room filled with attendees. The stage is illuminated with blue and green lights of different patterns.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/031826_Housing-CA-Conf_AM_CM_19.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The top nine remaining candidates for CA governor should address the recent think tank articles on schools, jobs and housing issues."
+  },
+  {
+    "source": "CalMatters",
+    "title": "California must protect gender care for young people, despite hospitals’ fears",
+    "link": "https://calmatters.org/commentary/2026/04/gender-care-california-young-people/",
+    "published": "2026-04-15T12:00:00Z",
+    "summary": "<figure><img alt=\"A large blue LED sign with the words &quot;Rady Children&#039;s&quot; illuminates at the top of a glass building during a dusk evening.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/03/020426_Rady-Childrens-Hospital_AH_CM_08.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>A court will decide if Rady Children’s Hospital in San Diego and Children’s Hospital of Orange County can stop their gender‑affirming care to avert federal funding loss."
   },
   {
     "source": "Public Policy Institute of California",
@@ -40,13 +68,6 @@
     "link": "https://www.ppic.org/event/statewide-survey-californians-and-education-april-2026/?utm_source=rss&utm_medium=rss&utm_campaign=statewide-survey-californians-and-education-april-2026",
     "published": "2026-04-14T21:13:49Z",
     "summary": "<p><img alt=\"photo - Row of School Lockers\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2022/04/close-up-of-a-row-of-school-lockers.jpg\" width=\"2000\" /></p>California voters will make decisions this year that impact their public schools. In addition to gauging voter preferences in key primary races, PPIC’s latest survey tracks views of the TK–12 system, local schools, and policies such as universal transitional kindergarten and a measure that would extend a temporary tax on high incomes to fund education and health care. Survey analyst Deja Thomas will outline key findings and answer audience questions."
-  },
-  {
-    "source": "California Globe",
-    "title": "Nonprofit Mutual Benefit Corporations",
-    "link": "https://californiaglobe.com/articles/nonprofit-mutual-benefit-corporations/",
-    "published": "2026-04-14T21:00:29Z",
-    "summary": "Names this part the Nonprofit Mutual Benefit Corporation Law"
   },
   {
     "source": "U.S. Dept. of Veterans Affairs",
@@ -63,20 +84,6 @@
     "summary": "<p>Within three hours of a Marine not showing up for work, units are directed to make “reasonable” efforts to contact them and begin checking in with local police, hospitals and clinics.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/missing-marines-policy/\">Marine Corps sets timelines for responding to missing personnel</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "California Globe",
-    "title": "TAX DAY NOTICE: 8 Proposed California Tax Hikes Pending in the 2026 Election",
-    "link": "https://californiaglobe.com/fr/tax-day-notice-8-proposed-california-tax-hikes-pending-in-the-2026-election/",
-    "published": "2026-04-14T19:00:29Z",
-    "summary": "More Democrat tax increases coming…"
-  },
-  {
-    "source": "California Globe",
-    "title": "Nevada Democrats Threaten Lawsuit Over SAVE America Act",
-    "link": "https://californiaglobe.com/fr/nevada-democrats-threaten-lawsuit-over-save-america-act/",
-    "published": "2026-04-14T18:54:10Z",
-    "summary": "Nevada Secretary of State Francisco &#8216;Cisco&#8217; Aguilar dismissed noncitizen voting as &#8216;not an issue&#8217; in Nevada"
-  },
-  {
     "source": "CVA News & Media",
     "title": "These Cadets Are Leading Now — and Honoring a Marine’s Legacy",
     "link": "https://cv4a.org/news-media/jrotc-cadets-honored-with-marine-legacy-award-in-texas/",
@@ -91,25 +98,11 @@
     "summary": "<p>The company that makes the SMASH 2000L advanced fire control system confirmed that a recent series of photos show deployed Marines using the smart scope.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/marines-drone-optic-2026/\">Marines on way to Middle East seen using rifles with anti-drone smart scope</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "CalMatters",
-    "title": "Woman alleges violent sexual assault by Eric Swalwell: ‘He raped me’",
-    "link": "https://calmatters.org/politics/2026/04/eric-swalwell-sex-assault-allegation/",
-    "published": "2026-04-14T17:11:21Z",
-    "summary": "<figure><img alt=\"A person with long reddish hair looks off-camera with a serious expression while seated indoors. Behind them, a blurred photograph shows two people standing together, and a microphone is visible in the foreground, suggesting an interview or press setting.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/041426-Lonna-Drewes-AP-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>A day after Rep. Eric Swallwell said he would resign from Congress, a Beverly Hills woman detailed what she described as a violent sexual encounter with the Democratic lawmaker."
-  },
-  {
     "source": "Public Policy Institute of California",
     "title": "Californians Want a Smaller State Government as Views on Taxes Turn Negative",
     "link": "https://www.ppic.org/blog/californians-want-a-smaller-state-government-as-views-on-taxes-turn-negative/?utm_source=rss&utm_medium=rss&utm_campaign=californians-want-a-smaller-state-government-as-views-on-taxes-turn-negative",
     "published": "2026-04-14T17:09:01Z",
     "summary": "<p><img alt=\"photo - Young Woman Doing Taxes\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/04/young-woman-doing-taxes.jpg\" width=\"2000\" /></p>Growing numbers of Californians are feeling overburdened by taxes, leading many to reconsider their views on the size of state government."
-  },
-  {
-    "source": "CalMatters",
-    "title": "Digital Democracy, by CalMatters, wins The Trust in American Institutions Challenge",
-    "link": "https://calmatters.org/inside-the-newsroom/2026/04/trust-challenge-win/",
-    "published": "2026-04-14T16:19:05Z",
-    "summary": "<figure><img alt=\"A graphic slide announces “Winner: Digital Democracy by CalMatters” for “The Trust in American Institutions Challenge.” The design features a dark background with teal and yellow accents, a logo for the challenge, and an inset image of two silhouetted people pointing at a screen displaying a grid of faces labeled “Legislature at a Glance.”\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/041326-Digital-Democracy-CM-02-scaled.png?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>The award fuels expanding Digital Democracy to give people more power over state government across the nation."
   },
   {
     "source": "Task & Purpose",
@@ -133,46 +126,11 @@
     "summary": "<p>The round breaks apart mid-flight and effectively becomes buckshot, which can make it easier to take out small, fast-moving drones. </p>\n<p>The post <a href=\"https://taskandpurpose.com/tech-tactics/army-xviii-airborne-drone-ammunition/\">Soldiers with the XVIII Airborne Corps are training with anti-drone rounds</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "California Political Review",
-    "title": "House Ethics panel opens investigation into sexual misconduct allegations against Rep. Eric Swalwell",
-    "link": "https://capoliticalreview.com/2026/04/14/house-ethics-panel-opens-investigation-into-sexual-misconduct-allegations-against-rep-eric-swalwell/",
-    "published": "2026-04-14T14:30:00Z",
-    "summary": "<p>WASHINGTON (AP) — The House Ethics Committee has begun an investigation into whether Rep. Eric Swalwell, D-Calif., engaged in sexual misconduct toward an employee working under his supervision, the panel announced Monday. The announcement comes one day after&#160;Swalwell suspended his campaign for California governor&#160;after the emergence of allegations that he continues to deny. Democrats quickly&#160;abandoned [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/04/14/house-ethics-panel-opens-investigation-into-sexual-misconduct-allegations-against-rep-eric-swalwell/\">Read More and Comment: House Ethics panel opens investigation into sexual misconduct allegations against Rep. Eric Swalwell</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/04/14/house-ethics-panel-opens-investigation-into-sexual-misconduct-allegations-against-rep-eric-swalwell/\">House Ethics panel opens investigation into sexual misconduct allegations against Rep. Eric Swalwell</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
     "source": "U.S. Dept. of Veterans Affairs",
     "title": "VA Announces New Assistant Secretary for Operations, Security, and Preparedness | Reginald Neal",
     "link": "https://www.youtube.com/watch?v=-jCXZqriFFc",
     "published": "2026-04-14T14:00:03Z",
     "summary": "The Department of Veterans Affairs has named Reginald Neal as Assistant Secretary for the Office of Operations, Security, and Preparedness (OSP).\n\nBringing experience in battlefield leadership, federal service, and emergency management, Mr. Neal will help guide how VA prepares, protects, and responds nationwide in support of Veterans.\n\nHis leadership reflects a focus on readiness, coordination, and ensuring VA can operate effectively when it matters most."
-  },
-  {
-    "source": "California Political Review",
-    "title": "California GOP Fails to Endorse Republican Candidate for Governor",
-    "link": "https://capoliticalreview.com/2026/04/14/california-gop-fails-to-endorse-republican-candidate-for-governor/",
-    "published": "2026-04-14T14:00:00Z",
-    "summary": "<p>Betting markets show Hilton 83% outperforming Bianco 10% Despite President Donald Trump’s endorsement last week of Steve Hilton running for California Governor, the California Republican Party failed to issue an endorsement during the weekend convention. However, whether the GOP on Sunday decided not to endorse either Republican candidate for governor, “Chad Bianco left with nothing, [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/04/14/california-gop-fails-to-endorse-republican-candidate-for-governor/\">Read More and Comment: California GOP Fails to Endorse Republican Candidate for Governor</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/04/14/california-gop-fails-to-endorse-republican-candidate-for-governor/\">California GOP Fails to Endorse Republican Candidate for Governor</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "CalMatters",
-    "title": "Taxing CA billionaires probably not a panacea, experts say",
-    "link": "https://calmatters.org/newsletter/billionaire-tax-bills/",
-    "published": "2026-04-14T13:00:00Z",
-    "summary": "<figure><img alt=\"Two people stand in front of a large cut-out drawing of an overweight man dressed in a blue suit with money coming out of his pockets and smoking a cigar. One of the two people in the frame holds a sign that reads, &quot;taxing greed to pay for what we need.&quot;\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/011426_CEO-Tax-Wealth_GETTY_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The idea of taxing the rich has gained steam among California progressives and health care advocates as the cost of living continues to rise and federal funding cuts are projected to render health care more inaccessible to the poor. But while taxing the rich to cover missing federal health funding might be popular messaging, backfilling [&#8230;]"
-  },
-  {
-    "source": "CalMatters",
-    "title": "California Democrats are clamoring to tax the rich. Why their proposals could backfire",
-    "link": "https://calmatters.org/politics/2026/04/tax-the-rich-california-budget/",
-    "published": "2026-04-14T12:15:00Z",
-    "summary": "<figure><img alt=\"A group of people hold printed signs reading “Unrig California” and “Stop the corporate freeloaders” during a public demonstration. Several individuals raise the signs overhead, while others hold them at chest level, facing forward. The crowd stands outdoors, with a blurred building and greenery in the background.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/031126-UnRIg-California-MG-CM-06.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>California progressives want to hike taxes on corporations and billionaires to absorb federal funding cuts to Medi-Cal. But backfilling the loss would not address the state’s existing — and growing — structural budget deficit, budget experts say."
-  },
-  {
-    "source": "CalMatters",
-    "title": "When criminal justice falls short, California’s civil courts must step in",
-    "link": "https://calmatters.org/commentary/2026/04/civil-criminal-courts-california-justice/",
-    "published": "2026-04-14T12:00:00Z",
-    "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2023/12/080619_Police_AW_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>An LAPD officer wasn’t charged for crashing into and severely injuring two elderly brothers. The city settled their lawsuit, agreeing to pay $18 million in total."
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
@@ -210,11 +168,95 @@
     "summary": "An act to amend Sections 1029, 1031, and 18935 of, and to add Section 1025 to, the Government Code, relating to public employment.<br />\n<br />\n2026/04/14 From committee chair, with author's amendments: Amend, and re-refer to Com. on PUB. S. Read second time and amended."
   },
   {
-    "source": "Task & Purpose",
-    "title": "Specialist and sergeant win Best Ranger competition for first time in nearly 40 years",
-    "link": "https://taskandpurpose.com/news/army-best-ranger-2026/",
-    "published": "2026-04-13T21:49:21Z",
-    "summary": "<p>“We had each other’s back, and knew that when one of us was in trouble, the other was there to carry the load.”</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/army-best-ranger-2026/\">Specialist and sergeant win Best Ranger competition for first time in nearly 40 years</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB2043",
+    "link": "https://legiscan.com/CA/bill/AB2043/2025?utm_campaign=rss&guid=WEbtda6ZgOdyINL91ndc5",
+    "published": "2026-04-14T04:00:00Z",
+    "summary": "An act to add Article 4.2 (commencing with Section 8577) to Chapter 7 of Division 1 of Title 2 of the Government Code, relating to state government, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/04/14 From committee: Do pass and re-refer to Com. on P. & C.P. with recommendation: To Consent Calendar. (Ayes 6. Noes 0.) (April 13). Re-referred to Com. on P. & C.P."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA SB1167",
+    "link": "https://legiscan.com/CA/bill/SB1167/2025?utm_campaign=rss&guid=4Wms7NP3TUvnSnJCVMrqJ3",
+    "published": "2026-04-14T04:00:00Z",
+    "summary": "An act to amend Section 26300 of the Health and Safety Code, and to amend Sections 312.5, 405, 406, 426, 472, 672, 4020, 5030, 5031, 5032, 5033, 5034, 5035, 5036, 5037, 5038, 5039, 12500, 12509, 12509.5, 12804.9, 12814.6, 21113, 21201.3, 21203, 21207.5, 21209, 21712, 21960, 22651.08, 23135, 23330, 24015, 24951, 25650, 27800, 27802, 27803, 38012, 38366, 38505, and 38601 of, to amend the heading of Article 8.1 (commencing with Section 5030) of Chapter 1 of Division 3 of, to add Section 21065 to, to add Article 9 (commencing with Section 21310) to Chapter 1 of Division 11 of, and to add Article 7.5 (commencing with Section 27850) to Chapter 5 of Division 12 of, the Vehicle Code, relating to vehicles.<br />\n<br />\n2026/04/14 From committee: Do pass and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 7. Noes 0.) (April 14). Re-referred to Com. on APPR."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB2370",
+    "link": "https://legiscan.com/CA/bill/AB2370/2025?utm_campaign=rss&guid=4yPkVIcYyForAvM0PS8hTz",
+    "published": "2026-04-14T04:00:00Z",
+    "summary": "An act to amend Section 15277 of the Government Code, relating to emergency services.<br />\n<br />\n2026/04/14 From committee: Do pass and re-refer to Com. on APPR. (Ayes 5. Noes 0.) (April 13). Re-referred to Com. on APPR."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA SB962",
+    "link": "https://legiscan.com/CA/bill/SB962/2025?utm_campaign=rss&guid=5EptrQZXfg2twrGhK19Crd",
+    "published": "2026-04-14T04:00:00Z",
+    "summary": "An act to amend Section 25258 of the Vehicle Code, relating to vehicles.<br />\n<br />\n2026/04/14 From committee: Do pass and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 6. Noes 0.) (April 14). Re-referred to Com. on APPR."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA SB1354",
+    "link": "https://legiscan.com/CA/bill/SB1354/2025?utm_campaign=rss&guid=4TKSKsQoPyDZReioQ9lZLI",
+    "published": "2026-04-14T04:00:00Z",
+    "summary": "An act to add Part 3 (commencing with Section 570) to Division 2 of the Military and Veterans Code, relating to the military.<br />\n<br />\n2026/04/14 Set for hearing April 21 in PUB. S. pending receipt."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+    "title": "CA AB2043",
+    "link": "https://legiscan.com/CA/bill/AB2043/2025?utm_campaign=rss&guid=WEbtda6ZgOdyINL91ndc5",
+    "published": "2026-04-14T04:00:00Z",
+    "summary": "An act to add Article 4.2 (commencing with Section 8577) to Chapter 7 of Division 1 of Title 2 of the Government Code, relating to state government, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/04/14 From committee: Do pass and re-refer to Com. on P. & C.P. with recommendation: To Consent Calendar. (Ayes 6. Noes 0.) (April 13). Re-referred to Com. on P. & C.P."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+    "title": "CA AB2473",
+    "link": "https://legiscan.com/CA/bill/AB2473/2025?utm_campaign=rss&guid=295RNMehnrnpmYflxLY3Ho",
+    "published": "2026-04-14T04:00:00Z",
+    "summary": "An act to amend Section 8586.7 of the Government Code, relating to wildfires.<br />\n<br />\n2026/04/14 From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 6. Noes 0.) (April 13). Re-referred to Com. on APPR."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+    "title": "CA SB1354",
+    "link": "https://legiscan.com/CA/bill/SB1354/2025?utm_campaign=rss&guid=4TKSKsQoPyDZReioQ9lZLI",
+    "published": "2026-04-14T04:00:00Z",
+    "summary": "An act to add Part 3 (commencing with Section 570) to Division 2 of the Military and Veterans Code, relating to the military.<br />\n<br />\n2026/04/14 Set for hearing April 21 in PUB. S. pending receipt."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB1896",
+    "link": "https://legiscan.com/CA/bill/AB1896/2025?utm_campaign=rss&guid=49nQmAhDMOeoIm25nOW3b9",
+    "published": "2026-04-14T04:00:00Z",
+    "summary": "An act to amend Sections 1029, 1031, and 18935 of, and to add Section 1025 to, the Government Code, relating to public employment.<br />\n<br />\n2026/04/14 From committee chair, with author's amendments: Amend, and re-refer to Com. on PUB. S. Read second time and amended."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SB1171",
+    "link": "https://legiscan.com/CA/bill/SB1171/2025?utm_campaign=rss&guid=1KQLdWGRkpuXJvHTWH6Wvt",
+    "published": "2026-04-14T04:00:00Z",
+    "summary": "An act to add Chapter 5.3 (commencing with Section 8335) to Division 1 of Title 2 of the Government Code, relating to state-funded programs.<br />\n<br />\n2026/04/14 From committee: Do pass as amended and re-refer to Com. on L. GOV. (Ayes 10. Noes 4.) (April 14)."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SB1203",
+    "link": "https://legiscan.com/CA/bill/SB1203/2025?utm_campaign=rss&guid=4yzh3fJyejP6j399JFhsAr",
+    "published": "2026-04-14T04:00:00Z",
+    "summary": "An act to amend Sections 7574.18, 7574.30, 7574.38, 7583.2, 7583.5, 7583.6, 7585.6, and 7587.7 of, to amend, repeal, and add Section 7583.7 of, and to add Section 7583.48 to, the Business and Professions Code, and to add Section 1173.1 to the Labor Code, relating to professions and vocations.<br />\n<br />\n2026/04/14 Set for hearing April 21 in PUB. S. pending receipt."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA ACR144",
+    "link": "https://legiscan.com/CA/bill/ACR144/2025?utm_campaign=rss&guid=2RwGkwMp4ljWjZV7SJ2oYY",
+    "published": "2026-04-14T04:00:00Z",
+    "summary": "Relative to certified registered nurse anesthetists.<br />\n<br />\n2026/04/14 Ordered to special consent calendar."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SB1034",
+    "link": "https://legiscan.com/CA/bill/SB1034/2025?utm_campaign=rss&guid=IhP8LF70QvLKzn3etztDM",
+    "published": "2026-04-14T04:00:00Z",
+    "summary": "An act to amend Sections 295.7 and 5007 of the Vehicle Code, relating to vehicles.<br />\n<br />\n2026/04/14 From committee with author's amendments. Read second time and amended. Re-referred to Com. on M. & V.A."
   },
   {
     "source": "The Liberal OC",
@@ -252,20 +294,6 @@
     "summary": "There are several effective PTSD treatments. This means that if you have PTSD, you have options. The PTSD Treatment Decision Aid helps you learn about these options and think about which treatment might be best for you. It also gives you tips on how to work with your provider to decide on a treatment."
   },
   {
-    "source": "California Political Review",
-    "title": "California Republicans are torn on following Trump’s lead in governor’s race",
-    "link": "https://capoliticalreview.com/2026/04/13/california-republicans-are-torn-on-following-trumps-lead-in-governors-race/",
-    "published": "2026-04-13T14:30:00Z",
-    "summary": "<p>SAN DIEGO — President Donald Trump were facing a test of his power Sunday in an unusual place: California, where the state’s Republican Party delegates were deciding whether to follow his lead and endorse Fox News commentator Steve Hilton or buck him and back Riverside County Sheriff Chad Bianco, an immigration hardliner who appeals to [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/04/13/california-republicans-are-torn-on-following-trumps-lead-in-governors-race/\">Read More and Comment: California Republicans are torn on following Trump’s lead in governor’s race</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/04/13/california-republicans-are-torn-on-following-trumps-lead-in-governors-race/\">California Republicans are torn on following Trump’s lead in governor’s race</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "California Political Review",
-    "title": "How Eric Swalwell’s implosion changes the race for governor",
-    "link": "https://capoliticalreview.com/2026/04/13/how-eric-swalwells-implosion-changes-the-race-for-governor/",
-    "published": "2026-04-13T14:00:00Z",
-    "summary": "<p>If you thought political cancellations could move fast, Congressman Eric Swalwell just set a new standard. If you tuned out California politics for one Friday afternoon, you missed the destruction of a gubernatorial campaign. In a matter of hours Swalwell went from one of the Democrats in the race for governor to a politically toxic [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/04/13/how-eric-swalwells-implosion-changes-the-race-for-governor/\">Read More and Comment: How Eric Swalwell’s implosion changes the race for governor</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/04/13/how-eric-swalwells-implosion-changes-the-race-for-governor/\">How Eric Swalwell’s implosion changes the race for governor</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
     "title": "CA AB2645",
     "link": "https://legiscan.com/CA/bill/AB2645/2025?utm_campaign=rss&guid=1Ya8IZvtvRBZB2wo4Elnpg",
@@ -273,46 +301,11 @@
     "summary": "An act to add Article 3 (commencing with Section 983) to Chapter 6 of Division 4 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/04/13 In committee: Set, first hearing. Hearing canceled at the request of author."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2064",
-    "link": "https://legiscan.com/CA/bill/AB2064/2025?utm_campaign=rss&guid=4PNOGwhPOnSgVQzjxglUKB",
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA SB1044",
+    "link": "https://legiscan.com/CA/bill/SB1044/2025?utm_campaign=rss&guid=5qHRdz250LmuXLjScF1VqW",
     "published": "2026-04-13T04:00:00Z",
-    "summary": "An act to amend Section 51 of the Civil Code, and to amend Sections 12920, 12921, 12926, 12940, and 12955 of the Government Code, relating to discrimination.<br />\n<br />\n2026/04/13 Re-referred to Com. on JUD."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2563",
-    "link": "https://legiscan.com/CA/bill/AB2563/2025?utm_campaign=rss&guid=6qiJmLk7CZWoaATF9Nu8lC",
-    "published": "2026-04-13T04:00:00Z",
-    "summary": "An act to add Section 14.3 to the Business and Professions Code, to amend Section 51 of, and to add Section 14.1 to, the Civil Code, to add Section 17.5 to the Code of Civil Procedure, to add Section 1207 to the Commercial Code, to add Section 12.4 to the Corporations Code, to add Sections 212.4 and 66262.4 to the Education Code, to add Section 353.7 to the Elections Code, to add Section 212 to the Evidence Code, to add Section 136 to the Family Code, to add Section 23 to the Financial Code, to add Section 9.4 to the Fish and Game Code, to add Section 52 to the Food and Agricultural Code, to amend Section 12926 of, and to add Section 27 to, the Government Code, to add Section 26 to the Harbors and Navigation Code, to add Section 29 to the Health and Safety Code, to add Section 49 to the Insurance Code, to add Section 12.3 to the Labor Code, to add Section 20 to the Military and Veterans Code, to add Section 5.5 to the Penal Code, to add Section 71 to the Probate Code, to add Section 1105 to the Public Contract Code, to add Section 19 to the Public Resources Code, to add Section 23 to the Public Utilities Code, to add Section 12.3 to the Revenue and Taxation Code, to add Section 37 to the Streets and Highways Code, to add Section 23 to the Unemployment Insurance Code, to add Section 552 to the Vehicle Code, to add Section 27 to the Water Code, and to add Section 28 to the Welfare and Institutions Code, relating to sex discrimination.<br />\n<br />\n2026/04/13 Re-referred to Com. on APPR."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2043",
-    "link": "https://legiscan.com/CA/bill/AB2043/2025?utm_campaign=rss&guid=3k9QpDU9bt112T4vZYAtZH",
-    "published": "2026-04-13T04:00:00Z",
-    "summary": "An act to add Article 4.2 (commencing with Section 8577) to Chapter 7 of Division 1 of Title 2 of the Government Code, relating to state government, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/04/13 (Pending re-refer to Com. on P. & C.P.)"
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB1940",
-    "link": "https://legiscan.com/CA/bill/AB1940/2025?utm_campaign=rss&guid=RNYZhqghmrvA4VhwGwyUu",
-    "published": "2026-04-13T04:00:00Z",
-    "summary": "An act to amend Sections 12926 and 12950 of, and to add Section 8423 to, the Government Code, relating to civil rights.<br />\n<br />\n2026/04/13 In committee: Set, first hearing. Hearing canceled at the request of author."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA AB2043",
-    "link": "https://legiscan.com/CA/bill/AB2043/2025?utm_campaign=rss&guid=3k9QpDU9bt112T4vZYAtZH",
-    "published": "2026-04-13T04:00:00Z",
-    "summary": "An act to add Article 4.2 (commencing with Section 8577) to Chapter 7 of Division 1 of Title 2 of the Government Code, relating to state government, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/04/13 (Pending re-refer to Com. on P. & C.P.)"
-  },
-  {
-    "source": "California Political Review",
-    "title": "‘I will fight them’: Swalwell denies allegations, won’t leave governor’s race",
-    "link": "https://capoliticalreview.com/2026/04/12/i-will-fight-them-swalwell-denies-allegations-wont-leave-governors-race/",
-    "published": "2026-04-12T14:30:00Z",
-    "summary": "<p>Rep.&#160;Eric Swalwell&#160;said Friday evening that he would keep running for governor, issuing a&#160;direct-to-camera denial&#160;of sexual assault allegations that had upended his campaign hours earlier and prompted calls from top Democrats for him to leave the race. In a video posted to social media shortly after 8 p.m., Swalwell, D-Castro Valley, rejected the allegations as false, [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/04/12/i-will-fight-them-swalwell-denies-allegations-wont-leave-governors-race/\">Read More and Comment: ‘I will fight them’: Swalwell denies allegations, won’t leave governor’s race</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/04/12/i-will-fight-them-swalwell-denies-allegations-wont-leave-governors-race/\">‘I will fight them’: Swalwell denies allegations, won’t leave governor’s race</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+    "summary": "An act to amend Sections 14838.5 and 14838.64 of the Government Code, relating to public contracts.<br />\n<br />\n2026/04/13 April 13 hearing: Placed on APPR. suspense file."
   },
   {
     "source": "U.S. Dept. of Veterans Affairs",
@@ -334,13 +327,6 @@
     "link": "https://theliberaloc.com/2026/04/10/swalwell-campaign-implodes-on-sex-abuse-charges/",
     "published": "2026-04-11T00:11:32Z",
     "summary": "Rep. Eric Swalwell&#8217;s campaign for Governor has exploded.  He&#8217;s denied sex abuse charges levied by a staffer, but he&#8217;s done. For me, what made it <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/04/10/swalwell-campaign-implodes-on-sex-abuse-charges/\" title=\"Swalwell campaign implodes on Sex Abuse Charges\">[...]</a>"
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA SB1167",
-    "link": "https://legiscan.com/CA/bill/SB1167/2025?utm_campaign=rss&guid=R3NoGgBVpAVzT25AIHYGP",
-    "published": "2026-04-10T04:00:00Z",
-    "summary": "An act to amend Section 26300 of the Health and Safety Code, and to amend Sections 312.5, 405, 406, 426, 472, 672, 4020, 5030, 5031, 5032, 5033, 5034, 5035, 5036, 5037, 5038, 5039, 12500, 12509, 12509.5, 12804.9, 12814.6, 21113, 21201.3, 21203, 21207.5, 21209, 21712, 21960, 22651.08, 23135, 23330, 24015, 24951, 25650, 27800, 27802, 27803, 38012, 38366, 38505, and 38601 of, to amend the heading of Article 8.1 (commencing with Section 5030) of Chapter 1 of Division 3 of, to add Section 21065 to, to add Article 9 (commencing with Section 21310) to Chapter 1 of Division 11 of, and to add Article 7.5 (commencing with Section 27850) to Chapter 5 of Division 12 of, the Vehicle Code, relating to vehicles.<br />\n<br />\n2026/04/10 Set for hearing April 14."
   },
   {
     "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
@@ -392,18 +378,11 @@
     "summary": "An act to amend Section 1399.849 of the Health and Safety Code, and to amend Section 10965.3 of the Insurance Code, relating to health care coverage.<br />\n<br />\n2026/04/08 In committee: Set, first hearing. Referred to APPR. suspense file."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA AB2473",
-    "link": "https://legiscan.com/CA/bill/AB2473/2025?utm_campaign=rss&guid=4Y1O6YOexGCjKS6AXDYtVQ",
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
+    "title": "CA AB1920",
+    "link": "https://legiscan.com/CA/bill/AB1920/2025?utm_campaign=rss&guid=69QPTvGLZvGH3iTnTLiZWX",
     "published": "2026-04-08T04:00:00Z",
-    "summary": "An act to amend Section 8586.7 of the Government Code, relating to wildfires.<br />\n<br />\n2026/04/08 Re-referred to Com. on E.M."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA SB1354",
-    "link": "https://legiscan.com/CA/bill/SB1354/2025?utm_campaign=rss&guid=IPXoD2orJBDDueArz2dff",
-    "published": "2026-04-08T04:00:00Z",
-    "summary": "An act to add Part 3 (commencing with Section 570) to Division 2 of the Military and Veterans Code, relating to the military.<br />\n<br />\n2026/04/08 Re-referred to Coms. on M. & V.A. and PUB. S."
+    "summary": "An act to amend Section 76396.3 of the Education Code, relating to community colleges.<br />\n<br />\n2026/04/08 From committee: Do pass and re-refer to Com. on APPR. (Ayes 10. Noes 0.) (April 7). Re-referred to Com. on APPR."
   },
   {
     "source": "Legislative Analyst's Office: Recent Publications",
@@ -630,6 +609,20 @@
     "summary": "<p><img alt=\"photo - Family paying Bills at Home\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/03/family-paying-bills-at-home-and-sitting-on-the-couch-while-daugher-looks-over-shoulder.jpg\" width=\"2000\" /></p>An overwhelming majority of Californians see bad financial times ahead and don’t think their income is keeping up with inflation. Still, most expect their own finances to hold steady—for now."
   },
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
+    "title": "CA SB892",
+    "link": "https://legiscan.com/CA/bill/SB892/2025?utm_campaign=rss&guid=3yTUHy98rbFkDnP17bInMp",
+    "published": "2026-03-18T04:00:00Z",
+    "summary": "An act to amend, repeal, and add Section 66025.8 of the Education Code, relating to public postsecondary education.<br />\n<br />\n2026/03/18 From committee: Do pass and re-refer to Com. on M. & V.A. with recommendation: To consent calendar. (Ayes 7. Noes 0. Page 3599.) (March 18). Re-referred to Com. on M. & V.A."
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA AB2787",
+    "link": "https://legiscan.com/CA/bill/AB2787/2025?utm_campaign=rss&guid=6ZeKRLMW3L6dfsQo0BJXrF",
+    "published": "2026-03-16T04:00:00Z",
+    "summary": "An act to amend Section 1745 of, and to amend, renumber, and add Section 3480 of, the Fish and Game Code, to amend Section 675 of the Harbors and Navigation Code, to amend Sections 9853 and 9860 of the Vehicle Code, and to amend Section 10722.4 of the Water Code, relating to public resources.<br />\n<br />\n2026/03/16 Referred to Com. on W., P., & W."
+  },
+  {
     "source": "Your Leo Nation",
     "title": "Unmasking Terrorism: The Truth Behind Recent Attacks",
     "link": "",
@@ -656,6 +649,13 @@
     "link": "https://cadem.org/open-letter-to-the-democratic-candidates-for-governor/",
     "published": "2026-03-03T13:55:00Z",
     "summary": "<p>Open Letter to the Democratic Candidates for Governor: California Democrats have no shortage of strong candidates to consider in the race for Governor &#8211; current and former Congressmembers, statewide elected officials, State Legislators, Mayors and leaders of Democratic causes. Each of you brings a unique story, history of service and deep experience to the role. [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/open-letter-to-the-democratic-candidates-for-governor/\">Open Letter to the Democratic Candidates for Governor</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA SB647",
+    "link": "https://legiscan.com/CA/bill/SB647/2025?utm_campaign=rss&guid=1vmOg66AOEMfYVfatWwgat",
+    "published": "2026-03-02T05:00:00Z",
+    "summary": "An act to amend Section 25665.1 of the Public Resources Code, and to amend Section 382.1 of the Public Utilities Code, relating to energy.<br />\n<br />\n2026/03/02 Veto sustained."
   },
   {
     "source": "The Auditor",
