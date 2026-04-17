@@ -1,24 +1,73 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-04-17T06:18:08Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-04-17T06:18:02Z",
+    "published": "2026-04-17T12:51:22Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-04-17T12:51:21Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Globe",
+    "title": "Title IX Breach? UC Davis Eliminating D1 Women’s Championship Equestrian Team",
+    "link": "https://californiaglobe.com/fl/uc-davis-eliminating-d1-womens-championship-equestrian-team/",
+    "published": "2026-04-17T12:16:56Z",
+    "summary": "Cutting winning team raises serious Title IX issues, and flagrant budget manipulations"
+  },
+  {
+    "source": "CalMatters",
+    "title": "Frozen lasagna dispute shows how arbitrary California tax law can be",
+    "link": "https://calmatters.org/commentary/2026/04/california-tax-law-arbitrary-lasagna/",
+    "published": "2026-04-17T12:00:00Z",
+    "summary": "<figure><img alt=\"Line cook Leticia Andrade puts together a lunch order at Creative Ideas Catering in San Francisco on June 11, 2024. Gov. Gavin Newsom’s proposed budget would cut more than half of the funding of the state&#039;s Small Business Technical Assistance Program, which benefits small businesses like Creative Ideas Catering. Photo by Juliana Yamada for CalMatters\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2024/06/061124_Small-Biz-Cuts_JY_19.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Whether a food is deemed hot or cold determines if it's subject to CA sales tax. It's not as simple as it sounds, though."
+  },
+  {
+    "source": "CalMatters",
+    "title": "We can’t ‘restore’ American history by flagging Native American books",
+    "link": "https://calmatters.org/commentary/2026/04/native-books-national-parks-censorship/",
+    "published": "2026-04-17T12:00:00Z",
+    "summary": "<figure><img alt=\"A visitor center sits at the base of steep granite cliffs, surrounded by tall trees. People walk up and down the steps, gather near the entrance, and rest on benches outside. A sign reading “Welcome Center” is mounted on the building, while an American flag stands nearby. The dramatic rock face rises behind the scene under a clear blue sky.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/040226-Yosemite-Park-GETTY-CM.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>Pres. Donald Trump is pressuring Redwood National and State Parks to tag tribally-centered books and material critical of American history."
+  },
+  {
+    "source": "CalMatters",
+    "title": "California college students struggle to afford to eat, sleep and graduate. It’s time lawmakers helped",
+    "link": "https://calmatters.org/commentary/2026/04/college-students-calfresh-affordability-california/",
+    "published": "2026-04-17T12:00:00Z",
+    "summary": "<figure><img alt=\"Several stickers with images of bananas, strawberries, apples and mushrooms with phrases like &quot;I love you berry much&quot; lay on top of a wooden table next to some CalFresh flyers.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/03/022425_College-CalFresh_CK_CM_27.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>CalFresh helps only a fourth of students who qualify for it because it’s too unwieldy to apply for and stay on. It’s like having another job."
+  },
+  {
+    "source": "CalMatters",
+    "title": "California Democrats can’t decide on a governor. Don’t count on Newsom or Pelosi for help",
+    "link": "https://calmatters.org/politics/2026/04/california-democrats-governor-leadership/",
+    "published": "2026-04-17T12:00:00Z",
+    "summary": "<figure><img alt=\"Seven people stand behind podiums set-up on a stage illuminated by colorful light. A crowd of attendees can be seen in the foreground.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/041426_Gov-Candidate-Forum_FG_CM_10.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Even after Rep. Eric Swalwell’s swift and sudden exit, the race for governor is still frustratingly murky on the Democratic side, with seven major candidates splitting the vote. As party faithful hope for divine intervention, heavyweights like the speaker emerita and the current governor refuse to weigh in."
+  },
+  {
+    "source": "CalMatters",
+    "title": "Live Nation is supporting two California bills to lower prices. Can fans trust it?",
+    "link": "https://calmatters.org/digital-democracy/2026/04/ticketmaster-resale-market/",
+    "published": "2026-04-17T12:00:00Z",
+    "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/121225_Concert-KATSEYE_AP_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Bruno Mars tickets running for $2,000 and ones for SZA costing $600 caught California lawmakers' attention. They're advancing two bills targeting the resale market."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-04-17T06:17:10Z",
+    "published": "2026-04-17T10:17:11Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Globe",
+    "title": "Fines and Penalties in the Fish and Game Code",
+    "link": "https://californiaglobe.com/articles/fines-and-penalties-in-the-fish-and-game-code/",
+    "published": "2026-04-17T09:30:52Z",
+    "summary": "Deals with general provisions related to fines and penalties"
   },
   {
     "source": "California Globe",
@@ -42,25 +91,11 @@
     "summary": "Taxpayer-funded Medi-Cal is a one-stop shop for &#8216;gender-affirming care,&#8217; including cross-sex hormones, breast implants, and genital surgeries"
   },
   {
-    "source": "California Globe",
-    "title": "Arizona Officials Braced for FBI Raid on Election Records, Emails Show",
-    "link": "https://californiaglobe.com/fr/arizona-officials-braced-for-fbi-raid-on-election-records-emails-show/",
-    "published": "2026-04-16T20:37:51Z",
-    "summary": "The revelations come as Arizona continues to face intense federal scrutiny over its election processes"
-  },
-  {
     "source": "Task & Purpose",
     "title": "Should veterans get a ‘second look’ at long prison sentences after military service?",
     "link": "https://taskandpurpose.com/news/veteran-policy-second-look/",
     "published": "2026-04-16T19:21:32Z",
     "summary": "<p>California allows veterans to petition courts to consider their military service under \"second look\" resentencing. Advocates say other states should, too.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/veteran-policy-second-look/\">Should veterans get a ‘second look&#8217; at long prison sentences after military service?</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
-    "source": "California Globe",
-    "title": "Swalwell’s Donation to Nevada AG Aaron Ford Raises Questions as Sexual Assault Allegations Emerge",
-    "link": "https://californiaglobe.com/fr/swalwells-donation-to-nevada-ag-aaron-ford-raises-questions-as-sexual-assault-allegations-emerge/",
-    "published": "2026-04-16T19:16:07Z",
-    "summary": "Notably, the contribution came nearly two years after Swalwell’s ties to a suspected Chinese intelligence operative were publicly exposed"
   },
   {
     "source": "Task & Purpose",
@@ -91,46 +126,11 @@
     "summary": "<p>The U.S. Navy is allowed to fire warning shots at any ship that tried to breach the blockade of Iranian ports, said Air Force Gen. Dan Caine, Chairman of the Joint Chiefs of Staff.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/us-iran-blockade-warning-shots/\">Navy can fire warning shots to enforce blockade of Iran, top general says</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "CalMatters",
-    "title": "Bill to protect gender-affirming care recipients presents legal quandary",
-    "link": "https://calmatters.org/newsletter/gender-affirming-care-data/",
-    "published": "2026-04-16T13:00:00Z",
-    "summary": "<figure><img alt=\"Pro-abortion rights supporters marched in protest of a Supreme Court ruling that overturned Roe vs. Wade, in Sacramento on June 25, 2022. Photo by Miguel Gutierrez Jr., CalMatters\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2022/06/Roe-Wade-Abortion-Protest-MG-07-CM.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>A bill intended to protect the identities of patients who have had abortions or received gender-affirming care in California may wind up getting hospitals in hot water for violating federal law if passed. As CalMatters’ Ryan Sabalow and Kristen Hwang explain, the proposal would require medical providers or businesses to contact the California attorney general [&#8230;]"
-  },
-  {
-    "source": "CalMatters",
-    "title": "Trump wants data on California’s trans and abortion care. Can the state stop him?",
-    "link": "https://calmatters.org/politics/2026/04/california-abortion-trans-subpoena-bill/",
-    "published": "2026-04-16T12:30:00Z",
-    "summary": "<figure><img alt=\"Pro-abortion rights supporters marched in protest of a Supreme Court ruling that overturned Roe vs. Wade, in Sacramento on June 25, 2022. Photo by Miguel Gutierrez Jr., CalMatters\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2024/03/062522_Roe-Wade-Abortion-Protest_MG_CM_04.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>In a legal battle between Trump and California over transgender and abortion care, will businesses be caught in a fight between hostile Justice Departments?"
-  },
-  {
     "source": "Task & Purpose",
     "title": "Is the US military’s most important island in the Pacific ready for war?",
     "link": "https://taskandpurpose.com/tech-tactics/us-military-protect-guam/",
     "published": "2026-04-16T12:00:00Z",
     "summary": "<p>Guam’s vast logistics infrastructure makes it the keystone for any military operation in the Pacific — and a prime target for China.</p>\n<p>The post <a href=\"https://taskandpurpose.com/tech-tactics/us-military-protect-guam/\">Is the US military&#8217;s most important island in the Pacific ready for war?</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
-    "source": "CalMatters",
-    "title": "California’s districts are cheating disadvantaged students out of music and arts education",
-    "link": "https://calmatters.org/commentary/2026/04/music-arts-classes-california-schools/",
-    "published": "2026-04-16T12:00:00Z",
-    "summary": "<figure><img alt=\"Students sit in rows in a classroom, each holding an acoustic guitar and resting one foot on a small wooden block to support their instrument. They appear focused, looking toward an unseen instructor, while an adult sits among them also holding a guitar. The room contains music equipment, including drums and keyboards, arranged along the back wall.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"681\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/081722-LAUSD-Music-Class-GETTY-CM.jpg?fit=1024%2C681&amp;ssl=1\" width=\"1024\" /></figure>Only 11% of schools spend what voters earmarked for arts on those classes. Music education is rare at many low income neighborhood schools."
-  },
-  {
-    "source": "CalMatters",
-    "title": "California lawmakers must weigh  long-term consequences before granting tribe a state park",
-    "link": "https://calmatters.org/commentary/2026/04/california-lawmakers-tribe-state-park/",
-    "published": "2026-04-16T12:00:00Z",
-    "summary": "<figure><img alt=\"A wide, open beach stretches into the distance under a clear blue sky. Low dunes line the left side, while waves roll in along the right. A faint, winding line of lighter sand curves through the darker shoreline, leading the eye toward the horizon. A few small figures stand far off in the distance, emphasizing the scale and emptiness of the landscape.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/041526-Tolowa_Dunes_State_Park_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Assemblymember James Ramos proposed giving Tolowa Dunes State Park, 4,300 coastal acres in Del Norte County, to the Tolowa Dee-ni Nation."
-  },
-  {
-    "source": "CalMatters",
-    "title": "Taxing LA mansions likely hindered efforts to build affordable housing. Can it be fixed?",
-    "link": "https://calmatters.org/commentary/2026/04/taxing-la-mansions-affordable-housing/",
-    "published": "2026-04-16T12:00:00Z",
-    "summary": "<figure><img alt=\"An aerial view shows a large modern hillside home with a flat roof and expansive terraces overlooking a canyon landscape. The property features a long infinity pool wrapping around the structure, lounge chairs arranged along the deck, and surrounding greenery with neighboring homes scattered across the hills in the distance.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/090821-Beverly-Hills-Mansion-GETTY-CM.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Though it raised more than $1 billion for affordable housing and rent relief, LA’s mansion tax depressed apartment construction. Is it worth it?"
   },
   {
     "source": "Public Policy Institute of California",
@@ -187,6 +187,27 @@
     "link": "https://legiscan.com/CA/bill/SB1439/2025?utm_campaign=rss&guid=5ONJNrdUaeqQ9FJvv62brN",
     "published": "2026-04-16T04:00:00Z",
     "summary": "An act to amend Sections 24011, 26802, 26803, 26803.5, 26807, 26809, 26831, 26837, 26840.1, 27297.7, 53601, 53651, and 54221 of the Government Code, relating to local government.<br />\n<br />\n2026/04/16 Read second time. Ordered to consent calendar."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB2590",
+    "link": "https://legiscan.com/CA/bill/AB2590/2025?utm_campaign=rss&guid=1gGGNSsJXlqLPlit1sC6Bm",
+    "published": "2026-04-16T04:00:00Z",
+    "summary": "An act to amend Section 10230.2 of, and to add Division 9.5 (commencing with Section 9975) to, the Public Resources Code, relating to public resources, and making an appropriation therefor.<br />\n<br />\n2026/04/16 Read second time and amended."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB2016",
+    "link": "https://legiscan.com/CA/bill/AB2016/2025?utm_campaign=rss&guid=127GYUPNYt7VEwSxLx8Fby",
+    "published": "2026-04-16T04:00:00Z",
+    "summary": "An act to add Section 116365.7 to the Health and Safety Code, relating to water, and making an appropriation therefor.<br />\n<br />\n2026/04/16 From committee chair, with author's amendments: Amend, and re-refer to Com. on REV. & TAX. Read second time and amended."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA SB1433",
+    "link": "https://legiscan.com/CA/bill/SB1433/2025?utm_campaign=rss&guid=4364qWCDrc1ai1DSK6FUQ3",
+    "published": "2026-04-16T04:00:00Z",
+    "summary": "An act to amend Sections 733, 2242.2, 2553.5, 3046.1, 4073.5, 4602, 4610, 4826.5, 4858, 6126.7, 16608, and 17810 of the Business and Professions Code, to amend Sections 714.6, 798.14, 798.74.4, 1714.27, 3273.29, 4752, and 8811 of the Civil Code, to amend Sections 697.680 and 1094.9 of the Code of Civil Procedure, to amend Sections 234.7, 35221, 38134, 44043.5, 46392, 49001, 51140, 69436, 70022, 70034, and 88821 of the Education Code, to amend Sections 6915, 12304, and 12309 of the Elections Code, to amend Section 5654 of the Fish and Game Code, to amend Section 21283 of the Food and Agricultural Code, to amend Sections 1031.5, 6215, 6588.7, 8010, 8557, 10233, 10240, 11041, 11123.2, 12100.33, 12100.162, 12910, 12960, 12965, 15475.6, 19829.9854, 53398.52, 54953.4, 54953.8, 54953.8.1, 54954.2, 54957.9, 63049.71, 65589.5, 65914.2, 65950, 66300.6.5, 66323, 67784, 67786, 67788, and 87202 of, and to repeal the heading of Chapter 17.45 (commencing with Section 7289) of Division 7 of Title 1 of, the Government Code, to amend Section 676 of the Harbors and Navigation Code, to amend Sections 1279.6, 1342.74, 1367.25, 1597.640, 8028.73, 17021.8, 17970.3, 38532, 38562, 38562.3, 38591.2, 40100.5.5, 41313, 44501, 44515, 44559.14, 50406.4, 50410, 53545.14, 104660, 104661, and 108980 of the Health and Safety Code, to amend Sections 937, 10123.1933, and 10123.196 of the Insurance Code, to amend Sections 923.1, 1401, and 2810.8 of the Labor Code, to amend Section 59 of the Military and Veterans Code, to amend Sections 136.1, 636.6, 1170, 2780.6, 11105.04, and 13667 of the Penal Code, to amend Sections 4291.5, 4584.1, 4584.2, 5006.1, 5598, 5797.4, 21080.28.5, 21080.43, 21080.44, 25354, 25545, 25545.16, 25545.19, 30166, 30168, 30600.5, and 42652.5 of the Public Resources Code, to amend Sections 748.5, 850, 3299.2, 3310, 8501, and 180305 of, to amend the heading of Chapter 10 (commencing with Section 8500) of Division 4.1 of, and to repeal the heading of Article 7 of Chapter 3 of Division 1.5 of, the Public Utilities Code, to amend Sections 17053.40, 19002, and 23640 of the Revenue and Taxation Code, to amend Sections 21201 and 21450.5 of the Vehicle Code, to amend Sections 351, 50976, 60385, 60414, 74467, and 74850 of the Water Code, to amend Sections 309, 827, 9630, 10213.5, 11330.6, 13300.5, 14005.62, 14005.27, 14105.47, 14132.968, 16000.1, 16121.5, and 18900 of, and to repeal Section 12306.16 of, the Welfare and Institutions Code, and to amend Section 3 of Chapter 578 of the Statutes of 2025, relating to maintenance of the codes.<br />\n<br />\n2026/04/16 In Assembly. Read first time. Held at Desk."
   },
   {
     "source": "Task & Purpose",
@@ -250,20 +271,6 @@
     "link": "https://legiscan.com/CA/bill/AB2054/2025?utm_campaign=rss&guid=5PCqpF3lj3pNaOje4dNIe1",
     "published": "2026-04-15T04:00:00Z",
     "summary": "An act to amend Section 3302.1 of the Unemployment Insurance Code, relating to unemployment insurance, and making an appropriation therefor.<br />\n<br />\n2026/04/15 From committee: Do pass and re-refer to Com. on INS. (Ayes 8. Noes 0.) (April 14). Re-referred to Com. on INS."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2467",
-    "link": "https://legiscan.com/CA/bill/AB2467/2025?utm_campaign=rss&guid=1oOS8YNOxRAYgBMAPHLRrf",
-    "published": "2026-04-15T04:00:00Z",
-    "summary": "An act to amend Section 48204.3 of the Education Code, relating to pupil enrollment, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/04/15 From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 8. Noes 0.) (April 14). Re-referred to Com. on APPR."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2531",
-    "link": "https://legiscan.com/CA/bill/AB2531/2025?utm_campaign=rss&guid=67WkUwzrMfgDrpVJF2VnFu",
-    "published": "2026-04-15T04:00:00Z",
-    "summary": "An act to amend Sections 127632, 127633, and 127634 of the Health and Safety Code, and to add Section 92 to the Military and Veterans Code, relating to public health.<br />\n<br />\n2026/04/15 From committee: Do pass and re-refer to Com. on APPR. (Ayes 6. Noes 2.) (April 14). Re-referred to Com. on APPR."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
@@ -411,20 +418,6 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4460140/department-of-the-navy-creates-portfolio-aqcuisition-executive-marine-corps-to/",
     "published": "2026-04-10T20:27:00Z",
     "summary": "On Apr 10, the Marine Corps took a historic step in its modernization journey with the establishment of the Portfolio Acquisition Executive-Marine Corps (PAE-MC). This new organization replaces Program Executive Office Land Systems (PEO-LS) and incorporates programs from Marine Corps Systems Command (MCSC), marking a significant transformation in how the Marine Corps develops and delivers capabilities to its warfighters.<br /> \n<img alt=\"A U.S. Marine with 31st Marine Expeditionary Unit (MEU) and Sailor with America Expeditionary Strike Group fire at a target during a shooting competition aboard amphibious assault ship USS America (LHA 6) in the Solomon Sea, Aug. 7, 2021. The event consisted of Marines and Sailors competing as they shoot a series of drills with a goal of having the highest total score. The 31st MEU is operating aboard ships of the America Expeditionary Strike Group in the 7th fleet area of operation to enhance interoperability with allies and partners and serve as a ready response force to defend peace and stability in the Indo-Pacific region. (U.S. Marine Corps photo by Cpl. Karis Mattingly)\" src=\"https://media.defense.gov/2026/Apr/15/2003913105/115/75/0/210807-M-TS451-1757.JPG\" /> <br />"
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA SB1433",
-    "link": "https://legiscan.com/CA/bill/SB1433/2025?utm_campaign=rss&guid=7f9TYvHWWUh5Zc0DWphpgz",
-    "published": "2026-04-09T04:00:00Z",
-    "summary": "An act to amend Sections 733, 2242.2, 2553.5, 3046.1, 4073.5, 4602, 4610, 4826.5, 4858, 6126.7, 16608, and 17810 of the Business and Professions Code, to amend Sections 714.6, 798.14, 798.74.4, 1714.27, 3273.29, 4752, and 8811 of the Civil Code, to amend Sections 697.680 and 1094.9 of the Code of Civil Procedure, to amend Sections 234.7, 35221, 38134, 44043.5, 46392, 49001, 51140, 69436, 70022, 70034, and 88821 of the Education Code, to amend Sections 6915, 12304, and 12309 of the Elections Code, to amend Section 5654 of the Fish and Game Code, to amend Section 21283 of the Food and Agricultural Code, to amend Sections 1031.5, 6215, 6588.7, 8010, 8557, 10233, 10240, 11041, 11123.2, 12100.33, 12100.162, 12910, 12960, 12965, 15475.6, 19829.9854, 53398.52, 54953.4, 54953.8, 54953.8.1, 54954.2, 54957.9, 63049.71, 65589.5, 65914.2, 65950, 66300.6.5, 66323, 67784, 67786, 67788, and 87202 of, and to repeal the heading of Chapter 17.45 (commencing with Section 7289) of Division 7 of Title 1 of, the Government Code, to amend Section 676 of the Harbors and Navigation Code, to amend Sections 1279.6, 1342.74, 1367.25, 1597.640, 8028.73, 17021.8, 17970.3, 38532, 38562, 38562.3, 38591.2, 40100.5.5, 41313, 44501, 44515, 44559.14, 50406.4, 50410, 53545.14, 104660, 104661, and 108980 of the Health and Safety Code, to amend Sections 937, 10123.1933, and 10123.196 of the Insurance Code, to amend Sections 923.1, 1401, and 2810.8 of the Labor Code, to amend Section 59 of the Military and Veterans Code, to amend Sections 136.1, 636.6, 1170, 2780.6, 11105.04, and 13667 of the Penal Code, to amend Sections 4291.5, 4584.1, 4584.2, 5006.1, 5598, 5797.4, 21080.28.5, 21080.43, 21080.44, 25354, 25545, 25545.16, 25545.19, 30166, 30168, 30600.5, and 42652.5 of the Public Resources Code, to amend Sections 748.5, 850, 3299.2, 3310, 8501, and 180305 of, to amend the heading of Chapter 10 (commencing with Section 8500) of Division 4.1 of, and to repeal the heading of Article 7 of Chapter 3 of Division 1.5 of, the Public Utilities Code, to amend Sections 17053.40, 19002, and 23640 of the Revenue and Taxation Code, to amend Sections 21201 and 21450.5 of the Vehicle Code, to amend Sections 351, 50976, 60385, 60414, 74467, and 74850 of the Water Code, to amend Sections 309, 827, 9630, 10213.5, 11330.6, 13300.5, 14005.62, 14005.27, 14105.47, 14132.968, 16000.1, 16121.5, and 18900 of, and to repeal Section 12306.16 of, the Welfare and Institutions Code, and to amend Section 3 of Chapter 578 of the Statutes of 2025, relating to maintenance of the codes.<br />\n<br />\n2026/04/09 Read second time. Ordered to consent calendar."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA SB1433",
-    "link": "https://legiscan.com/CA/bill/SB1433/2025?utm_campaign=rss&guid=7f9TYvHWWUh5Zc0DWphpgz",
-    "published": "2026-04-09T04:00:00Z",
-    "summary": "An act to amend Sections 733, 2242.2, 2553.5, 3046.1, 4073.5, 4602, 4610, 4826.5, 4858, 6126.7, 16608, and 17810 of the Business and Professions Code, to amend Sections 714.6, 798.14, 798.74.4, 1714.27, 3273.29, 4752, and 8811 of the Civil Code, to amend Sections 697.680 and 1094.9 of the Code of Civil Procedure, to amend Sections 234.7, 35221, 38134, 44043.5, 46392, 49001, 51140, 69436, 70022, 70034, and 88821 of the Education Code, to amend Sections 6915, 12304, and 12309 of the Elections Code, to amend Section 5654 of the Fish and Game Code, to amend Section 21283 of the Food and Agricultural Code, to amend Sections 1031.5, 6215, 6588.7, 8010, 8557, 10233, 10240, 11041, 11123.2, 12100.33, 12100.162, 12910, 12960, 12965, 15475.6, 19829.9854, 53398.52, 54953.4, 54953.8, 54953.8.1, 54954.2, 54957.9, 63049.71, 65589.5, 65914.2, 65950, 66300.6.5, 66323, 67784, 67786, 67788, and 87202 of, and to repeal the heading of Chapter 17.45 (commencing with Section 7289) of Division 7 of Title 1 of, the Government Code, to amend Section 676 of the Harbors and Navigation Code, to amend Sections 1279.6, 1342.74, 1367.25, 1597.640, 8028.73, 17021.8, 17970.3, 38532, 38562, 38562.3, 38591.2, 40100.5.5, 41313, 44501, 44515, 44559.14, 50406.4, 50410, 53545.14, 104660, 104661, and 108980 of the Health and Safety Code, to amend Sections 937, 10123.1933, and 10123.196 of the Insurance Code, to amend Sections 923.1, 1401, and 2810.8 of the Labor Code, to amend Section 59 of the Military and Veterans Code, to amend Sections 136.1, 636.6, 1170, 2780.6, 11105.04, and 13667 of the Penal Code, to amend Sections 4291.5, 4584.1, 4584.2, 5006.1, 5598, 5797.4, 21080.28.5, 21080.43, 21080.44, 25354, 25545, 25545.16, 25545.19, 30166, 30168, 30600.5, and 42652.5 of the Public Resources Code, to amend Sections 748.5, 850, 3299.2, 3310, 8501, and 180305 of, to amend the heading of Chapter 10 (commencing with Section 8500) of Division 4.1 of, and to repeal the heading of Article 7 of Chapter 3 of Division 1.5 of, the Public Utilities Code, to amend Sections 17053.40, 19002, and 23640 of the Revenue and Taxation Code, to amend Sections 21201 and 21450.5 of the Vehicle Code, to amend Sections 351, 50976, 60385, 60414, 74467, and 74850 of the Water Code, to amend Sections 309, 827, 9630, 10213.5, 11330.6, 13300.5, 14005.62, 14005.27, 14105.47, 14132.968, 16000.1, 16121.5, and 18900 of, and to repeal Section 12306.16 of, the Welfare and Institutions Code, and to amend Section 3 of Chapter 578 of the Statutes of 2025, relating to maintenance of the codes.<br />\n<br />\n2026/04/09 Read second time. Ordered to consent calendar."
   },
   {
     "source": "The Official United States Marine Corps Public Website News",
@@ -621,6 +614,13 @@
     "link": "https://www.theauditoronline.com/live-webinar-on-ai-for-audits-and-certification/",
     "published": "2026-03-23T21:21:09Z",
     "summary": "<p>Exemplar Global and Intact are very pleased to announce a live webinar titled, “Intact AI: The Productivity Workspace for Audits and Certification.” The event will occur on Tuesday, March 31, at 2 p.m. U.S. Eastern time. Register here. In this event, you will be introduced to a unique AI productivity workspace for use across the [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/live-webinar-on-ai-for-audits-and-certification/\">Live Webinar on AI for Audits and Certification</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+    "title": "CA AB2496",
+    "link": "https://legiscan.com/CA/bill/AB2496/2025?utm_campaign=rss&guid=7l85qGJhrOScnUQTIKB5kM",
+    "published": "2026-03-23T04:00:00Z",
+    "summary": "An act to amend Sections 1240, 14501, 32286, 33352, 41020, 41409, 44258.9, 47605, 47605.6, 47606.5, 51101.1, 52062, 52064.1, 52068, 56366, 60800, and 60811.8 of, to repeal Sections 33126.1, 33126.15, 33126.2, 35256.1, 35258, and 41409.3 of, and to repeal and add Sections 33126 and 35256 of, the Education Code, relating to school accountability.<br />\n<br />\n2026/03/23 Re-referred to Com. on ED."
   },
   {
     "source": "The Auditor",
