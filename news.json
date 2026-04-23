@@ -1,24 +1,24 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-04-22T23:01:29Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-04-22T23:01:24Z",
+    "published": "2026-04-23T07:18:58Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-04-22T23:00:37Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-04-23T07:18:57Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "CalMatters",
+    "title": "First TV debate in race for governor mostly bypassed California’s serious issues",
+    "link": "https://calmatters.org/commentary/2026/04/tv-debate-california-governor-race/",
+    "published": "2026-04-23T05:10:00Z",
+    "summary": "<figure><img alt=\"Candidates stand at podiums on stage during a televised debate titled “The Race for California Governor,” while moderators sit at a desk to the side and an audience watches from the theater seating.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/03/020326-Governor-Debate-AP-CM-01-1.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>None of the six candidates on TV presented a break-out, compelling case that he or she will help California confront its existential issues."
   },
   {
     "source": "California Globe",
@@ -105,6 +105,41 @@
     "summary": "<p>These are the branches they’ll be going to. </p>\n<p>The post <a href=\"https://taskandpurpose.com/news/military-budget-additional-forces/\">The US military wants to add 44,500 additional troops next year</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Myth Busting Genetic Research with MVP: MVP Surveys",
+    "link": "https://www.youtube.com/watch?v=7G4snpMy1nQ",
+    "published": "2026-04-22T17:04:10Z",
+    "summary": "Fact: Survey information is foundational to all research at VA's Million Veteran Program (MVP). MVP combines this with Veterans' health records and blood sample to help researchers understand connections between genes and health, which can lead to discoveries that can improve care for Veterans. Learn more and join today at https://www.mvp.va.gov or call 866-441-6075."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Myth Busting Genetic Research with MVP: MVP Surveys",
+    "link": "https://www.youtube.com/shorts/EZDJbc31n0A",
+    "published": "2026-04-22T17:02:28Z",
+    "summary": "Fact: Survey information is foundational to all research at VA's Million Veteran Program (MVP). MVP combines this with Veterans' health records and blood sample to help researchers understand connections between genes and health, which can lead to discoveries that can improve care for Veterans. Learn more and join today at https://www.mvp.va.gov or call 866-441-6075."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Myth Busting Genetic Research with MVP: MVP is For Everyone",
+    "link": "https://www.youtube.com/watch?v=8Kb6A0CNaTU",
+    "published": "2026-04-22T17:00:12Z",
+    "summary": "Fact: VA’s Million Veteran Program (MVP), a genetic and health research initiative, is for all Veterans who served in the United States military. No matter your age, race, ethnicity, or service branch, you can join MVP. Learn more and join today at https://www.mvp.va.gov or call 866-441-6075."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Myth Busting Genetic Research with MVP: MVP is For Everyone",
+    "link": "https://www.youtube.com/shorts/t12PPk-09tY",
+    "published": "2026-04-22T16:58:17Z",
+    "summary": "Fact: VA’s Million Veteran Program (MVP), a genetic and health research initiative, is for all Veterans who served in the United States military. No matter your age, race, ethnicity, or service branch, you can join MVP. Learn more and join today at https://www.mvp.va.gov or call 866-441-6075."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Myth Busting Genetic Research with MVP: How MVP Uses Veteran Data",
+    "link": "https://www.youtube.com/watch?v=4HlJ9_0AKdw",
+    "published": "2026-04-22T16:53:57Z",
+    "summary": "Fact: Protecting the confidentiality, privacy, and security of research participants is a top priority for VA’s Million Veteran Program (MVP). MVP removes identifying details such as names, dates of birth, and SSNs; and uses advanced technology to secure enrolled Veterans’ information. Learn more and join today at https://www.mvp.va.gov or call 866-441-6075."
+  },
+  {
     "source": "CalMatters",
     "title": "New bill would stop DMV from making millions off auctioned cars without telling the owners",
     "link": "https://calmatters.org/investigation/2026/04/dmv-lien-sale-bill/",
@@ -154,11 +189,46 @@
     "summary": "<figure><img alt=\"A silhouetted person uses a walker while moving along a paved path beside a tall chain-link fence topped with razor wire. The low sun creates strong glare and long shadows across a grassy yard and institutional buildings in the background, suggesting a secured facility.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/042026-Elderly-Inmate-GETTY-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The potential release of two men who were convicted of molesting children in the Sacramento region has California lawmakers racing to revise elderly parole rules."
   },
   {
-    "source": "CalMatters",
-    "title": "A plan to cut a California tax is going to voters. Why LA’s ‘mansion tax’ is at the center of it",
-    "link": "https://calmatters.org/housing/2026/04/proposition-realty-mansion-tax-jarvis/",
-    "published": "2026-04-22T12:00:00Z",
-    "summary": "<figure><img alt=\"The Secretary of State building in Sacramento on Nov. 7, 2022. Photo by Miguel Gutierrez Jr., CalMatters\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2024/06/110722-Secretary-of-State-MG-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>A measure to roll back two kinds of taxes is slated to go before voters in November. The measure would affect cities and taxpayers across the state, but Los Angeles and its controversial “mansion tax” is the prime target."
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2478",
+    "link": "https://legiscan.com/CA/bill/AB2478/2025?utm_campaign=rss&guid=2JP7m5wkZPOzL9TLgDQToE",
+    "published": "2026-04-22T04:00:00Z",
+    "summary": "An act to amend Sections 49069.3, 49076, 56055, and 56155.5 of the Education Code, to amend Sections 6552, 8609, 8704.5, 8708, 9201, and 9203.1 of the Family Code, to amend Sections 7930.165, 7930.190, and 30029.7 of the Government Code, to amend Sections 1501.1, 1502, 1505, 1506, 1506.1, 1506.5, 1506.9, 1507.25, 1517, 1517.2, 1517.3, 1520, 1520.3, 1522, 1522.08, 1522.1, 1522.4, 1522.44, 1523.1, 1524, 1524.01, 1527, 1527.1, 1527.2, 1527.4, 1527.5, 1530.5, 1530.7, 1536, 1536.2, 1538, 1558, 1559.110, 1568.26, and 115725 of, and to repeal Sections 1506.6, 1506.7, 1506.8, and 1517.1 of, the Health and Safety Code, to amend Section 676.7 of the Insurance Code, to amend Sections 11105.2, 11165.7, 11167.5, 11170 of the Penal Code, to amend Sections 1541 and 1543 of the Probate Code, and to amend Sections 224.1, 291, 293, 294, 295, 309, 319, 361, 361.2, 361.4, 361.45, 362.04, 366.1, 366.3, 366.31, 628, 706.5, 706.6, 727, 727.05, 727.12, 727.4, 827, 4684, 10553.12, 10952.5, 11362, 11363, 11386, 11391, 11400, 11402, 11461, 11461.3, 11461.36, 11461.6, 11462, 11462.01, 11463, 16003.5, 16119, 16161, 16501.01, 16501.02, 16501.1, 16507.5, 16514, 16519, 16519.3, 16519.5, 16519.501, 16519.502, 16519.51, 16519.52, 16519.53, 16519.54, 16519.55, 16519.555, 16519.57, 16519.6, 16521.6, 16563, 16565, 17710, 17730, 17731, 17736, and 18250 of, and to amend the heading of Article 2 (commencing with Section 16519.3) of Chapter 5 of Part 4 of Division 9 of, and to add Sections 16519.605 and 16519.615 to, and to repeal and add Section 16519.4 of, the Welfare and Institutions Code, relating to foster care.<br />\n<br />\n2026/04/22 From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 12. Noes 0.) (April 21). Re-referred to Com. on APPR."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB1940",
+    "link": "https://legiscan.com/CA/bill/AB1940/2025?utm_campaign=rss&guid=6SltmN4on7hJ4nzCVm1Q7c",
+    "published": "2026-04-22T04:00:00Z",
+    "summary": "An act to amend Sections 12926 and 12950 of, and to add Section 8423 to, the Government Code, relating to civil rights.<br />\n<br />\n2026/04/22 From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 9. Noes 3.) (April 21)."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SB1354",
+    "link": "https://legiscan.com/CA/bill/SB1354/2025?utm_campaign=rss&guid=7bzYLVeygcFosQfxsHxVj",
+    "published": "2026-04-22T04:00:00Z",
+    "summary": "An act to add Part 3 (commencing with Section 570) to Division 2 of the Military and Veterans Code, relating to the military.<br />\n<br />\n2026/04/22 From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 5. Noes 1.) (April 21)."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2017",
+    "link": "https://legiscan.com/CA/bill/AB2017/2025?utm_campaign=rss&guid=5tV3DpdFwd6BGLFH6DZTIT",
+    "published": "2026-04-22T04:00:00Z",
+    "summary": "An act to amend Section 135 of the Code of Civil Procedure, to amend Sections 37220.7, 45203, 48205, 79020, and 88203 of the Education Code, and to amend Sections 6700, 19853, and 19853.1 of the Government Code, relating to state holidays.<br />\n<br />\n2026/04/22 From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (April 22). Re-referred to Com. on APPR."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SB888",
+    "link": "https://legiscan.com/CA/bill/SB888/2025?utm_campaign=rss&guid=3sZWN12s5zekVrxybGh8U",
+    "published": "2026-04-22T04:00:00Z",
+    "summary": "An act to amend, repeal, and add Section 205.5 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/04/22 Set for hearing April 27."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "title": "CA SJR14",
+    "link": "https://legiscan.com/CA/bill/SJR14/2025?utm_campaign=rss&guid=5usOCVtJ3NsuF6cNBjBYcc",
+    "published": "2026-04-22T04:00:00Z",
+    "summary": "Relative to military and veterans.<br />\n<br />\n2026/04/22 Introduced. Referred to Com. on RLS."
   },
   {
     "source": "The Liberal OC",
@@ -203,41 +273,6 @@
     "summary": "<p>With so many candidates running for governor, it’s hard to keep up. We’re here to help:&#160;Sign up for our 2026 election newsletter&#160;to get the latest on the candidates. Former state Controller Betty Yee dropped out of the governor’s race on Monday, saying she couldn’t see a path to get donors and additional support from undecided [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/04/21/lagging-in-polls-and-fundraising-betty-yee-drops-out-of-california-governors-race/\">Read More and Comment: Lagging in polls and fundraising, Betty Yee drops out of California governor’s race</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/04/21/lagging-in-polls-and-fundraising-betty-yee-drops-out-of-california-governors-race/\">Lagging in polls and fundraising, Betty Yee drops out of California governor’s race</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB1842",
-    "link": "https://legiscan.com/CA/bill/AB1842/2025?utm_campaign=rss&guid=Y1XHHyzFl8DM0PfZ0TDVC",
-    "published": "2026-04-21T04:00:00Z",
-    "summary": "An act to add Title 19.2 (commencing with Section 3273.31) to Part 4 of Division 3 of the Civil Code, relating to emergency relief.<br />\n<br />\n2026/04/21 From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 0.) (April 20). Re-referred to Com. on JUD."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB1201",
-    "link": "https://legiscan.com/CA/bill/SB1201/2025?utm_campaign=rss&guid=33DfNT94l715tdOZOWeEym",
-    "published": "2026-04-21T04:00:00Z",
-    "summary": "An act to amend Section 18926.6 of, and to add Section 18923.5 to, the Welfare and Institutions Code, relating to public social services.<br />\n<br />\n2026/04/21 From committee: Do pass and re-refer to Com. on APPR. (Ayes 3. Noes 0.) (April 20). Re-referred to Com. on APPR."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SCR121",
-    "link": "https://legiscan.com/CA/bill/SCR121/2025?utm_campaign=rss&guid=3mUldu9qHpty2PgIGXLjN2",
-    "published": "2026-04-21T04:00:00Z",
-    "summary": "Relative to the Purple Heart Community.<br />\n<br />\n2026/04/21 Read second time. Ordered to consent calendar."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB1034",
-    "link": "https://legiscan.com/CA/bill/SB1034/2025?utm_campaign=rss&guid=3BoCSvE8stl0sVBUeacuop",
-    "published": "2026-04-21T04:00:00Z",
-    "summary": "An act to amend Sections 295.7 and 5007 of the Vehicle Code, relating to vehicles.<br />\n<br />\n2026/04/21 From committee: Do pass and re-refer to Com. on APPR. (Ayes 4. Noes 0.) (April 20). Re-referred to Com. on APPR."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2433",
-    "link": "https://legiscan.com/CA/bill/AB2433/2025?utm_campaign=rss&guid=5M05MRAKkYSVpGd9N6tPOh",
-    "published": "2026-04-21T04:00:00Z",
-    "summary": "An act to amend Section 65915 of the Government Code, relating to housing.<br />\n<br />\n2026/04/21 From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 11. Noes 1.) (April 20)."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
     "title": "CA SB1407",
     "link": "https://legiscan.com/CA/bill/SB1407/2025?utm_campaign=rss&guid=3PUgBES8OBuZ9HNsDyPvQP",
@@ -257,13 +292,6 @@
     "link": "https://legiscan.com/CA/bill/AB2526/2025?utm_campaign=rss&guid=4gR2cLDZBf22wG9kPGyHs",
     "published": "2026-04-21T04:00:00Z",
     "summary": "An act to amend Section 56836.22 of the Education Code, relating to education finance.<br />\n<br />\n2026/04/21 Read second time and amended."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA SB892",
-    "link": "https://legiscan.com/CA/bill/SB892/2025?utm_campaign=rss&guid=4c5VGSpMgB6ZYseIJvqkdD",
-    "published": "2026-04-21T04:00:00Z",
-    "summary": "An act to amend, repeal, and add Section 66025.8 of the Education Code, relating to public postsecondary education.<br />\n<br />\n2026/04/21 From committee: Do pass and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 4. Noes 0.) (April 20). Re-referred to Com. on APPR."
   },
   {
     "source": "CVA News & Media",
@@ -323,10 +351,10 @@
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2590",
-    "link": "https://legiscan.com/CA/bill/AB2590/2025?utm_campaign=rss&guid=6EUUoQfalMyuRnlhXEwels",
+    "title": "CA SB1354",
+    "link": "https://legiscan.com/CA/bill/SB1354/2025?utm_campaign=rss&guid=6JWJ3XJ1GvU2BflXa9M3gN",
     "published": "2026-04-20T04:00:00Z",
-    "summary": "An act to amend Section 10230.2 of, and to add Division 9.5 (commencing with Section 9975) to, the Public Resources Code, relating to public resources, and making an appropriation therefor.<br />\n<br />\n2026/04/20 Re-referred to Com. on APPR."
+    "summary": "An act to add Part 3 (commencing with Section 570) to Division 2 of the Military and Veterans Code, relating to the military.<br />\n<br />\n2026/04/20 From committee: Do pass and re-refer to Com. on PUB. S. (Ayes 3. Noes 1.) (April 20). Re-referred to Com. on PUB. S."
   },
   {
     "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
@@ -337,17 +365,17 @@
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA AB2043",
-    "link": "https://legiscan.com/CA/bill/AB2043/2025?utm_campaign=rss&guid=3wnnA7RbTTLMqGePCIzqVF",
-    "published": "2026-04-20T04:00:00Z",
-    "summary": "An act to add Article 4.2 (commencing with Section 8577) to Chapter 7 of Division 1 of Title 2 of the Government Code, relating to state government, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/04/20 From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 15. Noes 0.) (April 16). Re-referred to Com. on APPR."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
     "title": "CA SB1354",
     "link": "https://legiscan.com/CA/bill/SB1354/2025?utm_campaign=rss&guid=6JWJ3XJ1GvU2BflXa9M3gN",
     "published": "2026-04-20T04:00:00Z",
     "summary": "An act to add Part 3 (commencing with Section 570) to Division 2 of the Military and Veterans Code, relating to the military.<br />\n<br />\n2026/04/20 From committee: Do pass and re-refer to Com. on PUB. S. (Ayes 3. Noes 1.) (April 20). Re-referred to Com. on PUB. S."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+    "title": "CA AB2043",
+    "link": "https://legiscan.com/CA/bill/AB2043/2025?utm_campaign=rss&guid=3wnnA7RbTTLMqGePCIzqVF",
+    "published": "2026-04-20T04:00:00Z",
+    "summary": "An act to add Article 4.2 (commencing with Section 8577) to Chapter 7 of Division 1 of Title 2 of the Government Code, relating to state government, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/04/20 From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 15. Noes 0.) (April 16). Re-referred to Com. on APPR."
   },
   {
     "source": "CVA News & Media",
@@ -404,6 +432,13 @@
     "link": "https://legiscan.com/CA/bill/AB2404/2025?utm_campaign=rss&guid=jK9h2eDRhL1Ob4Fpqjz5L",
     "published": "2026-04-15T04:00:00Z",
     "summary": "An act to amend Section 51226.1 of, and to add Section 33000.1 to, the Education Code, to add Sections 1347.16 and 125290.31 to the Health and Safety Code, and to add Section 66.3 to the Military and Veterans Code, relating to state government.<br />\n<br />\n2026/04/15 In committee: Set, second hearing. Failed passage."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB2054",
+    "link": "https://legiscan.com/CA/bill/AB2054/2025?utm_campaign=rss&guid=5PCqpF3lj3pNaOje4dNIe1",
+    "published": "2026-04-15T04:00:00Z",
+    "summary": "An act to amend Section 3302.1 of the Unemployment Insurance Code, relating to unemployment insurance, and making an appropriation therefor.<br />\n<br />\n2026/04/15 From committee: Do pass and re-refer to Com. on INS. (Ayes 8. Noes 0.) (April 14). Re-referred to Com. on INS."
   },
   {
     "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
@@ -663,40 +698,5 @@
     "link": "https://americanmilitarynews.com/2026/02/video-shots-fired-as-border-patrol-aids-state-troopers-in-texas-pursuit/",
     "published": "2026-02-03T14:04:44Z",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://americanmilitarynews.com/wp-content/uploads/Border-Patrol-768x512.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />A video shows a Texas Department of Public Safety trooper firing shots at a moving vehicle after it allegedly rammed into a law enforcement vehicle during a &#8220;pursuit&#8221; that was &#8220;initiated&#8221; by the Texas Department of Public Safety and aided by U.S. Border Patrol agents on Saturday. The video, which was shared on X, formerly &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/video-shots-fired-as-border-patrol-aids-state-troopers-in-texas-pursuit/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
-  },
-  {
-    "source": "American Military News",
-    "title": "Up to 5 sexually violent predators may be released in neighborhood with 7,400 kids",
-    "link": "https://americanmilitarynews.com/2026/02/up-to-5-sexually-violent-predators-may-be-released-in-neighborhood-with-7400-kids/",
-    "published": "2026-02-03T14:04:40Z",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://americanmilitarynews.com/wp-content/uploads/handcuffs-768x512.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />Democrat policies in Washington state are facing criticism as a less restrictive alternative housing site has been proposed for housing up to five sexually violent predators in Kennewick, which has large population of children. In a press release last week, Republican lawmakers in Washington warned that a home in Kennewick is currently being considered for &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/up-to-5-sexually-violent-predators-may-be-released-in-neighborhood-with-7400-kids/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
-  },
-  {
-    "source": "American Military News",
-    "title": "Democrat delegate exposed for connections to Epstein: Report",
-    "link": "https://americanmilitarynews.com/2026/02/democrat-delegate-exposed-for-connections-to-epstein-report/",
-    "published": "2026-02-03T14:04:32Z",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"224\" src=\"https://americanmilitarynews.com/wp-content/uploads/Stacey-Plaskett.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"200\" />New documents released by the U.S. Justice Department allegedly expose Virgin Islands Delegate Stacey Plaskett, a Democrat, for being linked to Jeffrey Epstein, a convicted child sex offender and former financier who died in 2019. In a Friday press release, the Justice Department announced the public release of more than 3 million pages related to &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/democrat-delegate-exposed-for-connections-to-epstein-report/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
-  },
-  {
-    "source": "LegiScan Search Feed - CalVet Search",
-    "title": "CA SB604",
-    "link": "https://legiscan.com/CA/bill/SB604/2025?utm_campaign=rss&guid=49YOH7PRN3Cv2cgzrjvQgF",
-    "published": "2026-02-02T05:00:00Z",
-    "summary": "An act to amend Section 987.53 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/02/02 Returned to Secretary of Senate pursuant to Joint Rule 56."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
-    "title": "CA SB879",
-    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=6QM9XKjeiqWgQIf9bsXBKW",
-    "published": "2026-01-12T05:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/12 Read first time."
-  },
-  {
-    "source": "California State Commanders Veterans Council",
-    "title": "Welcoming the Montford Point Marine Association California",
-    "link": "https://calcommanders.org/welcoming-the-montford-point-marine-association-los-angeles-chapter-8/",
-    "published": "2025-10-21T18:04:39Z",
-    "summary": "The California State Commanders Veterans Council is proud to welcome the Montford Point Marine Association California as our newest member. Founded in 1965, the Montford Point Marine Association is dedicated to honoring and preserving the legacy of the first African American Marines who trained at Montford Point, Camp Lejeune, North Carolina, between 1942 and 1949. Despite [&#8230;]"
   }
 ]
