@@ -1,5 +1,19 @@
 [
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-04-30T05:18:34Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
+    "published": "2026-04-30T05:18:29Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
     "source": "CalMatters",
     "title": "Oponentes atacan a Steyer y Becerra durante debate de candidatos a la gobernación de California",
     "link": "https://calmatters.org/calmatters-en-espanol/2026/04/debate-de-candidatos-gobernacion-de-california/",
@@ -33,20 +47,6 @@
     "link": "https://calmatters.org/politics/2026/04/voting-rights-supreme-court-ruling/",
     "published": "2026-04-29T23:51:13Z",
     "summary": "<figure><img alt=\"A voting booth with an American flag graphic and the word “Vote” stands on a table in a polling place, while a person in the background marks a ballot at another station.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/030524-Fresno-Primary-Election-LV_CM_05.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The U.S. Supreme Court has narrowed the Voting Rights Act over the past decade. The law in California was primarily used to help Latinos gain political representation."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-04-29T23:17:54Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-04-29T23:00:54Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "California Globe",
@@ -140,6 +140,104 @@
     "summary": "<figure><img alt=\"A tent covered with plastic sits beside a small fire burning on the ground at a makeshift campsite at night, with scattered belongings and fencing in the background.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/020525-Homeless-Encampment-Sweep-Fresno-LV_CM-19.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Being homelessness meant taking on damage night after night. Having a roof over my head means I could begin to heal. Now it’s all at risk."
   },
   {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2489",
+    "link": "https://legiscan.com/CA/bill/AB2489/2025?utm_campaign=rss&guid=6KuoWEagnUfQBwjMuCAbWZ",
+    "published": "2026-04-29T04:00:00Z",
+    "summary": "An act to amend Section 11392 of, and to add and repeal Article 1.5 (commencing with Section 11214) of Chapter 5 of Division 10 of, the Health and Safety Code, relating to controlled substances.<br />\n<br />\n2026/04/29 In committee: Set, first hearing. Referred to APPR. suspense file."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SB1383",
+    "link": "https://legiscan.com/CA/bill/SB1383/2025?utm_campaign=rss&guid=5qxOJmvufsgMLtitVRVRB5",
+    "published": "2026-04-29T04:00:00Z",
+    "summary": "An act to amend Section 65915 of the Government Code, relating to housing.<br />\n<br />\n2026/04/29 From committee: Do pass. (Ayes 5. Noes 1.) (April 29)."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB1883",
+    "link": "https://legiscan.com/CA/bill/AB1883/2025?utm_campaign=rss&guid=1wkRa7WPapHc6GTjKQYyx8",
+    "published": "2026-04-29T04:00:00Z",
+    "summary": "An act to add Part 5.8 (commencing with Section 1580) to Division 2 of the Labor Code, relating to employment.<br />\n<br />\n2026/04/29 In committee: Set, first hearing. Referred to APPR. suspense file."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB1939",
+    "link": "https://legiscan.com/CA/bill/AB1939/2025?utm_campaign=rss&guid=7GTCaEU03Ngq9BzNAbZXGE",
+    "published": "2026-04-29T04:00:00Z",
+    "summary": "An act to amend Sections 6501, 6534, 6561, 6584, and 6592 of, and to add Article 7 (commencing with Section 6593) to Chapter 6 of Division 3 of, the Business and Professions Code, to amend Section 13401 of the Corporations Code, and to amend Sections 60.1, 1510, 1821, 2250, 2614.7, and 2643.1 of, to add Part 9.5 (commencing with Section 310) to Division 2 of, and to repeal Section 2340 of, the Probate Code, relating to professional fiduciaries.<br />\n<br />\n2026/04/29 In committee: Set, first hearing. Referred to APPR. suspense file."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB1956",
+    "link": "https://legiscan.com/CA/bill/AB1956/2025?utm_campaign=rss&guid=67ZmJYt5lprybRgiwAsqyl",
+    "published": "2026-04-29T04:00:00Z",
+    "summary": "An act to amend Section 131300 of the Health and Safety Code, relating to public health.<br />\n<br />\n2026/04/29 From committee: Do pass. To Consent Calendar. (Ayes 14. Noes 0.) (April 29)."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB2370",
+    "link": "https://legiscan.com/CA/bill/AB2370/2025?utm_campaign=rss&guid=37RbI5CGTKmacioyKWglGZ",
+    "published": "2026-04-29T04:00:00Z",
+    "summary": "An act to amend Section 15277 of the Government Code, relating to emergency services.<br />\n<br />\n2026/04/29 In committee: Set, first hearing. Referred to APPR. suspense file."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA SB1354",
+    "link": "https://legiscan.com/CA/bill/SB1354/2025?utm_campaign=rss&guid=70TcQcSczNekJV6CAYl9ZZ",
+    "published": "2026-04-29T04:00:00Z",
+    "summary": "An act to add Part 3 (commencing with Section 570) to Division 2 of the Military and Veterans Code, relating to the military.<br />\n<br />\n2026/04/29 Read second time. Ordered to third reading."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB2467",
+    "link": "https://legiscan.com/CA/bill/AB2467/2025?utm_campaign=rss&guid=1m8jGm6Y5bFwGVMKiCzwCB",
+    "published": "2026-04-29T04:00:00Z",
+    "summary": "An act to amend Section 48204.3 of the Education Code, relating to pupil enrollment, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/04/29 From committee: Do pass. To Consent Calendar. (Ayes 14. Noes 0.) (April 29)."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB1920",
+    "link": "https://legiscan.com/CA/bill/AB1920/2025?utm_campaign=rss&guid=6riKjCCN59ASzHsW1XqiUI",
+    "published": "2026-04-29T04:00:00Z",
+    "summary": "An act to amend Section 76396.3 of the Education Code, relating to community colleges.<br />\n<br />\n2026/04/29 From committee: Do pass. (Ayes 14. Noes 0.) (April 29)."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB1702",
+    "link": "https://legiscan.com/CA/bill/AB1702/2025?utm_campaign=rss&guid=6eovLnPjqS2vDCTiinj192",
+    "published": "2026-04-29T04:00:00Z",
+    "summary": "An act to amend Section 5011.5 of, and to add Section 5011.8 to, the Public Resources Code, relating to parks.<br />\n<br />\n2026/04/29 In committee: Set, first hearing. Referred to APPR. suspense file."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA AB1939",
+    "link": "https://legiscan.com/CA/bill/AB1939/2025?utm_campaign=rss&guid=7GTCaEU03Ngq9BzNAbZXGE",
+    "published": "2026-04-29T04:00:00Z",
+    "summary": "An act to amend Sections 6501, 6534, 6561, 6584, and 6592 of, and to add Article 7 (commencing with Section 6593) to Chapter 6 of Division 3 of, the Business and Professions Code, to amend Section 13401 of the Corporations Code, and to amend Sections 60.1, 1510, 1821, 2250, 2614.7, and 2643.1 of, to add Part 9.5 (commencing with Section 310) to Division 2 of, and to repeal Section 2340 of, the Probate Code, relating to professional fiduciaries.<br />\n<br />\n2026/04/29 In committee: Set, first hearing. Referred to APPR. suspense file."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "title": "CA SJR14",
+    "link": "https://legiscan.com/CA/bill/SJR14/2025?utm_campaign=rss&guid=4IlCWYMV0lpEz8aPe3RJWs",
+    "published": "2026-04-29T04:00:00Z",
+    "summary": "Relative to military and veterans.<br />\n<br />\n2026/04/29 Re-referred to Com. on M. & V.A."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+    "title": "CA AB2473",
+    "link": "https://legiscan.com/CA/bill/AB2473/2025?utm_campaign=rss&guid=7CsTwp5GA9KHRsB3sqQSyt",
+    "published": "2026-04-29T04:00:00Z",
+    "summary": "An act to amend Section 8586.7 of the Government Code, relating to wildfires.<br />\n<br />\n2026/04/29 In committee: Set, first hearing. Referred to APPR. suspense file."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+    "title": "CA SB1354",
+    "link": "https://legiscan.com/CA/bill/SB1354/2025?utm_campaign=rss&guid=70TcQcSczNekJV6CAYl9ZZ",
+    "published": "2026-04-29T04:00:00Z",
+    "summary": "An act to add Part 3 (commencing with Section 570) to Division 2 of the Military and Veterans Code, relating to the military.<br />\n<br />\n2026/04/29 Read second time. Ordered to third reading."
+  },
+  {
     "source": "The Liberal OC",
     "title": "California’s Lieutenant Governor Eleni Kounalakis Endorses Esther Kim-Varet for Congress in CA40",
     "link": "https://theliberaloc.com/2026/04/28/californias-lieutenant-governor-eleni-kounalakis-endorses-esther-kim-varet-for-congress-in-ca40/",
@@ -196,74 +294,18 @@
     "summary": "<p>After winning his first race for Congress in 1992, 34-year-old Xavier Becerra credited a wave of community supporters in Los Angeles, many Latino, for backing his upstart campaign, saying he hoped his win was proof that grassroots politics was more valuable than “heavy dollars.” More than 30 years later, Becerra, 68, is again an upstart [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/04/28/becerras-surge-in-california-governor-race-draws-fresh-attention-to-candidacy-long-government-record/\">Read More and Comment: Becerra’s surge in California governor race draws fresh attention to candidacy, long government record</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/04/28/becerras-surge-in-california-governor-race-draws-fresh-attention-to-candidacy-long-government-record/\">Becerra’s surge in California governor race draws fresh attention to candidacy, long government record</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB1620",
-    "link": "https://legiscan.com/CA/bill/AB1620/2025?utm_campaign=rss&guid=nXQKQBHWGhf6itWcDNFbP",
-    "published": "2026-04-28T04:00:00Z",
-    "summary": "An act to add and repeal Section 17226 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/04/28 From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (April 27)."
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Roasted Broccoli, Fennel and Chickpeas",
+    "link": "https://www.youtube.com/watch?v=k0EvvLSSNkA",
+    "published": "2026-04-28T13:51:22Z",
+    "summary": "Ready to turn your garden harvest into a family favorite? On today’s episode of Healthy Teaching Kitchen, Registered Dietitian Madison Ranew shows you how to transform fresh, homegrown veggies into a delicious dish everyone will love—kids and adults alike! Packed with protein and fiber, this recipe is sure to be a hit at your dinner table. Don't miss out!\n\nPrep: 10 minutes | Cook: 25 minutes | Total: 35 minutes\nYield: 6 servings | Serving Size: ~1 cup\n\nIngredients:\n1 cup nonfat plain Greek yogurt\n½ cup chopped fresh parsley\n½ jalapeno, membranes and seeds removed, minced\n2 tablespoons lemon juice (about ½ lemon)\nPinch ground black pepper\n3 tablespoons olive oil\n1 garlic clove, minced (about ½ teaspoon)\n1½ teaspoons ground coriander\n1 teaspoon ground cumin\n1 teaspoon paprika\n¼ teaspoon salt\n1 medium head broccoli, cut into florets (about\n3 cups)\n1 medium fennel bulb, cored and sliced about\n½-inch-thick\n1 (15-ounce) can no-salt-added chickpeas (garbanzo beans), drained and rinsed\n\nDirections:\n1. Preheat the oven to 400°F. Line a baking sheet with parchment paper. Set aside.\n2. In a medium mixing bowl, stir together the yogurt, parsley, jalapeño, lemon juice, and black pepper. Set aside.\n3. In a separate large mixing bowl, stir together the oil, garlic, coriander, cumin, paprika, and salt.\n4. Add the broccoli, fennel, and chickpeas. Toss to combine and coat with the oil-seasoning mixture\n5. Transfer the mixture to the prepared baking sheet, spreading it into a single layer.\n6. Roast for 12 minutes, then remove from the oven and stir the mixture on the baking sheet.\n7. Spread the mixture back out into a single layer, then place back in the oven.\n8. Continue cooking until browned and the vegetables are fork-tender, about 10-12 minutes.\n9. Transfer the roasted vegetable-chickpea mixture to the bowl with the yogurt mixture. Toss to combine.\n10. Serve warm.\n\nNutrition Facts Per Serving: Calories: 195 | Total Fat: 8.5 g | Saturated Fat: 1 g\nSodium: 155 mg | Total Carbohydrate: 21.5 g | Dietary Fiber: 6.5 g | Protein: 10 g\n\nFor more recipes, please visit https://www.nutrition.va.gov\n\n #GardenToTable #HomegrownGoodness #NutritiousAndDelicious"
   },
   {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB1354",
-    "link": "https://legiscan.com/CA/bill/SB1354/2025?utm_campaign=rss&guid=3VMdje90z8a9TyFLCnlymK",
-    "published": "2026-04-28T04:00:00Z",
-    "summary": "An act to add Part 3 (commencing with Section 570) to Division 2 of the Military and Veterans Code, relating to the military.<br />\n<br />\n2026/04/28 Ordered to second reading."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2022",
-    "link": "https://legiscan.com/CA/bill/AB2022/2025?utm_campaign=rss&guid=1yalEqaBvcN3SHC3S4zequ",
-    "published": "2026-04-28T04:00:00Z",
-    "summary": "An act to add and repeal Section 205.5.1 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/04/28 From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (April 27)."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SR106",
-    "link": "https://legiscan.com/CA/bill/SR106/2025?utm_campaign=rss&guid=53klDB5nPkRfksJ8eIOUs4",
-    "published": "2026-04-28T04:00:00Z",
-    "summary": "Relative to Black April Memorial Month.<br />\n<br />\n2026/04/28 Introduced. Referred to Com. on RLS."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB892",
-    "link": "https://legiscan.com/CA/bill/SB892/2025?utm_campaign=rss&guid=5RquAku3F0NhCXlE5rg7Jp",
-    "published": "2026-04-28T04:00:00Z",
-    "summary": "An act to amend, repeal, and add Section 66025.8 of the Education Code, relating to public postsecondary education.<br />\n<br />\n2026/04/28 Read second time. Ordered to consent calendar."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA SB1354",
-    "link": "https://legiscan.com/CA/bill/SB1354/2025?utm_campaign=rss&guid=3VMdje90z8a9TyFLCnlymK",
-    "published": "2026-04-28T04:00:00Z",
-    "summary": "An act to add Part 3 (commencing with Section 570) to Division 2 of the Military and Veterans Code, relating to the military.<br />\n<br />\n2026/04/28 Ordered to second reading."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA SB1167",
-    "link": "https://legiscan.com/CA/bill/SB1167/2025?utm_campaign=rss&guid=25zmapsO8xKSVTk3osC7KX",
-    "published": "2026-04-28T04:00:00Z",
-    "summary": "An act to amend Section 26300 of the Health and Safety Code, and to amend Sections 312.5, 405, 406, 426, 472, 672, 4020, 5030, 5031, 5032, 5033, 5034, 5035, 5036, 5037, 5038, 5039, 12500, 12509, 12509.5, 12804.9, 12814.6, 21113, 21201.3, 21203, 21207.5, 21209, 21712, 21960, 22651.08, 23135, 23330, 24015, 24951, 25650, 27800, 27802, 27803, 38012, 38366, 38505, and 38601 of, to amend the heading of Article 8.1 (commencing with Section 5030) of Chapter 1 of Division 3 of, to add Section 21065 to, to add Article 9 (commencing with Section 21310) to Chapter 1 of Division 11 of, and to add Article 7.5 (commencing with Section 27850) to Chapter 5 of Division 12 of, the Vehicle Code, relating to vehicles.<br />\n<br />\n2026/04/28 Set for hearing May 4."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA SB884",
-    "link": "https://legiscan.com/CA/bill/SB884/2025?utm_campaign=rss&guid=1knKyAmvThR6STwdKeAifN",
-    "published": "2026-04-28T04:00:00Z",
-    "summary": "An act to add and repeal Chapter 5 (commencing with Section 400) of Division 0.5 of the Elections Code, relating to elections, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/04/28 From committee with author's amendments. Read second time and amended. Re-referred to Com. on APPR."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA SB892",
-    "link": "https://legiscan.com/CA/bill/SB892/2025?utm_campaign=rss&guid=5RquAku3F0NhCXlE5rg7Jp",
-    "published": "2026-04-28T04:00:00Z",
-    "summary": "An act to amend, repeal, and add Section 66025.8 of the Education Code, relating to public postsecondary education.<br />\n<br />\n2026/04/28 Read second time. Ordered to consent calendar."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2496",
-    "link": "https://legiscan.com/CA/bill/AB2496/2025?utm_campaign=rss&guid=39wIJda1tDQpnoAWfRdFfM",
-    "published": "2026-04-28T04:00:00Z",
-    "summary": "An act to amend Sections 47606.5, 52062, and 52068 of, and to add Section 33126.7 to, the Education Code, relating to school accountability.<br />\n<br />\n2026/04/28 Re-referred to Com. on APPR."
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Curried Tofu and Vegetable Skillet",
+    "link": "https://www.youtube.com/watch?v=l2pflL__Zlk",
+    "published": "2026-04-28T13:48:07Z",
+    "summary": "Looking for a quick, flavorful meal that’s healthy and anything but boring? Don’t miss today’s episode of Healthy Teaching Kitchen! Registered Dietitian Madison Ranew is serving up a mouthwatering, plant-forward dish that’s packed with nutrients and ready in just 35 minutes. Bring warmth and excitement to your dinner table tonight—you’re going to love this recipe!\n\nPrep: 30 minutes | Cook: 35 minutes | Total: 1 hour 5 minutes\nYield: 6 servings | Serving Size: ~1½ cups\n\nIngredients:\n1 tablespoon olive oil\n1 medium (8- to 10-ounce) potato, cut into ¼- to ½-inch pieces (about 2 cups)\n2 medium bell peppers, diced (about 2 cups)\n1 large onion, diced (about 2 cups)\n1 medium carrot, diced (about ½ cup)\n3 cups bite-sized cauliflower florets\n3 tablespoons curry powder\n1 teaspoon ground cumin\n¼ teaspoon salt\n1 cup water\n1 (15-ounce) can crushed tomatoes\n1 cup uncooked instant (10-minute) brown rice\n1 (14-to 16-ounce) block firm or extra-firm tofu, cut into ½-inch cubes\n¾ cup canned coconut milk (half of a 13.5-ounce can)\n¼ cup minced fresh cilantro\n\nDirections:\n1. Heat a large saucepan or stockpot over medium heat.\n2. Add the oil and heat until shimmering.\n3. Add the potato, bell peppers, onion, and carrot. Cook until the onion is softened, about 6-8 minutes, stirring often.\n4. Add the cauliflower, curry powder, cumin, and salt. Cook and stir until fragrant, about 1-2 minutes.\n5. Add the water, tomatoes, and rice. Bring to a boil over high heat, then reduce the heat to maintain a simmer.\n6. Cover the pan with a lid and cook until the rice and vegetables are tender, about 10-15 minutes.\n7. Add the tofu, coconut milk, and cilantro. Gently stir to combine.\n8. Continue cooking until warmed through, about 2-3 minutes.\n9. Serve warm.\n\nNutrition Facts Per Serving: Calories: 380 | Total Fat: 15.5 g | Saturated Fat: 7.5 g | Sodium: 275 mg | Total Carbohydrate: 50 g | Dietary Fiber: 9g | Protein: 15 g\n\nFor more recipes, please visit https://www.nutrition.va.gov\n\n #Plantbased, #Quickmeals #NutrientDense"
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
@@ -271,13 +313,6 @@
     "link": "https://legiscan.com/CA/bill/AB2496/2025?utm_campaign=rss&guid=39wIJda1tDQpnoAWfRdFfM",
     "published": "2026-04-28T04:00:00Z",
     "summary": "An act to amend Sections 47606.5, 52062, and 52068 of, and to add Section 33126.7 to, the Education Code, relating to school accountability.<br />\n<br />\n2026/04/28 Re-referred to Com. on APPR."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA SB1354",
-    "link": "https://legiscan.com/CA/bill/SB1354/2025?utm_campaign=rss&guid=3VMdje90z8a9TyFLCnlymK",
-    "published": "2026-04-28T04:00:00Z",
-    "summary": "An act to add Part 3 (commencing with Section 570) to Division 2 of the Military and Veterans Code, relating to the military.<br />\n<br />\n2026/04/28 Ordered to second reading."
   },
   {
     "source": "Legislative Analyst's Office: Recent Publications",
@@ -292,6 +327,20 @@
     "link": "https://www.ppic.org/publication/understanding-californias-labor-market/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-californias-labor-market",
     "published": "2026-04-27T19:34:39Z",
     "summary": "<p><img alt=\"photo - Construction Workers Installing Panels while Building a Manufactured House\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/04/construction-workers-installing-panels-while-building-a-manufactured-house.jpg\" width=\"2000\" /></p>California boasts a highly productive economy and a large workforce. But many Californians feel pessimistic about the economy and their place in it. This explainer takes a look at labor market trends and challenges, with the aim of helping state leaders and residents understand current conditions and move toward a prosperous future."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Baked Nachos",
+    "link": "https://www.youtube.com/watch?v=zYEN0sYNpvQ",
+    "published": "2026-04-27T18:03:22Z",
+    "summary": "This recipe is not only easy to make and requires minimal cooking, but it is also budget-friendly. \r \n\nPrep: 10 minutes | Cook: 15 minutes | Total: 25 minutes\nYield: 6 servings | Serving Size: ~2 cups without optional toppings\n\nIngredients:\n1 (10- to 12-ounce) bag corn tortilla chips\n1 cup shredded cheddar or cheddar cheese blend (e.g. Mexican style, cheddar jack)\n1 (15-ounce) can black beans, drained and rinsed\n1 large tomato, diced (about 1½ cups) |\n1 cup chopped or shredded crunchy lettuce (e.g. iceberg lettuce, lower section of romaine lettuce\nOptional toppings: Olives, plain Greek yogurt, jalapeños, salsa, onion, cilantro, lime juice\n\nDirections:\n1. Preheat the oven| to 350°F.\n2. Line a baking sheet with aluminum foil or parchment paper.\n3. Spread the tortilla chips into an even layer on the prepared baking sheet.\n4. Sprinkle the chips with the cheese followed by the beans and tomato.\n5. Bake until the cheese is melted, about 9-11 minutes.\n6. Sprinkle with the lettuce, along with any other toppings as desired.\n7. Serve right away.\n\nRecipe Notes:\nMake these nachos a meal by adding another cooked or canned protein, such as chicken or ground beef.\n\nNutrition Facts Per Serving: Calories: 420 | Total Fat: 18 g | Saturated Fat: 5 g\nSodium: 515 mg | Total Carbohydrate: 52 g | Dietary Fiber: 8g | Protein: 13 g\n\nFor more recipes, please visit https://www.nutrition.va.gov\n\n#budgetfriendly #healthynachos #easyrecipe"
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Northern AZ. VA National Day of Thanks 2026",
+    "link": "https://www.youtube.com/shorts/yUEM6o_nbF8",
+    "published": "2026-04-27T17:39:10Z",
+    "summary": "April 27th, carries special significance as it marks the National Day of Thanks, a day designated by the Department of Veterans Affairs to honor our Nation’s Veterans and the dedicated individuals who serve them with such compassion and care."
   },
   {
     "source": "The Liberal OC",
@@ -341,6 +390,13 @@
     "link": "https://www.theauditoronline.com/new-versions-of-iso-standards-are-here-or-will-be-soon/",
     "published": "2026-04-25T23:52:46Z",
     "summary": "<p>For auditors of ISO standards focused on management systems, 2026 will go down as a memorable, landmark year. Revised editions of the following three core standards have either been published or will be soon: ISO 14001:2026, “Environmental management systems—Requirements with guidance for use” was officially released on April 15. ISO 19011:2026, “Guidelines for auditing management [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/new-versions-of-iso-standards-are-here-or-will-be-soon/\">Updated ISO Standards in 2026</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Help for Homeless Veterans",
+    "link": "https://www.youtube.com/shorts/W8Id6Y16PBQ",
+    "published": "2026-04-25T12:00:54Z",
+    "summary": "No one who served in uniform should ever struggle to find a home.  If you know a Veteran who is homeless or at imminent risk of homelessness,  call the National Call Center for Homeless Veterans at 877-424-3838.  \n \nThis is a problem we can solve together. For more information on how you can help fight Veteran homelessness, visit VA.gov/homeless."
   },
   {
     "source": "The Liberal OC",
@@ -448,13 +504,6 @@
     "summary": "An act to amend Sections 49069.3, 49076, 56055, and 56155.5 of the Education Code, to amend Sections 6552, 8609, 8704.5, 8708, 9201, and 9203.1 of the Family Code, to amend Sections 7930.165, 7930.190, and 30029.7 of the Government Code, to amend Sections 1501.1, 1502, 1505, 1506, 1506.1, 1506.5, 1506.9, 1507.25, 1517, 1517.2, 1517.3, 1520, 1520.3, 1522, 1522.08, 1522.1, 1522.4, 1522.44, 1523.1, 1524, 1524.01, 1527, 1527.1, 1527.2, 1527.4, 1527.5, 1530.5, 1530.7, 1536, 1536.2, 1538, 1558, 1559.110, 1568.26, and 115725 of, and to repeal Sections 1506.6, 1506.7, 1506.8, and 1517.1 of, the Health and Safety Code, to amend Section 676.7 of the Insurance Code, to amend Sections 11105.2, 11165.7, 11167.5, 11170 of the Penal Code, to amend Sections 1541 and 1543 of the Probate Code, and to amend Sections 224.1, 291, 293, 294, 295, 309, 319, 361, 361.2, 361.4, 361.45, 362.04, 366.1, 366.3, 366.31, 628, 706.5, 706.6, 727, 727.05, 727.12, 727.4, 827, 4684, 10553.12, 10952.5, 11362, 11363, 11386, 11391, 11400, 11402, 11461, 11461.3, 11461.36, 11461.6, 11462, 11462.01, 11463, 16003.5, 16119, 16161, 16501.01, 16501.02, 16501.1, 16507.5, 16514, 16519, 16519.3, 16519.5, 16519.501, 16519.502, 16519.51, 16519.52, 16519.53, 16519.54, 16519.55, 16519.555, 16519.57, 16519.6, 16521.6, 16563, 16565, 17710, 17730, 17731, 17736, and 18250 of, and to amend the heading of Article 2 (commencing with Section 16519.3) of Chapter 5 of Part 4 of Division 9 of, and to add Sections 16519.605 and 16519.615 to, and to repeal and add Section 16519.4 of, the Welfare and Institutions Code, relating to foster care.<br />\n<br />\n2026/04/22 From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 12. Noes 0.) (April 21). Re-referred to Com. on APPR."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
-    "title": "CA SJR14",
-    "link": "https://legiscan.com/CA/bill/SJR14/2025?utm_campaign=rss&guid=5usOCVtJ3NsuF6cNBjBYcc",
-    "published": "2026-04-22T04:00:00Z",
-    "summary": "Relative to military and veterans.<br />\n<br />\n2026/04/22 Introduced. Referred to Com. on RLS."
-  },
-  {
     "source": "Public Policy Institute of California",
     "title": "What California’s Next Governor Needs to Know about Californians’ Mood",
     "link": "https://www.ppic.org/blog/what-californias-next-governor-needs-to-know-about-californians-mood/?utm_source=rss&utm_medium=rss&utm_campaign=what-californias-next-governor-needs-to-know-about-californians-mood",
@@ -504,13 +553,6 @@
     "summary": "<p><img alt=\"photo - Row of School Lockers\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2022/04/close-up-of-a-row-of-school-lockers.jpg\" width=\"2000\" /></p>Key findings of the survey include: Ahead of the governor’s primary, overwhelming majorities say that candidates’ positions on public education are important. Nearly two-thirds of likely voters would vote yes to make taxes permanent on high incomes to fund education and health care. About half of adults think schools are doing at least a good job preparing students for jobs."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA SB1433",
-    "link": "https://legiscan.com/CA/bill/SB1433/2025?utm_campaign=rss&guid=4364qWCDrc1ai1DSK6FUQ3",
-    "published": "2026-04-16T04:00:00Z",
-    "summary": "An act to amend Sections 733, 2242.2, 2553.5, 3046.1, 4073.5, 4602, 4610, 4826.5, 4858, 6126.7, 16608, and 17810 of the Business and Professions Code, to amend Sections 714.6, 798.14, 798.74.4, 1714.27, 3273.29, 4752, and 8811 of the Civil Code, to amend Sections 697.680 and 1094.9 of the Code of Civil Procedure, to amend Sections 234.7, 35221, 38134, 44043.5, 46392, 49001, 51140, 69436, 70022, 70034, and 88821 of the Education Code, to amend Sections 6915, 12304, and 12309 of the Elections Code, to amend Section 5654 of the Fish and Game Code, to amend Section 21283 of the Food and Agricultural Code, to amend Sections 1031.5, 6215, 6588.7, 8010, 8557, 10233, 10240, 11041, 11123.2, 12100.33, 12100.162, 12910, 12960, 12965, 15475.6, 19829.9854, 53398.52, 54953.4, 54953.8, 54953.8.1, 54954.2, 54957.9, 63049.71, 65589.5, 65914.2, 65950, 66300.6.5, 66323, 67784, 67786, 67788, and 87202 of, and to repeal the heading of Chapter 17.45 (commencing with Section 7289) of Division 7 of Title 1 of, the Government Code, to amend Section 676 of the Harbors and Navigation Code, to amend Sections 1279.6, 1342.74, 1367.25, 1597.640, 8028.73, 17021.8, 17970.3, 38532, 38562, 38562.3, 38591.2, 40100.5.5, 41313, 44501, 44515, 44559.14, 50406.4, 50410, 53545.14, 104660, 104661, and 108980 of the Health and Safety Code, to amend Sections 937, 10123.1933, and 10123.196 of the Insurance Code, to amend Sections 923.1, 1401, and 2810.8 of the Labor Code, to amend Section 59 of the Military and Veterans Code, to amend Sections 136.1, 636.6, 1170, 2780.6, 11105.04, and 13667 of the Penal Code, to amend Sections 4291.5, 4584.1, 4584.2, 5006.1, 5598, 5797.4, 21080.28.5, 21080.43, 21080.44, 25354, 25545, 25545.16, 25545.19, 30166, 30168, 30600.5, and 42652.5 of the Public Resources Code, to amend Sections 748.5, 850, 3299.2, 3310, 8501, and 180305 of, to amend the heading of Chapter 10 (commencing with Section 8500) of Division 4.1 of, and to repeal the heading of Article 7 of Chapter 3 of Division 1.5 of, the Public Utilities Code, to amend Sections 17053.40, 19002, and 23640 of the Revenue and Taxation Code, to amend Sections 21201 and 21450.5 of the Vehicle Code, to amend Sections 351, 50976, 60385, 60414, 74467, and 74850 of the Water Code, to amend Sections 309, 827, 9630, 10213.5, 11330.6, 13300.5, 14005.62, 14005.27, 14105.47, 14132.968, 16000.1, 16121.5, and 18900 of, and to repeal Section 12306.16 of, the Welfare and Institutions Code, and to amend Section 3 of Chapter 578 of the Statutes of 2025, relating to maintenance of the codes.<br />\n<br />\n2026/04/16 In Assembly. Read first time. Held at Desk."
-  },
-  {
     "source": "The Official United States Marine Corps Public Website News",
     "title": "A medal, a memory, a Marine: The last flight of Maj. Everette McPherson",
     "link": "https://www.marines.mil/News/News-Display/Article/4462203/a-medal-a-memory-a-marine-the-last-flight-of-maj-everette-mcpherson/",
@@ -530,13 +572,6 @@
     "link": "https://www.ppic.org/event/statewide-survey-californians-and-education-april-2026/?utm_source=rss&utm_medium=rss&utm_campaign=statewide-survey-californians-and-education-april-2026",
     "published": "2026-04-14T21:13:49Z",
     "summary": "<p><img alt=\"photo - Row of School Lockers\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2022/04/close-up-of-a-row-of-school-lockers.jpg\" width=\"2000\" /></p>California voters will make decisions this year that impact their public schools. In addition to gauging voter preferences in key primary races, PPIC’s latest survey tracks views of the TK–12 system, local schools, and policies such as universal transitional kindergarten and a measure that would extend a temporary tax on high incomes to fund education and health care. Survey analyst Deja Thomas will outline key findings and answer audience questions."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA AB2473",
-    "link": "https://legiscan.com/CA/bill/AB2473/2025?utm_campaign=rss&guid=295RNMehnrnpmYflxLY3Ho",
-    "published": "2026-04-14T04:00:00Z",
-    "summary": "An act to amend Section 8586.7 of the Government Code, relating to wildfires.<br />\n<br />\n2026/04/14 From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 6. Noes 0.) (April 13). Re-referred to Com. on APPR."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
@@ -663,40 +698,5 @@
     "link": "https://americanmilitarynews.com/2026/02/video-shots-fired-as-border-patrol-aids-state-troopers-in-texas-pursuit/",
     "published": "2026-02-03T14:04:44Z",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://americanmilitarynews.com/wp-content/uploads/Border-Patrol-768x512.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />A video shows a Texas Department of Public Safety trooper firing shots at a moving vehicle after it allegedly rammed into a law enforcement vehicle during a &#8220;pursuit&#8221; that was &#8220;initiated&#8221; by the Texas Department of Public Safety and aided by U.S. Border Patrol agents on Saturday. The video, which was shared on X, formerly &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/video-shots-fired-as-border-patrol-aids-state-troopers-in-texas-pursuit/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
-  },
-  {
-    "source": "American Military News",
-    "title": "Up to 5 sexually violent predators may be released in neighborhood with 7,400 kids",
-    "link": "https://americanmilitarynews.com/2026/02/up-to-5-sexually-violent-predators-may-be-released-in-neighborhood-with-7400-kids/",
-    "published": "2026-02-03T14:04:40Z",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://americanmilitarynews.com/wp-content/uploads/handcuffs-768x512.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />Democrat policies in Washington state are facing criticism as a less restrictive alternative housing site has been proposed for housing up to five sexually violent predators in Kennewick, which has large population of children. In a press release last week, Republican lawmakers in Washington warned that a home in Kennewick is currently being considered for &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/up-to-5-sexually-violent-predators-may-be-released-in-neighborhood-with-7400-kids/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
-  },
-  {
-    "source": "American Military News",
-    "title": "Democrat delegate exposed for connections to Epstein: Report",
-    "link": "https://americanmilitarynews.com/2026/02/democrat-delegate-exposed-for-connections-to-epstein-report/",
-    "published": "2026-02-03T14:04:32Z",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"224\" src=\"https://americanmilitarynews.com/wp-content/uploads/Stacey-Plaskett.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"200\" />New documents released by the U.S. Justice Department allegedly expose Virgin Islands Delegate Stacey Plaskett, a Democrat, for being linked to Jeffrey Epstein, a convicted child sex offender and former financier who died in 2019. In a Friday press release, the Justice Department announced the public release of more than 3 million pages related to &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/democrat-delegate-exposed-for-connections-to-epstein-report/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
-  },
-  {
-    "source": "LegiScan Search Feed - CalVet Search",
-    "title": "CA SB604",
-    "link": "https://legiscan.com/CA/bill/SB604/2025?utm_campaign=rss&guid=49YOH7PRN3Cv2cgzrjvQgF",
-    "published": "2026-02-02T05:00:00Z",
-    "summary": "An act to amend Section 987.53 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/02/02 Returned to Secretary of Senate pursuant to Joint Rule 56."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
-    "title": "CA SB879",
-    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=6QM9XKjeiqWgQIf9bsXBKW",
-    "published": "2026-01-12T05:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/12 Read first time."
-  },
-  {
-    "source": "California State Commanders Veterans Council",
-    "title": "Welcoming the Montford Point Marine Association California",
-    "link": "https://calcommanders.org/welcoming-the-montford-point-marine-association-los-angeles-chapter-8/",
-    "published": "2025-10-21T18:04:39Z",
-    "summary": "The California State Commanders Veterans Council is proud to welcome the Montford Point Marine Association California as our newest member. Founded in 1965, the Montford Point Marine Association is dedicated to honoring and preserving the legacy of the first African American Marines who trained at Montford Point, Camp Lejeune, North Carolina, between 1942 and 1949. Despite [&#8230;]"
   }
 ]
