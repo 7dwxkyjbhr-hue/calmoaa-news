@@ -1,17 +1,59 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-05-06T08:02:19Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-05-06T08:02:18Z",
+    "published": "2026-05-06T13:03:51Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
+    "published": "2026-05-06T13:03:48Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Globe",
+    "title": "US Treasury Announces Form 990 Transparency Initiative to Expose Hidden Funding and Strengthen Oversight",
+    "link": "https://californiaglobe.com/fr/us-treasury-announces-form-990-transparency-initiative-to-expose-hidden-funding-and-strengthen-oversight/",
+    "published": "2026-05-06T13:00:09Z",
+    "summary": "Be still my beating heart&#8230; the days of hiding fraud, abuse, and extremist activity behind complicated nonprofit arrangements will be coming to an end"
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Arriving in Orlando | 2026 National Veterans Summer Sports Clinic",
+    "link": "https://www.youtube.com/watch?v=37J7fTSCIAo",
+    "published": "2026-05-06T13:00:06Z",
+    "summary": "The 2026 National Veterans Summer Sports Clinic is underway in sunny Orlando, FL.\n\nIn this video, we're on the ground as Veterans arrive, check in, and get set up for an empowering week ahead.\n\nMore info at: \nhttps://department.va.gov/veteran-sports/\n\n@Sports4Vets on Facebook, Instagram, X#adaptivesports \n \n#veterans #fitness4life #stayactive #sports4vets #summersports #adaptivesports"
+  },
+  {
+    "source": "CalMatters",
+    "title": "CA candidates for governor weigh in on homelessness",
+    "link": "https://calmatters.org/newsletter/california-governor-candidates-homelesssness/",
+    "published": "2026-05-06T13:00:00Z",
+    "summary": "<figure><img alt=\"A person in a grey suit stands on a stage in front an audience. Other panelists can be seen in the background, along with a banner that reads “Affordability and Rural California&quot; and the U.S. flag.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/05/040126_Fresno-State-Gov-Forum_LV_CM_11.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>Homelessness remains one of California’s more vexing issues, and the next governor will have to contend with nearly a quarter of the entire country’s homeless population. CalMatters’ Marisa Kendall, in partnership with the Steinberg Institute and Abridged — PBS KVIE, spoke with four of the eight top-polling candidates for governor to learn more about what [&#8230;]"
+  },
+  {
+    "source": "CalMatters",
+    "title": "How will California’s next governor handle homelessness?",
+    "link": "https://calmatters.org/politics/2026/05/ca-governor-candidates-homelessness/",
+    "published": "2026-05-06T12:00:00Z",
+    "summary": "<figure><img alt=\"Eight candidates stand at separate podiums across a stage during a televised California governor’s debate, with moderators seated at a table in the foreground and a large “Voters Decide” backdrop behind them.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/05/042826-Pomona-Gov-Debate-JAH-CM-08.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Whoever takes the mantle as California’s next governor will face an immediate test as they try to solve the crisis of homelessness on our streets. Nearly a quarter of all homeless U.S. residents live in California, though the state is only home to 11% of the country’s overall population. Voters are frustrated by encampments that [&#8230;]"
+  },
+  {
+    "source": "CalMatters",
+    "title": "Should this water desalination project be linked to a nuclear plant?",
+    "link": "https://calmatters.org/commentary/2026/05/water-desalination-california-nuclear-plant/",
+    "published": "2026-05-06T12:00:00Z",
+    "summary": "<figure><img alt=\"Aerial view of the Diablo Canyon Nuclear Power Plant in San Luis Obispo. Photo by Lionel Hahn/REUTERS\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"681\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2022/05/031711-Diablo-Canyon-Nuclear-Power-Plant-REUTERS-CM-01.jpg?fit=1024%2C681&amp;ssl=1\" width=\"1024\" /></figure>Nuclear reactors can provide steady power for desalination at a low cost. Critics say money mustn’t take priority over health, safety or the environment."
+  },
+  {
+    "source": "California Globe",
+    "title": "Compromise and Release",
+    "link": "https://californiaglobe.com/articles/compromise-and-release/",
+    "published": "2026-05-06T09:30:54Z",
+    "summary": "Deals with compromise and release for workers’ compensation claims in California"
   },
   {
     "source": "CalMatters",
@@ -56,25 +98,11 @@
     "summary": "Are Democrat lawmakers willing to destroy food production in California over the imaginary air quality crisis?"
   },
   {
-    "source": "California Globe",
-    "title": "Report: SAVE America Act Turns Nevada into GOP Stronghold",
-    "link": "https://californiaglobe.com/fr/report-save-america-act-turns-nevada-into-gop-stronghold/",
-    "published": "2026-05-05T19:24:14Z",
-    "summary": "Yale researchers project the bill would surge Nevada’s Republican margin from a slim +1 to a solid +6.3, moving the state from battleground to more reliable GOP territory"
-  },
-  {
     "source": "Public Policy Institute of California",
     "title": "Who Are California’s Homeless K–12 Students?",
     "link": "https://www.ppic.org/blog/who-are-californias-homeless-k-12-students/?utm_source=rss&utm_medium=rss&utm_campaign=who-are-californias-homeless-k-12-students",
     "published": "2026-05-05T18:03:45Z",
     "summary": "<p><img alt=\"photo - Elementary Student Wearing a Backpack\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/05/elementary-student-wearing-a-backpack.jpg\" width=\"2000\" /></p>Student homelessness is on the rise in California, with the vast majority of students sharing housing with others due to economic hardship."
-  },
-  {
-    "source": "California Globe",
-    "title": "Arizona’s Hazen Fire Explodes Due to Invasive Vegetation",
-    "link": "https://californiaglobe.com/articles/arizonas-hazen-fire-explodes-due-to-invasive-vegetation/",
-    "published": "2026-05-05T17:06:10Z",
-    "summary": "Officials say heavy fuel loads are contributing to difficult firefighting conditions"
   },
   {
     "source": "Task & Purpose",
@@ -84,46 +112,11 @@
     "summary": "<p>A Joint Base Andrews spokesperson said the airmen have been assigned to duties that don’t require them to be armed while a command investigation is underway.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/air-force-andrews-home/\">Air Force removes security airmen from full duty after entering wrong home with a child inside</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "California Political Review",
-    "title": "California Republicans who flipped seats in 2024 are fighting to keep them",
-    "link": "https://capoliticalreview.com/2026/05/05/california-republicans-who-flipped-seats-in-2024-are-fighting-to-keep-them/",
-    "published": "2026-05-05T14:30:00Z",
-    "summary": "<p>California’s primary election is just around the corner. Prepare to vote with the&#160;latest updates from our election newsletter. In 2024, California Republicans flipped three legislative seats amid a nationwide rightward shift that helped elect President Donald Trump.&#160; Now, they must play defense. Two of the seats they flipped in the state Assembly are up for [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/05/05/california-republicans-who-flipped-seats-in-2024-are-fighting-to-keep-them/\">Read More and Comment: California Republicans who flipped seats in 2024 are fighting to keep them</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/05/05/california-republicans-who-flipped-seats-in-2024-are-fighting-to-keep-them/\">California Republicans who flipped seats in 2024 are fighting to keep them</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "California Political Review",
-    "title": "California election: Inside the battles for governor and L.A. mayor, plus a new map under Prop. 50",
-    "link": "https://capoliticalreview.com/2026/05/05/california-election-inside-the-battles-for-governor-and-l-a-mayor-plus-a-new-map-under-prop-50/",
-    "published": "2026-05-05T14:00:00Z",
-    "summary": "<p>Election season is upon us, and one major issue on the ballot is the California governor’s race. After a slow start, the race is finally starting to pick up steam. Californians will also cast ballots for the first time using the new congressional district boundaries authorized in November’s passage of Proposition 50 — the statewide measure that reconfigures California’s [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/05/05/california-election-inside-the-battles-for-governor-and-l-a-mayor-plus-a-new-map-under-prop-50/\">Read More and Comment: California election: Inside the battles for governor and L.A. mayor, plus a new map under Prop. 50</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/05/05/california-election-inside-the-battles-for-governor-and-l-a-mayor-plus-a-new-map-under-prop-50/\">California election: Inside the battles for governor and L.A. mayor, plus a new map under Prop. 50</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
     "source": "CalMatters",
     "title": "Donald Trump weighs down state Republicans",
     "link": "https://calmatters.org/newsletter/donald-trump-republicans-primary/",
     "published": "2026-05-05T13:00:00Z",
     "summary": "<figure><img alt=\"A close-up view of two hands holding a yellow ballot envelope that reads &quot;official election mail&quot; outside a vote center in San Diego.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2024/11/110524_Election-Day-SD_AH_CM_04.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Though you are surely plumbing the depths of CalMatters’ comprehensive voter guide, let’s highlight two parts in particular: The race for state treasurer and California legislative elections: State treasurer: Six candidates are vying to be California’s next money manager, but the race is largely between two top Democrats: Lt. Gov. Eleni Kounalakis, whom Gov. Gavin Newsom [&#8230;]"
-  },
-  {
-    "source": "CalMatters",
-    "title": "They answer the call for Californians in mental distress. The money is running out",
-    "link": "https://calmatters.org/health/2026/05/mental-health-crisis-response-budget/",
-    "published": "2026-05-05T12:00:00Z",
-    "summary": "<figure><img alt=\"Two people sit in a parked car, one in the driver’s seat and one in the passenger seat, both looking toward the camera.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/042726_Mobile-Crisis_JH_CM_36.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>A funding shift in California's budget could gut the mental health crisis teams that are fielding record call volumes across the state."
-  },
-  {
-    "source": "CalMatters",
-    "title": "Gavin Newsom slow-rolled single-payer healthcare, leaving it to a successor",
-    "link": "https://calmatters.org/commentary/2026/05/single-payer-healthcare-newsom-calilfornia/",
-    "published": "2026-05-05T12:00:00Z",
-    "summary": "<figure><img alt=\"Dr. Shura Alexis Moreno sees a patient at Gabriel Medical Center in East Los Angeles on Sept. 14, 2021. Jessica Pons for CalMatters\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"732\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2022/01/010622-JP-SINGLE-PAYER-CM-01.jpg?fit=1024%2C732&amp;ssl=1\" width=\"1024\" /></figure>Gov. Gavin Newsom edged away from his campaign pledge to adopt single-payer healthcare. He got UCLA to study it and instead expanded Medi-Cal coverage."
-  },
-  {
-    "source": "CalMatters",
-    "title": "California fire survivors battle insurers over hidden smoke toxins in their homes",
-    "link": "https://calmatters.org/commentary/2026/05/fire-survivors-california-smoke-toxins/",
-    "published": "2026-05-05T12:00:00Z",
-    "summary": "<figure><img alt=\"A hillside neighborhood with scattered houses and trees is illuminated by an orange glow, as thick smoke fills the sky. Mountains are visible in the background under a hazy, pale sky. A road with a few parked cars runs along the edge of the hill.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/01/010824_Eaton-Fire_JH_CM_18.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>California's Legislature is weighing two bills involving smoke damage recovery. Homeowners are backing one, but the insurance industry is opposing it while keeping quiet about the other one."
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
@@ -196,20 +189,6 @@
     "summary": "Training Command launched Ground Reconnaissance Course as part of an updated Marine Reconnaissance training curriculum at Marine Corps Base Camp Pendleton, April 27. GRC is now the initial course in the updated curriculum, which replaces Basic Reconnaissance Course with two new courses: GRC and Amphibious Reconnaissance Course. This change comes from analysis of reconnaissance training and support to Force Design initiatives, including Scout Platoons and multidomain operations.<br /> \n<img alt=\"U.S. Marines and Sailors participate in the graduation ceremony for Basic Reconnaissance Course 2-26 with Reconnaissance Training Company, at Marine Corps Base Camp Pendleton, Calif., April 3, 2026. Employed as an element of the Marine Air-Ground Task Force, Reconnaissance Marines operate in specialized teams to provide timely information to the supported commander to shape and influence the battlefield. (U.S. Marine Corps photo by Lance Cpl. Caitlyn Watts)\" src=\"https://media.defense.gov/2026/May/04/2003923599/115/75/0/260403-M-NG612-1013.JPG\" /> <br />"
   },
   {
-    "source": "California Political Review",
-    "title": "California’s top Democrat plots voting revolution to snatch governor’s race from Republicans",
-    "link": "https://capoliticalreview.com/2026/05/04/californias-top-democrat-plots-voting-revolution-to-snatch-governors-race-from-republicans/",
-    "published": "2026-05-04T14:30:00Z",
-    "summary": "<p>The chair of the California Democratic Party has had enough of the possibility that&#160;Republicans could lock out Democrats&#160;in this year’s governor’s race — and wants to change the the voting system to prevent that in the future. Rusty Hicks&#160;is one of the first prominent Democrats this year to embrace a wholescale change to how the [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/05/04/californias-top-democrat-plots-voting-revolution-to-snatch-governors-race-from-republicans/\">Read More and Comment: California’s top Democrat plots voting revolution to snatch governor’s race from Republicans</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/05/04/californias-top-democrat-plots-voting-revolution-to-snatch-governors-race-from-republicans/\">California’s top Democrat plots voting revolution to snatch governor’s race from Republicans</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "California Political Review",
-    "title": "Nevada Democrats Weaponized Redistricting to Flip GOP Strongholds",
-    "link": "https://capoliticalreview.com/2026/05/04/nevada-democrats-weaponized-redistricting-to-flip-gop-strongholds/",
-    "published": "2026-05-04T14:00:00Z",
-    "summary": "<p>Clark County’s explicit racial map-drawing ‘carved out heavily white districts’ to engineer majority-Hispanic districts In 2021, as Nevada conducted its post-census redistricting, Democratic-controlled Clark County openly engineered majority-Hispanic districts using explicit racial criteria, while the state Legislature—dominated by Democrats—drew maps with the help of an undisclosed consulting group whose identity has never been publicly revealed. [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/05/04/nevada-democrats-weaponized-redistricting-to-flip-gop-strongholds/\">Read More and Comment: Nevada Democrats Weaponized Redistricting to Flip GOP Strongholds</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/05/04/nevada-democrats-weaponized-redistricting-to-flip-gop-strongholds/\">Nevada Democrats Weaponized Redistricting to Flip GOP Strongholds</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "CA SB1439",
     "link": "https://legiscan.com/CA/bill/SB1439/2025?utm_campaign=rss&guid=1oAH3srWpFzkSNS4OCdOSo",
@@ -257,13 +236,6 @@
     "link": "https://lao.ca.gov/Publications/Detail/5180",
     "published": "2026-05-04T00:00:00Z",
     "summary": "In this report, we analyze how the changing fiscal and policy landscape will affect California’s health care system, including health coverage, hospitals, clinics, private health insurance, and county programs. We also provide key issues to consider regarding these effects."
-  },
-  {
-    "source": "California Political Review",
-    "title": "Who’s running for Congress in California? These races could determine the majority",
-    "link": "https://capoliticalreview.com/2026/05/03/whos-running-for-congress-in-california-these-races-could-determine-the-majority/",
-    "published": "2026-05-03T14:30:00Z",
-    "summary": "<p>California’s primary election is just around the corner. Prepare to vote with the&#160;latest updates from our election newsletter. California voters could cast the deciding votes this November that flip control of the U.S. House. If Democrats win a majority, they could block President Donald Trump’s legislative agenda, grill his cabinet officials and launch investigations into [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/05/03/whos-running-for-congress-in-california-these-races-could-determine-the-majority/\">Read More and Comment: Who’s running for Congress in California? These races could determine the majority</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/05/03/whos-running-for-congress-in-california-these-races-could-determine-the-majority/\">Who’s running for Congress in California? These races could determine the majority</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "U.S. Dept. of Veterans Affairs",
@@ -432,13 +404,6 @@
     "link": "https://www.youtube.com/watch?v=zYEN0sYNpvQ",
     "published": "2026-04-27T18:03:22Z",
     "summary": "This recipe is not only easy to make and requires minimal cooking, but it is also budget-friendly. \r \n\nPrep: 10 minutes | Cook: 15 minutes | Total: 25 minutes\nYield: 6 servings | Serving Size: ~2 cups without optional toppings\n\nIngredients:\n1 (10- to 12-ounce) bag corn tortilla chips\n1 cup shredded cheddar or cheddar cheese blend (e.g. Mexican style, cheddar jack)\n1 (15-ounce) can black beans, drained and rinsed\n1 large tomato, diced (about 1½ cups) |\n1 cup chopped or shredded crunchy lettuce (e.g. iceberg lettuce, lower section of romaine lettuce\nOptional toppings: Olives, plain Greek yogurt, jalapeños, salsa, onion, cilantro, lime juice\n\nDirections:\n1. Preheat the oven| to 350°F.\n2. Line a baking sheet with aluminum foil or parchment paper.\n3. Spread the tortilla chips into an even layer on the prepared baking sheet.\n4. Sprinkle the chips with the cheese followed by the beans and tomato.\n5. Bake until the cheese is melted, about 9-11 minutes.\n6. Sprinkle with the lettuce, along with any other toppings as desired.\n7. Serve right away.\n\nRecipe Notes:\nMake these nachos a meal by adding another cooked or canned protein, such as chicken or ground beef.\n\nNutrition Facts Per Serving: Calories: 420 | Total Fat: 18 g | Saturated Fat: 5 g\nSodium: 515 mg | Total Carbohydrate: 52 g | Dietary Fiber: 8g | Protein: 13 g\n\nFor more recipes, please visit https://www.nutrition.va.gov\n\n#budgetfriendly #healthynachos #easyrecipe"
-  },
-  {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "Northern AZ. VA National Day of Thanks 2026",
-    "link": "https://www.youtube.com/shorts/yUEM6o_nbF8",
-    "published": "2026-04-27T17:39:10Z",
-    "summary": "April 27th, carries special significance as it marks the National Day of Thanks, a day designated by the Department of Veterans Affairs to honor our Nation’s Veterans and the dedicated individuals who serve them with such compassion and care."
   },
   {
     "source": "The Liberal OC",
@@ -698,5 +663,40 @@
     "link": "https://americanmilitarynews.com/2026/02/video-shots-fired-as-border-patrol-aids-state-troopers-in-texas-pursuit/",
     "published": "2026-02-03T14:04:44Z",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://americanmilitarynews.com/wp-content/uploads/Border-Patrol-768x512.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />A video shows a Texas Department of Public Safety trooper firing shots at a moving vehicle after it allegedly rammed into a law enforcement vehicle during a &#8220;pursuit&#8221; that was &#8220;initiated&#8221; by the Texas Department of Public Safety and aided by U.S. Border Patrol agents on Saturday. The video, which was shared on X, formerly &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/video-shots-fired-as-border-patrol-aids-state-troopers-in-texas-pursuit/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
+  },
+  {
+    "source": "American Military News",
+    "title": "Up to 5 sexually violent predators may be released in neighborhood with 7,400 kids",
+    "link": "https://americanmilitarynews.com/2026/02/up-to-5-sexually-violent-predators-may-be-released-in-neighborhood-with-7400-kids/",
+    "published": "2026-02-03T14:04:40Z",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://americanmilitarynews.com/wp-content/uploads/handcuffs-768x512.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />Democrat policies in Washington state are facing criticism as a less restrictive alternative housing site has been proposed for housing up to five sexually violent predators in Kennewick, which has large population of children. In a press release last week, Republican lawmakers in Washington warned that a home in Kennewick is currently being considered for &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/up-to-5-sexually-violent-predators-may-be-released-in-neighborhood-with-7400-kids/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
+  },
+  {
+    "source": "American Military News",
+    "title": "Democrat delegate exposed for connections to Epstein: Report",
+    "link": "https://americanmilitarynews.com/2026/02/democrat-delegate-exposed-for-connections-to-epstein-report/",
+    "published": "2026-02-03T14:04:32Z",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"224\" src=\"https://americanmilitarynews.com/wp-content/uploads/Stacey-Plaskett.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"200\" />New documents released by the U.S. Justice Department allegedly expose Virgin Islands Delegate Stacey Plaskett, a Democrat, for being linked to Jeffrey Epstein, a convicted child sex offender and former financier who died in 2019. In a Friday press release, the Justice Department announced the public release of more than 3 million pages related to &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/democrat-delegate-exposed-for-connections-to-epstein-report/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
+  },
+  {
+    "source": "LegiScan Search Feed - CalVet Search",
+    "title": "CA SB604",
+    "link": "https://legiscan.com/CA/bill/SB604/2025?utm_campaign=rss&guid=49YOH7PRN3Cv2cgzrjvQgF",
+    "published": "2026-02-02T05:00:00Z",
+    "summary": "An act to amend Section 987.53 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/02/02 Returned to Secretary of Senate pursuant to Joint Rule 56."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
+    "title": "CA SB879",
+    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=6QM9XKjeiqWgQIf9bsXBKW",
+    "published": "2026-01-12T05:00:00Z",
+    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/12 Read first time."
+  },
+  {
+    "source": "California State Commanders Veterans Council",
+    "title": "Welcoming the Montford Point Marine Association California",
+    "link": "https://calcommanders.org/welcoming-the-montford-point-marine-association-los-angeles-chapter-8/",
+    "published": "2025-10-21T18:04:39Z",
+    "summary": "The California State Commanders Veterans Council is proud to welcome the Montford Point Marine Association California as our newest member. Founded in 1965, the Montford Point Marine Association is dedicated to honoring and preserving the legacy of the first African American Marines who trained at Montford Point, Camp Lejeune, North Carolina, between 1942 and 1949. Despite [&#8230;]"
   }
 ]
