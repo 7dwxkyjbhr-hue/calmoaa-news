@@ -1,5 +1,26 @@
 [
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-05-15T08:35:03Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
+    "published": "2026-05-15T08:35:03Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "CalMatters",
+    "title": "California governor debate: Rivals gang up on Democratic frontrunner Becerra",
+    "link": "https://calmatters.org/politics/2026/05/california-governor-race-final-debate/",
+    "published": "2026-05-15T05:25:48Z",
+    "summary": "<figure><img alt=\"Seven people standing behind podiums up on a stage illuminated by studio light and decorated with a blue curtain.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/05/051426_CA-Gov-Debate_AP_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Candidates for California governor faced off in one last debate before the primary. Republicans begged a liberal state to vote differently, Matt Mahan sought to place himself in the middle and everyone came for Xavier Becerra."
+  },
+  {
     "source": "CalMatters",
     "title": "California legislators kill new spending programs and blame Trump for funding cuts",
     "link": "https://calmatters.org/politics/2026/05/suspense-file-senate-assembly/",
@@ -12,20 +33,6 @@
     "link": "https://calmatters.org/health/2026/05/trump-medicaid-fraud-freeze-california/",
     "published": "2026-05-14T23:10:17Z",
     "summary": "<figure><img alt=\"A person in a blue suit and red tie sits with his hands folded at a wooden table with a microphone in front of them. In the background is a row of people looking ahead in a large office room.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/04/042425-Mehmet-Oz-AM-Getty-01-CM-.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>The Trump administration suspended $1.1 billion in California Medicaid funds over fraud claims, threatening home care for 900,000 seniors and people with disabilities."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-05-14T23:01:11Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-05-14T23:00:40Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "CalMatters",
@@ -98,13 +105,6 @@
     "summary": "VP Vance: &#8216;There are California taxpayers and American taxpayers who are being defrauded because California isn’t taking its program seriously&#8217;"
   },
   {
-    "source": "CalMatters",
-    "title": "Former Newsom chief of staff pleads guilty to scheme that bled money from Becerra’s account",
-    "link": "https://calmatters.org/politics/2026/05/california-newsom-chief-plea-deal/",
-    "published": "2026-05-14T17:03:15Z",
-    "summary": "<figure><img alt=\"A person wearing a white blazer and black sunglasses walks towards a courthouse while surrounded by people and reporters.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/05/051426_Dana-Williamson_FG_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>In a corruption scandal that shocked Sacramento, Dana Williamson was accused of conspiring with Becerra’s longtime chief of staff and another Sacramento lobbyist to divert $225,000 from Becerra’s dormant state campaign."
-  },
-  {
     "source": "The Liberal OC",
     "title": "Katie Porter for Governor",
     "link": "https://theliberaloc.com/2026/05/14/katie-porter-for-governor/",
@@ -154,6 +154,132 @@
     "summary": "May is Mental Health Awareness Month, and VA has online resources available to Veterans looking to strengthen their mental health.\n\nwww.VeteranTraining.va.gov offers a variety of self-help courses on mental health topics.\n\nYour mental health matters. Visit www.VeteranTraining.va.gov to begin your path forward today.\n\nIf you’re a Veteran in crisis or concerned about one, dial or text 988 to reach the Veteran Crisis Line."
   },
   {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2161",
+    "link": "https://legiscan.com/CA/bill/AB2161/2025?utm_campaign=rss&guid=6XX4cQmzWeFF2rOpa4krWQ",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Section 14005.37 of, and to add Section 14005.69 to, the Welfare and Institutions Code, relating to Medi-Cal.<br />\n<br />\n2026/05/14 From committee: Amend, and do pass as amended. (Ayes 11. Noes 2.) (May 14)."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SB1261",
+    "link": "https://legiscan.com/CA/bill/SB1261/2025?utm_campaign=rss&guid=6Zumb3WqiMjsB5Jt1so9Ri",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Section 9120 of the Welfare and Institutions Code, relating to aging.<br />\n<br />\n2026/05/14 Read second time. Ordered to third reading."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB1940",
+    "link": "https://legiscan.com/CA/bill/AB1940/2025?utm_campaign=rss&guid=dcpUz16HlWKTNSghkBh3V",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Sections 12926 and 12950 of, and to add Section 8423 to, the Government Code, relating to civil rights.<br />\n<br />\n2026/05/14 From committee: Amend, and do pass as amended. (Ayes 11. Noes 3.) (May 14)."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2428",
+    "link": "https://legiscan.com/CA/bill/AB2428/2025?utm_campaign=rss&guid=2uE6yeyOjsp6TxnwY7b4lV",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Sections 6157 and 71386 of, and to repeal and add Section 68635 of, the Government Code, to amend Section 11374.5 of, and to add Section 11470.5 to, the Health and Safety Code, to amend Sections 597.3, 1203.1a, 1203.1i, 1205.3, 1209.5, 4011.1, and 4018.6 of, and to add Section 1210.2 to, the Penal Code, to amend Sections 42007 and 42008.8 of the Vehicle Code, and to repeal Section 730.5 of the Welfare and Institutions Code, relating to fees.<br />\n<br />\n2026/05/14 From committee: Amend, and do pass as amended. (Ayes 11. Noes 4.) (May 14)."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2433",
+    "link": "https://legiscan.com/CA/bill/AB2433/2025?utm_campaign=rss&guid=40cyHQpINXwC13Oki0bnAO",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Section 65915 of the Government Code, relating to housing.<br />\n<br />\n2026/05/14 Read second time. Ordered to third reading."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA SB1407",
+    "link": "https://legiscan.com/CA/bill/SB1407/2025?utm_campaign=rss&guid=1VGpVn0kueZtjjN9Joo8un",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Sections 17132.9 and 17132.10 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/05/14 Read second time and amended. Ordered to second reading."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB2066",
+    "link": "https://legiscan.com/CA/bill/AB2066/2025?utm_campaign=rss&guid=2gYWLpCIKlK3bZLikrqEbs",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Section 1399.849 of the Health and Safety Code, and to amend Section 10965.3 of the Insurance Code, relating to health care coverage.<br />\n<br />\n2026/05/14 From committee: Do pass. (Ayes 14. Noes 0.) (May 14)."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA SB1167",
+    "link": "https://legiscan.com/CA/bill/SB1167/2025?utm_campaign=rss&guid=1Jqfa9woNaWXDp2iZGM79F",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Section 26300 of the Health and Safety Code, and to amend Sections 312.5, 405, 406, 426, 472, 672, 4020, 5030, 5031, 5032, 5033, 5034, 5035, 5036, 5037, 5038, 5039, 12500, 12509, 12509.5, 12804.9, 12814.6, 21113, 21201.3, 21203, 21207.5, 21209, 21712, 21960, 22651.08, 23135, 23330, 24015, 24951, 25650, 27800, 27802, 27803, 38012, 38366, 38505, and 38601 of, to amend the heading of Article 8.1 (commencing with Section 5030) of Chapter 1 of Division 3 of, to add Section 21065 to, to add Article 9 (commencing with Section 21310) to Chapter 1 of Division 11 of, and to add Article 7.5 (commencing with Section 27850) to Chapter 5 of Division 12 of, the Vehicle Code, relating to vehicles.<br />\n<br />\n2026/05/14 Read second time and amended. Ordered to second reading."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB2370",
+    "link": "https://legiscan.com/CA/bill/AB2370/2025?utm_campaign=rss&guid=3gjVfay8bfPPOEgZJONi5T",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Section 15277 of the Government Code, relating to emergency services.<br />\n<br />\n2026/05/14 In committee: Held under submission."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB2395",
+    "link": "https://legiscan.com/CA/bill/AB2395/2025?utm_campaign=rss&guid=1d2CcC4Lzb2ee517KWquG3",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Section 17560 of, and to add Section 17560.5 to, the Family Code, relating to child support.<br />\n<br />\n2026/05/14 From committee: Do pass. (Ayes 11. Noes 2.) (May 14)."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA AB1775",
+    "link": "https://legiscan.com/CA/bill/AB1775/2025?utm_campaign=rss&guid=43D8dIBadUKLUJZhkkHRmj",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Sections 115.4 and 115.8 of the Business and Professions Code, and to amend Section 885 of, and to add Section 886 to, the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/05/14 From committee: Amend, and do pass as amended. (Ayes 11. Noes 0.) (May 14)."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA AB2531",
+    "link": "https://legiscan.com/CA/bill/AB2531/2025?utm_campaign=rss&guid=2K6v5bsRfUT2PNKTcnHo6B",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Sections 127632, 127633, and 127634 of the Health and Safety Code, and to add Section 92 to the Military and Veterans Code, relating to public health.<br />\n<br />\n2026/05/14 From committee: Do pass. (Ayes 11. Noes 4.) (May 14)."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA AB2478",
+    "link": "https://legiscan.com/CA/bill/AB2478/2025?utm_campaign=rss&guid=XNRaNpzdmHjIFAVxmCki6",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Sections 49069.3, 49076, 56055, and 56155.5 of the Education Code, to amend Sections 6552, 8609, 8704.5, 8708, 9201, and 9203.1 of the Family Code, to amend Sections 7930.165, 7930.190, and 30029.7 of the Government Code, to amend Sections 1501.1, 1502, 1505, 1506, 1506.1, 1506.5, 1506.9, 1507.25, 1517, 1517.2, 1517.3, 1520, 1520.3, 1522, 1522.08, 1522.1, 1522.4, 1522.44, 1523.1, 1524, 1524.01, 1527, 1527.1, 1527.2, 1527.4, 1527.5, 1530.5, 1530.7, 1536, 1536.2, 1538, 1558, 1559.110, 1568.26, and 115725 of, and to repeal Sections 1506.6, 1506.7, 1506.8, and 1517.1 of, the Health and Safety Code, to amend Section 676.7 of the Insurance Code, to amend Sections 11105.2, 11165.7, 11167.5, 11170 of the Penal Code, to amend Sections 1541 and 1543 of the Probate Code, and to amend Sections 224.1, 291, 293, 294, 295, 309, 319, 361, 361.2, 361.4, 361.45, 362.04, 366.1, 366.3, 366.31, 628, 706.5, 706.6, 727, 727.05, 727.12, 727.4, 827, 4684, 10553.12, 10952.5, 11362, 11363, 11386, 11391, 11400, 11402, 11461, 11461.3, 11461.36, 11461.6, 11462, 11462.01, 11463, 16003.5, 16119, 16161, 16501.01, 16501.02, 16501.1, 16507.5, 16514, 16519, 16519.3, 16519.5, 16519.501, 16519.502, 16519.51, 16519.52, 16519.53, 16519.54, 16519.55, 16519.555, 16519.57, 16519.6, 16521.6, 16563, 16565, 17710, 17730, 17731, 17736, and 18250 of, and to amend the heading of Article 2 (commencing with Section 16519.3) of Chapter 5 of Part 4 of Division 9 of, and to add Sections 16519.605 and 16519.615 to, and to repeal and add Section 16519.4 of, the Welfare and Institutions Code, relating to foster care.<br />\n<br />\n2026/05/14 From committee: Do pass. (Ayes 15. Noes 0.) (May 14)."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA AB2247",
+    "link": "https://legiscan.com/CA/bill/AB2247/2025?utm_campaign=rss&guid=3o1xYOIvZ4LBT6PdJvzmQa",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to add Chapter 9 (commencing Section 8270) to Division 8 of the Welfare and Institutions Code, relating to victims of crime.<br />\n<br />\n2026/05/14 From committee: Amend, and do pass as amended. (Ayes 11. Noes 4.) (May 14)."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA AB1939",
+    "link": "https://legiscan.com/CA/bill/AB1939/2025?utm_campaign=rss&guid=7JOdqwk9WcDIt10D2n7rf2",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Sections 6501, 6534, 6561, 6584, and 6592 of, and to add Article 7 (commencing with Section 6593) to Chapter 6 of Division 3 of, the Business and Professions Code, to amend Section 13401 of the Corporations Code, and to amend Sections 60.1, 1510, 1821, 2250, 2614.7, and 2643.1 of, to add Part 9.5 (commencing with Section 310) to Division 2 of, and to repeal Section 2340 of, the Probate Code, relating to professional fiduciaries.<br />\n<br />\n2026/05/14 From committee: Amend, and do pass as amended. (Ayes 15. Noes 0.) (May 14)."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+    "title": "CA AB2043",
+    "link": "https://legiscan.com/CA/bill/AB2043/2025?utm_campaign=rss&guid=4K5S8SgbeSS5mzhGCpOr98",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to add Article 4.2 (commencing with Section 8577) to Chapter 7 of Division 1 of Title 2 of the Government Code, relating to state government, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/05/14 From committee: Do pass. (Ayes 15. Noes 0.) (May 14)."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+    "title": "CA AB2473",
+    "link": "https://legiscan.com/CA/bill/AB2473/2025?utm_campaign=rss&guid=2UpJU4WIzeFVoOXQ1IOo6S",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Section 8586.7 of the Government Code, relating to wildfires.<br />\n<br />\n2026/05/14 From committee: Do pass. (Ayes 15. Noes 0.) (May 14)."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+    "title": "CA AB2496",
+    "link": "https://legiscan.com/CA/bill/AB2496/2025?utm_campaign=rss&guid=1jl6wD90r9RijsTohbgWKt",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Sections 47606.5, 52062, and 52068 of, and to add Section 33126.7 to, the Education Code, relating to school accountability.<br />\n<br />\n2026/05/14 Read second time. Ordered to third reading."
+  },
+  {
     "source": "Task & Purpose",
     "title": "Army identifies second soldier who went missing in Morocco",
     "link": "https://taskandpurpose.com/news/army-identifies-second-missing-soldier-morocco/",
@@ -201,83 +327,6 @@
     "link": "https://capoliticalreview.com/2026/05/13/californias-democratic-incumbents-face-primary-challenges-from-political-newcomers/",
     "published": "2026-05-13T14:00:00Z",
     "summary": "<p>WASHINGTON&#160;—&#160;In Napa and surrounding counties, Rep. Mike Thompson’s once-easy reelection contest is turning into something of a race. In the Sacramento area, Rep. Doris Matsui is facing one of her most serious challengers in two decades. In Los Angeles, a former White House climate official wants to unseat Rep. Brad Sherman. In these districts and [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/05/13/californias-democratic-incumbents-face-primary-challenges-from-political-newcomers/\">Read More and Comment: California’s Democratic incumbents face primary challenges from political newcomers</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/05/13/californias-democratic-incumbents-face-primary-challenges-from-political-newcomers/\">California’s Democratic incumbents face primary challenges from political newcomers</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA ACR204",
-    "link": "https://legiscan.com/CA/bill/ACR204/2025?utm_campaign=rss&guid=6j4ECTQjELw400L09zoEbU",
-    "published": "2026-05-13T04:00:00Z",
-    "summary": "Relative to behavioral health.<br />\n<br />\n2026/05/13 Introduced. To print."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2205",
-    "link": "https://legiscan.com/CA/bill/AB2205/2025?utm_campaign=rss&guid=ZOzLJ9GAkU8f3zDo27iP0",
-    "published": "2026-05-13T04:00:00Z",
-    "summary": "An act to amend Sections 17053.73 and 23626 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/05/13 In committee: Set, first hearing. Referred to APPR. suspense file."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2185",
-    "link": "https://legiscan.com/CA/bill/AB2185/2025?utm_campaign=rss&guid=2Be5yU1AHiTaME2P9Ls42G",
-    "published": "2026-05-13T04:00:00Z",
-    "summary": "An act to add Section 50158 to the Health and Safety Code, relating to housing.<br />\n<br />\n2026/05/13 From committee: Do pass. (Ayes 15. Noes 0.) (May 13)."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2433",
-    "link": "https://legiscan.com/CA/bill/AB2433/2025?utm_campaign=rss&guid=5qrD4q7dgMYPEZi3ONeU5m",
-    "published": "2026-05-13T04:00:00Z",
-    "summary": "An act to amend Section 65915 of the Government Code, relating to housing.<br />\n<br />\n2026/05/13 From committee: Do pass. (Ayes 13. Noes 0.) (May 13)."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2478",
-    "link": "https://legiscan.com/CA/bill/AB2478/2025?utm_campaign=rss&guid=3CDOgi5HhA0IGzfuYymdme",
-    "published": "2026-05-13T04:00:00Z",
-    "summary": "An act to amend Sections 49069.3, 49076, 56055, and 56155.5 of the Education Code, to amend Sections 6552, 8609, 8704.5, 8708, 9201, and 9203.1 of the Family Code, to amend Sections 7930.165, 7930.190, and 30029.7 of the Government Code, to amend Sections 1501.1, 1502, 1505, 1506, 1506.1, 1506.5, 1506.9, 1507.25, 1517, 1517.2, 1517.3, 1520, 1520.3, 1522, 1522.08, 1522.1, 1522.4, 1522.44, 1523.1, 1524, 1524.01, 1527, 1527.1, 1527.2, 1527.4, 1527.5, 1530.5, 1530.7, 1536, 1536.2, 1538, 1558, 1559.110, 1568.26, and 115725 of, and to repeal Sections 1506.6, 1506.7, 1506.8, and 1517.1 of, the Health and Safety Code, to amend Section 676.7 of the Insurance Code, to amend Sections 11105.2, 11165.7, 11167.5, 11170 of the Penal Code, to amend Sections 1541 and 1543 of the Probate Code, and to amend Sections 224.1, 291, 293, 294, 295, 309, 319, 361, 361.2, 361.4, 361.45, 362.04, 366.1, 366.3, 366.31, 628, 706.5, 706.6, 727, 727.05, 727.12, 727.4, 827, 4684, 10553.12, 10952.5, 11362, 11363, 11386, 11391, 11400, 11402, 11461, 11461.3, 11461.36, 11461.6, 11462, 11462.01, 11463, 16003.5, 16119, 16161, 16501.01, 16501.02, 16501.1, 16507.5, 16514, 16519, 16519.3, 16519.5, 16519.501, 16519.502, 16519.51, 16519.52, 16519.53, 16519.54, 16519.55, 16519.555, 16519.57, 16519.6, 16521.6, 16563, 16565, 17710, 17730, 17731, 17736, and 18250 of, and to amend the heading of Article 2 (commencing with Section 16519.3) of Chapter 5 of Part 4 of Division 9 of, and to add Sections 16519.605 and 16519.615 to, and to repeal and add Section 16519.4 of, the Welfare and Institutions Code, relating to foster care.<br />\n<br />\n2026/05/13 In committee: Set, first hearing. Referred to APPR. suspense file."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2055",
-    "link": "https://legiscan.com/CA/bill/AB2055/2025?utm_campaign=rss&guid=38AyaRj5wnNJUgQMdbG9M7",
-    "published": "2026-05-13T04:00:00Z",
-    "summary": "An act to amend Sections 658.7 and 760 of, and to add Section 267 to, the Harbors and Navigation Code, and to amend Sections 9850, 9851, and 23640 of the Vehicle Code, relating to vessels.<br />\n<br />\n2026/05/13 From committee: Do pass. (Ayes 14. Noes 0.) (May 13)."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2395",
-    "link": "https://legiscan.com/CA/bill/AB2395/2025?utm_campaign=rss&guid=2JtN7F7ggakdNABdD24HsN",
-    "published": "2026-05-13T04:00:00Z",
-    "summary": "An act to amend Section 17560 of, and to add Section 17560.5 to, the Family Code, relating to child support.<br />\n<br />\n2026/05/13 In committee: Set, first hearing. Referred to APPR. suspense file."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2496",
-    "link": "https://legiscan.com/CA/bill/AB2496/2025?utm_campaign=rss&guid=1r77xlsPDDAi0ztFgqE22k",
-    "published": "2026-05-13T04:00:00Z",
-    "summary": "An act to amend Sections 47606.5, 52062, and 52068 of, and to add Section 33126.7 to, the Education Code, relating to school accountability.<br />\n<br />\n2026/05/13 From committee: Do pass. (Ayes 15. Noes 0.) (May 13)."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA AB2478",
-    "link": "https://legiscan.com/CA/bill/AB2478/2025?utm_campaign=rss&guid=3CDOgi5HhA0IGzfuYymdme",
-    "published": "2026-05-13T04:00:00Z",
-    "summary": "An act to amend Sections 49069.3, 49076, 56055, and 56155.5 of the Education Code, to amend Sections 6552, 8609, 8704.5, 8708, 9201, and 9203.1 of the Family Code, to amend Sections 7930.165, 7930.190, and 30029.7 of the Government Code, to amend Sections 1501.1, 1502, 1505, 1506, 1506.1, 1506.5, 1506.9, 1507.25, 1517, 1517.2, 1517.3, 1520, 1520.3, 1522, 1522.08, 1522.1, 1522.4, 1522.44, 1523.1, 1524, 1524.01, 1527, 1527.1, 1527.2, 1527.4, 1527.5, 1530.5, 1530.7, 1536, 1536.2, 1538, 1558, 1559.110, 1568.26, and 115725 of, and to repeal Sections 1506.6, 1506.7, 1506.8, and 1517.1 of, the Health and Safety Code, to amend Section 676.7 of the Insurance Code, to amend Sections 11105.2, 11165.7, 11167.5, 11170 of the Penal Code, to amend Sections 1541 and 1543 of the Probate Code, and to amend Sections 224.1, 291, 293, 294, 295, 309, 319, 361, 361.2, 361.4, 361.45, 362.04, 366.1, 366.3, 366.31, 628, 706.5, 706.6, 727, 727.05, 727.12, 727.4, 827, 4684, 10553.12, 10952.5, 11362, 11363, 11386, 11391, 11400, 11402, 11461, 11461.3, 11461.36, 11461.6, 11462, 11462.01, 11463, 16003.5, 16119, 16161, 16501.01, 16501.02, 16501.1, 16507.5, 16514, 16519, 16519.3, 16519.5, 16519.501, 16519.502, 16519.51, 16519.52, 16519.53, 16519.54, 16519.55, 16519.555, 16519.57, 16519.6, 16521.6, 16563, 16565, 17710, 17730, 17731, 17736, and 18250 of, and to amend the heading of Article 2 (commencing with Section 16519.3) of Chapter 5 of Part 4 of Division 9 of, and to add Sections 16519.605 and 16519.615 to, and to repeal and add Section 16519.4 of, the Welfare and Institutions Code, relating to foster care.<br />\n<br />\n2026/05/13 In committee: Set, first hearing. Referred to APPR. suspense file."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA AB2247",
-    "link": "https://legiscan.com/CA/bill/AB2247/2025?utm_campaign=rss&guid=jHpuEVH81X2MiWzbRmseD",
-    "published": "2026-05-13T04:00:00Z",
-    "summary": "An act to add Chapter 9 (commencing Section 8270) to Division 8 of the Welfare and Institutions Code, relating to victims of crime.<br />\n<br />\n2026/05/13 In committee: Set, first hearing. Referred to APPR. suspense file."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA AB2496",
-    "link": "https://legiscan.com/CA/bill/AB2496/2025?utm_campaign=rss&guid=1r77xlsPDDAi0ztFgqE22k",
-    "published": "2026-05-13T04:00:00Z",
-    "summary": "An act to amend Sections 47606.5, 52062, and 52068 of, and to add Section 33126.7 to, the Education Code, relating to school accountability.<br />\n<br />\n2026/05/13 From committee: Do pass. (Ayes 15. Noes 0.) (May 13)."
   },
   {
     "source": "Legislative Analyst's Office: Recent Publications",
@@ -357,27 +406,6 @@
     "summary": "Across five humanitarian and civic assistance sites in the Philippines, U.S. service members, Armed Forces of the Philippines personnel, local leaders, barangay rural health workers and community members worked together during Exercise Balikatan 2026 to strengthen community resilience through health care, education support, infrastructure projects and civil-military engagements.<br /> \n<img alt=\"Philippine Nurse Corps 2nd Lt. Ronaldo Lucas, left, a nurse assigned to 2nd Technical Administrative Services Brigade and U.S. Navy Hospital Corpsman 1st Class Sheena Beltran, a corpsman assigned to 1st Medical Battalion, 1st Marine Logistics Group, I Marine Expeditionary Force, converse during a cooperative health engagement as part of Exercise Balikatan 2026 in San Vicente, Philippines, April 21, 2026.\" src=\"https://media.defense.gov/2026/May/08/2003928965/115/75/0/260421-M-NM916-1084.JPG\" /> <br />"
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA SB884",
-    "link": "https://legiscan.com/CA/bill/SB884/2025?utm_campaign=rss&guid=4zukGGKD8qJ4WMtkdMcJ0o",
-    "published": "2026-05-08T04:00:00Z",
-    "summary": "An act to add and repeal Chapter 5 (commencing with Section 400) of Division 0.5 of the Elections Code, relating to elections, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/05/08 Set for hearing May 14."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA SB962",
-    "link": "https://legiscan.com/CA/bill/SB962/2025?utm_campaign=rss&guid=6Sp3NwGJFKiHSjT2Mo9Qxf",
-    "published": "2026-05-08T04:00:00Z",
-    "summary": "An act to amend Section 25258 of the Vehicle Code, relating to vehicles.<br />\n<br />\n2026/05/08 Set for hearing May 14."
-  },
-  {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA SB1044",
-    "link": "https://legiscan.com/CA/bill/SB1044/2025?utm_campaign=rss&guid=2nDJWJXquJ45wFmOpGP7BC",
-    "published": "2026-05-08T04:00:00Z",
-    "summary": "An act to amend Sections 14838.5 and 14838.64 of the Government Code, relating to public contracts.<br />\n<br />\n2026/05/08 Set for hearing May 14."
-  },
-  {
     "source": "Public Policy Institute of California",
     "title": "What California’s Next Governor Needs to Know about Health Care",
     "link": "https://www.ppic.org/blog/what-californias-next-governor-needs-to-know-about-health-care/?utm_source=rss&utm_medium=rss&utm_campaign=what-californias-next-governor-needs-to-know-about-health-care",
@@ -390,13 +418,6 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4485392/blount-island-enables-rapid-meu-ship-to-shore-operations-reinforcing-southcom-r/",
     "published": "2026-05-07T16:25:00Z",
     "summary": "U.S. Marines with the 22nd Marine Expeditionary Unit (Special Operations Capable) landed an up-armored wrecker May 5 at Marine Corps Support Facility Blount Island in Florida, demonstrating how the service rapidly moves equipment to support operations across the region.<br /> \n<img alt=\"Blount Island Enables Rapid MEU Ship-to-Shore Operations, Reinforcing SOUTHCOM Readiness\" src=\"https://media.defense.gov/2026/May/07/2003929975/115/75/0/260505-M-BD377-1842.JPG\" /> <br />"
-  },
-  {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA AB2787",
-    "link": "https://legiscan.com/CA/bill/AB2787/2025?utm_campaign=rss&guid=4Mfg7DKiFZM7Os1KmcP4c",
-    "published": "2026-05-07T04:00:00Z",
-    "summary": "An act to amend Section 1745 of, and to amend, renumber, and add Section 3480 of, the Fish and Game Code, to amend Section 675 of the Harbors and Navigation Code, to amend Sections 9853 and 9860 of the Vehicle Code, and to amend Section 10722.4 of the Water Code, relating to public resources.<br />\n<br />\n2026/05/07 In Senate. Read first time. To Com. on RLS. for assignment."
   },
   {
     "source": "Publication Archive - Public Policy Institute of California",
@@ -418,20 +439,6 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4481875/balikatan-2026-mrfd-26-joint-allied-forces-simulate-maritime-security-on-balaba/",
     "published": "2026-05-06T13:51:00Z",
     "summary": "BALABAC ISLAND, Philippines — U.S. Marines with Marine Rotational Force – Darwin 26, a now-certified Special‑Purpose Marine Air‑Ground Task Force assigned to rotational deployments in the South Pacific, participated in a live-fire assault to secure and hold Balabac Airfield in a demonstration of multi-domain interoperability alongside U.S. Soldiers from 25th Infantry Division, Philippine marines and Australian soldiers during Exercise Balikatan 2026, May 3.<br /> \n<img alt=\"U.S. Marines assigned to 1st Battalion, 5th Marine Regiment, Marine Rotational Force – Darwin, supervise their units as they clear the flightline during an airfield seizure as a part of Exercise Balikatan 2026 at Balabac Island, Philippines, May 3, 2026.\" src=\"https://media.defense.gov/2026/May/06/2003928235/115/75/0/260503-M-ST088-1033.JPG\" /> <br />"
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA AB2531",
-    "link": "https://legiscan.com/CA/bill/AB2531/2025?utm_campaign=rss&guid=2fxNx8TrdqVoNdmoAa5azk",
-    "published": "2026-05-06T04:00:00Z",
-    "summary": "An act to amend Sections 127632, 127633, and 127634 of the Health and Safety Code, and to add Section 92 to the Military and Veterans Code, relating to public health.<br />\n<br />\n2026/05/06 In committee: Set, first hearing. Referred to APPR. suspense file."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA AB2043",
-    "link": "https://legiscan.com/CA/bill/AB2043/2025?utm_campaign=rss&guid=5ZdM7hVpB61Qlm3Q4soWhy",
-    "published": "2026-05-06T04:00:00Z",
-    "summary": "An act to add Article 4.2 (commencing with Section 8577) to Chapter 7 of Division 1 of Title 2 of the Government Code, relating to state government, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/05/06 In committee: Set, first hearing. Referred to APPR. suspense file."
   },
   {
     "source": "Legislative Analyst's Office: Recent Publications",
@@ -497,20 +504,6 @@
     "summary": "An act to amend Sections 24011, 26802, 26803, 26803.5, 26807, 26809, 26831, 26837, 26840.1, 27297.7, 53601, 53651, and 54221 of the Government Code, relating to local government.<br />\n<br />\n2026/05/04 Referred to Com. on L. GOV."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA SB1433",
-    "link": "https://legiscan.com/CA/bill/SB1433/2025?utm_campaign=rss&guid=3tQ6y9B8c37QikXdquiIaO",
-    "published": "2026-05-04T04:00:00Z",
-    "summary": "An act to amend Sections 733, 2242.2, 2553.5, 3046.1, 4073.5, 4602, 4610, 4826.5, 4858, 6126.7, 16608, and 17810 of the Business and Professions Code, to amend Sections 714.6, 798.14, 798.74.4, 1714.27, 3273.29, 4752, and 8811 of the Civil Code, to amend Sections 697.680 and 1094.9 of the Code of Civil Procedure, to amend Sections 234.7, 35221, 38134, 44043.5, 46392, 49001, 51140, 69436, 70022, 70034, and 88821 of the Education Code, to amend Sections 6915, 12304, and 12309 of the Elections Code, to amend Section 5654 of the Fish and Game Code, to amend Section 21283 of the Food and Agricultural Code, to amend Sections 1031.5, 6215, 6588.7, 8010, 8557, 10233, 10240, 11041, 11123.2, 12100.33, 12100.162, 12910, 12960, 12965, 15475.6, 19829.9854, 53398.52, 54953.4, 54953.8, 54953.8.1, 54954.2, 54957.9, 63049.71, 65589.5, 65914.2, 65950, 66300.6.5, 66323, 67784, 67786, 67788, and 87202 of, and to repeal the heading of Chapter 17.45 (commencing with Section 7289) of Division 7 of Title 1 of, the Government Code, to amend Section 676 of the Harbors and Navigation Code, to amend Sections 1279.6, 1342.74, 1367.25, 1597.640, 8028.73, 17021.8, 17970.3, 38532, 38562, 38562.3, 38591.2, 40100.5.5, 41313, 44501, 44515, 44559.14, 50406.4, 50410, 53545.14, 104660, 104661, and 108980 of the Health and Safety Code, to amend Sections 937, 10123.1933, and 10123.196 of the Insurance Code, to amend Sections 923.1, 1401, and 2810.8 of the Labor Code, to amend Section 59 of the Military and Veterans Code, to amend Sections 136.1, 636.6, 1170, 2780.6, 11105.04, and 13667 of the Penal Code, to amend Sections 4291.5, 4584.1, 4584.2, 5006.1, 5598, 5797.4, 21080.28.5, 21080.43, 21080.44, 25354, 25545, 25545.16, 25545.19, 30166, 30168, 30600.5, and 42652.5 of the Public Resources Code, to amend Sections 748.5, 850, 3299.2, 3310, 8501, and 180305 of, to amend the heading of Chapter 10 (commencing with Section 8500) of Division 4.1 of, and to repeal the heading of Article 7 of Chapter 3 of Division 1.5 of, the Public Utilities Code, to amend Sections 17053.40, 19002, and 23640 of the Revenue and Taxation Code, to amend Sections 21201 and 21450.5 of the Vehicle Code, to amend Sections 351, 50976, 60385, 60414, 74467, and 74850 of the Water Code, to amend Sections 309, 827, 9630, 10213.5, 11330.6, 13300.5, 14005.62, 14005.27, 14105.47, 14132.968, 16000.1, 16121.5, and 18900 of, and to repeal Section 12306.16 of, the Welfare and Institutions Code, and to amend Section 3 of Chapter 578 of the Statutes of 2025, relating to maintenance of the codes.<br />\n<br />\n2026/05/04 Referred to Com. on JUD."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA SB99",
-    "link": "https://legiscan.com/CA/bill/SB99/2025?utm_campaign=rss&guid=3mvyPSb4YEWgHYFs2RCQix",
-    "published": "2026-05-04T04:00:00Z",
-    "summary": "An act to amend Section 6383 of, and to add Section 6310 to, the Family Code, relating to protective orders.<br />\n<br />\n2026/05/04 Referred to Coms. on JUD. and PUB. S."
-  },
-  {
     "source": "Publication Archive - Public Policy Institute of California",
     "title": "Understanding Trends in Law Enforcement Staffing",
     "link": "https://www.ppic.org/publication/understanding-trends-in-law-enforcement-staffing/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-trends-in-law-enforcement-staffing",
@@ -530,13 +523,6 @@
     "link": "https://legiscan.com/CA/bill/SJR14/2025?utm_campaign=rss&guid=4IlCWYMV0lpEz8aPe3RJWs",
     "published": "2026-04-29T04:00:00Z",
     "summary": "Relative to military and veterans.<br />\n<br />\n2026/04/29 Re-referred to Com. on M. & V.A."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA AB2473",
-    "link": "https://legiscan.com/CA/bill/AB2473/2025?utm_campaign=rss&guid=7CsTwp5GA9KHRsB3sqQSyt",
-    "published": "2026-04-29T04:00:00Z",
-    "summary": "An act to amend Section 8586.7 of the Government Code, relating to wildfires.<br />\n<br />\n2026/04/29 In committee: Set, first hearing. Referred to APPR. suspense file."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
@@ -693,10 +679,24 @@
     "summary": "<p>The conversation covers the misrepresentation of events by the media, the impact of immigration policies on terrorist attacks, the clarity of law enforcement response, and the importance of individual preparedness in the face of threats. It emphasizes the need for accurate reporting, effective law enforcement, and personal vigilance in the current security landscape.</p><p></p><p>Takeaways</p><ul><li>Media Misrepresentation</li><li>Law Enforcement Response</li><li>Individual Preparedness</li></ul>"
   },
   {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA SB647",
-    "link": "https://legiscan.com/CA/bill/SB647/2025?utm_campaign=rss&guid=1vmOg66AOEMfYVfatWwgat",
-    "published": "2026-03-02T05:00:00Z",
-    "summary": "An act to amend Section 25665.1 of the Public Resources Code, and to amend Section 382.1 of the Public Utilities Code, relating to energy.<br />\n<br />\n2026/03/02 Veto sustained."
+    "source": "American Military News",
+    "title": "US Congress Approves Funds For Baltics As Russia Tests NATO’s Eastern Flank",
+    "link": "https://americanmilitarynews.com/2026/02/us-congress-approves-funds-for-baltics-as-russia-tests-natos-eastern-flank/",
+    "published": "2026-02-05T14:45:21Z",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1152\" src=\"https://americanmilitarynews.com/wp-content/uploads/WinterStormPhoto-ezgif.com-webp-to-jpg-converter-768x1152.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />This article was originally published by Radio Free Europe/Radio Liberty and is reprinted with permission. WASHINGTON &#8212; Congress has approved $200 million in security assistance for the Baltic states as Russian activity along NATO’s eastern flank intensifies. The funding, approved this week as part of the Fiscal Year 2026 Defense Appropriations Act secures continued US backing for &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/us-congress-approves-funds-for-baltics-as-russia-tests-natos-eastern-flank/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
+  },
+  {
+    "source": "American Military News",
+    "title": "Matryoshka Satellites, Robotic Arms: Former US Space Force Commander Warns Of Russian, Chinese Threats",
+    "link": "https://americanmilitarynews.com/2026/02/matryoshka-satellites-robotic-arms-former-us-space-force-commander-warns-of-russian-chinese-threats/",
+    "published": "2026-02-04T15:47:51Z",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"584\" src=\"https://americanmilitarynews.com/wp-content/uploads/Screenshot_77-768x584.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />This article was originally published by Radio Free Europe/Radio Liberty and is reprinted with permission. When a Russian “nesting-doll” satellite maneuvered into close proximity to a US satellite last June, it was the latest move in a dangerous game of cat-and-mouse in space. Cosmos 2558 had been observed shadowing USA 326 ever since being launched in 2022. &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/matryoshka-satellites-robotic-arms-former-us-space-force-commander-warns-of-russian-chinese-threats/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
+  },
+  {
+    "source": "American Military News",
+    "title": "Video: Shots fired as Border Patrol aids state troopers in Texas ‘pursuit’",
+    "link": "https://americanmilitarynews.com/2026/02/video-shots-fired-as-border-patrol-aids-state-troopers-in-texas-pursuit/",
+    "published": "2026-02-03T14:04:44Z",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://americanmilitarynews.com/wp-content/uploads/Border-Patrol-768x512.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />A video shows a Texas Department of Public Safety trooper firing shots at a moving vehicle after it allegedly rammed into a law enforcement vehicle during a &#8220;pursuit&#8221; that was &#8220;initiated&#8221; by the Texas Department of Public Safety and aided by U.S. Border Patrol agents on Saturday. The video, which was shared on X, formerly &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/video-shots-fired-as-border-patrol-aids-state-troopers-in-texas-pursuit/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
   }
 ]
