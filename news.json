@@ -1,5 +1,68 @@
 [
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
+    "published": "2026-05-16T01:47:49Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-05-16T01:47:48Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
+    "published": "2026-05-15T23:15:47Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Globe",
+    "title": "114-Year Old Coca-Cola Bottling Plant to Close in Ventura, CA",
+    "link": "https://californiaglobe.com/fr/114-year-old-coca-cola-bottling-plant-to-close-in-ventura-ca/",
+    "published": "2026-05-15T23:12:33Z",
+    "summary": "It’s part of a broader restructuring by Reyes Coca-Cola Bottling"
+  },
+  {
+    "source": "California Globe",
+    "title": "Sacramento City Council Rejects Neighbors’ Appeal, Violating CEQA, Sidestepping Zoning Laws, Ignoring Community Input",
+    "link": "https://californiaglobe.com/fr/sacramento-city-council-rejects-neighbors-appeal-violating-ceqa-sidestepping-zoning-laws-ignoring-community-input/",
+    "published": "2026-05-15T22:39:56Z",
+    "summary": "&#8216;The Council has given a green light to this project despite clear conflicts with adopted zoning laws, unresolved public safety and infrastructure concerns, and extensive community opposition&#8217;"
+  },
+  {
+    "source": "California Globe",
+    "title": "Estate Planning Documents and Attorneys",
+    "link": "https://californiaglobe.com/articles/estate-planning-documents-and-attorneys/",
+    "published": "2026-05-15T21:00:55Z",
+    "summary": "Deals with deposit of estate planning documents with an attorney"
+  },
+  {
+    "source": "California Globe",
+    "title": "Rep Tom McClintock Exposes Deadly Sanctuary Policies in Explosive Hearing",
+    "link": "https://californiaglobe.com/fl/rep-tom-mclintick-exposes-deadly-sanctuary-policies-in-explosive-hearing/",
+    "published": "2026-05-15T20:32:43Z",
+    "summary": "California remains the largest offender of DHS sanctuary jurisdictions violations"
+  },
+  {
+    "source": "CalMatters",
+    "title": "Why surveillance pricing bans are suddenly gaining traction this year (and not just in California)",
+    "link": "https://calmatters.org/economy/technology/2026/05/why-surveillance-pricing-bans-are-suddenly-gaining-traction-this-year-and-not-just-in-california/",
+    "published": "2026-05-15T19:50:00Z",
+    "summary": "<figure><img alt=\"A lawmaker stands and speaks on the floor of the California State Assembly chamber while legislators and staff sit at desks throughout the room. Electronic voting boards, ornate columns and the American flag are visible in the background.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2024/02/012224_Assembly-Floor_FG_CM_16.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>A law advancing in the California Assembly makes it illegal to set prices with algorithms. Three other states have passed such bans in the last month."
+  },
+  {
+    "source": "Task & Purpose",
+    "title": "Pentagon cancels planned deployment of long-range missile unit to Germany",
+    "link": "https://taskandpurpose.com/news/army-missile-germany-deployment-canceled/",
+    "published": "2026-05-15T19:31:25Z",
+    "summary": "<p>The 3rd Battalion, 12th Field Artillery Regiment is the latest unit to see its orders to Europe reversed.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/army-missile-germany-deployment-canceled/\">Pentagon cancels planned deployment of long-range missile unit to Germany</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+  },
+  {
     "source": "California Globe",
     "title": "Arizona Senator Pushes Federal Action on Tribal Medicaid Fraud",
     "link": "https://californiaglobe.com/fr/arizona-senator-pushes-federal-action-on-tribal-medicaid-fraud/",
@@ -7,53 +70,11 @@
     "summary": "AG Kris Mayes is accusing Senator Carine Werner of ‘politicizing investigations’"
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-05-15T18:02:04Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "CalMatters",
-    "title": "Six people have died in California ICE detention centers as Trump deportations soared",
+    "title": "Six people died in California ICE detention centers as Trump deportations soared",
     "link": "https://calmatters.org/justice/2026/05/ice-detention-centers-state-inspections/",
     "published": "2026-05-15T17:18:35Z",
     "summary": "<figure><img alt=\"A large desert detention facility surrounded by high fences topped with layers of razor wire, with stark white rectangular buildings lined with narrow windows under a clear blue sky.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"684\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/09/091825-California_City_Detention_Facility_WIKI_CM.jpg?fit=1024%2C684&amp;ssl=1\" width=\"1024\" /></figure>The Trump administration immigration crackdown swelled the population inside California's immigrant detention centers. State investigators in a report described strained medical resources inside the sites."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-05-15T16:17:22Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "California Globe",
-    "title": "High-Speed Rail Shuffle: Bay Area Cronies Board the Boondoggle While the Central Valley Gets the Shaft",
-    "link": "https://californiaglobe.com/fr/high-speed-rail-shuffle-bay-area-cronies-board-the-boondoggle-while-the-central-valley-gets-the-shaft/",
-    "published": "2026-05-15T15:00:25Z",
-    "summary": "The same labor interests that helped finance Democratic campaigns now occupy chairs at the table deciding where the next billion flows"
-  },
-  {
-    "source": "California Political Review",
-    "title": "Watching Porn on California’s Death Row",
-    "link": "https://capoliticalreview.com/2026/05/15/watching-porn-on-californias-death-row/",
-    "published": "2026-05-15T14:30:00Z",
-    "summary": "<p>Under Gavin Newsom, state prisoners are turning taxpayer-funded tablets into personal sex machines. Under Governor Gavin Newsom, California has sought to&#160;transform&#160;its massive prison system into a Nordic-style rehabilitation program. Newsom has&#160;placed&#160;a moratorium on all executions,&#160;transferred&#160;condemned prisoners to facilities&#160;across&#160;the state,&#160;dismantled&#160;San Quentin State Prison’s death row, and&#160;turned&#160;the notorious prison into a therapeutic center, with&#160;art,&#160;classrooms, a&#160;café, and podcast&#160;studios. [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/05/15/watching-porn-on-californias-death-row/\">Read More and Comment: Watching Porn on California’s Death Row</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/05/15/watching-porn-on-californias-death-row/\">Watching Porn on California’s Death Row</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "California Globe",
-    "title": "SAG-AFTRA Draws a Hard Line on AI: New Contract Protects Real Actors’ Jobs and Production Authenticity",
-    "link": "https://californiaglobe.com/fr/sag-aftra-draws-a-hard-line-on-ai-new-contract-protects-real-actors-jobs-and-production-authenticity/",
-    "published": "2026-05-15T14:00:38Z",
-    "summary": "Real careers will still belong to actors who show up, emote, and connect with audiences the old-fashioned way"
-  },
-  {
-    "source": "California Political Review",
-    "title": "Where does California rank in homelessness? The federal report that could tell us has been delayed for months",
-    "link": "https://capoliticalreview.com/2026/05/15/where-does-california-rank-in-homelessness-the-federal-report-that-could-tell-us-has-been-delayed-for-months/",
-    "published": "2026-05-15T14:00:00Z",
-    "summary": "<p>Welcome to CalMatters, the only nonprofit newsroom devoted solely to covering issues that affect all Californians. Sign up for&#160;WhatMatters&#160;to receive the latest news and commentary on the most important issues in the Golden State. Every December, the federal government releases a report that reveals the number of&#160;homeless residents&#160;in each state and across the country. It’s [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/05/15/where-does-california-rank-in-homelessness-the-federal-report-that-could-tell-us-has-been-delayed-for-months/\">Read More and Comment: Where does California rank in homelessness? The federal report that could tell us has been delayed for months</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/05/15/where-does-california-rank-in-homelessness-the-federal-report-that-could-tell-us-has-been-delayed-for-months/\">Where does California rank in homelessness? The federal report that could tell us has been delayed for months</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "Task & Purpose",
@@ -61,13 +82,6 @@
     "link": "https://taskandpurpose.com/news/army-drone-scope-2026/",
     "published": "2026-05-15T13:45:25Z",
     "summary": "<p>The Army confirmed a large order of SMASH 2000LE drone-tracking smart scopes. Mounted on a soldier’s rifle, the device can track and target drones as they fly.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/army-drone-scope-2026/\">Army orders rifle-mounted smart scopes to down small drones</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
-    "source": "California Globe",
-    "title": "Mayor Lurie’s Hollow Victory: Optics Over Substance in San Francisco’s Homelessness Numbers",
-    "link": "https://californiaglobe.com/fr/mayor-luries-hollow-victory-optics-over-substance-in-san-franciscos-homelessness-numbers/",
-    "published": "2026-05-15T13:00:10Z",
-    "summary": "Celebrating a four percent overall drop and a methodology-altered unsheltered tally as &#8216;lowest in 15 years&#8217; is a rhetorical sleight of hand"
   },
   {
     "source": "CalMatters",
@@ -89,20 +103,6 @@
     "link": "https://calmatters.org/politics/2026/05/california-grant-hospital-closures/",
     "published": "2026-05-15T12:00:00Z",
     "summary": "<figure><img alt=\"Three medical workers stand inside an emergency room with medical beds, equipment and monitors at a hospital.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/05/031825_Madera-Hospital-Opening_LV_CM_10.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>California leaders approved the hospital funding within days even as they questioned the narrow criteria, the amount and the number of hospitals that would qualify. The speed stunned some hospitals that are now scrambling to apply by the deadline."
-  },
-  {
-    "source": "CalMatters",
-    "title": "I’ve applied for 736 jobs in California and have no takers. Is this the future of work?",
-    "link": "https://calmatters.org/commentary/2026/05/california-jobs-artificial-intelligence-unemployment/",
-    "published": "2026-05-15T12:00:00Z",
-    "summary": "<figure><img alt=\"An advertisement on a glass display at a bus stop reads “The Era of AI Employees is Here,” while a person in tattered clothing sits on the curb.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"716\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/05/050826-AI-Ad-JS-Getty-01-CM.jpg?fit=1024%2C716&amp;ssl=1\" width=\"1024\" /></figure>If someone can’t find work, the dominant assumption is they failed to evolve, to learn or to stay current. Now that's likely not true."
-  },
-  {
-    "source": "California Globe",
-    "title": "Actions by LLC Members",
-    "link": "https://californiaglobe.com/articles/actions-by-llc-members/",
-    "published": "2026-05-15T09:30:55Z",
-    "summary": "Deals with actions by members under the California Revised Uniform Limited Liability Company Act"
   },
   {
     "source": "Task & Purpose",
@@ -152,20 +152,6 @@
     "link": "https://theliberaloc.com/2026/05/14/dpoc-voters-guide-for-june-primary/",
     "published": "2026-05-14T15:59:35Z",
     "summary": "Here&#8217;s a note from the DPOC: Dear Democrats, Who to Vote for in the June Primary? Check out the DPOC Endorsement Guide! Ballots are out! <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/05/14/dpoc-voters-guide-for-june-primary/\" title=\"DPOC Voter&#8217;s Guide for June Primary\">[...]</a>"
-  },
-  {
-    "source": "California Political Review",
-    "title": "A bombshell fraud case takes the spotlight in California’s high-stakes race for governor",
-    "link": "https://capoliticalreview.com/2026/05/14/a-bombshell-fraud-case-takes-the-spotlight-in-californias-high-stakes-race-for-governor/",
-    "published": "2026-05-14T14:30:00Z",
-    "summary": "<p>SACRAMENTO &#160;—&#160;As Xavier Becerra rose to the top echelons of power in Washington and Sacramento over the last two decades, his trusted advisor Sean McCluskie joined him at every step. The son of a Scottish immigrant, McCluskie had a reputation as a political street fighter and his gruff style complemented Becerra’s more measured, cerebral approach. [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/05/14/a-bombshell-fraud-case-takes-the-spotlight-in-californias-high-stakes-race-for-governor/\">Read More and Comment: A bombshell fraud case takes the spotlight in California’s high-stakes race for governor</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/05/14/a-bombshell-fraud-case-takes-the-spotlight-in-californias-high-stakes-race-for-governor/\">A bombshell fraud case takes the spotlight in California’s high-stakes race for governor</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "California Political Review",
-    "title": "California Democrats deploy risky strategy to shut out Republican governor candidates",
-    "link": "https://capoliticalreview.com/2026/05/14/california-democrats-deploy-risky-strategy-to-shut-out-republican-governor-candidates/",
-    "published": "2026-05-14T14:00:00Z",
-    "summary": "<p>A growing number of California Democrats are embracing an unusual election strategy ahead of the state’s&#160;crowded gubernatorial primary: waiting until the final possible moment to cast their ballots. The tactic is being fueled by anxiety within left-wing circles over&#160;the state’s open primary system, where the top two candidates advance to the November election regardless of [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/05/14/california-democrats-deploy-risky-strategy-to-shut-out-republican-governor-candidates/\">Read More and Comment: California Democrats deploy risky strategy to shut out Republican governor candidates</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/05/14/california-democrats-deploy-risky-strategy-to-shut-out-republican-governor-candidates/\">California Democrats deploy risky strategy to shut out Republican governor candidates</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "U.S. Dept. of Veterans Affairs",
@@ -301,11 +287,46 @@
     "summary": "An act to amend Sections 47606.5, 52062, and 52068 of, and to add Section 33126.7 to, the Education Code, relating to school accountability.<br />\n<br />\n2026/05/14 Read second time. Ordered to third reading."
   },
   {
-    "source": "Task & Purpose",
-    "title": "Army identifies second soldier who went missing in Morocco",
-    "link": "https://taskandpurpose.com/news/army-identifies-second-missing-soldier-morocco/",
-    "published": "2026-05-13T22:43:22Z",
-    "summary": "<p>Spc. Mariyah Symone Collington, 19, was one of two soldiers who fell into the Atlantic Ocean on May 2.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/army-identifies-second-missing-soldier-morocco/\">Army identifies second soldier who went missing in Morocco</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA SB1044",
+    "link": "https://legiscan.com/CA/bill/SB1044/2025?utm_campaign=rss&guid=ztk1CIb8BEiAravELr72M",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Sections 14838.5 and 14838.64 of the Government Code, relating to public contracts.<br />\n<br />\n2026/05/14 Read second time. Ordered to third reading."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB2312",
+    "link": "https://legiscan.com/CA/bill/AB2312/2025?utm_campaign=rss&guid=6Z9YwzO5OdgWRfK8PRRc9m",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Section 3 of Chapter 628 of the Statutes of 2014, relating to tidelands.<br />\n<br />\n2026/05/14 In Senate. Read first time. To Com. on RLS. for assignment."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB2113",
+    "link": "https://legiscan.com/CA/bill/AB2113/2025?utm_campaign=rss&guid=314ORkntvcj8jl86NSovQ4",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to add Part 1.5 (commencing with Section 21750) to Division 9 of the Public Utilities Code, relating to aviation.<br />\n<br />\n2026/05/14 Read second time. Ordered to third reading."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB2066",
+    "link": "https://legiscan.com/CA/bill/AB2066/2025?utm_campaign=rss&guid=2gYWLpCIKlK3bZLikrqEbs",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Section 1399.849 of the Health and Safety Code, and to amend Section 10965.3 of the Insurance Code, relating to health care coverage.<br />\n<br />\n2026/05/14 From committee: Do pass. (Ayes 14. Noes 0.) (May 14)."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB2064",
+    "link": "https://legiscan.com/CA/bill/AB2064/2025?utm_campaign=rss&guid=5FX70IGbiGuc4rRS59jUb5",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Section 51 of the Civil Code, and to amend Sections 12920, 12921, 12926, 12940, and 12955 of the Government Code, relating to discrimination.<br />\n<br />\n2026/05/14 In committee: Held under submission."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB2047",
+    "link": "https://legiscan.com/CA/bill/AB2047/2025?utm_campaign=rss&guid=5c24heskrxoHtRERziGhjj",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to add Title 21.1 (commencing with Section 3273.631) to Part 4 Division 3 of the Civil Code, and to add Section 29187 to the Penal Code, relating to firearms.<br />\n<br />\n2026/05/14 From committee: Amend, and do pass as amended. (Ayes 11. Noes 4.) (May 14)."
   },
   {
     "source": "Public Policy Institute of California",
@@ -327,13 +348,6 @@
     "link": "https://theliberaloc.com/2026/05/13/congressman-dave-min-endorses-dr-paula-swift-for-assembly-district-70/",
     "published": "2026-05-13T15:48:34Z",
     "summary": "&#160; Seal Beach, CA – Today, Congressman Dave Min (CA-47) announced his endorsement of Dr. Paula Swift for Assembly District 70, citing Dr. Swift&#8217;s extraordinary personal story, her lifetime of <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/05/13/congressman-dave-min-endorses-dr-paula-swift-for-assembly-district-70/\" title=\"Congressman Dave Min Endorses Dr. Paula Swift for Assembly District 70 \">[...]</a>"
-  },
-  {
-    "source": "California Political Review",
-    "title": "Governor’s race has CA Dems holding on to their ballots",
-    "link": "https://capoliticalreview.com/2026/05/13/governors-race-has-ca-dems-holding-on-to-their-ballots/",
-    "published": "2026-05-13T14:30:00Z",
-    "summary": "<p>To vote early, or not to vote early? That is the question — at least for some California Democrats who want to avoid seeing two Republicans as the only candidates for governor come November. As CalMatters’ Maya C. Miller explains, fears that two GOP candidates will advance through the June primary because Democratic voters failed [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/05/13/governors-race-has-ca-dems-holding-on-to-their-ballots/\">Read More and Comment: Governor’s race has CA Dems holding on to their ballots</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/05/13/governors-race-has-ca-dems-holding-on-to-their-ballots/\">Governor’s race has CA Dems holding on to their ballots</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "The Official United States Marine Corps Public Website News",
@@ -425,6 +439,13 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4485392/blount-island-enables-rapid-meu-ship-to-shore-operations-reinforcing-southcom-r/",
     "published": "2026-05-07T16:25:00Z",
     "summary": "U.S. Marines with the 22nd Marine Expeditionary Unit (Special Operations Capable) landed an up-armored wrecker May 5 at Marine Corps Support Facility Blount Island in Florida, demonstrating how the service rapidly moves equipment to support operations across the region.<br /> \n<img alt=\"Blount Island Enables Rapid MEU Ship-to-Shore Operations, Reinforcing SOUTHCOM Readiness\" src=\"https://media.defense.gov/2026/May/07/2003929975/115/75/0/260505-M-BD377-1842.JPG\" /> <br />"
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA AB2787",
+    "link": "https://legiscan.com/CA/bill/AB2787/2025?utm_campaign=rss&guid=4Mfg7DKiFZM7Os1KmcP4c",
+    "published": "2026-05-07T04:00:00Z",
+    "summary": "An act to amend Section 1745 of, and to amend, renumber, and add Section 3480 of, the Fish and Game Code, to amend Section 675 of the Harbors and Navigation Code, to amend Sections 9853 and 9860 of the Vehicle Code, and to amend Section 10722.4 of the Water Code, relating to public resources.<br />\n<br />\n2026/05/07 In Senate. Read first time. To Com. on RLS. for assignment."
   },
   {
     "source": "Publication Archive - Public Policy Institute of California",
@@ -677,26 +698,5 @@
     "link": "",
     "published": "2026-03-14T02:45:00Z",
     "summary": "<p>The conversation covers the misrepresentation of events by the media, the impact of immigration policies on terrorist attacks, the clarity of law enforcement response, and the importance of individual preparedness in the face of threats. It emphasizes the need for accurate reporting, effective law enforcement, and personal vigilance in the current security landscape.</p><p></p><p>Takeaways</p><ul><li>Media Misrepresentation</li><li>Law Enforcement Response</li><li>Individual Preparedness</li></ul>"
-  },
-  {
-    "source": "American Military News",
-    "title": "US Congress Approves Funds For Baltics As Russia Tests NATO’s Eastern Flank",
-    "link": "https://americanmilitarynews.com/2026/02/us-congress-approves-funds-for-baltics-as-russia-tests-natos-eastern-flank/",
-    "published": "2026-02-05T14:45:21Z",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1152\" src=\"https://americanmilitarynews.com/wp-content/uploads/WinterStormPhoto-ezgif.com-webp-to-jpg-converter-768x1152.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />This article was originally published by Radio Free Europe/Radio Liberty and is reprinted with permission. WASHINGTON &#8212; Congress has approved $200 million in security assistance for the Baltic states as Russian activity along NATO’s eastern flank intensifies. The funding, approved this week as part of the Fiscal Year 2026 Defense Appropriations Act secures continued US backing for &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/us-congress-approves-funds-for-baltics-as-russia-tests-natos-eastern-flank/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
-  },
-  {
-    "source": "American Military News",
-    "title": "Matryoshka Satellites, Robotic Arms: Former US Space Force Commander Warns Of Russian, Chinese Threats",
-    "link": "https://americanmilitarynews.com/2026/02/matryoshka-satellites-robotic-arms-former-us-space-force-commander-warns-of-russian-chinese-threats/",
-    "published": "2026-02-04T15:47:51Z",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"584\" src=\"https://americanmilitarynews.com/wp-content/uploads/Screenshot_77-768x584.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />This article was originally published by Radio Free Europe/Radio Liberty and is reprinted with permission. When a Russian “nesting-doll” satellite maneuvered into close proximity to a US satellite last June, it was the latest move in a dangerous game of cat-and-mouse in space. Cosmos 2558 had been observed shadowing USA 326 ever since being launched in 2022. &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/matryoshka-satellites-robotic-arms-former-us-space-force-commander-warns-of-russian-chinese-threats/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
-  },
-  {
-    "source": "American Military News",
-    "title": "Video: Shots fired as Border Patrol aids state troopers in Texas ‘pursuit’",
-    "link": "https://americanmilitarynews.com/2026/02/video-shots-fired-as-border-patrol-aids-state-troopers-in-texas-pursuit/",
-    "published": "2026-02-03T14:04:44Z",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"512\" src=\"https://americanmilitarynews.com/wp-content/uploads/Border-Patrol-768x512.webp\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"768\" />A video shows a Texas Department of Public Safety trooper firing shots at a moving vehicle after it allegedly rammed into a law enforcement vehicle during a &#8220;pursuit&#8221; that was &#8220;initiated&#8221; by the Texas Department of Public Safety and aided by U.S. Border Patrol agents on Saturday. The video, which was shared on X, formerly &#8230;<br /> <a class=\"postReadMore\" href=\"https://americanmilitarynews.com/2026/02/video-shots-fired-as-border-patrol-aids-state-troopers-in-texas-pursuit/\">Read more<i class=\"fa fa-angle-double-right\"></i></a>"
   }
 ]
