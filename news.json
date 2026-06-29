@@ -1,24 +1,31 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
     "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-06-29T02:07:57Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-06-29T10:16:33Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-06-29T01:17:22Z",
+    "published": "2026-06-29T10:16:32Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-06-29T01:17:14Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-06-29T10:16:31Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Globe",
+    "title": "Chart of Legislative Rules",
+    "link": "https://californiaglobe.com/articles/chart-of-legislative-rules/",
+    "published": "2026-06-29T09:30:46Z",
+    "summary": "Provides the seven sources of rules used by the California Constitution"
   },
   {
     "source": "California Globe",
@@ -68,13 +75,6 @@
     "link": "https://californiaglobe.com/articles/findings-and-awards-in-workers-comp-cases/",
     "published": "2026-06-27T21:00:44Z",
     "summary": "Deals with findings and awards in workers’ compensation proceedings"
-  },
-  {
-    "source": "California Globe",
-    "title": "Arizona ESA Fight Heads To Court As Special Session Deal Resurfaces",
-    "link": "https://californiaglobe.com/fr/arizona-esa-fight-heads-to-court-as-special-session-deal-resurfaces/",
-    "published": "2026-06-27T20:28:33Z",
-    "summary": "The lawsuit came as the failed end-of-session ESA compromise appeared to return to the center of Capitol discussions"
   },
   {
     "source": "Task & Purpose",
