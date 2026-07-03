@@ -1,24 +1,24 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
     "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-07-03T01:44:34Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-07-03T08:44:03Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-07-02T23:17:28Z",
+    "published": "2026-07-03T08:44:02Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-07-02T23:17:17Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-07-03T08:44:01Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "California Globe",
@@ -119,11 +119,25 @@
     "summary": "<figure><img alt=\"Resident Johnny Nielson walks through the DignityMoves tiny home village in downtown San Francisco, on Oct. 3, 2023. The program provides interim supportive housing to individuals experiencing homelessness. Photo by Loren Elliott for CalMatters\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2023/10/100323-DignityMoves-Tiny-Homes-LE-CM-06.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>In a legal win for California, a federal judge rejected President Trump’s efforts to funnel money away from permanent homeless housing."
   },
   {
+    "source": "California Political Review",
+    "title": "Noncitizen voting, police oversight measures fail to make Nov. 3 ballot in L.A.",
+    "link": "https://capoliticalreview.com/2026/07/02/noncitizen-voting-police-oversight-measures-fail-to-make-nov-3-ballot-in-l-a/",
+    "published": "2026-07-02T14:30:40Z",
+    "summary": "<p>The Los Angeles City Council reversed course on two high-profile ballot proposals on Tuesday, postponing plans to increase their oversight of the police department and to expand voting rights for noncitizens. Council members unanimously held off on a Nov. 3 ballot measure that would have asked voters to create a pathway for noncitizens — possibly [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/07/02/noncitizen-voting-police-oversight-measures-fail-to-make-nov-3-ballot-in-l-a/\">Read More and Comment: Noncitizen voting, police oversight measures fail to make Nov. 3 ballot in L.A.</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/07/02/noncitizen-voting-police-oversight-measures-fail-to-make-nov-3-ballot-in-l-a/\">Noncitizen voting, police oversight measures fail to make Nov. 3 ballot in L.A.</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
     "source": "California Globe",
     "title": "California Avocado Growers Urging Washington to put American Farmers First in Mexico Trade Talks",
     "link": "https://californiaglobe.com/fr/california-avocado-growers-urging-washington-to-put-american-farmers-first-in-mexico-trade-talks/",
     "published": "2026-07-02T14:11:52Z",
     "summary": "California Avocado Commission calls for seasonal avocado import policy as U.S. declines to renew USMCA in current form"
+  },
+  {
+    "source": "California Political Review",
+    "title": "Bill Originally Seeking to Prohibit Sex Offenders and Human Traffickers from Elected Office, Amended to Exempt Pedophiles",
+    "link": "https://capoliticalreview.com/2026/07/02/bill-originally-seeking-to-prohibit-sex-offenders-and-human-traffickers-from-elected-office-amended-to-exempt-pedophiles/",
+    "published": "2026-07-02T14:00:08Z",
+    "summary": "<p>Sen. Scott Wiener requested the exemptions, and they exactly match his SB 145 legislation AB 2691 by Assemblywoman Dawn Addis (D-San Luis Obispo) prohibits persons convicted of “sexual assault” and “human trafficking” from running for any state or local elective office in California. It’s a good bill, with good intent… or was. Recent amendments made on [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/07/02/bill-originally-seeking-to-prohibit-sex-offenders-and-human-traffickers-from-elected-office-amended-to-exempt-pedophiles/\">Read More and Comment: Bill Originally Seeking to Prohibit Sex Offenders and Human Traffickers from Elected Office, Amended to Exempt Pedophiles</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/07/02/bill-originally-seeking-to-prohibit-sex-offenders-and-human-traffickers-from-elected-office-amended-to-exempt-pedophiles/\">Bill Originally Seeking to Prohibit Sex Offenders and Human Traffickers from Elected Office, Amended to Exempt Pedophiles</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "Task & Purpose",
@@ -159,6 +173,83 @@
     "link": "https://www.youtube.com/watch?v=LYCy_-JFMAg",
     "published": "2026-07-02T11:22:21Z",
     "summary": "The National Veterans Golden Age Games continue in Tampa, Florida. In this video, we check in with the Veterans participating in swimming, and learn how different Veterans are using the games, adaptive sports, and these events to heal, try new things, bond with their brothers and sisters, and discover a sense of purpose. \n\nMore info at: \nhttps://department.va.gov/veteran-sports/\n\nVeterans Canteen Service (VCS):\nhttps://www.vacanteen.va.gov/\n\nVA’s MOVE! Program:\nhttps://www.move.va.gov/\n\n@Sports4Vets on Facebook, Instagram, X\n \n#veterans #fitness4life #stayactive #sports4vets #goldenagegames #adaptivesports"
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SB1055",
+    "link": "https://legiscan.com/CA/bill/SB1055/2025?utm_campaign=rss&guid=1pw8ydTZgfcS2p0AGjrtxd",
+    "published": "2026-07-02T04:00:00Z",
+    "summary": "An act to add Article 130 (commencing with Section 21650) to Chapter 1.5 of Part 3 of Division 2 of the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/07/02 Read second time. Ordered to third reading."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SB983",
+    "link": "https://legiscan.com/CA/bill/SB983/2025?utm_campaign=rss&guid=26xFhPjS2Fi6ZIwDVtaIsp",
+    "published": "2026-07-02T04:00:00Z",
+    "summary": "An act to add and repeal Article 48.5 (commencing with Section 20755) of Chapter 1 of Part 3 of Division 2 of the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/07/02 From committee: Do pass. (Ayes 9. Noes 1.) (July 1)."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SB1016",
+    "link": "https://legiscan.com/CA/bill/SB1016/2025?utm_campaign=rss&guid=kribnSFl54RRuagNvmMew",
+    "published": "2026-07-02T04:00:00Z",
+    "summary": "An act to amend Sections 5207, 5211, 5976.5, 5977, 5977.4, 5983, and 5985 of, the Welfare and Institutions Code, relating to mental health.<br />\n<br />\n2026/07/02 Read second time and amended. Re-referred to Com. on APPR."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2780",
+    "link": "https://legiscan.com/CA/bill/AB2780/2025?utm_campaign=rss&guid=68PAsNV7sgLli7GSfLSLfY",
+    "published": "2026-07-02T04:00:00Z",
+    "summary": "An act to amend Sections 22170.5, 22250, 22455.5, 24201.5, 24204, 24209, 24209.3, 24210, 25006, 25009, 26300, and 26606 of, and to amend, repeal, and add Sections 22164.5, 26004, 26113, 26135.7, 26139, and 26139.5 of, the Education Code, and to amend Sections 20405, 20407, 20408, 20409, 20410, 21023.5, 31520, 31520.1, 31520.2, 31621.7, 31622, 31639.3, 31641, 31641.2, 31641.6, 31641.20, 31641.21, and 31835 of, to repeal Section 20411 of, and to add Sections 31540.5 and 31789.6 to, the Government Code, relating to retirement, and making an appropriation therefor.<br />\n<br />\n2026/07/02 Ordered to third reading."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2017",
+    "link": "https://legiscan.com/CA/bill/AB2017/2025?utm_campaign=rss&guid=60dkqKhhQkE2TSQz5CN8yk",
+    "published": "2026-07-02T04:00:00Z",
+    "summary": "An act to amend Section 135 of the Code of Civil Procedure, to amend Sections 37220.7, 45203, 79020, and 88203 of the Education Code, and to amend Sections 6700, 19853, and 19853.1 of the Government Code, relating to state holidays.<br />\n<br />\n2026/07/02 From committee: Do pass and re-refer to Com. on APPR. (Ayes 5. Noes 1.) (July 1). Re-referred to Com. on APPR."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
+    "title": "CA SB1439",
+    "link": "https://legiscan.com/CA/bill/SB1439/2025?utm_campaign=rss&guid=4w4R3z2HmhPSQXs2Hv7Fg8",
+    "published": "2026-07-02T04:00:00Z",
+    "summary": "An act to amend Sections 6508, 17560, 24011, 26802, 26803, 26803.5, 26809, 26831, 26837, 26840.1, 27297.7, 27361.4, 40602, 53601, 53651, 54221, 54953.4, 54953.8.6, 54953.8.7, and 66474.02 of the Government Code, and to amend Section 32499.8 of the Health and Safety Code, relating to local government.<br />\n<br />\n2026/07/02 From committee: Do pass. Ordered to consent calendar. (Ayes 9. Noes 0.) (July 1)."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA SB28",
+    "link": "https://legiscan.com/CA/bill/SB28/2025?utm_campaign=rss&guid=5M88nc3hvTMth24AwooUza",
+    "published": "2026-07-02T04:00:00Z",
+    "summary": "An act to amend Sections 5361, 5971, 5975, 5976.5, 5977, 5977.1, 5977.3, 5977.4, 5978.1, 5979, 5982, 5983, and 5985 of, and to add Section 5988 to, the Welfare and Institutions Code, relating to mental health.<br />\n<br />\n2026/07/02 Read second time and amended. Re-referred to Com. on APPR."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA SB179",
+    "link": "https://legiscan.com/CA/bill/SB179/2025?utm_campaign=rss&guid=4B9oHTV1DT5tnWMij4HN8h",
+    "published": "2026-07-02T04:00:00Z",
+    "summary": "An act to amend Section 8869.84 of the Government Code, to amend Sections 17929, 18942, 50220, 50220.5, 50220.7, 50220.8, 50223, 50230, 50233, 50235, 50239, 50240, 50241, 50242, 50517.5, 50517.8, 50675, 50675.4, 50675.6, and 50675.15 of, to add Section 50246 to, to add Chapter 3.1 (commencing with Section 50160) to Part 1 of, to add Chapter 6.9 (commencing with Section 51349.1) to Part 3 of, and to add Part 18 (commencing with Section 54920) to, Division 31 of, the Health and Safety Code, to amend Sections 75200.2, 75200.3, 75210, 75212, 75214, 75215, 75216, 75217, 75218, 75218.1, and 75218.2 of, to amend, renumber, and add Section 75200 of, to add Sections 75210.1, 75210.2, 75210.3, and 75212.1 to, and to repeal Section 75200.1 of, the Public Resources Code, and to amend Section 8257 of the Welfare and Institutions Code, relating to housing, and making an appropriation therefor, to take effect immediately, bill related to the budget.<br />\n<br />\n2026/07/02 Re-referred to Com. on BUDGET pursuant to Assembly Rule 97."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA SB152",
+    "link": "https://legiscan.com/CA/bill/SB152/2025?utm_campaign=rss&guid=RmEIRUZZrhXFX5Woo2G67",
+    "published": "2026-07-02T04:00:00Z",
+    "summary": "An act to amend Section 8260 of, and to add Section 13074.1 to, the Government Code, to amend Section 1796.47 of, to amend, repeal, and add Sections 1796.37, 1796.49, and 1796.55 of, and to add Chapter 3.66 (commencing with Section 1597.80) to Division 2 of, the Health and Safety Code, to amend Sections 224.72, 2200, 9002, 10072, 10072.3, 11450.025, 12301.61, 12306.19, 13300, 13301, 13302, 13304, 13305, 15204.35, 16121, 16121.5, 18930, 18997, and 18997.4 of, to add Sections 10553.16, 16121.3, 16121.4, 16121.41, and 18928.6 to, to add Chapter 16.5 (commencing with Section 18998) to Part 6 of Division 9 of, and to add and repeal Section 18906.55 of, the Welfare and Institutions Code, and to amend Section 29 of Chapter 43 of the Statutes of 2023, relating to human services, and making an appropriation therefor, to take effect immediately, bill related to the budget.<br />\n<br />\n2026/07/02 Re-referred to Com. on BUDGET pursuant to Assembly Rule 97."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA SB574",
+    "link": "https://legiscan.com/CA/bill/SB574/2025?utm_campaign=rss&guid=4o7iA5fu3vuuzZ9lPgeB7j",
+    "published": "2026-07-02T04:00:00Z",
+    "summary": "An act to amend Section 6173 of, and to add Section 6068.1 to, the Business and Professions Code, and to amend Section 128.7 of, and to add Sections 180 and 1282.1 to, the Code of Civil Procedure, relating to civil proceedings.<br />\n<br />\n2026/07/02 Read second time and amended. Ordered to second reading."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA AB179",
+    "link": "https://legiscan.com/CA/bill/AB179/2025?utm_campaign=rss&guid=5UGIShloz192U5vOACNbyP",
+    "published": "2026-07-02T04:00:00Z",
+    "summary": "An act to amend Section 8869.84 of the Government Code, to amend Sections 17929, 18942, 50220, 50220.5, 50220.7, 50220.8, 50223, 50230, 50233, 50235, 50239, 50240, 50241, 50242, 50517.5, 50517.8, 50675, 50675.4, 50675.6, and 50675.15 of, to add Section 50246 to, to add Chapter 3.1 (commencing with Section 50160) to Part 1 of, to add Chapter 6.9 (commencing with Section 51349.1) to Part 3 of, and to add Part 18 (commencing with Section 54920) to, Division 31 of, the Health and Safety Code, to amend Sections 75200.2, 75200.3, 75210, 75212, 75214, 75215, 75216, 75217, 75218, 75218.1, and 75218.2 of, to amend, renumber, and add Section 75200 of, to add Sections 75210.1, 75210.2, 75210.3, and 75212.1 to, and to repeal Section 75200.1 of, the Public Resources Code, and to amend Section 8257 of the Welfare and Institutions Code, relating to housing, and making an appropriation therefor, to take effect immediately, bill related to the budget.<br />\n<br />\n2026/07/02 Enrolled and presented to the Governor at 3 p.m."
   },
   {
     "source": "Governor of California",
@@ -203,81 +294,25 @@
     "summary": "As our nation celebrates its 250th anniversary, the U.S. Department of Veterans Affairs honors the generations of Veterans whose service and sacrifice have shaped America's journey. In this Independence Day message, VA Deputy Secretary Paul R. Lawrence, Ph.D., reflects on the enduring legacy of those who answered the call to defend our nation and highlights VA's continued progress in delivering the care, benefits, and services Veterans have earned. These achievements include record-breaking disability claims processing, expanded access to health care, and permanently housing nearly 52,000 homeless Veterans. This Fourth of July, join VA in celebrating America's 250th anniversary and honoring the Veterans whose courage, service, and sacrifice have safeguarded our nation's freedom."
   },
   {
+    "source": "California Political Review",
+    "title": "Supreme Court rules ballots arriving after Election Day can be counted, in win for Dems",
+    "link": "https://capoliticalreview.com/2026/07/01/supreme-court-rules-ballots-arriving-after-election-day-can-be-counted-in-win-for-dems/",
+    "published": "2026-07-01T14:30:56Z",
+    "summary": "<p>WASHINGTON — The Supreme Court upheld a Mississippi law allowing mail-in ballots postmarked by Election Day to be counted up to five days after the polls close, handing Democrats a massive win heading into the midterm elections. The 5-4 ruling saw Chief Justice John Roberts and conservative Amy Coney Barrett side with their liberal peers in concluding that nothing [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/07/01/supreme-court-rules-ballots-arriving-after-election-day-can-be-counted-in-win-for-dems/\">Read More and Comment: Supreme Court rules ballots arriving after Election Day can be counted, in win for Dems</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/07/01/supreme-court-rules-ballots-arriving-after-election-day-can-be-counted-in-win-for-dems/\">Supreme Court rules ballots arriving after Election Day can be counted, in win for Dems</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
+    "source": "California Political Review",
+    "title": "Supreme Court upholds laws banning trans athletes from women’s sports",
+    "link": "https://capoliticalreview.com/2026/07/01/supreme-court-upholds-laws-banning-trans-athletes-from-womens-sports/",
+    "published": "2026-07-01T14:00:51Z",
+    "summary": "<p>The 6-3 ruling upholds state laws in Idaho and West Virginia. The Supreme Court has upheld state laws prohibiting transgender athletes from participating in women’s and girls sports, dealing a major blow to anti-discrimination protections for trans students. In a ruling Tuesday, the justices upheld laws in Idaho and West Virginia that ban trans athletes from [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/07/01/supreme-court-upholds-laws-banning-trans-athletes-from-womens-sports/\">Read More and Comment: Supreme Court upholds laws banning trans athletes from women’s sports</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/07/01/supreme-court-upholds-laws-banning-trans-athletes-from-womens-sports/\">Supreme Court upholds laws banning trans athletes from women’s sports</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
     "source": "U.S. Dept. of Veterans Affairs",
     "title": "This is my peace | 2026 National Veterans Golden Age Games",
     "link": "https://www.youtube.com/watch?v=531qq3BaDsg",
     "published": "2026-07-01T11:13:38Z",
     "summary": "The National Veterans Golden Age Games continues in Tampa, Florida. In this video, we check in with golf. VA Recreation Therapist, Ally Armstrong, shares why adaptive sports are so important to our Veterans. \n\nMore info at: \nhttps://department.va.gov/veteran-sports/\n\nVeterans Canteen Service (VCS):\nhttps://www.vacanteen.va.gov/\n\n@Sports4Vets on Facebook, Instagram, X#adaptivesports \n \n#veterans #fitness4life #stayactive #sports4vets #goldenagegames #adaptivesports"
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB1201",
-    "link": "https://legiscan.com/CA/bill/SB1201/2025?utm_campaign=rss&guid=28fAhOeFtnZLWb4AB97qtK",
-    "published": "2026-07-01T04:00:00Z",
-    "summary": "An act to amend Section 18926.6 of, and to add Section 18923.5 to, the Welfare and Institutions Code, relating to public social services.<br />\n<br />\n2026/07/01 From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 0.) (June 30). Re-referred to Com. on APPR."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SJR14",
-    "link": "https://legiscan.com/CA/bill/SJR14/2025?utm_campaign=rss&guid=1cglkLWHfH9Oxihk5GVjAG",
-    "published": "2026-07-01T04:00:00Z",
-    "summary": "Relative to military and veterans.<br />\n<br />\n2026/07/01 From committee: Be adopted. Ordered to consent calendar. (Ayes 8. Noes 0.) (June 30)."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB974",
-    "link": "https://legiscan.com/CA/bill/SB974/2025?utm_campaign=rss&guid=kMVwrGnOkgUmisnULOk6S",
-    "published": "2026-07-01T04:00:00Z",
-    "summary": "An act to amend Section 63.2 of the Revenue and Taxation Code, relating to taxation.<br />\n<br />\n2026/07/01 From committee: Do pass. (Ayes 11. Noes 0.) (July 1)."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB1322",
-    "link": "https://legiscan.com/CA/bill/SB1322/2025?utm_campaign=rss&guid=1U0dgyPquZtitZzUJxev3w",
-    "published": "2026-07-01T04:00:00Z",
-    "summary": "An act to amend Section 18999.97 of the Welfare and Institutions Code, relating to public social services.<br />\n<br />\n2026/07/01 From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (June 30). Re-referred to Com. on APPR."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2093",
-    "link": "https://legiscan.com/CA/bill/AB2093/2025?utm_campaign=rss&guid=4HEBwt5FSrkdNXaQ42kKP1",
-    "published": "2026-07-01T04:00:00Z",
-    "summary": "An act to amend Sections 53123.2, 53123.3, and 53123.4 of the Government Code, and to amend Sections 41135 and 41136 of the Revenue and Taxation Code, relating to mental health.<br />\n<br />\n2026/07/01 From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 0.) (June 30). Re-referred to Com. on APPR."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA SB28",
-    "link": "https://legiscan.com/CA/bill/SB28/2025?utm_campaign=rss&guid=43TU0tpLOdUI8uOzkIlHj3",
-    "published": "2026-07-01T04:00:00Z",
-    "summary": "An act to amend Sections 5361, 5971, 5975, 5976.5, 5977, 5977.1, 5977.3, 5977.4, 5978.1, 5979, 5982, 5983, and 5985 of, and to add Section 5988 to, the Welfare and Institutions Code, relating to mental health.<br />\n<br />\n2026/07/01 From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (June 30)."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA SB331",
-    "link": "https://legiscan.com/CA/bill/SB331/2025?utm_campaign=rss&guid=1fqQkqk836cS7c8YNj7ed7",
-    "published": "2026-07-01T04:00:00Z",
-    "summary": "An act to add Section 1367.72 to the Health and Safety Code, and to add Section 10123.72 to the Insurance Code, relating to health care coverage.<br />\n<br />\n2026/07/01 From committee: Do pass and re-refer to Com. on APPR. (Ayes 14. Noes 0.) (June 30). Re-referred to Com. on APPR."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA AB1939",
-    "link": "https://legiscan.com/CA/bill/AB1939/2025?utm_campaign=rss&guid=5vf8MBfry8s41w4JRRUS91",
-    "published": "2026-07-01T04:00:00Z",
-    "summary": "An act to amend Sections 6501, 6534, 6561, 6584, and 6592 of, and to add Article 7 (commencing with Section 6593) to Chapter 6 of Division 3 of, the Business and Professions Code, and to amend Sections 60.1, 1510, 1821, 2250, 2614.7, and 2643.1 of, to add Part 9.5 (commencing with Section 310) to Division 2 of, and to repeal Section 2340 of, the Probate Code, relating to professional fiduciaries.<br />\n<br />\n2026/07/01 From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 13. Noes 0.) (June 30). Re-referred to Com. on APPR."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA AB2247",
-    "link": "https://legiscan.com/CA/bill/AB2247/2025?utm_campaign=rss&guid=3L3vEWKcWao6anox1jJshU",
-    "published": "2026-07-01T04:00:00Z",
-    "summary": "An act to add and repeal Chapter 9 (commencing with Section 8270) of Division 8 of the Welfare and Institutions Code, relating to victims of crime.<br />\n<br />\n2026/07/01 From committee: Do pass and re-refer to Com. on APPR. (Ayes 12. Noes 1.) (June 30). Re-referred to Com. on APPR."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA SB135",
-    "link": "https://legiscan.com/CA/bill/SB135/2025?utm_campaign=rss&guid=Sc07xti35G7KWMkzkq3MN",
-    "published": "2026-07-01T04:00:00Z",
-    "summary": "An act to amend Sections 17201, 66014.6, 66292, 66292.1, 66292.2, 69432, 69436, 69439, 70022, 76140, 78261, 78261.5, 78263.1, 84321.65, 84750.4, 87861, and 88826.5 of, to amend, repeal, and add Sections 87766 and 88193 of, to add Sections 10875, 66023.9, 75013, 84750.8, and 89526 to, to add Article 17 (commencing with Section 69870 to Chapter 2 of Part 42 of Division 5 of Title 3 of, to add Article 9 (commencing with Section 78093) to Chapter 1 of Part 48 of Division 7 of Title 3 of, and to add Part 46.3 (commencing with Section 74500) to Division 7 of Title 3 of, the Education Code, to amend Sections 8014 and 8016 of the Health and Safety Code, to amend Section 1095 of the Unemployment Insurance Code, to amend the Budget Act of 2025 by amending Item 6870-101-0001 of Section 2.00 of that act, and to amend Sections 22 and 27 of Chapter 9 of the Statutes of 2025, relating to postsecondary education, and making an appropriation therefor, to take effect immediately, bill related to the budget.<br />\n<br />\n2026/07/01 Enrolled and presented to the Governor at 3 p.m."
   },
   {
     "source": "Capitol Weekly",
@@ -320,6 +355,13 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4530334/marines-sailors-of-littoral-combat-force-support-us-interagency-earthquake-resp/",
     "published": "2026-06-30T15:22:00Z",
     "summary": "Following two earthquakes off the northern coast of Venezuela on June 24 the United States mobilized a humanitarian response at the request of the Venezuelan government. To support U.S. Southern Command’s rapid deployment of personnel and specialized equipment into the disaster zone, Littoral Combat Force 24 transitioned from scheduled regional security missions to support the U.S. government’s disaster response operation. <br /> \n<img alt=\"A U.S. Marine Corps UH-1Y Venom assigned to Marine Medium Tiltrotor Squadron (VMM) 365 (Reinforced), Littoral Combat Force-24, prepares to land during an aerial damage assessment flight, at Simón Bolívar International Airport, Caracas, Venezuela, June 28, 2026. At the direction of U.S. Southern Command, assigned U.S. military forces are supporting Department of State-led U.S. disaster assistance to the people of Venezuela in the aftermath of the June 24, 2026, earthquakes. (U.S. Marine Corps photo)\" src=\"https://media.defense.gov/2026/Jun/30/2003956109/115/75/0/260628-M-TH104-2356.JPG\" /> <br />"
+  },
+  {
+    "source": "California Political Review",
+    "title": "Jon Coupal: How HJTA got Sacramento to surrender on tax hike loophole",
+    "link": "https://capoliticalreview.com/2026/06/30/jon-coupal-how-hjta-got-sacramento-to-surrender-on-tax-hike-loophole/",
+    "published": "2026-06-30T14:30:40Z",
+    "summary": "<p>Earlier this year, the Howard Jarvis Taxpayers Association turned in 1.3 million signatures and successfully qualified the Local Taxpayer Protection Act to Save Proposition 13 (LTPA) for the November ballot. The LTPA will make it harder to raise local taxes in California. It’s desperately needed at a time when affordability is a top concern of [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/06/30/jon-coupal-how-hjta-got-sacramento-to-surrender-on-tax-hike-loophole/\">Read More and Comment: Jon Coupal: How HJTA got Sacramento to surrender on tax hike loophole</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/06/30/jon-coupal-how-hjta-got-sacramento-to-surrender-on-tax-hike-loophole/\">Jon Coupal: How HJTA got Sacramento to surrender on tax hike loophole</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "Capitol Weekly",
@@ -481,13 +523,6 @@
     "link": "",
     "published": "2026-06-18T13:30:00Z",
     "summary": "<p>Ex-CIA operations officer Sam Faddis joins Mark Garrett and rips apart the new Iran \"agreement\" – calling it a bag of smoke that hands the regime billions while they lie about their nuclear program.</p><p>In this raw episode, they break down why the deal fails verification, empowers the IRGC hardliners, and sets up the next conflict – plus explosive revelations on how LA's mayoral election was allegedly stolen through homeless ballot harvesting and zero accountability. From Tehran’s apocalypse ideology to California’s rigged system, this is a must-watch on threats to America.</p>"
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
-    "title": "CA SB1439",
-    "link": "https://legiscan.com/CA/bill/SB1439/2025?utm_campaign=rss&guid=2uJ3jeNb1Kua9C492OlMey",
-    "published": "2026-06-18T04:00:00Z",
-    "summary": "An act to amend Sections 6508, 17560, 24011, 26802, 26803, 26803.5, 26809, 26831, 26837, 26840.1, 27297.7, 27361.4, 40602, 53601, 53651, 54221, 54953.4, 54953.8.6, 54953.8.7, and 66474.02 of the Government Code, and to amend Section 32499.8 of the Health and Safety Code, relating to local government.<br />\n<br />\n2026/06/18 From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV."
   },
   {
     "source": "CVA News & Media",
@@ -663,40 +698,5 @@
     "link": "https://legiscan.com/CA/bill/AB2404/2025?utm_campaign=rss&guid=jK9h2eDRhL1Ob4Fpqjz5L",
     "published": "2026-04-15T04:00:00Z",
     "summary": "An act to amend Section 51226.1 of, and to add Section 33000.1 to, the Education Code, to add Sections 1347.16 and 125290.31 to the Health and Safety Code, and to add Section 66.3 to the Military and Veterans Code, relating to state government.<br />\n<br />\n2026/04/15 In committee: Set, second hearing. Failed passage."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
-    "title": "CA AB2645",
-    "link": "https://legiscan.com/CA/bill/AB2645/2025?utm_campaign=rss&guid=1Ya8IZvtvRBZB2wo4Elnpg",
-    "published": "2026-04-13T04:00:00Z",
-    "summary": "An act to add Article 3 (commencing with Section 983) to Chapter 6 of Division 4 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/04/13 In committee: Set, first hearing. Hearing canceled at the request of author."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
-    "title": "CA AB1563",
-    "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=31WL2z4yqMNkIQMOMZ96iE",
-    "published": "2026-04-06T04:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/04/06 Referred to Com. on BUDGET."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA AB1563",
-    "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=31WL2z4yqMNkIQMOMZ96iE",
-    "published": "2026-04-06T04:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/04/06 Referred to Com. on BUDGET."
-  },
-  {
-    "source": "LegiScan Search Feed - CalVet Search",
-    "title": "CA SB604",
-    "link": "https://legiscan.com/CA/bill/SB604/2025?utm_campaign=rss&guid=49YOH7PRN3Cv2cgzrjvQgF",
-    "published": "2026-02-02T05:00:00Z",
-    "summary": "An act to amend Section 987.53 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/02/02 Returned to Secretary of Senate pursuant to Joint Rule 56."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
-    "title": "CA SB879",
-    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=6QM9XKjeiqWgQIf9bsXBKW",
-    "published": "2026-01-12T05:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/12 Read first time."
   }
 ]
