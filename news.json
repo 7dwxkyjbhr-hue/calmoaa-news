@@ -1,24 +1,31 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-07-11T07:28:56Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-07-11T07:28:55Z",
+    "published": "2026-07-11T12:46:58Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-07-11T12:46:58Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-07-11T07:28:54Z",
+    "published": "2026-07-11T12:46:57Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "CalMatters",
+    "title": "Reviving SAT requirements won’t fix California’s university admissions problems",
+    "link": "https://calmatters.org/commentary/2026/07/sat-university-california-admissions-requirements/",
+    "published": "2026-07-11T12:00:00Z",
+    "summary": "<figure><img alt=\"A person uses a tablet to complete a digital standardized test while seated at a desk.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/07/030624-SAT-Test-AP-CM.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>In college admissions in California, the real quandary isn’t about requiring the SAT. It’s about how to select applicants when they all seem to be exceptional."
   },
   {
     "source": "Task & Purpose",
@@ -35,25 +42,11 @@
     "summary": "<img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2026/07/Paws-on-patrol-Governor-Newsom-announces-six-newly-graduated-K-9-teams-to-join-CHP-SEO-GFX-150x150.png\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/07/10/paws-on-patrol-governor-newsom-announces-six-newly-graduated-k-9-teams-to-join-chp/\" rel=\"nofollow\">Source</a></p>"
   },
   {
-    "source": "California Globe",
-    "title": "Restoration of Fisheries",
-    "link": "https://californiaglobe.com/fr/restoration-of-fisheries/",
-    "published": "2026-07-10T21:00:15Z",
-    "summary": "The the Keene-Nielsen Fisheries Restoration Act of 1985"
-  },
-  {
     "source": "CalMatters",
     "title": "Esto es lo que significa para California el proyecto de ley federal de vivienda ‘único en la vida’",
     "link": "https://calmatters.org/calmatters-en-espanol/2026/07/california-proyecto-de-ley-federal-de-vivienda/",
     "published": "2026-07-10T18:34:00Z",
     "summary": "<figure><img alt=\"New housing construction in Elk Grove on July 8, 2022. Photo by Rahul Lal, CalMatters\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2022/06/070822-Housing-Elk-Grove-RL-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>El proyecto de ley federal de vivienda aborda muchos aspectos menores. Sus partidarios esperan que contribuya a paliar la escasez de vivienda tanto en California como en el resto del país."
-  },
-  {
-    "source": "California Globe",
-    "title": "Elevating ‘Black English’ to a Language in Schools Comes with Linguistic and Cultural Problems",
-    "link": "https://californiaglobe.com/fr/elevating-black-english-to-a-language-in-schools-comes-with-linguistic-and-cultural-problems/",
-    "published": "2026-07-10T18:00:52Z",
-    "summary": "California’s public schools already struggle with literacy rates and achievement gaps that affect students of all backgrounds"
   },
   {
     "source": "Governor of California",
@@ -75,13 +68,6 @@
     "link": "https://taskandpurpose.com/news/marines-aav-2026/",
     "published": "2026-07-10T15:01:53Z",
     "summary": "<p>More than eight months after the Marines decommissioned amphibious assault vehicles in active-duty units, a Reserve unit put the last operational ones through an exercise in Europe.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/marines-aav-2026/\">The last Marine Corps AAV had its final field exercise</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
-    "source": "California Globe",
-    "title": "Sacramento’s Sanctuary Law Is Also a Housing Policy",
-    "link": "https://californiaglobe.com/fr/sacramentos-sanctuary-law-is-also-a-housing-policy/",
-    "published": "2026-07-10T14:34:34Z",
-    "summary": "A California household needs an annual income of $204,800 just to carry the payment on a median-priced home, and only 22% of the state&#8217;s households can clear that bar"
   },
   {
     "source": "California Political Review",
@@ -112,25 +98,11 @@
     "summary": "<p>For the second time in five months, Defense Secretary Pete Hegseth waded into an Army safety review by telling grounded pilots to “carry on, Patriots.”</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/hegseth-fix-apache-pilots-suspended/\">Hegseth weighs in on 8 Army helicopter pilots grounded after buzzing July 4th beaches</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "California Globe",
-    "title": "Out-of-State Billionaires vs. California Small Businesses: The Rigged System Blocking Local Craft Spirits",
-    "link": "https://californiaglobe.com/fr/out-of-state-billionaires-vs-california-small-businesses-the-rigged-system-blocking-local-craft-spirits/",
-    "published": "2026-07-10T13:00:48Z",
-    "summary": "California distillers are struggling to find support in Sacramento for legislation that would simply allow them to ship directly to their own customers"
-  },
-  {
     "source": "CalMatters",
     "title": "Can California protect its own gun control laws?",
     "link": "https://calmatters.org/newsletter/gun-safety-second-amendment-lawsuits/",
     "published": "2026-07-10T13:00:00Z",
     "summary": "<figure><img alt=\"A close-up view of a person&#039;s hands holding a black gun with their finger on the trigger.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/07/030223_Glock-Semi-Automatic_AP_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>California Democrats are used to defending gun control measures against lawsuits by Second Amendment advocates like the California Rifle and Pistol Association.&#160; Now, the state is facing a lawsuit from the Trump administration targeting a new law restricting sales of Glock semi-automatic handguns.&#160; Since July 1, the state has prohibited the sale of Glock handguns [&#8230;]"
-  },
-  {
-    "source": "California Globe",
-    "title": "Did Assembly Republican Leaders Sell Out The Caucus or just Themselves?",
-    "link": "https://californiaglobe.com/fr/did-assembly-republican-leaders-sell-out-the-caucus-and-the-people/",
-    "published": "2026-07-10T12:00:01Z",
-    "summary": "Republican Minority Leader Heath Flora and Republican Caucus Chair Juan Alanis voted for a tax increase;"
   },
   {
     "source": "CalMatters",
@@ -145,13 +117,6 @@
     "link": "https://calmatters.org/commentary/2026/07/newsom-oil-industry-presidential-campaign/",
     "published": "2026-07-10T12:00:00Z",
     "summary": "<figure><img alt=\"Gov. Gavin Newsom speaks at a podium during a news conference, flanked by lawmakers and officials.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/07/032823-NEWSOM-OIL-SIGNING-MG-CM-010.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Newsom's longtime personal and political dealings with Big Oil include ties to the Getty family and several recent state regulation changes."
-  },
-  {
-    "source": "CalMatters",
-    "title": "Lowering California’s high utility costs takes more than flashy slogans. It needs these reforms",
-    "link": "https://calmatters.org/commentary/2026/07/electric-costs-utility-budget-california/",
-    "published": "2026-07-10T12:00:00Z",
-    "summary": "<figure><img alt=\"PG&amp;E crews install underground utility conduit along a rural roadside as workers stand beside an open trench and an excavator during construction.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/07/061322-PGE-File-AP-CM.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>Wildfire spending is the largest driver of rate increases, adding hundreds of dollars to power bills. The state has let utilities work around cost limits."
   },
   {
     "source": "U.S. Dept. of Veterans Affairs",
@@ -243,13 +208,6 @@
     "link": "https://capoliticalreview.com/2026/07/08/its-been-three-weeks-since-gov-newsom-said-hes-under-investigation-heres-what-we-know/",
     "published": "2026-07-08T14:30:28Z",
     "summary": "<p>SACRAMENTO, Calif. — Gov. Gavin Newsom and his wife have yet to be subpoenaed by federal investigators, the governor&#8217;s office confirmed Monday. Exactly three weeks after the governor announced he and First Partner Jennifer Siebel Newsom are under investigation by the U.S. Department of Justice, neither have been contacted for interviews with federal investigators. Click [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/07/08/its-been-three-weeks-since-gov-newsom-said-hes-under-investigation-heres-what-we-know/\">Read More and Comment: It&#8217;s been three weeks since Gov. Newsom said he&#8217;s under investigation. Here&#8217;s what we know</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/07/08/its-been-three-weeks-since-gov-newsom-said-hes-under-investigation-heres-what-we-know/\">It&#8217;s been three weeks since Gov. Newsom said he&#8217;s under investigation. Here&#8217;s what we know</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "Daisy Chains Fields Festival Exposes Irvine’s Great Concert Experiment from Live Nation to “Air Supply…Sort Of”",
-    "link": "https://theliberaloc.com/2026/07/07/daisy-chains-fields-festival-exposes-irvines-great-concert-experiment-from-live-nation-to-air-supply-sort-of/",
-    "published": "2026-07-07T20:35:59Z",
-    "summary": "&#160; &#160; There was a time when Irvine had a chance to become Southern California&#8217;s premier outdoor concert destination. Instead, it appears the city decided <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/07/07/daisy-chains-fields-festival-exposes-irvines-great-concert-experiment-from-live-nation-to-air-supply-sort-of/\" title=\"Daisy Chains Fields Festival Exposes Irvine&#8217;s Great Concert Experiment from Live Nation to &#8220;Air Supply&#8230;Sort Of&#8221;\">[...]</a>"
   },
   {
     "source": "The Official United States Marine Corps Public Website News",
@@ -427,13 +385,6 @@
     "summary": "A San Francisco Superior Court judge on Tuesday struck down Attorney General Rob Bonta’s controversial cardroom regulations, which would have limited the salons from offering their most popular games.<p><strong>Continue reading the full article:</strong> <a href=\"http://capitolweekly.net/san-francisco-judge-blocks-new-cardroom-regulations/\">Capitol Weekly</a></p><span style=\"font-size: 0; color: transparent;\">Original article: http://capitolweekly.net/san-francisco-judge-blocks-new-cardroom-regulations/</span>"
   },
   {
-    "source": "The Liberal OC",
-    "title": "The RCV NYC Mayoral Primary was Anything but Nice",
-    "link": "https://theliberaloc.com/2026/06/30/the-rcv-nyc-mayoral-primary-was-anything-but-nice/",
-    "published": "2026-06-30T20:21:28Z",
-    "summary": "&#160; I find myself researching various claims proponents of Rank Choice Voting (RCV) stand behind and my digging doesn&#8217;t match their rhetoric.  A comment that <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/06/30/the-rcv-nyc-mayoral-primary-was-anything-but-nice/\" title=\"The RCV NYC Mayoral Primary was Anything but Nice\">[...]</a>"
-  },
-  {
     "source": "CVA News & Media",
     "title": "CVA Submits Letter of Recommendations for the NDAA",
     "link": "https://cv4a.org/news-media/cva-submits-letter-of-recommendations-for-the-ndaa/",
@@ -446,13 +397,6 @@
     "link": "https://www.ppic.org/blog/how-do-county-registrars-think-about-californias-election-certification-process/?utm_source=rss&utm_medium=rss&utm_campaign=how-do-county-registrars-think-about-californias-election-certification-process",
     "published": "2026-06-30T19:13:18Z",
     "summary": "<p><img alt=\"photo - Close Up of Woman Counting Ballots\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/06/close-up-of-woman-counting-ballots.jpg\" width=\"2000\" /></p>California has been called out for its slow vote count. We asked a county registrar to explain the challenges—and potential solutions."
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "Dear Orange County MAGA: Democratic Socialists Aren’t Communists. But Your Party Sure Isn’t Conservative Anymore.",
-    "link": "https://theliberaloc.com/2026/06/30/dear-orange-county-maga-democratic-socialists-arent-communists-but-your-party-sure-isnt-conservative-anymore/",
-    "published": "2026-06-30T18:31:59Z",
-    "summary": "There must be something in the water at the Orange County Republican Party headquarters.  Or maybe it&#8217;s the fumes from all those red hats.  Because <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/06/30/dear-orange-county-maga-democratic-socialists-arent-communists-but-your-party-sure-isnt-conservative-anymore/\" title=\"Dear Orange County MAGA: Democratic Socialists Aren&#8217;t Communists. But Your Party Sure Isn&#8217;t Conservative Anymore.\">[...]</a>"
   },
   {
     "source": "The Official United States Marine Corps Public Website News",
@@ -488,20 +432,6 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4528992/3rd-marine-littoral-regiment-4th-marine-brigade-conduct-bilateral-littoral-mobi/",
     "published": "2026-06-27T13:16:00Z",
     "summary": "U.S. Marines with 3rd Marine Littoral Regiment, 3rd Marine Division, alongside Philippine marines with 4th Marine Brigade, Philippine Marine Corps, successfully transported personnel, sustainment supplies and advanced coastal defense systems aboard Philippine vessels during bilateral littoral mobility training in Northern Luzon, June 21-22, 2026, in support of the Philippine-led exercise, KAMANDAG 10. The training enhanced the ability of U.S. and Philippine forces to move and sustain personnel and equipment across complex maritime terrain while strengthening interoperability and combined readiness.<br /> \n<img alt=\"U.S. Marines assigned to 3rd Littoral Anti-Air Battalion, 3rd Marine Littoral Regiment, 3rd Marine Division, drive a Marine Air Defense Integrated System off a Philippine surface connector in support of maritime key terrain security operations during KAMANDAG 10 at Calayan, Philippines, June 22, 2026.\" src=\"https://media.defense.gov/2026/Jun/27/2003955041/115/75/0/260622-M-KJ570-1049.JPG\" /> <br />"
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "Nixon Would Be Blushing: J.D. Vance’s Watergate Revisionism Doesn’t Age Well",
-    "link": "https://theliberaloc.com/2026/06/26/nixon-would-be-blushing-j-d-vances-watergate-revisionism-doesnt-age-well/",
-    "published": "2026-06-26T18:11:54Z",
-    "summary": "History is getting a software update. Speaking at the Richard Nixon Presidential Library in Yorba Linda, Vice President J.D. Vance suggested that Richard Nixon&#8217;s reputation <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/06/26/nixon-would-be-blushing-j-d-vances-watergate-revisionism-doesnt-age-well/\" title=\"Nixon Would Be Blushing: J.D. Vance&#8217;s Watergate Revisionism Doesn&#8217;t Age Well\">[...]</a>"
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "Court Orders Surf City to Use RCV",
-    "link": "https://theliberaloc.com/2026/06/26/court-orders-surf-city-to-use-rcv/",
-    "published": "2026-06-26T15:30:44Z",
-    "summary": "&#160; For years, Huntington Beach’s conservative majority has insisted that the city’s at-large election system was just fine. Now a Superior Court judge has ruled <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/06/26/court-orders-surf-city-to-use-rcv/\" title=\"Court Orders Surf City to Use RCV\">[...]</a>"
   },
   {
     "source": "Public Policy Institute of California",
@@ -698,5 +628,75 @@
     "link": "https://legiscan.com/CA/bill/AB2404/2025?utm_campaign=rss&guid=jK9h2eDRhL1Ob4Fpqjz5L",
     "published": "2026-04-15T04:00:00Z",
     "summary": "An act to amend Section 51226.1 of, and to add Section 33000.1 to, the Education Code, to add Sections 1347.16 and 125290.31 to the Health and Safety Code, and to add Section 66.3 to the Military and Veterans Code, relating to state government.<br />\n<br />\n2026/04/15 In committee: Set, second hearing. Failed passage."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
+    "title": "CA AB2645",
+    "link": "https://legiscan.com/CA/bill/AB2645/2025?utm_campaign=rss&guid=1Ya8IZvtvRBZB2wo4Elnpg",
+    "published": "2026-04-13T04:00:00Z",
+    "summary": "An act to add Article 3 (commencing with Section 983) to Chapter 6 of Division 4 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/04/13 In committee: Set, first hearing. Hearing canceled at the request of author."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
+    "title": "CA AB1563",
+    "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=31WL2z4yqMNkIQMOMZ96iE",
+    "published": "2026-04-06T04:00:00Z",
+    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/04/06 Referred to Com. on BUDGET."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+    "title": "CA AB1563",
+    "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=31WL2z4yqMNkIQMOMZ96iE",
+    "published": "2026-04-06T04:00:00Z",
+    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/04/06 Referred to Com. on BUDGET."
+  },
+  {
+    "source": "LegiScan Search Feed - CalVet Search",
+    "title": "CA SB604",
+    "link": "https://legiscan.com/CA/bill/SB604/2025?utm_campaign=rss&guid=49YOH7PRN3Cv2cgzrjvQgF",
+    "published": "2026-02-02T05:00:00Z",
+    "summary": "An act to amend Section 987.53 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/02/02 Returned to Secretary of Senate pursuant to Joint Rule 56."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
+    "title": "CA SB879",
+    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=6QM9XKjeiqWgQIf9bsXBKW",
+    "published": "2026-01-12T05:00:00Z",
+    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/12 Read first time."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
+    "title": "CA SB879",
+    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=6QM9XKjeiqWgQIf9bsXBKW",
+    "published": "2026-01-12T05:00:00Z",
+    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/12 Read first time."
+  },
+  {
+    "source": "California State Commanders Veterans Council",
+    "title": "Welcoming the Montford Point Marine Association California",
+    "link": "https://calcommanders.org/welcoming-the-montford-point-marine-association-los-angeles-chapter-8/",
+    "published": "2025-10-21T18:04:39Z",
+    "summary": "The California State Commanders Veterans Council is proud to welcome the Montford Point Marine Association California as our newest member. Founded in 1965, the Montford Point Marine Association is dedicated to honoring and preserving the legacy of the first African American Marines who trained at Montford Point, Camp Lejeune, North Carolina, between 1942 and 1949. Despite [&#8230;]"
+  },
+  {
+    "source": "California State Commanders Veterans Council",
+    "title": "Protecting Veterans’ Benefits: Why California’s SB 694 Should Lead the Nation",
+    "link": "https://calcommanders.org/protecting-veterans-benefits-why-californias-sb-694-should-lead-the-nation/",
+    "published": "2025-10-20T14:59:10Z",
+    "summary": "An Analytical Brief from CAL EANGUS Leadership A National Issue, A California Solution A recent Washington Post investigation has renewed scrutiny on the Department of Veterans Affairs (VA) disability compensation system, alleging widespread overreach, fraud, and inefficiencies. The report described how outdated disability rules, a surge of minor and unverifiable claims, and a lack of enforcement capacity [&#8230;]"
+  },
+  {
+    "source": "California State Commanders Veterans Council",
+    "title": "California State Commanders Veterans Council Unites for Legislative Priorities in Visalia",
+    "link": "https://calcommanders.org/california-state-commanders-veterans-council-unites-for-legislative-priorities-in-visalia/",
+    "published": "2025-10-20T14:54:30Z",
+    "summary": "On October 18, 2025, the California State Commanders Veterans Council (CSCVC) convened its quarterly conference in Visalia, California, bringing together more than 20 representatives from Military and Veterans Service Organizations (MSOs and VSOs) from across the state. The CSCVC serves as a unified voice for California’s veterans community—advocating for legislation, benefits, and policies that improve [&#8230;]"
+  },
+  {
+    "source": "California State Commanders Veterans Council",
+    "title": "ABC7: California retired veterans and families to benefit from new military pension tax exemption",
+    "link": "https://calcommanders.org/abc7-california-retired-veterans-and-families-to-benefit-from-new-military-pension-tax-exemption/",
+    "published": "2025-10-02T17:22:35Z",
+    "summary": "REDLANDS, Calif. (KABC) &#8212; Veterans have served and sacrificed for our nation, and on Tuesday, the state of California announced a new law to help them in retirement. That law will exempt part of their military pensions from state income tax. At American Legion Post 106 in Redlands, Assemblymember James Ramos (D-San Bernardino) stood before retired [&#8230;]"
   }
 ]
