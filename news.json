@@ -1,24 +1,59 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-07-28T08:10:13Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-07-28T13:24:51Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-07-28T08:10:12Z",
+    "published": "2026-07-28T13:18:08Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
     "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-07-28T08:10:11Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-07-28T13:17:59Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "CalMatters",
+    "title": "What Brazil can teach CA when it comes to kids and tech",
+    "link": "https://calmatters.org/newsletter/kids-tech-safety-brazil/",
+    "published": "2026-07-28T13:00:00Z",
+    "summary": "<figure><img alt=\"A student carrying a backpack walks while looking at a cellphone and holding a sheet of paper as crowds of other students gather outside a school building. Cars and yellow school buses line the street in the background.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/07/083024-Cellphone-Ban-DD-AP-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Compared to the rest of the country, California has been a pioneer in regulating potentially harmful uses of technology. But how does it compare to the rest of the world? That’s a question we’re increasingly interested in answering at CalMatters — and that we try and answer today, with a wide-angle look at how laws [&#8230;]"
+  },
+  {
+    "source": "CalMatters",
+    "title": "California cannot keep rewarding utilities after catastrophic wildfires",
+    "link": "https://calmatters.org/commentary/2026/07/california-rewarding-utilities-after-wildfires/",
+    "published": "2026-07-28T12:00:00Z",
+    "summary": "<figure><img alt=\"A bearded man wearing a cap holds a protest sign reading “Pass SB 1090. Don’t Burn Us Again.” as a crowd of demonstrators carrying signs gathers behind him during an outdoor rally with mountains and palm trees in the background.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/07/062926-Altadena-Fire-Protest-GETTY-CM.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Edison saw record profits and dividends after the Eaton fire and a state bailout. Legislators and Newsom may give them another."
+  },
+  {
+    "source": "CalMatters",
+    "title": "They once taught about a hero. Now faculty rethink César Chávez lessons after allegations",
+    "link": "https://calmatters.org/education/2026/07/cesar-chavez-allegations-farmworker-college-history-classes/",
+    "published": "2026-07-28T12:00:00Z",
+    "summary": "<figure><img alt=\"Two workers stand on a pedestal to remove a cloth covering from a statue, with the sun shining behind the covered figure at a street intersection lined with trees and passing cars.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/07/031926_Cesar-Chavez-LA_TS_CM_18.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>Some faculty have dedicated their careers to researching César Chávez’s life, legacy and labor movement leadership. Following the New York Times’ investigation that revealed a long pattern of Chávez sexually abusing women and girls, college faculty across California are evaluating their research and curriculum about California’s farmworker movements."
+  },
+  {
+    "source": "CalMatters",
+    "title": "Brazil gives parents social media controls for their kids. Why doesn’t California?",
+    "link": "https://calmatters.org/economy/technology/2026/07/brazil-gives-parents-social-media-addiction-controls-should-california/",
+    "published": "2026-07-28T12:00:00Z",
+    "summary": "<figure><img alt=\"A group of students using laying in the grass near a sidewalk looking at a cellphone while a man runs past them.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2024/08/083024_Santa-Monica-Construction_-ZS-32_CM.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>California is leading on kids’ data privacy in the U.S. but still lags internationally."
+  },
+  {
+    "source": "California Globe",
+    "title": "Who Is Exempt from Civil Service in California?",
+    "link": "https://californiaglobe.com/fr/who-is-exempt-from-civil-service-in-california/",
+    "published": "2026-07-28T09:30:53Z",
+    "summary": "Deals with public officers and employees in California"
   },
   {
     "source": "CalMatters",
@@ -26,13 +61,6 @@
     "link": "https://calmatters.org/justice/2026/07/immigration-agent-text-messages/",
     "published": "2026-07-28T04:42:47Z",
     "summary": "<figure><img alt=\"Several heavily armed federal immigration agents restrain a person on the ground beside parked vehicles while other officers stand nearby holding rifles during an enforcement operation on a city street.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/07/062025-Bell-Immigration-Raid-GETTY-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The records came to light as part of lawsuit alleging that federal agents used racial profiling to target Latinos."
-  },
-  {
-    "source": "CalMatters",
-    "title": "California pension ruling limits how many vacation hours workers can count for retirement",
-    "link": "https://calmatters.org/politics/2026/07/california-pension-vacation-cashouts/",
-    "published": "2026-07-28T00:35:13Z",
-    "summary": "<figure><img alt=\"A lawyer in a suit stands before seven California Supreme Court Judges in a courtroom.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2024/07/050824-Supreme-Court-JF-AP-CM-25.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>A new California Supreme Court ruling upholds limits on how many vacation hours government workers can cash out and apply toward the pension formulas."
   },
   {
     "source": "California Globe",
@@ -47,20 +75,6 @@
     "link": "https://californiaglobe.com/fl/steve-hilton-exposes-xavier-becerras-migrant-child-abuse-camps/",
     "published": "2026-07-27T23:00:01Z",
     "summary": "Becerra lost 319,000 unaccompanied migrant children"
-  },
-  {
-    "source": "CalMatters",
-    "title": "Proyecto de ley de California permitiría a víctimas de abuso usar trauma como defensa legal en casos de delitos violentos",
-    "link": "https://calmatters.org/calmatters-en-espanol/2026/07/california-abuso-defensa-legal-delitos-violentos/",
-    "published": "2026-07-27T22:23:13Z",
-    "summary": "<figure><img alt=\"A person wearing glasses, a red blazer, and a blue blouse stands at a podium, speaking into a microphone in front of a crowd during a press event.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/07/092122-ROB-BONTA-GUN-CONTROL-DEPARTMENT-MHN-08-CM.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Por cuarto año consecutivo, los legisladores de California están sopesando si otorgar a los delincuentes violentos el derecho legal a alegar abusos en su defensa legal."
-  },
-  {
-    "source": "CalMatters",
-    "title": "¿Por qué las cárceles de California utilizan a sus propios empleados como alarmas humanas contra incendios?",
-    "link": "https://calmatters.org/calmatters-en-espanol/2026/07/prisiones-incendios-empleados/",
-    "published": "2026-07-27T21:59:40Z",
-    "summary": "<figure><img alt=\"A blue guard tower rises above chain-link fencing topped with razor wire surrounding a large prison complex, viewed across a grassy field with wildflowers blurred in the foreground.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/07/101724-HECHINGER-Pelican-MO-CM-12.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>California gasta decenas de millones de dólares cada año pagando a los empleados de las prisiones para que busquen humo y fuego. Reemplazar las alarmas contra incendios cuesta mucho más."
   },
   {
     "source": "CVA News & Media",
@@ -98,13 +112,6 @@
     "summary": "I&#8217;ve taken several phone calls from ereaders on Ranked Choice Voting who appreciate the detail on studies that seem to contradict RCV&#8217;s positive talking points.  <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/07/27/a-fact-guide-on-rcv-for-your-pocket/\" title=\"A Fact Guide on RCV for your Pocket\">[...]</a>"
   },
   {
-    "source": "California Globe",
-    "title": "Barrel of Woke Regret",
-    "link": "https://californiaglobe.com/fr/barrel-of-woke-regret/",
-    "published": "2026-07-27T18:52:26Z",
-    "summary": "DEI Rhetoric Turned Cracker Barrel into a Woke Corporate Punchline"
-  },
-  {
     "source": "Task & Purpose",
     "title": "Navy reinstates some flu vaccine rules months after Pentagon ended mandate",
     "link": "https://taskandpurpose.com/news/navy-flu-vaccine-policy-updates/",
@@ -131,13 +138,6 @@
     "link": "https://capoliticalreview.com/2026/07/27/his-nickname-was-satan-his-political-influence-was-immense/",
     "published": "2026-07-27T14:00:31Z",
     "summary": "<p>Clint Reilly helped elect a who’s who of California Democrats and trained generations of political consultants. The ex-seminarian had an iron fist, bleeding heart and genius for the business of campaigns. SAN FRANCISCO — Every election produces a campaign strategist whose victory bestows upon them, for at least a little while, the unofficial title of reigning political [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/07/27/his-nickname-was-satan-his-political-influence-was-immense/\">Read More and Comment: His nickname was ‘Satan.’ His political influence was immense</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/07/27/his-nickname-was-satan-his-political-influence-was-immense/\">His nickname was ‘Satan.’ His political influence was immense</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "CalMatters",
-    "title": "Facing $1.5B fire alarm bill, CA prisons go with human smoke detectors",
-    "link": "https://calmatters.org/newsletter/california-prisons-fire-alarm-systems/",
-    "published": "2026-07-27T13:00:00Z",
-    "summary": "<figure><img alt=\"A white and blue guard tower overlooking a prison located in flat farmland surrounded by desert shrub.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/07/110822_Kern-Valley-Prison_LV_CM_08.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Do you smell smoke? Inside California prisons, there are people assigned to do just that. As CalMatters’ Cayla Mihalovich explains, California’s 31 prisons have outdated, malfunctioning or inoperable fire alarm systems. But replacing all those systems, which include various detection devices, control panels and network connections, would cost $1.5 billion. To get around shelling out [&#8230;]"
   },
   {
     "source": "Task & Purpose",
