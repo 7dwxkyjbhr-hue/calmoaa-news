@@ -1,31 +1,31 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
-    "published": "2026-08-01T12:50:01Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-08-01T12:50:00Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-08-01T18:49:00Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-08-01T12:49:59Z",
+    "published": "2026-08-01T16:17:21Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
     "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-08-01T12:49:58Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-08-01T16:17:13Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Globe",
+    "title": "Equipment Manufacturers Meeting on CARB Engine Emissions Regulatory Landscape: The Need for Regulatory Certainty",
+    "link": "https://californiaglobe.com/fr/equipment-manufacturers-meeting-on-carb-engine-emissions-regulatory-landscape-the-need-for-regulatory-certainty/",
+    "published": "2026-08-01T13:30:51Z",
+    "summary": "&#8216;California is an outlier &#8211; no other state gets into emissions&#8217;"
   },
   {
     "source": "CalMatters",
@@ -40,6 +40,34 @@
     "link": "https://taskandpurpose.com/news/army-jungle-tab-permanent/",
     "published": "2026-08-01T11:15:00Z",
     "summary": "<p>Soldiers who completed the jungle school in Panama or Hawaii or Jungle Operations Training Center at Fort Sherman in the 1990s are retroactively eligible.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/army-jungle-tab-permanent/\">Soldiers can now wear the Jungle tab Army-wide</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+  },
+  {
+    "source": "California Globe",
+    "title": "Gross Income of Nonresidents",
+    "link": "https://californiaglobe.com/fr/gross-income-of-nonresidents/",
+    "published": "2026-08-01T09:30:00Z",
+    "summary": "Deals with gross income of nonresidents under the California Personal Income Tax Law"
+  },
+  {
+    "source": "California Globe",
+    "title": "Nevada Governor Lombardo Vows To Fight ‘Devastating’ Federal Colorado River Water Plan",
+    "link": "https://californiaglobe.com/fr/nevada-governor-lombardo-vows-to-fight-devastating-federal-colorado-river-water-plan/",
+    "published": "2026-07-31T23:49:15Z",
+    "summary": "The plan calls for significant reductions in water use, with the heaviest cuts falling on Nevada, Arizona, and California"
+  },
+  {
+    "source": "California Globe",
+    "title": "Jared Leto Documentary Details Sexual Misconduct Allegations: An All Too Familiar Script",
+    "link": "https://californiaglobe.com/fr/jared-leto-documentary-details-sexual-misconduct-allegations-an-all-too-familiar-script/",
+    "published": "2026-07-31T23:00:52Z",
+    "summary": "Hollywood has long treated personal destruction and personal rehabilitation as content streams"
+  },
+  {
+    "source": "California Globe",
+    "title": "Estates and Trusts",
+    "link": "https://californiaglobe.com/articles/estates-and-trusts/",
+    "published": "2026-07-31T21:00:31Z",
+    "summary": "Deals with estates, trusts, beneficiaries, and decedents under the California Personal Income Tax Law"
   },
   {
     "source": "Task & Purpose",
@@ -238,13 +266,6 @@
     "summary": "<p>California House Republicans are asking the Trump administration to prevent Democratic state leaders from implementing a new tax on health insurers. Six House members, including Reps. Kevin Kiley, I-Rocklin, and James Gallagher, R-Yuba City, sent a letter Friday to U.S. Department of Health and Human Services Secretary Robert F. Kennedy, Jr. and Centers for Medicare [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/07/29/california-house-republicans-ask-trump-administration-to-block-states-new-tax/\">Read More and Comment: California House Republicans ask Trump administration to block state’s new tax</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/07/29/california-house-republicans-ask-trump-administration-to-block-states-new-tax/\">California House Republicans ask Trump administration to block state’s new tax</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB2113",
-    "link": "https://legiscan.com/CA/bill/AB2113/2025?utm_campaign=rss&guid=3lr3JXyGJ9nSAZXCjiq9l1",
-    "published": "2026-07-29T04:00:00Z",
-    "summary": "An act to add Part 1.5 (commencing with Section 21750) to Division 9 of the Public Utilities Code, relating to aviation.<br />\n<br />\n2026/07/29 In committee: Hearing postponed by committee."
-  },
-  {
     "source": "The Official United States Marine Corps Public Website News",
     "title": "A Marine's Mentality",
     "link": "https://www.marines.mil/News/News-Display/Article/4558798/a-marines-mentality/",
@@ -257,6 +278,13 @@
     "link": "https://cv4a.org/news-media/vets-on-the-hill-takes-veterans-voices-to-congress/",
     "published": "2026-07-27T21:13:50Z",
     "summary": "<p>Every day, veterans and volunteers across the country make calls, talk with neighbors, attend town halls, and speak up about issues facing the country. Last month, Concerned Veterans for America brought that grassroots energy to Washington, D.C., for its annual “Vets on the Hill” event. In one day, the group held more than 100 meetings [&#8230;]</p>\n<p>The post <a href=\"https://cv4a.org/news-media/vets-on-the-hill-takes-veterans-voices-to-congress/\">Vets on the Hill ensures Congress hears from veteran constituents</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
+  },
+  {
+    "source": "The Liberal OC",
+    "title": "A Fact Guide on RCV for your Pocket",
+    "link": "https://theliberaloc.com/2026/07/27/a-fact-guide-on-rcv-for-your-pocket/",
+    "published": "2026-07-27T19:53:45Z",
+    "summary": "I&#8217;ve taken several phone calls from ereaders on Ranked Choice Voting who appreciate the detail on studies that seem to contradict RCV&#8217;s positive talking points.  <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/07/27/a-fact-guide-on-rcv-for-your-pocket/\" title=\"A Fact Guide on RCV for your Pocket\">[...]</a>"
   },
   {
     "source": "Capitol Weekly",
@@ -322,6 +350,13 @@
     "summary": "<p>Earlier this year, the International Organization for Standardization published ISO 14001:2026, the world’s most recognized standard for environmental management systems. This September, ISO is planning to release ISO 9001:2026, the standard that helps organizations optimize their quality management systems. Exemplar Global has published detailed procedures for certified professionals as well as certified training providers who [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/what-certified-professionals-and-training-providers-need-to-know-about-iso-90012026/\">What Certified Professionals and Training Providers Need to Know About ISO 9001:2026</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
+    "source": "The Liberal OC",
+    "title": "Newport Beach’s July 4th Failure Demands Accountability—Especially From the Four Councilmembers on the November Ballot",
+    "link": "https://theliberaloc.com/2026/07/22/newport-beachs-july-4th-failure-demands-accountability-especially-from-the-four-councilmembers-on-the-november-ballot/",
+    "published": "2026-07-22T19:22:22Z",
+    "summary": "&#160; Newport Beach has spent years building a political brand around public safety. The city&#8217;s elected leadership has repeatedly presented itself as the responsible alternative <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/07/22/newport-beachs-july-4th-failure-demands-accountability-especially-from-the-four-councilmembers-on-the-november-ballot/\" title=\"Newport Beach&#8217;s July 4th Failure Demands Accountability—Especially From the Four Councilmembers on the November Ballot\">[...]</a>"
+  },
+  {
     "source": "CVA News & Media",
     "title": "CVA Submits Letter of Support for S.4632, “The Prevent Government Shutdowns Act of 2026”",
     "link": "https://cv4a.org/news-media/cva-submits-letter-of-support-for-s-4632-the-prevent-government-shutdowns-act-of-2026/",
@@ -343,18 +378,18 @@
     "summary": "U.S. Marines with 4th Assault Amphibian Battalion, 4th Marine Division, conducted the final operational employment of the assault amphibious vehicle in the U.S. Marine Corps during exercise Sea Breeze 26 at Babadag Training Area, Romania, June 14, 2026.<br />"
   },
   {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB1881",
-    "link": "https://legiscan.com/CA/bill/AB1881/2025?utm_campaign=rss&guid=79jhS0qK24hnw21DQmf6vd",
-    "published": "2026-07-22T04:00:00Z",
-    "summary": "An act to amend Section 7930.205 of the Government Code, and to add Chapter 1.79 (commencing with Section 5097.1000) to Division 5 of the Public Resources Code, relating to California Indians.<br />\n<br />\n2026/07/22 In committee: Hearing postponed by committee."
-  },
-  {
     "source": "Public Policy Institute of California",
     "title": "Californians Support Strong Environmental Policy…to a Point",
     "link": "https://www.ppic.org/blog/californians-support-strong-environmental-policyto-a-point/?utm_source=rss&utm_medium=rss&utm_campaign=californians-support-strong-environmental-policyto-a-point",
     "published": "2026-07-21T19:16:14Z",
     "summary": "<p><img alt=\"photo - Keyhole Arch during Sunset\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2023/06/keyhole-arch-during-sunset.jpg\" width=\"2000\" /></p>A gubernatorial candidate’s position on the environment is important to most Californians. But residents are frugal about efforts that may help reduce emissions."
+  },
+  {
+    "source": "The Liberal OC",
+    "title": "The New Research on RCV Doesn’t Match the Claims Made on its Benefits",
+    "link": "https://theliberaloc.com/2026/07/21/51608/",
+    "published": "2026-07-21T18:37:59Z",
+    "summary": "&#160; I’ve spent the last week seeking studies on the impact of Rank Choice Voting, which will be on the ballot in Irvine this November.  <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/07/21/51608/\" title=\"The New Research on RCV Doesn&#8217;t Match the Claims Made on its Benefits\">[...]</a>"
   },
   {
     "source": "The Auditor",
@@ -390,6 +425,13 @@
     "link": "https://www.youtube.com/watch?v=ifFraJPKnpc",
     "published": "2026-07-20T18:37:41Z",
     "summary": "You don’t have to be a data expert to help save lives. Learn how VA’s data-driven approach supports Veterans in crisis and why understanding the numbers is key to building a path to support.\n\n\nLearn more at https://www.mentalhealth.va.gov/suicide_prevention."
+  },
+  {
+    "source": "The Liberal OC",
+    "title": "Ranked Choice Voting: UAW 4811 Needs to Eat its Own Dog Food",
+    "link": "https://theliberaloc.com/2026/07/20/ranked-choice-voting-uaw-4811-needs-to-eat-its-own-dog-food/",
+    "published": "2026-07-20T17:55:44Z",
+    "summary": "At Tuesday night&#8217;s city council meeting where Rank Choice Voting was added to the November 2026 ballot to change the way Irvine elects city leaders, <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/07/20/ranked-choice-voting-uaw-4811-needs-to-eat-its-own-dog-food/\" title=\"Ranked Choice Voting: UAW 4811 Needs to Eat its Own Dog Food\">[...]</a>"
   },
   {
     "source": "The Auditor",
@@ -434,27 +476,6 @@
     "summary": "Relative to the Purple Heart Community.<br />\n<br />\n2026/07/16 Chaptered by Secretary of State. Res. Chapter 152, Statutes of 2026."
   },
   {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB2175",
-    "link": "https://legiscan.com/CA/bill/AB2175/2025?utm_campaign=rss&guid=6Sjrj1R7AcFTc3yUwNRRtN",
-    "published": "2026-07-16T04:00:00Z",
-    "summary": "An act to amend Section 2827 of the Public Utilities Code, relating to electricity.<br />\n<br />\n2026/07/16 Chaptered by Secretary of State - Chapter 94, Statutes of 2026."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SCR121",
-    "link": "https://legiscan.com/CA/bill/SCR121/2025?utm_campaign=rss&guid=32NP9pWPOw5u11ECXsm0Wa",
-    "published": "2026-07-16T04:00:00Z",
-    "summary": "Relative to the Purple Heart Community.<br />\n<br />\n2026/07/16 Chaptered by Secretary of State. Res. Chapter 152, Statutes of 2026."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SCR155",
-    "link": "https://legiscan.com/CA/bill/SCR155/2025?utm_campaign=rss&guid=6tofLEAZOgCsxCnIFxmB6t",
-    "published": "2026-07-16T04:00:00Z",
-    "summary": "Relative to the Officer Kirk Leland Johnson Memorial Interchange.<br />\n<br />\n2026/07/16 Chaptered by Secretary of State. Res. Chapter 154, Statutes of 2026."
-  },
-  {
     "source": "The Auditor",
     "title": "Clause 4.1 of ISO 9001: Don’t Let Climate Change Distract You from the Bigger Picture",
     "link": "https://www.theauditoronline.com/iso-90012026-clause-4-dont-let-climate-change-distract-you-from-the-bigger-picture/",
@@ -488,6 +509,13 @@
     "link": "https://cadem.org/california-democratic-party-endorses-xavier-becerra-for-governor-of-california/",
     "published": "2026-07-13T18:52:41Z",
     "summary": "<p>SACRAMENTO &#8211; Today, following the certification of the June 2 Primary Election, the California Democratic Party (CADEM) has officially endorsed Sec. Xavier Becerra for Governor of California. Becerra emerged from the primary as the top vote-getter among the field of gubernatorial candidates, earning over 2.5 million votes statewide. “California Democrats are proud to endorse Xavier [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-endorses-xavier-becerra-for-governor-of-california/\">California Democratic Party Endorses Xavier Becerra for Governor of California</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
+  },
+  {
+    "source": "The Liberal OC",
+    "title": "I’ve made a mistake on Ranked Choice Voting",
+    "link": "https://theliberaloc.com/2026/07/13/ive-made-mistake-on-ranked-choice-voting/",
+    "published": "2026-07-13T17:57:45Z",
+    "summary": "Readers here know I am not a fan of Ranked Choice Voting in Irvine.  I&#8217;m still not, but I see the headline drew you in.  <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/07/13/ive-made-mistake-on-ranked-choice-voting/\" title=\"I&#8217;ve made a mistake on Ranked Choice Voting\">[...]</a>"
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
@@ -539,13 +567,6 @@
     "summary": "An act to amend Sections 60, 202, 233, 8802, 10864, 11000, 12010, 17463.5, 33000, 33000.5, 33001, 33043, 33102, 33111, 33112, 33113, 33114, 33115, 33116, 33117, 33117.5, 33117.7, 33118, 33119, 33120, 33121, 33122, 33125, 33126.1, 33126.2, 33126.5, 33127, 33133, 33133.5, 33190, 33191, 33195, 33195.1, 33195.4, 33195.5, 33301, 33302, 33305, 33308.5, 33595, 33802, 33803.1, 41320.1, 41320.2, 41321, 41325, 41326, 41327, 41327.1, 41327.2, 44113, 51747.3, 52074, 52163, 54441, 60605.7, 60605.10, 60648, 69513.2, 69562, 71000, and 76004 of, to amend the heading of Chapter 2 (commencing with Section 33100) of Part 20 of Division 2 of Title 2 of, to add Sections 98, 33101, 33110.5, 33302.5, and 33124 to, to add the headings of Article 1 (commencing with Section 33110), Article 2 (commencing with Section 33190), and Article 3 (commencing with Section 33195) to Chapter 2.5 of Part 20 of Division 2 of Title 2 of, to add the heading of Chapter 2.5 (commencing with Section 33110) to Part 20 of Division 2 of Title 2 of, to add Article 2 (commencing with Section 33105) to Chapter 2 of Part 20 of Division 2 of Title 2 of, to repeal Sections 8100, 33004, and 33005 of, to repeal the headings of Article 2 (commencing with Section 33110), Article 5 (commencing with Section 33190), and Article 6 (commencing with Section 33195) of Chapter 2 of Part 20 of Division 2 of Title 2 of, to repeal Article 3 (commencing with Section 33140) of Chapter 2 of Part 20 of Division 2 of Title 2 of, and to repeal and add Sections 33110 and 33303 of, the Education Code, and to amend Sections 7.6, 7.9, 8272, 8310.8, and 11903 of the Government Code, relating to education governance.<br />\n<br />\n2026/07/10 Chaptered by Secretary of State - Chapter 66, Statutes of 2026."
   },
   {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA AB2787",
-    "link": "https://legiscan.com/CA/bill/AB2787/2025?utm_campaign=rss&guid=2ADj72xUzkBDXYcLoZiXOF",
-    "published": "2026-07-06T04:00:00Z",
-    "summary": "An act to amend Section 675 of the Harbors and Navigation Code, to amend Sections 9853 and 9860 of the Vehicle Code, and to amend Section 10722.4 of the Water Code, relating to public resources.<br />\n<br />\n2026/07/06 Read second time and amended. Re-referred to Com. on APPR."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "CA SB1439",
     "link": "https://legiscan.com/CA/bill/SB1439/2025?utm_campaign=rss&guid=4w4R3z2HmhPSQXs2Hv7Fg8",
@@ -588,13 +609,6 @@
     "summary": "<p><img alt=\"photo- Farmer in Tractor\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/06/farmer-in-tractor.jpg\" width=\"2000\" /></p>SGMA-ready crops could keep land in production while delivering other community benefits to the San Joaquin Valley. But do they pencil out for growers? Our economist does the math."
   },
   {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA SB1044",
-    "link": "https://legiscan.com/CA/bill/SB1044/2025?utm_campaign=rss&guid=4nwyDWmgcCjR2KbKy1HavZ",
-    "published": "2026-06-24T04:00:00Z",
-    "summary": "An act to amend Sections 14838.5 and 14838.64 of the Government Code, relating to public contracts.<br />\n<br />\n2026/06/24 Read second time and amended. Re-referred to Com. on APPR."
-  },
-  {
     "source": "Legislative Analyst's Office: Recent Publications",
     "title": "Assembly Handout: Overview of ACA 20",
     "link": "https://lao.ca.gov/Publications/Detail/5193",
@@ -614,20 +628,6 @@
     "link": "https://cadem.org/california-democratic-party-expands-california-fights-forward-leadership-team-with-new-political-director-nichole-trujillo-rice/",
     "published": "2026-06-23T17:54:41Z",
     "summary": "<p>SACRAMENTO, CA — The California Democratic Party (CADEM) today announced the expansion of its senior staff as Democrats gear up for pivotal midterm elections in 2026. Nichole Trujillo Rice has joined CADEM as Political Director, drawing on nearly two decades of experience as a political strategist, coalition builder, and advocate for working families.&#160; “This year’s [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-expands-california-fights-forward-leadership-team-with-new-political-director-nichole-trujillo-rice/\">California Democratic Party Expands “California Fights Forward” Leadership Team with New Political Director Nichole Trujillo Rice</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA SB247",
-    "link": "https://legiscan.com/CA/bill/SB247/2025?utm_campaign=rss&guid=6WhZX2ndNAFLZMI9dJePYG",
-    "published": "2026-06-23T04:00:00Z",
-    "summary": "An act to add Article 1.7 (commencing with Section 10117) to Chapter 1 of Part 2 of Division 2 of the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/06/23 From committee: Do pass and re-refer to Com. on APPR. (Ayes 6. Noes 2.) (June 23). Re-referred to Com. on APPR."
-  },
-  {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA SB1340",
-    "link": "https://legiscan.com/CA/bill/SB1340/2025?utm_campaign=rss&guid=6Cb5fqVpYwe2UEYNvXpS9J",
-    "published": "2026-06-23T04:00:00Z",
-    "summary": "An act to amend Section 14838 of, and to add Section 11148.5.1 to, the Government Code, and to amend Section 999.10 of the Military and Veterans Code, relating to businesses.<br />\n<br />\n2026/06/23 From committee: Do pass and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 8. Noes 0.) (June 23). Re-referred to Com. on APPR."
   },
   {
     "source": "Legislative Analyst's Office: Recent Publications",
