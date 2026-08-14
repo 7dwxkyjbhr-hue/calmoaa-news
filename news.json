@@ -1,31 +1,73 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-08-14T07:03:21Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
-    "published": "2026-08-14T07:03:21Z",
+    "published": "2026-08-14T12:35:30Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-08-14T07:03:20Z",
+    "published": "2026-08-14T12:35:29Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-08-14T12:35:29Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-08-14T07:03:19Z",
+    "published": "2026-08-14T12:35:27Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "CalMatters",
+    "title": "Interested in how California pays for state government? Here’s where to find the data",
+    "link": "https://calmatters.org/commentary/2026/08/how-california-funds-state-government/",
+    "published": "2026-08-14T12:00:00Z",
+    "summary": "<figure><img alt=\"A person wearing a navy suit stands behind a lectern during a press event. The California state seal, state flag and the American flag can be seen behind them. A monitor with the words, &quot;California A Global Economic Powerhouse&quot; can be seen to the person&#039;s left side.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/05/051426_Newsom-Budget_MG_CM_05.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Budgets can gloss over key trends, such as how much government has grown in size and cost under Gov. Gavin Newsom. These sources reveal the data."
+  },
+  {
+    "source": "CalMatters",
+    "title": "Some Cal State students got financial aid decisions a lot later this year. Here’s why",
+    "link": "https://calmatters.org/education/higher-education/2026/08/cal-state-aid/",
+    "published": "2026-08-14T12:00:00Z",
+    "summary": "<figure><img alt=\"Students walk up and down a concrete set of stairs at a university.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/050625_CSU-San-Marcos_AH_CM_12.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The federal aid agency updated its fraud protections, delaying financial aid notifications to students by several weeks."
+  },
+  {
+    "source": "CalMatters",
+    "title": "Where did the birds go? Once-abundant wetlands are drying up after federal staff cutbacks",
+    "link": "https://calmatters.org/environment/2026/08/wildlife-refuge-after-doge/",
+    "published": "2026-08-14T12:00:00Z",
+    "summary": "<figure><img alt=\"Black and white birds fly over a wetland.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/112017_112017_Wildlife_Refuge_SM_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>A long decline in the number of people managing wildlife refuges in California accelerated after the Trump administration's DOGE staffing cuts."
+  },
+  {
+    "source": "California Globe",
+    "title": "Social Purpose Corporations Act",
+    "link": "https://californiaglobe.com/articles/social-purpose-corporations-act/",
+    "published": "2026-08-14T09:30:33Z",
+    "summary": "Deals with social purpose corporations in California. Chapter 1 contains general provisions and definitions"
+  },
+  {
+    "source": "California Globe",
+    "title": "Standards of Conduct",
+    "link": "https://californiaglobe.com/articles/standards-of-conduct/",
+    "published": "2026-08-13T23:17:19Z",
+    "summary": "Deals with directors and management for nonprofit public benefit corporations"
+  },
+  {
+    "source": "California Globe",
+    "title": "Historical Look at How Many Bills Are Considered on the Suspense Files",
+    "link": "https://californiaglobe.com/fr/historical-look-at-how-many-bills-are-considered-on-the-suspense-files-2/",
+    "published": "2026-08-13T23:12:27Z",
+    "summary": "The charts are first divided by State Senate and State Assembly"
   },
   {
     "source": "CalMatters",
@@ -42,6 +84,13 @@
     "summary": "<p>A sustainability standard can be a powerful tool for achieving environmental and social goals across a supply chain, but it is only as good as the way it plays out in the world. Take soccer as an analogy: the sport’s governing body codifies the rules of the game, and each league hires referees to monitor [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/accreditation-is-the-foundation-for-trustworthy-sustainability-certification/\">Accreditation Is the Foundation for Trustworthy Sustainability Certification</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
+    "source": "California Globe",
+    "title": "Becerra Pitches Power Hour: Free Electricity For the Peasants",
+    "link": "https://californiaglobe.com/fr/becerra-pitches-power-hour-free-electricity-for-the-peasants/",
+    "published": "2026-08-13T21:05:30Z",
+    "summary": "Becerra offered no concrete funding mechanism, saying only that he would work with regulators, utilities, and stakeholders"
+  },
+  {
     "source": "CalMatters",
     "title": "California lawmakers kill grizzly bear reintroduction bill",
     "link": "https://calmatters.org/politics/2026/08/lawmakers-kill-grizzly-bill/",
@@ -56,20 +105,6 @@
     "summary": "<p>Task &#038; Purpose spoke with the lead researcher behind the Department of Veterans Affairs' new study, which is currently in the recruitment phase.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/va-study-glp-1-alcohol-addiction/\">Here’s what we know about the VA’s new GLP-1 study</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "CalMatters",
-    "title": "Federal judge poised to restrict immigration arrest tactics in Los Angeles raids",
-    "link": "https://calmatters.org/investigation/2026/08/los-angeles-warrantless-immigration-arrests-blocked/",
-    "published": "2026-08-13T19:35:12Z",
-    "summary": "<figure><img alt=\"A ground-level of a person, wearing a black hat and orange shirt, laying on a wet concrete floor while they put their hands behind their back as an immigration agent grabs them. The agent is dressed in a green uniform.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/08/081525_Immigration-Detain_AP_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>The warrantless arrests have been a key feature of the government's mass deportation efforts."
-  },
-  {
-    "source": "CalMatters",
-    "title": "Nueva exhibición sobre deportaciones masivas muestra a californianos atrapados en redadas, con décadas de diferencia",
-    "link": "https://calmatters.org/calmatters-en-espanol/2026/08/exhibicion-deportaciones-masivas-california/",
-    "published": "2026-08-13T18:58:36Z",
-    "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/081226_DEPORTATION_MUSEUM_AHK_CM_09595.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>La mayor campaña de deportación en la historia de Estados Unidos tuvo lugar hace 71 años, cuando los agentes expulsaron a cerca de un millón de personas. Una nueva exposición del Museo de California establece paralelismos con la represión migratoria del presidente Trump."
-  },
-  {
     "source": "Public Policy Institute of California",
     "title": "Why Are More Mail Ballots Being Rejected as Late?",
     "link": "https://www.ppic.org/blog/why-are-more-mail-ballots-being-rejected-as-late/?utm_source=rss&utm_medium=rss&utm_campaign=why-are-more-mail-ballots-being-rejected-as-late",
@@ -77,18 +112,18 @@
     "summary": "<p><img alt=\"photo - Young Woman Mailing Her Ballot\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/08/young-woman-mailing-her-ballot.jpg\" width=\"2000\" /></p>The share of mail-in ballots rejected for lateness has been rising in recent elections. Are process changes by the US Postal Service contributing to the problem?"
   },
   {
+    "source": "California Globe",
+    "title": "Hoping for an Energy-Intensive Future",
+    "link": "https://californiaglobe.com/fr/hoping-for-an-energy-intensive-future/",
+    "published": "2026-08-13T18:00:28Z",
+    "summary": "Rationing power does not produce an industrial base, a modern health system, or a mechanized farm sector"
+  },
+  {
     "source": "Governor of California",
     "title": "ICYMI: California takes historic action against data brokers",
     "link": "https://www.gov.ca.gov/2026/08/13/icymi-california-takes-historic-action-against-data-brokers/",
     "published": "2026-08-13T17:59:02Z",
     "summary": "<img alt=\"Blue-toned banner with a background photo of server room wiring and hardware, overlaid with bold text reading &#039;California takes HISTORIC ACTION AGAINST DATA BROKERS&#039; in white and orange, with the white California grizzly bear and star emblem centered below the text.\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2026/08/ICYMI-California-takes-historic-action-against-data-brokers-SEO-GFX-150x150.png\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/08/13/icymi-california-takes-historic-action-against-data-brokers/\" rel=\"nofollow\">Source</a></p>"
-  },
-  {
-    "source": "CalMatters",
-    "title": "Cómo los precios desorbitados de la vivienda en San Francisco han definido la carrera para reemplazar a Pelosi",
-    "link": "https://calmatters.org/calmatters-en-espanol/2026/08/wiener-chan-san-francisco-vivienda-pelosi/",
-    "published": "2026-08-13T17:51:45Z",
-    "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/081126-Chan-Wiener-SPLIT-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Sus trayectorias en materia de vivienda asequible podrían ser decisivas en la reñida contienda entre la concejala de San Francisco, Connie Chan, y el senador Scott Wiener por el escaño en el Congreso de la ex presidenta de la Cámara de Representantes, Nancy Pelosi."
   },
   {
     "source": "Task & Purpose",
@@ -117,6 +152,20 @@
     "link": "https://www.gov.ca.gov/2026/08/13/mientras-la-epa-de-trump-silencia-las-voces-de-los-jovenes-california-lanza-un-nuevo-consejo-asesor-juvenil-ambiental-para-ayudar-a-definir-nuestro-futuro-climatico/",
     "published": "2026-08-13T14:31:33Z",
     "summary": "<img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2026/08/Consejo-Asesor-Juvenil-Ambiental-150x150.png\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/08/13/mientras-la-epa-de-trump-silencia-las-voces-de-los-jovenes-california-lanza-un-nuevo-consejo-asesor-juvenil-ambiental-para-ayudar-a-definir-nuestro-futuro-climatico/\" rel=\"nofollow\">Source</a></p>"
+  },
+  {
+    "source": "California Political Review",
+    "title": "Roger Niello to take over as Republican minority leader in the California State Senate",
+    "link": "https://capoliticalreview.com/2026/08/13/roger-niello-to-take-over-as-republican-minority-leader-in-the-california-state-senate/",
+    "published": "2026-08-13T14:30:29Z",
+    "summary": "<p>Sen. Roger Niello will become the new Republican minority leader in the State Senate. Niello, who represents parts of Sacramento County, will take over from Sen. Brian Jones, whose term is ending. The move is effective in November. Click Here to Subscribe to the California Political Review The vote happened Tuesday afternoon during a caucus [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/13/roger-niello-to-take-over-as-republican-minority-leader-in-the-california-state-senate/\">Read More and Comment: Roger Niello to take over as Republican minority leader in the California State Senate</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/13/roger-niello-to-take-over-as-republican-minority-leader-in-the-california-state-senate/\">Roger Niello to take over as Republican minority leader in the California State Senate</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
+    "source": "California Political Review",
+    "title": "Nobody In Sacramento Voted Against This Bill – It Could Still Die Anyway",
+    "link": "https://capoliticalreview.com/2026/08/13/nobody-in-sacramento-voted-against-this-bill-it-could-still-die-anyway/",
+    "published": "2026-08-13T14:00:32Z",
+    "summary": "<p>866 Professional Fiduciaries stand between California’s aging population and a courtroom full of unmanaged estates A bill just cleared the California Assembly 76-0. Zero no votes. Not one member of either party stood up to object. In a Legislature that can turn a resolution honoring National Donut Day into a floor fight, that alone is [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/13/nobody-in-sacramento-voted-against-this-bill-it-could-still-die-anyway/\">Read More and Comment: Nobody In Sacramento Voted Against This Bill – It Could Still Die Anyway</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/13/nobody-in-sacramento-voted-against-this-bill-it-could-still-die-anyway/\">Nobody In Sacramento Voted Against This Bill – It Could Still Die Anyway</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
@@ -273,6 +322,13 @@
     "summary": "<p>Pvt. Aiden Craig died on Aug. 5 following a medical emergency four days earlier during the physical fitness test at Camp Pendleton, California.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/marine-recruit-aiden-craig/\">Marines identify West Coast recruit who died after physical fitness test</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
+    "source": "The Liberal OC",
+    "title": "The DNC’s RCV Reality Check: Apparently Republicans Aren’t the Only Ones Who Hate It",
+    "link": "https://theliberaloc.com/2026/08/12/the-dncs-rcv-reality-check-apparently-republicans-arent-the-only-ones-who-hate-it/",
+    "published": "2026-08-12T20:47:31Z",
+    "summary": "&#160; Ranked Choice Voting (RCV) has long been sold as the enlightened alternative to those supposedly benighted, partisan Republicans who just can’t handle voters having <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/08/12/the-dncs-rcv-reality-check-apparently-republicans-arent-the-only-ones-who-hate-it/\" title=\"The DNC’s RCV Reality Check: Apparently Republicans Aren’t the Only Ones Who Hate It\">[...]</a>"
+  },
+  {
     "source": "Task & Purpose",
     "title": "Navy denies reports of deteriorating mental health aboard USS Abraham Lincoln",
     "link": "https://taskandpurpose.com/news/navy-uss-lincoln-morale-deployed/",
@@ -322,6 +378,20 @@
     "summary": "<strong>CAPITOL WEEKLY PODCAST: </strong>Hosts Rich Ehisen and Tim Foster are joined by Jenny Huh of ABC10 for a look at the 18th edition of Capitol Weekly's Top 100, which published yesterday. Capitol Weekly’s Top 100 is our annual analysis of the unelected political power structure in California. We look at the mostly behind the scenes players who influence policy, elections and governance, including Capitol staff, lobbyists, Agency staff, donors, business leaders, activists, Labor leaders – and even journalists. Huh, Ehisen and Foster run through the Top 10, look at some of the new faces and discuss the themes running through this year's list.<p><strong>Continue reading the full article:</strong> <a href=\"http://capitolweekly.net/special-episode-the-2026-top-100/\">Capitol Weekly</a></p><span style=\"font-size: 0; color: transparent;\">Original article: http://capitolweekly.net/special-episode-the-2026-top-100/</span>"
   },
   {
+    "source": "California Political Review",
+    "title": "Almost nowhere in California is building enough, according to the state. Here’s why",
+    "link": "https://capoliticalreview.com/2026/08/12/almost-nowhere-in-california-is-building-enough-according-to-the-state-heres-why/",
+    "published": "2026-08-12T14:30:14Z",
+    "summary": "<p>Welcome to CalMatters, the only nonprofit newsroom devoted solely to covering issues that affect all Californians. Sign up for WhatMatters to receive the latest news and commentary on the most important issues in the Golden State. Every eight years, state housing regulators give cities and counties across California an especially dreaded homework assignment: Make a plan for [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/12/almost-nowhere-in-california-is-building-enough-according-to-the-state-heres-why/\">Read More and Comment: Almost nowhere in California is building enough, according to the state. Here’s why</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/12/almost-nowhere-in-california-is-building-enough-according-to-the-state-heres-why/\">Almost nowhere in California is building enough, according to the state. Here’s why</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
+    "source": "California Political Review",
+    "title": "Really insulting:’ Campaign to limit settlements stirs frustration among wildfire victims",
+    "link": "https://capoliticalreview.com/2026/08/12/really-insulting-campaign-to-limit-settlements-stirs-frustration-among-wildfire-victims/",
+    "published": "2026-08-12T14:00:02Z",
+    "summary": "<p>ALTADENA, Calif. (KABC) &#8212; Victims of the devastating Los Angeles fires are dealing with a new headache. A controversial campaign that some utility companies are helping pay for is trying to put a cap on how much settlement money victims get. Morgan Whirledge, who is rebuilding this Altadena home destroyed in the Eaton Fire, is angry and [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/12/really-insulting-campaign-to-limit-settlements-stirs-frustration-among-wildfire-victims/\">Read More and Comment: Really insulting:&#8217; Campaign to limit settlements stirs frustration among wildfire victims</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/12/really-insulting-campaign-to-limit-settlements-stirs-frustration-among-wildfire-victims/\">Really insulting:&#8217; Campaign to limit settlements stirs frustration among wildfire victims</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
     "source": "U.S. Dept. of Veterans Affairs",
     "title": "At the Table: Exploring Entrepreneurship with SBA Deputy Administrator Briggs",
     "link": "https://www.youtube.com/watch?v=guba_fRJ5J4",
@@ -357,11 +427,25 @@
     "summary": "As lawmakers race toward the end of the legislative session, AB 2575 is just one of many AI-related bills on the docket for them to consider. But amid the countless discussions currently surrounding AI, AB 2575 addresses one issue that may not immediately come to mind: the rights of healthcare workers using these systems.<p><strong>Continue reading the full article:</strong> <a href=\"http://capitolweekly.net/ab-2575-rage-against-the-machine/\">Capitol Weekly</a></p><span style=\"font-size: 0; color: transparent;\">Original article: http://capitolweekly.net/ab-2575-rage-against-the-machine/</span>"
   },
   {
+    "source": "The Liberal OC",
+    "title": "Irvine’s Great Park Live Gamble: PSQ Gets the Contract, Live Nation Gets the Big Show",
+    "link": "https://theliberaloc.com/2026/08/11/irvines-great-park-live-gamble-psq-gets-the-contract-live-nation-gets-the-big-show/",
+    "published": "2026-08-11T18:56:51Z",
+    "summary": "The Irvine City Council has made its choice: PSQ Productions gets to continue running Great Park Live, while the city moves forward with a management <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/08/11/irvines-great-park-live-gamble-psq-gets-the-contract-live-nation-gets-the-big-show/\" title=\"Irvine’s Great Park Live Gamble: PSQ Gets the Contract, Live Nation Gets the Big Show\">[...]</a>"
+  },
+  {
     "source": "The Official United States Marine Corps Public Website News",
     "title": "Marine Corps Integrates C-sUAS lanes Into Service Level Training Exercise",
     "link": "https://www.marines.mil/News/News-Display/Article/4568793/marine-corps-integrates-c-suas-lanes-into-service-level-training-exercise/",
     "published": "2026-08-11T15:30:00Z",
     "summary": "The Marine Corps launched its first-ever counter-small unmanned aerial systems training lanes and integration during Service Level Training Exercise 4-26, July 15, 2026.<br /> \n<img alt=\"U.S. Marine Corps Cpl. Ethan Camarco, a South Carolina native and team leader with 1st Combat Engineer Battalion, 1st Marine Division, fires a M1014 shotgun during Counter-small Unmanned Aerial System training as part of Service Level Training Exercise 4-26 at Training Area Prospect, Marine Corps Air Ground Combat Center, Twentynine Palms, California, July 17, 2026. With the debut of C-sUAS lanes at the Combat Center, Marines recognize and respond to unmanned aerial threats by employing emerging tactics, techniques, procedures, and maintaining a C-sUAS mindset in every operation, all while preserving the fundamentals that make rifle squads survivable and lethal. SLTE is a premier training event that ensures the Marine Corps remains a highly lethal, adaptable force capable of dominating the future multi-domain fight. (U.S. Marine Corps photo by Lance Cpl. Cody Fitzgerald)\" src=\"https://media.defense.gov/2026/Aug/11/2003977522/115/75/0/260717-M-DR066-1351.JPG\" /> <br />"
+  },
+  {
+    "source": "California Political Review",
+    "title": "Walters: Pension boosts for California police, firefighters could spur increases for other workers",
+    "link": "https://capoliticalreview.com/2026/08/11/walters-pension-boosts-for-california-police-firefighters-could-spur-increases-for-other-workers/",
+    "published": "2026-08-11T14:30:21Z",
+    "summary": "<p>It may be just a coincidence, but when California’s public employee pension system touted very high earnings on its investments last month, it was a political windfall for unions seeking to increase retirement benefits. They could argue that the California Public Employees Retirement System’s report of a 14.8% gain during the 2025-26 fiscal year indicated that California could [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/11/walters-pension-boosts-for-california-police-firefighters-could-spur-increases-for-other-workers/\">Read More and Comment: Walters: Pension boosts for California police, firefighters could spur increases for other workers</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/11/walters-pension-boosts-for-california-police-firefighters-could-spur-increases-for-other-workers/\">Walters: Pension boosts for California police, firefighters could spur increases for other workers</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "Capitol Weekly",
@@ -385,6 +469,13 @@
     "summary": "<p><img alt=\"photo - Kitchen with Chef Blurred Background\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/08/kitchen-with-chef-blurred-background.jpg\" width=\"2000\" /></p>Recently revised federal rules for the Supplemental Nutrition Assistance Program—known as CalFresh in California—impose work and community service requirements on an expanded group of working-age adults. California policymakers will need to find ways to help low-income adults continue to receive food assistance while complying with federal rules."
   },
   {
+    "source": "The Liberal OC",
+    "title": "RCV: When Every Problem Is an “Exception,” Maybe the Exceptions Are the Problem",
+    "link": "https://theliberaloc.com/2026/08/10/rcv-when-every-problem-is-an-exception-maybe-the-exceptions-are-the-problem/",
+    "published": "2026-08-10T18:47:38Z",
+    "summary": "&#160; There is a wonderful moment in any political debate when an advocate for a controversial reform finally admits what critics have been saying all <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/08/10/rcv-when-every-problem-is-an-exception-maybe-the-exceptions-are-the-problem/\" title=\"RCV: When Every Problem Is an “Exception,” Maybe the Exceptions Are the Problem\">[...]</a>"
+  },
+  {
     "source": "CVA News & Media",
     "title": "Understanding a realist foreign policy",
     "link": "https://cv4a.org/news-media/what-is-isolationism-and-why-restraint-isnt-isolationism/",
@@ -397,6 +488,13 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4567330/us-marine-corps-and-italian-san-marco-brigade-commanders-meet-to-strengthen-par/",
     "published": "2026-08-10T12:32:00Z",
     "summary": "Senior leaders from U.S. Marine Corps Forces, Europe and Africa, and the Italian San Marco Brigade met during the African Maritime Forces Summit 2026 to strengthen their collaborative partnership in support of shared security interests in the Mediterranean.<br /> \n<img alt=\"U.S. Marines with U.S. Marine Corps Forces, Europe and Africa, left, and Italian Navy key leaders of the San Marco Brigade, right, participate in a key leader engagement in Rabat, Morocco, July 21, 2026. They met during the African Maritime Forces Summit 2026 to build their relationship and discuss the complexities of maritime security. Co-hosted by the Royal Moroccan Armed Forces, U.S. Naval Forces Africa, and U.S. Marine Corps Forces, Europe and Africa, AMFS 2026 brings together international partners to address shared security challenges under the theme &quot;Innovation and Partnership to Strengthen Maritime Security.&quot; (U.S. Marine Corps photo by Cpl. Garrett Gillespie)\" src=\"https://media.defense.gov/2026/Aug/10/2003976798/115/75/0/260721-M-GG264-1115.JPG\" /> <br />"
+  },
+  {
+    "source": "The Liberal OC",
+    "title": "What if Nixon had Trump’s Defense Team?",
+    "link": "https://theliberaloc.com/2026/08/08/what-if-nixon-had-trumps-defense-team/",
+    "published": "2026-08-08T16:43:40Z",
+    "summary": "Today is the anniversary of Richard Nixon’s resignation, which means it is a good day to contemplate one of history’s great missed opportunities: What if <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/08/08/what-if-nixon-had-trumps-defense-team/\" title=\"What if Nixon had Trump’s Defense Team?\">[...]</a>"
   },
   {
     "source": "Your Leo Nation",
@@ -432,6 +530,13 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4566106/pae-marine-corps-fields-squad-aiming-laser/",
     "published": "2026-08-04T16:19:00Z",
     "summary": "Program Manager Ground Weapons Systems (PM GWS) within PAE Marine Corps began fielding the Squad Aiming Laser (SAL) to the School of Infantry-East at Camp Lejeune, N.C., July 27 and 28, equipping infantry, reconnaissance and special operations forces with a compact, high-precision tool for the modern battlefield.<br /> \n<img alt=\"Squad Aiming Laser is an ultra-compact, all-digital, multi-function laser system. It provides both visible and near-infrared (NIR) aiming pointers and illumination, allowing Marines to locate, identify, and engage targets in the most contentious environments and harshest conditions.\" src=\"https://media.defense.gov/2026/Aug/04/2003976066/115/75/0/260521-D-RT993-2550.JPG\" /> <br />"
+  },
+  {
+    "source": "The Liberal OC",
+    "title": "Some Details on Actual RCV Elections that counters the Pro-RCV Narrative",
+    "link": "https://theliberaloc.com/2026/08/03/some-details-on-actual-rcv-elections-that-counters-the-pro-rcv-narrative/",
+    "published": "2026-08-03T16:44:00Z",
+    "summary": "Ranked Choice Voting: The Overhyped Mess That Promised Paradise and Delivered ChaosRanked Choice Voting was sold to us like a miracle cure for American elections. <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/08/03/some-details-on-actual-rcv-elections-that-counters-the-pro-rcv-narrative/\" title=\"Some Details on Actual RCV Elections that counters the Pro-RCV Narrative\">[...]</a>"
   },
   {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
@@ -593,110 +698,5 @@
     "link": "https://lao.ca.gov/Publications/Detail/5193",
     "published": "2026-06-24T00:00:00Z",
     "summary": "Assembly Budget Committee No. 7 on Accountability and Oversight"
-  },
-  {
-    "source": "Legislative Analyst's Office: Recent Publications",
-    "title": "Senate Handout: Overview of ACA 20",
-    "link": "https://lao.ca.gov/Publications/Detail/5192",
-    "published": "2026-06-24T00:00:00Z",
-    "summary": "Senate Committee on Budget and Fiscal Review"
-  },
-  {
-    "source": "California Democratic Party",
-    "title": "California Democratic Party Expands “California Fights Forward” Leadership Team with New Political Director Nichole Trujillo Rice",
-    "link": "https://cadem.org/california-democratic-party-expands-california-fights-forward-leadership-team-with-new-political-director-nichole-trujillo-rice/",
-    "published": "2026-06-23T17:54:41Z",
-    "summary": "<p>SACRAMENTO, CA — The California Democratic Party (CADEM) today announced the expansion of its senior staff as Democrats gear up for pivotal midterm elections in 2026. Nichole Trujillo Rice has joined CADEM as Political Director, drawing on nearly two decades of experience as a political strategist, coalition builder, and advocate for working families.&#160; “This year’s [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-expands-california-fights-forward-leadership-team-with-new-political-director-nichole-trujillo-rice/\">California Democratic Party Expands “California Fights Forward” Leadership Team with New Political Director Nichole Trujillo Rice</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "Legislative Analyst's Office: Recent Publications",
-    "title": "Overview of the Legislative Budget Plan",
-    "link": "https://lao.ca.gov/Publications/Detail/5190",
-    "published": "2026-06-15T00:00:00Z",
-    "summary": "Presented to: Senate Committee on Budget and Fiscal Review"
-  },
-  {
-    "source": "California Democratic Party",
-    "title": "California Democratic Party Releases Final California VOTER Index Tracking Survey",
-    "link": "https://cadem.org/california-democratic-party-releases-final-california-voter-index-tracking-survey/",
-    "published": "2026-05-19T21:04:01Z",
-    "summary": "<p>California Democratic Party Releases Final California VOTER Index Tracking Survey Today, the California Democratic Party (CADEM) released the final tracking poll from the California VOTER Index on the California Governor’s race. This 1,200 sample tracking survey was conducted by EVITARUS Research–the only Black-and Latina-led full-service public opinion research firm in California–from May 14-16.&#160; Today’s topline [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-releases-final-california-voter-index-tracking-survey/\">California Democratic Party Releases Final California VOTER Index Tracking Survey</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB1702",
-    "link": "https://legiscan.com/CA/bill/AB1702/2025?utm_campaign=rss&guid=6ReVyBf7TaavgUZBZt7yG9",
-    "published": "2026-05-14T04:00:00Z",
-    "summary": "An act to amend Section 5011.5 of, and to add Section 5011.8 to, the Public Resources Code, relating to parks.<br />\n<br />\n2026/05/14 In committee: Held under submission."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2064",
-    "link": "https://legiscan.com/CA/bill/AB2064/2025?utm_campaign=rss&guid=5FX70IGbiGuc4rRS59jUb5",
-    "published": "2026-05-14T04:00:00Z",
-    "summary": "An act to amend Section 51 of the Civil Code, and to amend Sections 12920, 12921, 12926, 12940, and 12955 of the Government Code, relating to discrimination.<br />\n<br />\n2026/05/14 In committee: Held under submission."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2370",
-    "link": "https://legiscan.com/CA/bill/AB2370/2025?utm_campaign=rss&guid=3gjVfay8bfPPOEgZJONi5T",
-    "published": "2026-05-14T04:00:00Z",
-    "summary": "An act to amend Section 15277 of the Government Code, relating to emergency services.<br />\n<br />\n2026/05/14 In committee: Held under submission."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2590",
-    "link": "https://legiscan.com/CA/bill/AB2590/2025?utm_campaign=rss&guid=2GSBo4ymrDsBBg0kXPJg9r",
-    "published": "2026-05-14T04:00:00Z",
-    "summary": "An act to amend Section 10230.2 of, and to add Division 9.5 (commencing with Section 9975) to, the Public Resources Code, relating to public resources, and making an appropriation therefor.<br />\n<br />\n2026/05/14 In committee: Held under submission."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2016",
-    "link": "https://legiscan.com/CA/bill/AB2016/2025?utm_campaign=rss&guid=338a1glbJmvj3f83LBUwKo",
-    "published": "2026-04-27T04:00:00Z",
-    "summary": "An act to add Section 116365.7 to the Health and Safety Code, relating to water, and making an appropriation therefor.<br />\n<br />\n2026/04/27 In committee: Hearing postponed by committee."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
-    "title": "CA AB2645",
-    "link": "https://legiscan.com/CA/bill/AB2645/2025?utm_campaign=rss&guid=1Ya8IZvtvRBZB2wo4Elnpg",
-    "published": "2026-04-13T04:00:00Z",
-    "summary": "An act to add Article 3 (commencing with Section 983) to Chapter 6 of Division 4 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/04/13 In committee: Set, first hearing. Hearing canceled at the request of author."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
-    "title": "CA AB1563",
-    "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=31WL2z4yqMNkIQMOMZ96iE",
-    "published": "2026-04-06T04:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/04/06 Referred to Com. on BUDGET."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Department\" Search",
-    "title": "CA AB1563",
-    "link": "https://legiscan.com/CA/bill/AB1563/2025?utm_campaign=rss&guid=31WL2z4yqMNkIQMOMZ96iE",
-    "published": "2026-04-06T04:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/04/06 Referred to Com. on BUDGET."
-  },
-  {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA SB647",
-    "link": "https://legiscan.com/CA/bill/SB647/2025?utm_campaign=rss&guid=1vmOg66AOEMfYVfatWwgat",
-    "published": "2026-03-02T05:00:00Z",
-    "summary": "An act to amend Section 25665.1 of the Public Resources Code, and to amend Section 382.1 of the Public Utilities Code, relating to energy.<br />\n<br />\n2026/03/02 Veto sustained."
-  },
-  {
-    "source": "LegiScan Search Feed - CalVet Search",
-    "title": "CA SB604",
-    "link": "https://legiscan.com/CA/bill/SB604/2025?utm_campaign=rss&guid=49YOH7PRN3Cv2cgzrjvQgF",
-    "published": "2026-02-02T05:00:00Z",
-    "summary": "An act to amend Section 987.53 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/02/02 Returned to Secretary of Senate pursuant to Joint Rule 56."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
-    "title": "CA SB879",
-    "link": "https://legiscan.com/CA/bill/SB879/2025?utm_campaign=rss&guid=6QM9XKjeiqWgQIf9bsXBKW",
-    "published": "2026-01-12T05:00:00Z",
-    "summary": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.<br />\n<br />\n2026/01/12 Read first time."
   }
 ]
