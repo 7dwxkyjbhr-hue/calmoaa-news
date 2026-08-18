@@ -1,31 +1,80 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-08-18T06:20:37Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
-    "published": "2026-08-18T06:20:37Z",
+    "published": "2026-08-18T12:18:58Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-08-18T06:20:36Z",
+    "published": "2026-08-18T12:18:57Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-08-18T12:18:57Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-08-18T06:20:35Z",
+    "published": "2026-08-18T12:18:55Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Globe",
+    "title": "Actual Crime Policy by Gubernatorial Candidate Steve Hilton",
+    "link": "https://californiaglobe.com/fr/actual-crime-policy-by-gubernatorial-candidate-steve-hilton/",
+    "published": "2026-08-18T12:00:35Z",
+    "summary": "Steve will work to create new sentencing enhancement for criminals who deliberately conceal their identity while committing a felony"
+  },
+  {
+    "source": "CalMatters",
+    "title": "Will California vote ‘progressive’ in insurance commissioner race?",
+    "link": "https://calmatters.org/economy/2026/08/insurance-commissioner-progressive-wave/",
+    "published": "2026-08-18T12:00:00Z",
+    "summary": "<figure><img alt=\"A person wearing a bright pink blazer speaks at a podium with a CADEM sign against a dark background.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/06/022126-Jane-Kim-AP-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Jane Kim, backed by Bernie Sanders, could ride the progressive wave. Ben Allen has the CA Democratic party’s endorsement for the insurance commissioner job."
+  },
+  {
+    "source": "CalMatters",
+    "title": "Why S.F. neighborhoods are up in arms over new environmental rankings that could cost them money",
+    "link": "https://calmatters.org/environment/2026/08/calenviroscreen-san-francisco-disadvantaged-communities/",
+    "published": "2026-08-18T12:00:00Z",
+    "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/011723_Factory-Exhaust-LV_CM_06.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>CalEnviroScreen 5.0 dropped key SF neighborhoods from top pollution rankings."
+  },
+  {
+    "source": "CalMatters",
+    "title": "State Farm defense lawyers admit AI generated fake cases in LA lawsuit",
+    "link": "https://calmatters.org/economy/2026/08/state-farm-lawsuit-ai-hallucinations/",
+    "published": "2026-08-18T12:00:00Z",
+    "summary": "<figure><img alt=\"A &quot;State Farm&quot; sign stands in front of a small office building.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/010324_State_Farm_GETTY_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Lawyers for a former Los Angeles homeowner find AI-generated “hallucinations” in filings by State Farm."
+  },
+  {
+    "source": "CalMatters",
+    "title": "This high-income tax was pitched as ‘temporary.’ California voters can ensure it stays that way",
+    "link": "https://calmatters.org/commentary/2026/08/proposition-3-temporary-tax-permanent/",
+    "published": "2026-08-18T12:00:00Z",
+    "summary": "<figure><img alt=\"A suited public official speaks at a podium during a press conference, framed between blurred figures in the foreground. An American flag and part of the California state seal appear behind them as they gesture with their left hand while addressing the audience. A monitor with a graphic showing funding per student can be seen next to the public official.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/051426_May-Budget-Revise_MG_CM_11.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Proposition 3 is not about whether education and healthcare matter, an anti-tax advocate argues, but whether it is good policy to permanently extend tax hikes that voters were promised would expire."
+  },
+  {
+    "source": "CalMatters",
+    "title": "How California’s midterm election could shape national political conflicts",
+    "link": "https://calmatters.org/commentary/2026/08/california-election-national-political-ballot/",
+    "published": "2026-08-18T12:00:00Z",
+    "summary": "<figure><img alt=\"A large white, blue and red sign is displayed at an event. The sign reads &quot; Billionaire Tax Now&quot; and &quot;Vote Yes 11/3/26&quot; next to an image of a check box. A person can be seen walking by in the blurred foreground.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/06/022126_Billionaire-Tax-Now_AP_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>In some congressional races and key ballot issues, California Democrats' left-leaning wing and its more centrist forces are clashing."
+  },
+  {
+    "source": "California Globe",
+    "title": "Termination of Estates",
+    "link": "https://californiaglobe.com/articles/termination-of-estates/",
+    "published": "2026-08-18T09:30:57Z",
+    "summary": "Deals with the termination of estates in California"
   },
   {
     "source": "The Auditor",
@@ -40,13 +89,6 @@
     "link": "https://www.gov.ca.gov/2026/08/17/governor-newsom-signs-legislation-8-17-2026/",
     "published": "2026-08-18T00:47:02Z",
     "summary": "<img alt=\"White “Governor Gavin Newsom” logo beside a walking California grizzly bear and star on a blue background.\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2024/05/6C94C750-0DF8-46C6-A8E3-00EA4F1B1ADD-150x150.jpeg\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/08/17/governor-newsom-signs-legislation-8-17-2026/\" rel=\"nofollow\">Source</a></p>"
-  },
-  {
-    "source": "CalMatters",
-    "title": "San Diego County Supervisors want to kick ICE out of the county firing range",
-    "link": "https://calmatters.org/politics/2026/08/san-diego-board-supervisor-ice/",
-    "published": "2026-08-18T00:29:31Z",
-    "summary": "<figure><img alt=\"The aisle of an audience section of a meeting hall as attendees look towards a dais where lawmakers sit.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/05/032426_Truth-Forum_AH_CM_16.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>As thousands are deported, San Diego County supervisors want to kick ICE off their firing range."
   },
   {
     "source": "California Globe",
@@ -70,13 +112,6 @@
     "summary": "This is the left eating its own in real time"
   },
   {
-    "source": "California Globe",
-    "title": "California Workers’ Compensation Schedules",
-    "link": "https://californiaglobe.com/articles/california-workers-compensation-schedules/",
-    "published": "2026-08-17T21:00:59Z",
-    "summary": "deals with computing compensation under the California workers’ compensation laws"
-  },
-  {
     "source": "Task & Purpose",
     "title": "Major exercise in South Korea continues after Trump orders US role curtailed",
     "link": "https://taskandpurpose.com/news/military-trump-south-korea-2026/",
@@ -91,25 +126,11 @@
     "summary": "The Trump administration has declared war on fraud, which is hysterical considering the President was convicted on 32 counts of criminal fraud in New York <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/08/17/trumps-war-on-fraud-hits-a-santa-ana-food-truck/\" title=\"Trump’s War on Fraud hits a Santa Ana Food Truck\">[...]</a>"
   },
   {
-    "source": "California Globe",
-    "title": "Ninth Circuit Rules Sigal Chattah Unlawfully Serving as Nevada’s Acting US Attorney",
-    "link": "https://californiaglobe.com/fr/ninth-circuit-rules-sigal-chattah-unlawfully-serving-as-nevadas-acting-us-attorney/",
-    "published": "2026-08-17T20:40:02Z",
-    "summary": "In a unanimous opinion, the three-judge panel held that the Trump administration cannot bypass the Federal Vacancies Reform Act"
-  },
-  {
     "source": "Public Policy Institute of California",
     "title": "California’s Political Geography",
     "link": "https://www.ppic.org/event/californias-political-geography/?utm_source=rss&utm_medium=rss&utm_campaign=californias-political-geography",
     "published": "2026-08-17T20:04:55Z",
     "summary": "<p><img alt=\"photo - Aerial View High above Camarillo Oxnard Area of California\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/08/aerial-view-high-above-camarillo-oxnard-area-of-california-1.jpg\" width=\"2000\" /></p>As election season gears up, several issues weigh heavily on voters’ minds, from the cost of living and immigration to climate change and abortion. PPIC researcher Eric McGhee will present key findings from a new report that examines how the political views of Californians differ across the state."
-  },
-  {
-    "source": "CalMatters",
-    "title": "El estado afirma que este hombre le robó millones a ancianos de California. Los tribunales ignoraron las señales de advertencia durante años",
-    "link": "https://calmatters.org/calmatters-en-espanol/2026/08/fiduciario-robo-millones-ancianos-california/",
-    "published": "2026-08-17T17:14:28Z",
-    "summary": "<figure><img alt=\"A collage-style illustration in green, purple and white tones. The illustration includes several cut-out images including three scanned checks with payments from $20,000 to $100,000; a silouhette on an unidentifiable lawyer holding a stack of paper with a pen; and excerpts of court documents.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/CONSERVATORSHIP-PT-4_AH_CM_04.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Una investigación de CalMatters reveló que muchas de las medidas de protección diseñadas para prevenir el abuso fiduciario han sido abandonadas o ignoradas."
   },
   {
     "source": "Capitol Weekly",
@@ -119,11 +140,11 @@
     "summary": "<strong>CAPITOL WEEKLY PODCAST:</strong> It has been a very busy last few years for Fair Political Practices Commission Chairman Adam Silver. In addition to the usual challenges of an election year, Silver has been working on numerous efforts to utilize artificial intelligence in how the FPPC addresses campaign finance issues. He joined us recently on the Capitol Weekly podcast to talk about these issues and more.<p><strong>Continue reading the full article:</strong> <a href=\"http://capitolweekly.net/a-conversation-with-adam-silver-of-the-california-fppc/\">Capitol Weekly</a></p><span style=\"font-size: 0; color: transparent;\">Original article: http://capitolweekly.net/a-conversation-with-adam-silver-of-the-california-fppc/</span>"
   },
   {
-    "source": "CalMatters",
-    "title": "Algunos estudiantes de Cal State recibieron las decisiones sobre su ayuda financiera mucho más tarde este año. He aquí por qué",
-    "link": "https://calmatters.org/calmatters-en-espanol/2026/08/cal-state-ayuda-financiera/",
-    "published": "2026-08-17T17:03:36Z",
-    "summary": "<figure><img alt=\"Students walk up and down a concrete set of stairs at a university.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/050625_CSU-San-Marcos_AH_CM_12.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>La agencia federal de ayuda actualizó sus medidas de protección contra el fraude, lo que provocó un retraso de varias semanas en las notificaciones de ayuda financiera a los estudiantes."
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Fraud Prevention Video - Payment Redirect",
+    "link": "https://www.youtube.com/watch?v=Vsey19n3IPY",
+    "published": "2026-08-17T17:11:32Z",
+    "summary": "Payment redirection scams are on the rise, with criminals using stolen personal information to reroute Veterans’ VA benefit payments. This video urgently informs Veterans about the seriousness of payment redirection fraud and provides critical guidance on quickly identifying, responding to, and reporting any suspicious activity.\n\nFor more information visit: https://vsafe.gov/"
   },
   {
     "source": "Task & Purpose",
@@ -161,18 +182,11 @@
     "summary": "<p>To date, 18 American service members have been killed and hundreds more wounded.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/iran-war-timeline/\">Tracking America’s latest conflict: The Iran war timeline</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "CalMatters",
-    "title": "CA says he stole from ailing seniors. Officials missed the red flags",
-    "link": "https://calmatters.org/newsletter/california-conservatorship-fiduciary-theft/",
-    "published": "2026-08-17T13:00:00Z",
-    "summary": "<figure><img alt=\"A collage-style illustration in green, purple and white tones that includes several cut-out images of scanned checks with payments ranging from $20,000 to $100,000.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/CONSERVATORSHIP-PT-4_AH_CM_03.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Gregory Oveross’ job was to take care of his elderly clients’ money. Instead, state prosecutors say, he and his partner stole $6 million from his clients’ accounts.&#160; And then he left key parts of his reports to the courts blank, according to court records.&#160; Over the last two decades, California has set up systems to [&#8230;]"
-  },
-  {
-    "source": "CalMatters",
-    "title": "The state says he stole millions from California seniors. Courts missed warning signs for years",
-    "link": "https://calmatters.org/investigation/2026/08/california-fiduciary-abuse-missed-warning-signs/",
-    "published": "2026-08-17T12:30:00Z",
-    "summary": "<figure><img alt=\"A collage-style illustration in green, purple and white tones. The illustration includes several cut-out images including three scanned checks with payments from $20,000 to $100,000; a silouhette on an unidentifiable lawyer holding a stack of paper with a pen; and excerpts of court documents.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/CONSERVATORSHIP-PT-4_AH_CM_04.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>A CalMatters investigation found that many of the safeguards designed to protect against fiduciary abuse have been abandoned or ignored."
+    "source": "California Political Review",
+    "title": "After refinery explosions, California lawmakers move to preserve safety rules",
+    "link": "https://capoliticalreview.com/2026/08/17/after-refinery-explosions-california-lawmakers-move-to-preserve-safety-rules/",
+    "published": "2026-08-17T14:00:47Z",
+    "summary": "<p>Keeping up with your California representatives felt impossible before. Now you can watch them like a hawk: Sign up for My Legislator, your weekly, personalized report that tracks what your state representatives say and do. California lawmakers are advancing an effort to preserve oil refinery safety rules that were designed to prevent fires, explosions and other [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/17/after-refinery-explosions-california-lawmakers-move-to-preserve-safety-rules/\">Read More and Comment: After refinery explosions, California lawmakers move to preserve safety rules</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/17/after-refinery-explosions-california-lawmakers-move-to-preserve-safety-rules/\">After refinery explosions, California lawmakers move to preserve safety rules</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "The Liberal OC",
@@ -308,6 +322,20 @@
     "summary": "<p> A murder in Martinez, California just exposed the real cost of sanctuary policies and soft-on-crime judges.<br /></p><p>Mark Garrett breaks down the case, the role California’s sanctuary laws played, how leftist judges repeatedly undermined public safety, and why surveillance tools remain one of law enforcement’s most effective weapons against violent crime. This episode digs into the hard truths about crime prevention when policy and the courtroom work against officers on the street.</p>"
   },
   {
+    "source": "California Political Review",
+    "title": "Californians voted to spend $1 billion on K-12 arts. Why are schools returning the money?",
+    "link": "https://capoliticalreview.com/2026/08/15/californians-voted-to-spend-1-billion-on-k-12-arts-why-are-schools-returning-the-money/",
+    "published": "2026-08-15T14:30:42Z",
+    "summary": "<p>Welcome to CalMatters, the only nonprofit newsroom devoted solely to covering issues that affect all Californians. Sign up for WhatMatters to receive the latest news and commentary on the most important issues in the Golden State. Three years after voters passed an ambitious arts education funding measure, California’s K-12 schools were supposed to be awash in dance, [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/15/californians-voted-to-spend-1-billion-on-k-12-arts-why-are-schools-returning-the-money/\">Read More and Comment: Californians voted to spend $1 billion on K-12 arts. Why are schools returning the money?</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/15/californians-voted-to-spend-1-billion-on-k-12-arts-why-are-schools-returning-the-money/\">Californians voted to spend $1 billion on K-12 arts. Why are schools returning the money?</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
+    "source": "California Political Review",
+    "title": "Newsom-appointed judge who freed migrant before fatal stabbing said justice ‘sometimes means a dismissal’",
+    "link": "https://capoliticalreview.com/2026/08/15/newsom-appointed-judge-who-freed-migrant-before-fatal-stabbing-said-justice-sometimes-means-a-dismissal/",
+    "published": "2026-08-15T14:00:37Z",
+    "summary": "<p>Nichelle Holmes, appointed by Gavin Newsom in 2024, released Marcos Iriarte-Valdez on his own recognizance before the killing The California judge who released a Venezuelan national arrested for burglary — and later allowed him to remain in pretrial home detention despite his violation of its terms — had previously said that justice can sometimes mean [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/15/newsom-appointed-judge-who-freed-migrant-before-fatal-stabbing-said-justice-sometimes-means-a-dismissal/\">Read More and Comment: Newsom-appointed judge who freed migrant before fatal stabbing said justice &#8216;sometimes means a dismissal&#8217;</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/15/newsom-appointed-judge-who-freed-migrant-before-fatal-stabbing-said-justice-sometimes-means-a-dismissal/\">Newsom-appointed judge who freed migrant before fatal stabbing said justice &#8216;sometimes means a dismissal&#8217;</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
     "source": "Governor of California",
     "title": "Governor Newsom announces appointments 8.14.2026",
     "link": "https://www.gov.ca.gov/2026/08/14/governor-newsom-announces-appointments-8-14-2026/",
@@ -327,6 +355,20 @@
     "link": "http://capitolweekly.net/californias-voter-id-initiative-goes-national/",
     "published": "2026-08-14T15:00:42Z",
     "summary": "If it wasn’t before, a California initiative to tighten voting requirements became nationalized when Illinois billionaire Richard Uihlein, one of President Donald J. Trump’s large donors, contributed $6.5 million to the Yes-on-Proposition 39 campaign.<p><strong>Continue reading the full article:</strong> <a href=\"http://capitolweekly.net/californias-voter-id-initiative-goes-national/\">Capitol Weekly</a></p><span style=\"font-size: 0; color: transparent;\">Original article: http://capitolweekly.net/californias-voter-id-initiative-goes-national/</span>"
+  },
+  {
+    "source": "California Political Review",
+    "title": "Becerra holds strong lead over Hilton in race for California governor, new poll shows",
+    "link": "https://capoliticalreview.com/2026/08/14/becerra-holds-strong-lead-over-hilton-in-race-for-california-governor-new-poll-shows/",
+    "published": "2026-08-14T14:30:09Z",
+    "summary": "<p>Democrat Xavier Becerra holds a commanding 55% to 37% lead over Republican Steve Hilton in a new Berkeley IGS/Los Angeles Times poll ahead of November’s election to replace Gov. Gavin Newsom. Support breaks sharply along party lines, with progressives and no-party-preference voters driving Becerra’s advantage. Majorities in Los Angeles and San Diego counties, the Bay [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/14/becerra-holds-strong-lead-over-hilton-in-race-for-california-governor-new-poll-shows/\">Read More and Comment: Becerra holds strong lead over Hilton in race for California governor, new poll shows</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/14/becerra-holds-strong-lead-over-hilton-in-race-for-california-governor-new-poll-shows/\">Becerra holds strong lead over Hilton in race for California governor, new poll shows</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
+    "source": "California Political Review",
+    "title": "Ghouls in Pink Turned the Golden State into the Abortion State",
+    "link": "https://capoliticalreview.com/2026/08/14/ghouls-in-pink-turned-the-golden-state-into-the-abortion-state/",
+    "published": "2026-08-14T14:00:46Z",
+    "summary": "<p>California beat Massachusetts to who is more ghoulish Massachusetts Governor Maura Healy just signed a new Massachusetts law allowing abortions at any time. Healy, a Democrat, signed the new law Monday removing the state’s 24-week abortion limit, allowing abortions at any point in pregnancy. Most of the mainstream media reported that the new law  is”strengthening abortion protections.” Click [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/14/ghouls-in-pink-turned-the-golden-state-into-the-abortion-state/\">Read More and Comment: Ghouls in Pink Turned the Golden State into the Abortion State</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/14/ghouls-in-pink-turned-the-golden-state-into-the-abortion-state/\">Ghouls in Pink Turned the Golden State into the Abortion State</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "The Auditor",
@@ -411,6 +453,13 @@
     "link": "https://www.ppic.org/publication/policy-brief-californias-political-geography/?utm_source=rss&utm_medium=rss&utm_campaign=policy-brief-californias-political-geography",
     "published": "2026-08-12T19:16:28Z",
     "summary": "<p><img alt=\"photo - Aerial View High above Camarillo Oxnard Area of California\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/08/aerial-view-high-above-camarillo-oxnard-area-of-california-1.jpg\" width=\"2000\" /></p>How do Californians’ political views differ across state? Using PPIC Statewide Survey data and sophisticated modeling to estimate public opinion across 46 areas, we examine views on politics, the cost of living, climate change, abortion, and more."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "At the Table: Exploring Entrepreneurship with SBA Deputy Administrator Briggs",
+    "link": "https://www.youtube.com/watch?v=guba_fRJ5J4",
+    "published": "2026-08-12T12:55:34Z",
+    "summary": "I am excited to share the second episode of At the Table, a series where I sit down with leaders across government and the community to talk about programs and opportunities that support Veterans, their families, caregivers, and survivors.\n\nMy goal is to highlight resources, programs, and real success stories that help Veterans build strong futures.\n\nIn this episode, I talk with SBA Deputy Administrator Briggs about why entrepreneurship is such a strong pathway for Veterans and how SBA supports them with free counseling, capital tools, franchise resources, and federal contracting opportunities.\n\nI look forward to continuing to bring more voices to the table in future episodes and shining a light on programs that make a real difference in the lives of Veterans."
   },
   {
     "source": "Capitol Weekly",
@@ -581,6 +630,13 @@
     "summary": "<p>Every day, veterans and volunteers across the country make calls, talk with neighbors, attend town halls, and speak up about issues facing the country. Last month, Concerned Veterans for America brought that grassroots energy to Washington, D.C., for its annual “Vets on the Hill” event. In one day, the group held more than 100 meetings [&#8230;]</p>\n<p>The post <a href=\"https://cv4a.org/news-media/vets-on-the-hill-takes-veterans-voices-to-congress/\">Vets on the Hill ensures Congress hears from veteran constituents</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
   },
   {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "National Korean War Veterans Armistice Day: Honoring \"The Forgotten War\" 73 Years Later",
+    "link": "https://www.youtube.com/watch?v=7vtkr-vjMbg",
+    "published": "2026-07-27T14:37:43Z",
+    "summary": "Today we honor the service and sacrifice of everyone who fought in Korea, which ended 73 years ago. \n\nThese Veterans gave so much in defense of freedom, and our country is forever grateful.\n\nIf you are a Korean War Veteran, or you’re supporting one, please connect with us at VA so we can make sure no Veteran misses the benefits and services they’ve earned. \n \nAnd if you know Korean War Veterans in your community, encourage them to reach out.\n\n#KoreanWar #Veterans #VABenefits"
+  },
+  {
     "source": "Your Leo Nation",
     "title": "NJ MVC Software Error Registered 6,600 Non-Citizens to Vote—Why No Prosecutions?",
     "link": "",
@@ -616,6 +672,20 @@
     "summary": "<p>By Josh Casson Walk across almost any university campus, public park, or corporate grounds and you are likely to see a dirt trail cutting across the grass between two sidewalks. These unofficial thoroughfares are known as “desire paths,” which are routes created by people who choose a more direct, efficient, or practical way to reach [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/desire-paths-what-informal-workarounds-can-teach-us-about-process-improvement/\">Desire Paths: What Informal Workarounds Can Teach Us About Process Improvement</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Behind the Data | Understanding How VA Uses Data to Prevent Veteran Suicide :180",
+    "link": "https://www.youtube.com/watch?v=htfPe_9QtQk",
+    "published": "2026-07-21T13:20:19Z",
+    "summary": "You don’t have to be a data expert to help save lives. Learn how VA’s data-driven approach supports Veterans in crisis and why understanding the numbers is key to building a path to support.\n\nLearn more at https://www.mentalhealth.va.gov/suicide_prevention."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Behind the Data | Understanding How VA Uses Data to Prevent Veteran Suicide :15",
+    "link": "https://www.youtube.com/watch?v=J3R3wGczP-A",
+    "published": "2026-07-21T13:15:17Z",
+    "summary": "You don’t have to be a data expert to help save lives. Learn how VA’s data-driven approach supports Veterans in crisis and why understanding the numbers is key to building a path to support.\n\nLearn more at https://www.mentalhealth.va.gov/suicide_prevention."
+  },
+  {
     "source": "California Democratic Party",
     "title": "California Democratic Party Announces Endorsements for Statewide, Congressional and State Legislature Candidates",
     "link": "https://cadem.org/california-democratic-party-announces-endorsements-for-statewide-congressional-and-state-legislature-candidates/",
@@ -628,75 +698,5 @@
     "link": "https://cadem.org/california-democratic-party-endorses-xavier-becerra-for-governor-of-california/",
     "published": "2026-07-13T18:52:41Z",
     "summary": "<p>SACRAMENTO &#8211; Today, following the certification of the June 2 Primary Election, the California Democratic Party (CADEM) has officially endorsed Sec. Xavier Becerra for Governor of California. Becerra emerged from the primary as the top vote-getter among the field of gubernatorial candidates, earning over 2.5 million votes statewide. “California Democrats are proud to endorse Xavier [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-endorses-xavier-becerra-for-governor-of-california/\">California Democratic Party Endorses Xavier Becerra for Governor of California</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "Legislative Analyst's Office: Recent Publications",
-    "title": "The 2011 Realignment of Adult Felony Populations: Results and Key Takeaways",
-    "link": "https://lao.ca.gov/Publications/Detail/5191",
-    "published": "2026-06-30T00:00:00Z",
-    "summary": "In 2011, California shifted responsibility for incarcerating and supervising certain adult felony populations from the state to counties. The state also shifted a portion of tax revenues to counties to cover the additional costs. These changes were part of a larger shift of responsibilities known as the 2011 realignment. Pursuant to Chapter 96 of 2023 (AB 1080, Ta), this report provides information on how various aspects of the realignment of adult felony populations have been implemented and evaluates the results."
-  },
-  {
-    "source": "Legislative Analyst's Office: Recent Publications",
-    "title": "Assembly Handout: Overview of ACA 20",
-    "link": "https://lao.ca.gov/Publications/Detail/5193",
-    "published": "2026-06-24T00:00:00Z",
-    "summary": "Assembly Budget Committee No. 7 on Accountability and Oversight"
-  },
-  {
-    "source": "California Democratic Party",
-    "title": "California Democratic Party Expands “California Fights Forward” Leadership Team with New Political Director Nichole Trujillo Rice",
-    "link": "https://cadem.org/california-democratic-party-expands-california-fights-forward-leadership-team-with-new-political-director-nichole-trujillo-rice/",
-    "published": "2026-06-23T17:54:41Z",
-    "summary": "<p>SACRAMENTO, CA — The California Democratic Party (CADEM) today announced the expansion of its senior staff as Democrats gear up for pivotal midterm elections in 2026. Nichole Trujillo Rice has joined CADEM as Political Director, drawing on nearly two decades of experience as a political strategist, coalition builder, and advocate for working families.&#160; “This year’s [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-expands-california-fights-forward-leadership-team-with-new-political-director-nichole-trujillo-rice/\">California Democratic Party Expands “California Fights Forward” Leadership Team with New Political Director Nichole Trujillo Rice</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "California Democratic Party",
-    "title": "California Democratic Party Releases Final California VOTER Index Tracking Survey",
-    "link": "https://cadem.org/california-democratic-party-releases-final-california-voter-index-tracking-survey/",
-    "published": "2026-05-19T21:04:01Z",
-    "summary": "<p>California Democratic Party Releases Final California VOTER Index Tracking Survey Today, the California Democratic Party (CADEM) released the final tracking poll from the California VOTER Index on the California Governor’s race. This 1,200 sample tracking survey was conducted by EVITARUS Research–the only Black-and Latina-led full-service public opinion research firm in California–from May 14-16.&#160; Today’s topline [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-releases-final-california-voter-index-tracking-survey/\">California Democratic Party Releases Final California VOTER Index Tracking Survey</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB1702",
-    "link": "https://legiscan.com/CA/bill/AB1702/2025?utm_campaign=rss&guid=6ReVyBf7TaavgUZBZt7yG9",
-    "published": "2026-05-14T04:00:00Z",
-    "summary": "An act to amend Section 5011.5 of, and to add Section 5011.8 to, the Public Resources Code, relating to parks.<br />\n<br />\n2026/05/14 In committee: Held under submission."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2064",
-    "link": "https://legiscan.com/CA/bill/AB2064/2025?utm_campaign=rss&guid=5FX70IGbiGuc4rRS59jUb5",
-    "published": "2026-05-14T04:00:00Z",
-    "summary": "An act to amend Section 51 of the Civil Code, and to amend Sections 12920, 12921, 12926, 12940, and 12955 of the Government Code, relating to discrimination.<br />\n<br />\n2026/05/14 In committee: Held under submission."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2370",
-    "link": "https://legiscan.com/CA/bill/AB2370/2025?utm_campaign=rss&guid=3gjVfay8bfPPOEgZJONi5T",
-    "published": "2026-05-14T04:00:00Z",
-    "summary": "An act to amend Section 15277 of the Government Code, relating to emergency services.<br />\n<br />\n2026/05/14 In committee: Held under submission."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2590",
-    "link": "https://legiscan.com/CA/bill/AB2590/2025?utm_campaign=rss&guid=2GSBo4ymrDsBBg0kXPJg9r",
-    "published": "2026-05-14T04:00:00Z",
-    "summary": "An act to amend Section 10230.2 of, and to add Division 9.5 (commencing with Section 9975) to, the Public Resources Code, relating to public resources, and making an appropriation therefor.<br />\n<br />\n2026/05/14 In committee: Held under submission."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2016",
-    "link": "https://legiscan.com/CA/bill/AB2016/2025?utm_campaign=rss&guid=338a1glbJmvj3f83LBUwKo",
-    "published": "2026-04-27T04:00:00Z",
-    "summary": "An act to add Section 116365.7 to the Health and Safety Code, relating to water, and making an appropriation therefor.<br />\n<br />\n2026/04/27 In committee: Hearing postponed by committee."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
-    "title": "CA AB2645",
-    "link": "https://legiscan.com/CA/bill/AB2645/2025?utm_campaign=rss&guid=1Ya8IZvtvRBZB2wo4Elnpg",
-    "published": "2026-04-13T04:00:00Z",
-    "summary": "An act to add Article 3 (commencing with Section 983) to Chapter 6 of Division 4 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/04/13 In committee: Set, first hearing. Hearing canceled at the request of author."
   }
 ]
