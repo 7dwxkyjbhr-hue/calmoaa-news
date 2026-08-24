@@ -1,31 +1,38 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-08-24T00:32:18Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
-    "published": "2026-08-24T00:32:18Z",
+    "published": "2026-08-24T06:31:47Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-08-24T00:32:17Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-08-24T00:32:16Z",
+    "published": "2026-08-24T06:31:45Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
+    "published": "2026-08-24T04:17:29Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-08-24T04:17:17Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Globe",
+    "title": "Some Data on the 2026 California Legislative Session",
+    "link": "https://californiaglobe.com/articles/some-data-on-the-2026-california-legislative-session/",
+    "published": "2026-08-23T21:59:45Z",
+    "summary": "How many Senate Standing Committees are there?"
   },
   {
     "source": "Task & Purpose",
@@ -33,6 +40,13 @@
     "link": "https://taskandpurpose.com/news/marine-fighter-squadron-air-force-gallant-unit-citation/",
     "published": "2026-08-23T20:50:18Z",
     "summary": "<p>Marines with VMFA-542 received the Gallant Unit Citation for their participation in air operations in the Middle East last year.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/marine-fighter-squadron-air-force-gallant-unit-citation/\">Marine fighter squadron awarded rare Air Force unit citation</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+  },
+  {
+    "source": "California Globe",
+    "title": "Gov. Newsom Wails About Assaults on the Free Press, then Signs ‘Stop Nick Shirley Act’ into Law",
+    "link": "https://californiaglobe.com/fr/gov-newsom-wails-about-assaults-on-the-free-press-then-signs-stop-nick-shirley-act-into-law/",
+    "published": "2026-08-23T15:56:38Z",
+    "summary": "&#8216;California Passes a law making it a crime to report a crime&#8217;"
   },
   {
     "source": "California Political Review",
@@ -56,6 +70,20 @@
     "summary": "As his time as governor comes to an end, Gov. Gavin Newsom is facing a life-or-death decision: whether to commute the sentences of the 547 men and 18 women in state prison who have been condemned to death. There is good reason to believe Newsom will take that step, and there is reason to believe he won’t. Neither he nor his aides are telegraphing his plan.<p><strong>Continue reading the full article:</strong> <a href=\"http://capitolweekly.net/governor-could-grant-clemency-in-565-death-penalty-cases-or-not/\">Capitol Weekly</a></p><span style=\"font-size: 0; color: transparent;\">Original article: http://capitolweekly.net/governor-could-grant-clemency-in-565-death-penalty-cases-or-not/</span>"
   },
   {
+    "source": "California Globe",
+    "title": "The Receipts: California Assemblyman Steers $6 Million to His Own Nonprofit",
+    "link": "https://californiaglobe.com/fl/we-have-the-receipts-california-assemblyman-steers-6-million-to-his-own-nonprofit/",
+    "published": "2026-08-23T13:00:42Z",
+    "summary": "$6M in the FLOOR REPORT of the 2026-27 BUDGET"
+  },
+  {
+    "source": "California Globe",
+    "title": "OAL Review of Underground Regulations",
+    "link": "https://californiaglobe.com/articles/oal-review-of-underground-regulations/",
+    "published": "2026-08-23T09:30:21Z",
+    "summary": "The petitioner is required to submit a copy of the petition and all attachments to the challenged agency prior to or concurrently with submitting it to OAL"
+  },
+  {
     "source": "Governor of California",
     "title": "Governor Newsom signs legislation 8.22.2026",
     "link": "https://www.gov.ca.gov/2026/08/22/governor-newsom-signs-legislation-8-22-2026/",
@@ -68,6 +96,13 @@
     "link": "https://taskandpurpose.com/news/navy-marines-warning-personnel-bases/",
     "published": "2026-08-22T21:36:02Z",
     "summary": "<p>A new notice to Department of the Navy personnel warns of a “coordinated, multi-domain campaign” targeting them.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/navy-marines-warning-personnel-bases/\">Sailors and Marines advised to hide military ties on social media, report suspicious activity</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+  },
+  {
+    "source": "California Globe",
+    "title": "Some Key Words to Watch in Legislation",
+    "link": "https://californiaglobe.com/articles/some-key-words-to-watch-in-legislation/",
+    "published": "2026-08-22T21:00:56Z",
+    "summary": "We should be concerned with problematic words in proposed statutes"
   },
   {
     "source": "Task & Purpose",
@@ -242,7 +277,7 @@
     "title": "CA AB2467",
     "link": "https://legiscan.com/CA/bill/AB2467/2025?utm_campaign=rss&guid=5XfgeGYNkMDwEwwwV02Mn8",
     "published": "2026-08-21T04:00:00Z",
-    "summary": "An act to amend Sections 44320 and 48204.3 of the Education Code, relating to elementary and secondary education, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/08/21 Read second time and amended. Ordered returned to second reading."
+    "summary": "An act to amend Sections 44320, 48004, 48204.3, and 51461 of the Education Code, relating to elementary and secondary education, making an appropriation therefor, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/08/21 Read second time and amended. Ordered returned to second reading."
   },
   {
     "source": "LegiScan Search Feed - Military Search",
@@ -371,13 +406,6 @@
     "summary": "Xavier Becerra outraised his Republican opponent for governor by more than two to one in donations of $1,000 or more during the first half of August, as Sacramento’s inside players continued betting heavily on the Democratic frontrunner to succeed Gov. Gavin Newsom.<p><strong>Continue reading the full article:</strong> <a href=\"http://capitolweekly.net/becerra-laps-hilton-in-the-money-race/\">Capitol Weekly</a></p><span style=\"font-size: 0; color: transparent;\">Original article: http://capitolweekly.net/becerra-laps-hilton-in-the-money-race/</span>"
   },
   {
-    "source": "The Auditor",
-    "title": "Field Report: EMC + SIPI Symposium 2026",
-    "link": "https://www.theauditoronline.com/field-report-emc-sipi-symposium-2026/",
-    "published": "2026-08-18T04:51:28Z",
-    "summary": "<p>By Mike Richman Exemplar Global is the organization behind The Auditor Online media brand, but management system auditing and other conformity assessment professions are not the only industries we serve. Exemplar Global also operates the well-established International Association for Radio, Telecommunications and Electromagnetics (iNARTE) brand. iNARTE certifications are designed for qualified engineers and technicians working [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/field-report-emc-sipi-symposium-2026/\">Field Report: EMC + SIPI Symposium 2026</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
     "source": "The Liberal OC",
     "title": "Trump’s War on Fraud hits a Santa Ana Food Truck",
     "link": "https://theliberaloc.com/2026/08/17/trumps-war-on-fraud-hits-a-santa-ana-food-truck/",
@@ -425,13 +453,6 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4575248/digital-manufacturing-exchange-expands-manufacturing-options-for-marines-at-the/",
     "published": "2026-08-14T15:31:00Z",
     "summary": "During Valiant Shield 26, Marine Depot Maintenance Command (MDMC) joined operating forces, other military services, original equipment manufacturers and regional industry partners to test how DMX could support a distributed sustainment network across the Indo-Pacific.<br /> \n<img alt=\"U.S. Marines with Intermediate Repair Company, 3rd Maintenance Battalion, 3rd Marine Logistics Group, prepare to test print on-the-move capabilities during Valiant Shield 26 on Camp Kinser, Okinawa, Japan, June 22, 2026. IRC Marines participated in Resilient Advanced Manufacturing for Contested Environments, or RAMFORCE, an initiative hosted by the Office of the Under Secretary of Defense for Research and Engineering. The innovative event brought together military personnel, government laboratories, and private industry to evaluate how advanced manufacturing technologies could enable expeditionary forces to repair, replace and even produce critical equipment at the point of need. (U.S. Marine Corps photo by Cpl. Rachel Mason)\" src=\"https://media.defense.gov/2026/Jul/29/2003982807/115/75/0/260622-M-BN442-1008.JPG\" /> <br />"
-  },
-  {
-    "source": "The Auditor",
-    "title": "Accreditation Is the Foundation for Trustworthy Sustainability Certification",
-    "link": "https://www.theauditoronline.com/accreditation-is-the-foundation-for-trustworthy-sustainability-certification/",
-    "published": "2026-08-13T22:10:56Z",
-    "summary": "<p>A sustainability standard can be a powerful tool for achieving environmental and social goals across a supply chain, but it is only as good as the way it plays out in the world. Take soccer as an analogy: the sport’s governing body codifies the rules of the game, and each league hires referees to monitor [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/accreditation-is-the-foundation-for-trustworthy-sustainability-certification/\">Accreditation Is the Foundation for Trustworthy Sustainability Certification</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "Public Policy Institute of California",
@@ -502,13 +523,6 @@
     "link": "https://www.youtube.com/watch?v=guba_fRJ5J4",
     "published": "2026-08-12T12:55:34Z",
     "summary": "I am excited to share the second episode of At the Table, a series where I sit down with leaders across government and the community to talk about programs and opportunities that support Veterans, their families, caregivers, and survivors.\n\nMy goal is to highlight resources, programs, and real success stories that help Veterans build strong futures.\n\nIn this episode, I talk with SBA Deputy Administrator Briggs about why entrepreneurship is such a strong pathway for Veterans and how SBA supports them with free counseling, capital tools, franchise resources, and federal contracting opportunities.\n\nI look forward to continuing to bring more voices to the table in future episodes and shining a light on programs that make a real difference in the lives of Veterans."
-  },
-  {
-    "source": "The Auditor",
-    "title": "Why Some Consultants Get Invited Back… and Others Don’t",
-    "link": "https://www.theauditoronline.com/why-some-consultants-get-invited-back-and-others-dont/",
-    "published": "2026-08-12T05:24:58Z",
-    "summary": "<p>By Jackie Stapleton Findings don&#8217;t get you invited back. Behavior does. I recently shared on LinkedIn an interesting question I was asked: “As a consultant, how do you get invited back, especially if you’ve documented a lot of findings in an audit?” The assumption behind this question is an interesting one—that the number of findings [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/why-some-consultants-get-invited-back-and-others-dont/\">Why Some Consultants Get Invited Back… and Others Don&#8217;t</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "Legislative Analyst's Office: Recent Publications",
@@ -628,20 +642,6 @@
     "link": "https://cv4a.org/news-media/cva-submits-recommendations-to-senate-for-fy27-ndaa/",
     "published": "2026-07-23T19:32:03Z",
     "summary": "<p>Concerned Veterans for America Strategic Director John Byrnes delivered a letter of recommendations to the U.S. Senate for the National Defense Authorization Act. Read the letter below: This browser doesn&#8217;t support embedded PDFs. Click here to download it. &#160;</p>\n<p>The post <a href=\"https://cv4a.org/news-media/cva-submits-recommendations-to-senate-for-fy27-ndaa/\">CVA Submits Recommendations to Senate for FY27 NDAA</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
-  },
-  {
-    "source": "The Auditor",
-    "title": "What Certified Professionals and Training Providers Need to Know About ISO 9001:2026",
-    "link": "https://www.theauditoronline.com/what-certified-professionals-and-training-providers-need-to-know-about-iso-90012026/",
-    "published": "2026-07-22T21:48:46Z",
-    "summary": "<p>Earlier this year, the International Organization for Standardization published ISO 14001:2026, the world’s most recognized standard for environmental management systems. This September, ISO is planning to release ISO 9001:2026, the standard that helps organizations optimize their quality management systems. Exemplar Global has published detailed procedures for certified professionals as well as certified training providers who [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/what-certified-professionals-and-training-providers-need-to-know-about-iso-90012026/\">What Certified Professionals and Training Providers Need to Know About ISO 9001:2026</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
-    "source": "The Auditor",
-    "title": "Desire Paths: What Informal Workarounds Can Teach Us About Process Improvement",
-    "link": "https://www.theauditoronline.com/desire-paths-what-informal-workarounds-can-teach-us-about-process-improvement/",
-    "published": "2026-07-21T18:28:12Z",
-    "summary": "<p>By Josh Casson Walk across almost any university campus, public park, or corporate grounds and you are likely to see a dirt trail cutting across the grass between two sidewalks. These unofficial thoroughfares are known as “desire paths,” which are routes created by people who choose a more direct, efficient, or practical way to reach [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/desire-paths-what-informal-workarounds-can-teach-us-about-process-improvement/\">Desire Paths: What Informal Workarounds Can Teach Us About Process Improvement</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "U.S. Dept. of Veterans Affairs",
