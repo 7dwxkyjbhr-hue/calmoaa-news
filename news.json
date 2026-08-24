@@ -1,31 +1,59 @@
 [
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-08-24T12:20:59Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
-    "published": "2026-08-24T06:31:47Z",
+    "published": "2026-08-24T12:20:59Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-08-24T06:31:45Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-08-24T04:17:29Z",
+    "published": "2026-08-24T12:20:58Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-08-24T04:17:17Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-08-24T12:20:57Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "CalMatters",
+    "title": "California must grow ‘connective tissue’ to better link employers to young people seeking careers",
+    "link": "https://calmatters.org/commentary/2026/08/employers-young-career-links-california/",
+    "published": "2026-08-24T12:00:00Z",
+    "summary": "<figure><img alt=\"A person is holding a section of pipe while a group of people surrounds him as he teaches a lesson at a table in a workshop.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2024/11/102824-ValleyBuild-Fresno-LV_17.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>California has fostered programs that move students from classroom to careers, but employers need regional help navigating them, and the young people in them need to be paid, a nonprofit executive says."
+  },
+  {
+    "source": "CalMatters",
+    "title": "What is the 10 a.m. rule? Controversial firefighting strategy could be back",
+    "link": "https://calmatters.org/uncategorized/2026/08/10-am-rule-controversial-firefighting-strategy/",
+    "published": "2026-08-24T12:00:00Z",
+    "summary": "<figure><img alt=\"Two firefighters stand near flames and smoke on a scorched hillside during a wildfire.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/051826_Sandy_Fire_ZC_CM_11.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Full suppression by 10 a.m. has not been reinstated under Trump but political pressure remains"
+  },
+  {
+    "source": "CalMatters",
+    "title": "The Trump administration upended how the West fights wildfires. California is bracing too",
+    "link": "https://calmatters.org/environment/wildfires/2026/08/trump-wildfire-wildland-firefighting-federal-california/",
+    "published": "2026-08-24T12:00:00Z",
+    "summary": "<figure><img alt=\"A helicopter drops water over a smoky wildfire burning across a hillside.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/051826_Sandy_Fire_ZC_CM_06.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Four firefighters, two helicopter pilots and a contractor bulldozing a fireline have died in Colorado, Utah and Oregon this year. Fast-moving fires have burned millions of acres and destroyed hundreds of homes and buildings in the West. California, which is having an unusually quiet fire summer, has deployed engines and crews to fight fires raging [&#8230;]"
+  },
+  {
+    "source": "California Globe",
+    "title": "Office of Administrative Hearings Procedures – Part 1",
+    "link": "https://californiaglobe.com/articles/office-of-administrative-hearings-procedures-part-1/",
+    "published": "2026-08-24T09:30:23Z",
+    "summary": "Chapter 1 deals with general APA hearing procedures"
   },
   {
     "source": "California Globe",
@@ -47,20 +75,6 @@
     "link": "https://californiaglobe.com/fr/gov-newsom-wails-about-assaults-on-the-free-press-then-signs-stop-nick-shirley-act-into-law/",
     "published": "2026-08-23T15:56:38Z",
     "summary": "&#8216;California Passes a law making it a crime to report a crime&#8217;"
-  },
-  {
-    "source": "California Political Review",
-    "title": "REPORT: California Assemblyman Steers $6 Million to His Own Nonprofit",
-    "link": "https://capoliticalreview.com/2026/08/23/report-california-assemblyman-steers-6-million-to-his-own-nonprofit/",
-    "published": "2026-08-23T14:30:58Z",
-    "summary": "<p>Assemblyman Dr Corey Jackson named CART, his own nonprofit, his legislative district’s “Nonprofit of the Year” California Assemblyman Dr. Corey Jackson (D-Moreno Valley), who received his Masters in Social Work, founded and directs the nonprofit Center Against Racism and Trauma (CART), which has been tax-exempt since February 2022. “California quietly boosted taxpayer funding for a [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/23/report-california-assemblyman-steers-6-million-to-his-own-nonprofit/\">Read More and Comment: REPORT: California Assemblyman Steers $6 Million to His Own Nonprofit</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/23/report-california-assemblyman-steers-6-million-to-his-own-nonprofit/\">REPORT: California Assemblyman Steers $6 Million to His Own Nonprofit</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "California Political Review",
-    "title": "Homeless counts dropped in these California counties this year",
-    "link": "https://capoliticalreview.com/2026/08/23/homeless-counts-dropped-in-these-california-counties-this-year/",
-    "published": "2026-08-23T14:00:55Z",
-    "summary": "<p>California reduced its official homeless count in 2025 after years of increases. Now, preliminary data for 2026 shows many places in the state are continuing to make progress. Counties up and down the state are reporting that their homeless populations dropped this year, citing early results of the point-in-time count conducted in January. Some of [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/23/homeless-counts-dropped-in-these-california-counties-this-year/\">Read More and Comment: Homeless counts dropped in these California counties this year</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/23/homeless-counts-dropped-in-these-california-counties-this-year/\">Homeless counts dropped in these California counties this year</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "Capitol Weekly",
@@ -98,13 +112,6 @@
     "summary": "<p>A new notice to Department of the Navy personnel warns of a “coordinated, multi-domain campaign” targeting them.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/navy-marines-warning-personnel-bases/\">Sailors and Marines advised to hide military ties on social media, report suspicious activity</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "California Globe",
-    "title": "Some Key Words to Watch in Legislation",
-    "link": "https://californiaglobe.com/articles/some-key-words-to-watch-in-legislation/",
-    "published": "2026-08-22T21:00:56Z",
-    "summary": "We should be concerned with problematic words in proposed statutes"
-  },
-  {
     "source": "Task & Purpose",
     "title": "More than 750 US troops wounded in Iran war, nearly half since July",
     "link": "https://taskandpurpose.com/news/us-troops-more-than-750-wounded-iran/",
@@ -117,20 +124,6 @@
     "link": "https://taskandpurpose.com/news/space-force-ceremonial-uniform/",
     "published": "2026-08-22T16:27:19Z",
     "summary": "<p>The service’s Honor Guard will wear the new ceremonial dress uniform for the first time at the IndyCar race in Washington, D.C. on Aug. 23.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/space-force-ceremonial-uniform/\">Space Force unveils new ceremonial uniform</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
-    "source": "California Political Review",
-    "title": "FBI agents confront Eric Swalwell at San Francisco Airport and seize his electronics as part of sexual misconduct investigation",
-    "link": "https://capoliticalreview.com/2026/08/22/fbi-agents-confront-eric-swalwell-at-san-francisco-airport-and-seize-his-electronics-as-part-of-sexual-misconduct-investigation/",
-    "published": "2026-08-22T14:30:14Z",
-    "summary": "<p>FBI agents confronted Eric Swalwell with a search warrant when he landed at San Francisco Airport Saturday and seized the former congressman&#8217;s electronic devices, including his cell phone, as part of a federal criminal investigation into allegations of sexual misconduct, the Daily Mail can exclusively reveal. Swalwell&#8217;s MacBook Pro, charging cable, and wall charger were also [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/22/fbi-agents-confront-eric-swalwell-at-san-francisco-airport-and-seize-his-electronics-as-part-of-sexual-misconduct-investigation/\">Read More and Comment: FBI agents confront Eric Swalwell at San Francisco Airport and seize his electronics as part of sexual misconduct investigation</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/22/fbi-agents-confront-eric-swalwell-at-san-francisco-airport-and-seize-his-electronics-as-part-of-sexual-misconduct-investigation/\">FBI agents confront Eric Swalwell at San Francisco Airport and seize his electronics as part of sexual misconduct investigation</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "California Political Review",
-    "title": "Notes for the end-of-session",
-    "link": "https://capoliticalreview.com/2026/08/22/notes-for-the-end-of-session/",
-    "published": "2026-08-22T14:00:27Z",
-    "summary": "<p>With the final weeks of Session upon us, several procedural items that regularly occur on the Floors of the California Legislature may be in order: How many times can a bill be reconsidered? Regarding the reconsideration of bills, the same rule applies whether a bill is in committee or on the Floors of the Assembly [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/22/notes-for-the-end-of-session/\">Read More and Comment: Notes for the end-of-session</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/22/notes-for-the-end-of-session/\">Notes for the end-of-session</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "Governor of California",
@@ -182,32 +175,11 @@
     "summary": "The latest question posed to our panel of experts: “Should there be a hard limit on the number of committees a legislator can serve on?” <p><strong>Continue reading the full article:</strong> <a href=\"http://capitolweekly.net/experts-expound-how-much-is-too-much/\">Capitol Weekly</a></p><span style=\"font-size: 0; color: transparent;\">Original article: http://capitolweekly.net/experts-expound-how-much-is-too-much/</span>"
   },
   {
-    "source": "California Political Review",
-    "title": "California Dem making $200K in taxpayer cash crashes Nick Shirley interview",
-    "link": "https://capoliticalreview.com/2026/08/21/watch-nick-shirley-gets-in-a-wild-street-clash-with-california-official-who-repeatedly-accuses-him-of-having/",
-    "published": "2026-08-21T14:30:06Z",
-    "summary": "<p>A California Democrat collecting a $200,000-plus taxpayer-funded salary apparently had better things to do with his workday than work, like crashing journalist Nick Shirley’s sidewalk interview with a crude sign about his penis. Terry Schanz, chief of staff to Democratic Assemblywoman Tina McKinnor, barged into Shirley’s interview outside the California State Capitol in Sacramento carrying a [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/21/watch-nick-shirley-gets-in-a-wild-street-clash-with-california-official-who-repeatedly-accuses-him-of-having/\">Read More and Comment: California Dem making $200K in taxpayer cash crashes Nick Shirley interview</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/21/watch-nick-shirley-gets-in-a-wild-street-clash-with-california-official-who-repeatedly-accuses-him-of-having/\">California Dem making $200K in taxpayer cash crashes Nick Shirley interview</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "CalMatters",
-    "title": "Deadly e-bike accidents shape Bay Area test",
-    "link": "https://calmatters.org/newsletter/ebike-safety-plans/",
-    "published": "2026-08-21T13:00:00Z",
-    "summary": "<figure><img alt=\"A boy rides an e-bike past beachgoers walking along a pathway overlooking a coastline during a dusk evening.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/081026_E-Bike_AP_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Near-misses with a kid whizzing by on an electric bicycle may be a common nuisance these days, but some incidents can end in tragedy. As a growing number of e-bike related accidents — particularly ones involving children — raise alarm among residents and legislators, two bills that aim to expand e-bike safety in California are [&#8230;]"
-  },
-  {
-    "source": "CalMatters",
-    "title": "Proposition 44 wrongly squeezes politics between California patients and their healthcare",
-    "link": "https://calmatters.org/commentary/2026/08/proposition-44-destructive-community-clinics/",
-    "published": "2026-08-21T12:00:00Z",
-    "summary": "<figure><img alt=\"An elderly person with a long white beard and wearing a black and orang striped shirt, looks towards a medical profession seated next to them inside an examination room. The room includes a medical bed and equipment.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/06/120219_Hope-Clinic_BANG_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Community clinics across California do not meet the arbitrary standards Proposition 44 would create, jeopardizing healthcare services statewide, a physician argues."
-  },
-  {
-    "source": "CalMatters",
-    "title": "Proposition 44 ensures California’s community clinics prioritize patients over executives",
-    "link": "https://calmatters.org/commentary/2026/08/patients-revenue-proposition-44-california/",
-    "published": "2026-08-21T12:00:00Z",
-    "summary": "<figure><img alt=\"Attendees at a Calexico Wellness Center health fair wait to receive lunch outside the clinic in Calexico on Oct. 25, 2023. Photo by Adriana Heldiz, CalMatters\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2024/02/10252023_Calexico-Wellness-Center_AH_17.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Proposition 44 will hold community health centers accountable for the public dollars they receive, argues a social worker."
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SB802",
+    "link": "https://legiscan.com/CA/bill/SB802/2025?utm_campaign=rss&guid=73hE3tPQXwGoAIOrrZQPcG",
+    "published": "2026-08-21T04:00:00Z",
+    "summary": "An act to add Article 1.5 (commencing with Section 6539.9.5) to Chapter 5 of Division 7 of Title 1 of the Government Code, relating to housing.<br />\n<br />\n2026/08/21 Ordered to third reading."
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
@@ -215,13 +187,6 @@
     "link": "https://legiscan.com/CA/bill/SB1055/2025?utm_campaign=rss&guid=ukvwDOYsTpPDzNLV1lViL",
     "published": "2026-08-21T04:00:00Z",
     "summary": "An act to add Article 130 (commencing with Section 21650) to Chapter 1.5 of Part 3 of Division 2 of the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/08/21 Enrolled and presented to the Governor at 3 p.m."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB1294",
-    "link": "https://legiscan.com/CA/bill/AB1294/2025?utm_campaign=rss&guid=KQdvEbFLuUeyYt4M3LoTO",
-    "published": "2026-08-21T04:00:00Z",
-    "summary": "An act to amend Section 214 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/08/21 Read third time and amended. Ordered to second reading."
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
@@ -239,10 +204,10 @@
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB282",
-    "link": "https://legiscan.com/CA/bill/AB282/2025?utm_campaign=rss&guid=S1RbapRKcZQJNkfRQvWnP",
+    "title": "CA AB2467",
+    "link": "https://legiscan.com/CA/bill/AB2467/2025?utm_campaign=rss&guid=5XfgeGYNkMDwEwwwV02Mn8",
     "published": "2026-08-21T04:00:00Z",
-    "summary": "An act to amend Section 12955 of the Government Code, relating to discrimination.<br />\n<br />\n2026/08/21 Read second time and amended. Ordered returned to second reading."
+    "summary": "An act to amend Sections 44320, 48004, 48204.3, and 51461 of the Education Code, relating to elementary and secondary education, making an appropriation therefor, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/08/21 Read second time and amended. Ordered returned to second reading."
   },
   {
     "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
@@ -270,7 +235,7 @@
     "title": "CA SB1340",
     "link": "https://legiscan.com/CA/bill/SB1340/2025?utm_campaign=rss&guid=3B677USbkZe9cNQYahq0dl",
     "published": "2026-08-21T04:00:00Z",
-    "summary": "An act to amend Section 14838 of, and to add Section 11148.5.1 to, the Government Code, and to amend Section 999.10 of the Military and Veterans Code, relating to businesses.<br />\n<br />\n2026/08/21 Ordered to third reading."
+    "summary": "An act to amend Section 14841 of, and to add Section 11148.5.1 to, the Government Code, and to add Chapter 12 (commencing with Section 19200) to Part 2 of Division 2 of the Public Contract Code, relating to businesses.<br />\n<br />\n2026/08/21 Ordered to third reading."
   },
   {
     "source": "LegiScan Search Feed - Military Search",
@@ -291,7 +256,7 @@
     "title": "CA AB1881",
     "link": "https://legiscan.com/CA/bill/AB1881/2025?utm_campaign=rss&guid=5iVztKcQSKDP0OloFveQno",
     "published": "2026-08-21T04:00:00Z",
-    "summary": "An act to amend Section 7930.205 of the Government Code, and to add Chapter 1.79 (commencing with Section 5097.1000) to Division 5 of the Public Resources Code, relating to California Indians.<br />\n<br />\n2026/08/21 Read third time and amended. Ordered to second reading."
+    "summary": "An act to amend, repeal, and add Section 7930.205 of the Government Code, and to add Chapter 1.79 (commencing with Section 5097.1000) to Division 5 of the Public Resources Code, relating to California Indians.<br />\n<br />\n2026/08/21 Read third time and amended. Ordered to second reading."
   },
   {
     "source": "LegiScan Search Feed - Military Search",
@@ -406,6 +371,13 @@
     "summary": "Xavier Becerra outraised his Republican opponent for governor by more than two to one in donations of $1,000 or more during the first half of August, as Sacramento’s inside players continued betting heavily on the Democratic frontrunner to succeed Gov. Gavin Newsom.<p><strong>Continue reading the full article:</strong> <a href=\"http://capitolweekly.net/becerra-laps-hilton-in-the-money-race/\">Capitol Weekly</a></p><span style=\"font-size: 0; color: transparent;\">Original article: http://capitolweekly.net/becerra-laps-hilton-in-the-money-race/</span>"
   },
   {
+    "source": "The Auditor",
+    "title": "Field Report: EMC + SIPI Symposium 2026",
+    "link": "https://www.theauditoronline.com/field-report-emc-sipi-symposium-2026/",
+    "published": "2026-08-18T04:51:28Z",
+    "summary": "<p>By Mike Richman Exemplar Global is the organization behind The Auditor Online media brand, but management system auditing and other conformity assessment professions are not the only industries we serve. Exemplar Global also operates the well-established International Association for Radio, Telecommunications and Electromagnetics (iNARTE) brand. iNARTE certifications are designed for qualified engineers and technicians working [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/field-report-emc-sipi-symposium-2026/\">Field Report: EMC + SIPI Symposium 2026</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
+  },
+  {
     "source": "The Liberal OC",
     "title": "Trump’s War on Fraud hits a Santa Ana Food Truck",
     "link": "https://theliberaloc.com/2026/08/17/trumps-war-on-fraud-hits-a-santa-ana-food-truck/",
@@ -453,6 +425,13 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4575248/digital-manufacturing-exchange-expands-manufacturing-options-for-marines-at-the/",
     "published": "2026-08-14T15:31:00Z",
     "summary": "During Valiant Shield 26, Marine Depot Maintenance Command (MDMC) joined operating forces, other military services, original equipment manufacturers and regional industry partners to test how DMX could support a distributed sustainment network across the Indo-Pacific.<br /> \n<img alt=\"U.S. Marines with Intermediate Repair Company, 3rd Maintenance Battalion, 3rd Marine Logistics Group, prepare to test print on-the-move capabilities during Valiant Shield 26 on Camp Kinser, Okinawa, Japan, June 22, 2026. IRC Marines participated in Resilient Advanced Manufacturing for Contested Environments, or RAMFORCE, an initiative hosted by the Office of the Under Secretary of Defense for Research and Engineering. The innovative event brought together military personnel, government laboratories, and private industry to evaluate how advanced manufacturing technologies could enable expeditionary forces to repair, replace and even produce critical equipment at the point of need. (U.S. Marine Corps photo by Cpl. Rachel Mason)\" src=\"https://media.defense.gov/2026/Jul/29/2003982807/115/75/0/260622-M-BN442-1008.JPG\" /> <br />"
+  },
+  {
+    "source": "The Auditor",
+    "title": "Accreditation Is the Foundation for Trustworthy Sustainability Certification",
+    "link": "https://www.theauditoronline.com/accreditation-is-the-foundation-for-trustworthy-sustainability-certification/",
+    "published": "2026-08-13T22:10:56Z",
+    "summary": "<p>A sustainability standard can be a powerful tool for achieving environmental and social goals across a supply chain, but it is only as good as the way it plays out in the world. Take soccer as an analogy: the sport’s governing body codifies the rules of the game, and each league hires referees to monitor [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/accreditation-is-the-foundation-for-trustworthy-sustainability-certification/\">Accreditation Is the Foundation for Trustworthy Sustainability Certification</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "Public Policy Institute of California",
@@ -523,6 +502,13 @@
     "link": "https://www.youtube.com/watch?v=guba_fRJ5J4",
     "published": "2026-08-12T12:55:34Z",
     "summary": "I am excited to share the second episode of At the Table, a series where I sit down with leaders across government and the community to talk about programs and opportunities that support Veterans, their families, caregivers, and survivors.\n\nMy goal is to highlight resources, programs, and real success stories that help Veterans build strong futures.\n\nIn this episode, I talk with SBA Deputy Administrator Briggs about why entrepreneurship is such a strong pathway for Veterans and how SBA supports them with free counseling, capital tools, franchise resources, and federal contracting opportunities.\n\nI look forward to continuing to bring more voices to the table in future episodes and shining a light on programs that make a real difference in the lives of Veterans."
+  },
+  {
+    "source": "The Auditor",
+    "title": "Why Some Consultants Get Invited Back… and Others Don’t",
+    "link": "https://www.theauditoronline.com/why-some-consultants-get-invited-back-and-others-dont/",
+    "published": "2026-08-12T05:24:58Z",
+    "summary": "<p>By Jackie Stapleton Findings don&#8217;t get you invited back. Behavior does. I recently shared on LinkedIn an interesting question I was asked: “As a consultant, how do you get invited back, especially if you’ve documented a lot of findings in an audit?” The assumption behind this question is an interesting one—that the number of findings [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/why-some-consultants-get-invited-back-and-others-dont/\">Why Some Consultants Get Invited Back… and Others Don&#8217;t</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "Legislative Analyst's Office: Recent Publications",
@@ -642,6 +628,20 @@
     "link": "https://cv4a.org/news-media/cva-submits-recommendations-to-senate-for-fy27-ndaa/",
     "published": "2026-07-23T19:32:03Z",
     "summary": "<p>Concerned Veterans for America Strategic Director John Byrnes delivered a letter of recommendations to the U.S. Senate for the National Defense Authorization Act. Read the letter below: This browser doesn&#8217;t support embedded PDFs. Click here to download it. &#160;</p>\n<p>The post <a href=\"https://cv4a.org/news-media/cva-submits-recommendations-to-senate-for-fy27-ndaa/\">CVA Submits Recommendations to Senate for FY27 NDAA</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
+  },
+  {
+    "source": "The Auditor",
+    "title": "What Certified Professionals and Training Providers Need to Know About ISO 9001:2026",
+    "link": "https://www.theauditoronline.com/what-certified-professionals-and-training-providers-need-to-know-about-iso-90012026/",
+    "published": "2026-07-22T21:48:46Z",
+    "summary": "<p>Earlier this year, the International Organization for Standardization published ISO 14001:2026, the world’s most recognized standard for environmental management systems. This September, ISO is planning to release ISO 9001:2026, the standard that helps organizations optimize their quality management systems. Exemplar Global has published detailed procedures for certified professionals as well as certified training providers who [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/what-certified-professionals-and-training-providers-need-to-know-about-iso-90012026/\">What Certified Professionals and Training Providers Need to Know About ISO 9001:2026</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
+  },
+  {
+    "source": "The Auditor",
+    "title": "Desire Paths: What Informal Workarounds Can Teach Us About Process Improvement",
+    "link": "https://www.theauditoronline.com/desire-paths-what-informal-workarounds-can-teach-us-about-process-improvement/",
+    "published": "2026-07-21T18:28:12Z",
+    "summary": "<p>By Josh Casson Walk across almost any university campus, public park, or corporate grounds and you are likely to see a dirt trail cutting across the grass between two sidewalks. These unofficial thoroughfares are known as “desire paths,” which are routes created by people who choose a more direct, efficient, or practical way to reach [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/desire-paths-what-informal-workarounds-can-teach-us-about-process-improvement/\">Desire Paths: What Informal Workarounds Can Teach Us About Process Improvement</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "U.S. Dept. of Veterans Affairs",
