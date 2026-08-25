@@ -3,15 +3,43 @@
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
-    "published": "2026-08-25T00:31:42Z",
+    "published": "2026-08-25T06:22:59Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-08-25T00:31:40Z",
+    "published": "2026-08-25T06:22:57Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
+    "published": "2026-08-25T04:17:28Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-08-25T04:17:17Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "Governor of California",
+    "title": "Governor Newsom signs legislation 8.24.2026",
+    "link": "https://www.gov.ca.gov/2026/08/24/governor-newsom-signs-legislation-8-24-2026/",
+    "published": "2026-08-25T00:40:44Z",
+    "summary": "<img alt=\"White “Governor Gavin Newsom” logo beside a walking California grizzly bear and star on a blue background.\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2024/05/6C94C750-0DF8-46C6-A8E3-00EA4F1B1ADD-150x150.jpeg\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/08/24/governor-newsom-signs-legislation-8-24-2026/\" rel=\"nofollow\">Source</a></p>"
+  },
+  {
+    "source": "Governor of California",
+    "title": "Governor Newsom announces judicial appointments 8.24.26",
+    "link": "https://www.gov.ca.gov/2026/08/24/governor-newsom-announces-judicial-appointments-8-24-26/",
+    "published": "2026-08-25T00:30:25Z",
+    "summary": ""
   },
   {
     "source": "CalMatters",
@@ -19,20 +47,6 @@
     "link": "https://calmatters.org/politics/2026/08/riverside-county-ballot-seizure-supreme-court/",
     "published": "2026-08-25T00:26:21Z",
     "summary": "<figure><img alt=\"A uniformed sheriff smiles while speaking with a person outside a building.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/082426-Chad-Bianco-Court-AP-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Riverside County Sheriff Chad Bianco was at the California Supreme Court Monday as his attorney argued he acted within his authority in seizing 650,000 ballots."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-08-25T00:17:30Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-08-25T00:17:19Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "California Globe",
@@ -98,13 +112,6 @@
     "summary": "Rep. John Gillette says he sought a federal trace of Sunshine Residential payments from 2022 through 2025 to determine whether Medicaid, foster care, or other federal funds were involved"
   },
   {
-    "source": "The Auditor",
-    "title": "Standards Australia’s NEXTgen Program",
-    "link": "https://www.theauditoronline.com/standards-australias-nextgen-program/",
-    "published": "2026-08-24T20:22:51Z",
-    "summary": "<p>Standards Australia’s NEXTgen Program selects emerging industry and technical experts and provides them with an exciting opportunity to become involved in the national and international standardization processes supporting Australian industry and government. &#x200d; Through the program, participants will access training and gain direct exposure to the standards development process and context. They will attend and participate [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/standards-australias-nextgen-program/\">Standards Australia’s NEXTgen Program</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
     "source": "Task & Purpose",
     "title": "National Guard ends eight-month deployment in New Orleans",
     "link": "https://taskandpurpose.com/news/national-guard-new-orleans-deployment-ends/",
@@ -138,41 +145,6 @@
     "link": "https://www.ppic.org/publication/policy-brief-making-sense-of-varying-policies-for-reclassifying-english-learners/?utm_source=rss&utm_medium=rss&utm_campaign=policy-brief-making-sense-of-varying-policies-for-reclassifying-english-learners",
     "published": "2026-08-24T18:47:38Z",
     "summary": "<p><img alt=\"photo - Child Learning English Language while Playing Games in Classroom\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/08/child-learning-english-language-while-playing-games-in-classroom.jpg\" width=\"2000\" /></p>PPIC surveyed nearly 350 California districts to gain insight into their processes for reclassifying English Learner students as fluent. Half of districts say the process is too hard, while half say it is just right. The reclassification process could be streamlined with one test and through teacher evaluations that are less formal."
-  },
-  {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "MVP Research: From Data to Impact",
-    "link": "https://www.youtube.com/watch?v=5lCxqhVV_QY",
-    "published": "2026-08-24T18:44:11Z",
-    "summary": "VA’s Million Veteran Program (MVP) is turning discoveries into more personalized care, earlier risk detection, and new approaches to treatments for Veterans. By joining more than 1 million Veterans in MVP, you can help shape the future of Veteran health care. Learn more or join today at https://www.mvp.va.gov or call 866-441-6075. \n\nThe studies/programs mentioned in this video include:\n• The Prostate Cancer, Genetic Risk, and Equitable Screening Study (ProGRESS)\n• The Return of Actionable Results Study (ROAR)\n• The Recovery Engagement and Coordination for Health – Veterans \n• Enhanced Treatment Program (REACHVET)"
-  },
-  {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "MVP Experts: What is Pharmacogenomics in Health Research?",
-    "link": "https://www.youtube.com/watch?v=_55uyDwBKhU",
-    "published": "2026-08-24T18:29:10Z",
-    "summary": "VA researchers are using data from the Million Veteran Program (MVP) to help inform personalized care for all Veterans. Hear directly from expert researchers and physicians about the impact of MVP studies on Veteran health care—like pharmacogenomics, the study of how a person's genetic makeup affects their response to medications. Learn more at https://www.mvp.va.gov or call 866-441-6075."
-  },
-  {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "How Does MVP Use Veteran Data?",
-    "link": "https://www.youtube.com/watch?v=Uw3h89ZpGzY",
-    "published": "2026-08-24T18:27:38Z",
-    "summary": "You must attach a closed caption file before making this video public unless it is open captioned or there is no dialogue.  \n\nYouTube auto-generated captions must be edited for proper grammar and spelling.  \n\nThis is a legal requirement; videos not adhering to this mandate will be made private until captioned."
-  },
-  {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "MVP's Role in Helping Doctors Predict Health Risks Earlier",
-    "link": "https://www.youtube.com/watch?v=8RpfAQFaJBU",
-    "published": "2026-08-24T18:25:57Z",
-    "summary": "VA’s Million Veteran Program (MVP) is using research to better understand health risks before symptoms appear. By studying genes, health history, and lifestyle, researchers are identifying patterns that may support earlier detection and personalized care for Veterans. Learn more or join today at https://www.mvp.va.gov or call 866-441-6075."
-  },
-  {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "How MVP Research Translates Into Real-World Care",
-    "link": "https://www.youtube.com/watch?v=Rv-idL3l4mY",
-    "published": "2026-08-24T18:23:47Z",
-    "summary": "VA’s Million Veteran Program (MVP) is turning research into better care for Veterans. By studying health and genetic information, MVP researchers are developing insights that support more personalized care and treatments. Learn more or join today at https://www.mvp.va.gov or call 866-441-6075."
   },
   {
     "source": "CalMatters",
@@ -217,11 +189,74 @@
     "summary": "<img alt=\"California attracts more startup investment than 49 states combined\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2026/08/FACTS-NOT-ON-FOX_-California-attracts-more-startup-investment-than-49-states-combined-SEO-GFX-150x150.png\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/08/24/facts-not-on-fox-news-california-attracts-more-startup-investment-than-49-states-combined/\" rel=\"nofollow\">Source</a></p>"
   },
   {
+    "source": "California Political Review",
+    "title": "It’s beyond debate. California voters deserve a Becerra-Hilton face-off",
+    "link": "https://capoliticalreview.com/2026/08/24/its-beyond-debate-california-voters-deserve-a-becerra-hilton-face-off/",
+    "published": "2026-08-24T14:30:08Z",
+    "summary": "<p>The Democratic front-runner has pledged he’ll share a stage with his Republican foe, but hasn’t said where or when. Hilton, in typical underdog fashion, is eager to meet anytime, anyplace. Barring some extraordinary event — a health emergency, a career-ending scandal, a killer asteroid destroying all life on earth — Xavier Becerra will be the next governor of California. [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/24/its-beyond-debate-california-voters-deserve-a-becerra-hilton-face-off/\">Read More and Comment: It’s beyond debate. California voters deserve a Becerra-Hilton face-off</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/24/its-beyond-debate-california-voters-deserve-a-becerra-hilton-face-off/\">It’s beyond debate. California voters deserve a Becerra-Hilton face-off</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
+    "source": "California Political Review",
+    "title": "Gov. Newsom Wails Grimes: About Assaults on the Free Press, then Signs ‘Stop Nick Shirley Act’ into Law",
+    "link": "https://capoliticalreview.com/2026/08/24/gov-newsom-wails-grimes-about-assaults-on-the-free-press-then-signs-stop-nick-shirley-act-into-law/",
+    "published": "2026-08-24T14:00:30Z",
+    "summary": "<p>‘California Passes a law making it a crime to report a crime’ California Governor Gavin Newsom signed the “Stop Nick Shirley Act,” Assembly Bill 2624, by Assemblywoman Mia Bonta (D-Oakland) into law Saturday August 22, 2026. Bonta claims her bill is about “privacy for immigration support services providers.” Gov. Newsom two days ago screeched on X about unfair [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/24/gov-newsom-wails-grimes-about-assaults-on-the-free-press-then-signs-stop-nick-shirley-act-into-law/\">Read More and Comment: Gov. Newsom Wails Grimes: About Assaults on the Free Press, then Signs ‘Stop Nick Shirley Act’ into Law</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/24/gov-newsom-wails-grimes-about-assaults-on-the-free-press-then-signs-stop-nick-shirley-act-into-law/\">Gov. Newsom Wails Grimes: About Assaults on the Free Press, then Signs ‘Stop Nick Shirley Act’ into Law</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
     "source": "CalMatters",
     "title": "Fight all fires or let some burn? Trump wildfire strategy ignites pushback",
     "link": "https://calmatters.org/newsletter/california-wildfire-trump-strategy/",
     "published": "2026-08-24T13:00:00Z",
     "summary": "<figure><img alt=\"A helicopter drops water over a smoky wildfire burning across a hillside.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/051826_Sandy_Fire_ZC_CM_06.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Hotter, wilder and more destructive fires in America’s dry West are forcing a reckoning in how to manage the blazes, prompting a cascade of disagreements between the Trump administration and some states. Reporters from half a dozen newsrooms spanning six states, including Rachel Becker of CalMatters, collaborated on two stories that unpack the central tension [&#8230;]"
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB282",
+    "link": "https://legiscan.com/CA/bill/AB282/2025?utm_campaign=rss&guid=3LaO1tBT06O3N3W6j0BQaS",
+    "published": "2026-08-24T04:00:00Z",
+    "summary": "An act to add Section 18579 to the Elections Code, relating to elections, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/08/24 Joint Rules 61 and 62(a) suspended. (Ayes 30. Noes 9.)"
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB1987",
+    "link": "https://legiscan.com/CA/bill/AB1987/2025?utm_campaign=rss&guid=dRseX5FUd4ZT8yQWIGF3v",
+    "published": "2026-08-24T04:00:00Z",
+    "summary": "An act to amend Sections 1745, 1745.1, and 1758 of, and to add Section 1528.5 to, the Fish and Game Code, relating to fish and wildlife.<br />\n<br />\n2026/08/24 Read second time. Ordered to third reading."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB1983",
+    "link": "https://legiscan.com/CA/bill/AB1983/2025?utm_campaign=rss&guid=26V67WhVXKEhCCpZ2zKXvB",
+    "published": "2026-08-24T04:00:00Z",
+    "summary": "An act to amend Sections 1771, 1788, and 1788.4 of the Health and Safety Code, relating to continuing care contracts.<br />\n<br />\n2026/08/24 Read second time. Ordered to third reading."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB1940",
+    "link": "https://legiscan.com/CA/bill/AB1940/2025?utm_campaign=rss&guid=3tE0RfqnTmEtvGMsx0qwx1",
+    "published": "2026-08-24T04:00:00Z",
+    "summary": "An act to amend Section 51 of the Civil Code, and to amend Sections 12926 and 12950 of the Government Code, relating to civil rights.<br />\n<br />\n2026/08/24 Read second time. Ordered to third reading."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SB296",
+    "link": "https://legiscan.com/CA/bill/SB296/2025?utm_campaign=rss&guid=3ve7t8ZkpO4XSN1K5hSSVI",
+    "published": "2026-08-24T04:00:00Z",
+    "summary": "An act to add and repeal Section 205.5.1 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/08/24 Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling."
+  },
+  {
+    "source": "California Political Review",
+    "title": "REPORT: California Assemblyman Steers $6 Million to His Own Nonprofit",
+    "link": "https://capoliticalreview.com/2026/08/23/report-california-assemblyman-steers-6-million-to-his-own-nonprofit/",
+    "published": "2026-08-23T14:30:58Z",
+    "summary": "<p>Assemblyman Dr Corey Jackson named CART, his own nonprofit, his legislative district’s “Nonprofit of the Year” California Assemblyman Dr. Corey Jackson (D-Moreno Valley), who received his Masters in Social Work, founded and directs the nonprofit Center Against Racism and Trauma (CART), which has been tax-exempt since February 2022. “California quietly boosted taxpayer funding for a [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/23/report-california-assemblyman-steers-6-million-to-his-own-nonprofit/\">Read More and Comment: REPORT: California Assemblyman Steers $6 Million to His Own Nonprofit</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/23/report-california-assemblyman-steers-6-million-to-his-own-nonprofit/\">REPORT: California Assemblyman Steers $6 Million to His Own Nonprofit</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
+    "source": "California Political Review",
+    "title": "Homeless counts dropped in these California counties this year",
+    "link": "https://capoliticalreview.com/2026/08/23/homeless-counts-dropped-in-these-california-counties-this-year/",
+    "published": "2026-08-23T14:00:55Z",
+    "summary": "<p>California reduced its official homeless count in 2025 after years of increases. Now, preliminary data for 2026 shows many places in the state are continuing to make progress. Counties up and down the state are reporting that their homeless populations dropped this year, citing early results of the point-in-time count conducted in January. Some of [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/23/homeless-counts-dropped-in-these-california-counties-this-year/\">Read More and Comment: Homeless counts dropped in these California counties this year</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/23/homeless-counts-dropped-in-these-california-counties-this-year/\">Homeless counts dropped in these California counties this year</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "Capitol Weekly",
@@ -238,18 +273,11 @@
     "summary": ""
   },
   {
-    "source": "Governor of California",
-    "title": "Governor Newsom announces appointments 8.21.26",
-    "link": "https://www.gov.ca.gov/2026/08/21/governor-newsom-announces-appointments-8-21-26/",
-    "published": "2026-08-22T01:04:58Z",
-    "summary": ""
-  },
-  {
-    "source": "Governor of California",
-    "title": "FREE MONEY FOR KIDS: Governor Newsom and First Partner celebrate one million families claim CalKIDS “baby bonds” accounts",
-    "link": "https://www.gov.ca.gov/2026/08/21/free-money-for-kids-governor-newsom-and-first-partner-celebrate-one-million-families-claim-calkids-baby-bonds-accounts/",
-    "published": "2026-08-21T20:42:41Z",
-    "summary": ""
+    "source": "California Political Review",
+    "title": "FBI agents confront Eric Swalwell at San Francisco Airport and seize his electronics as part of sexual misconduct investigation",
+    "link": "https://capoliticalreview.com/2026/08/22/fbi-agents-confront-eric-swalwell-at-san-francisco-airport-and-seize-his-electronics-as-part-of-sexual-misconduct-investigation/",
+    "published": "2026-08-22T14:30:14Z",
+    "summary": "<p>FBI agents confronted Eric Swalwell with a search warrant when he landed at San Francisco Airport Saturday and seized the former congressman&#8217;s electronic devices, including his cell phone, as part of a federal criminal investigation into allegations of sexual misconduct, the Daily Mail can exclusively reveal. Swalwell&#8217;s MacBook Pro, charging cable, and wall charger were also [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/22/fbi-agents-confront-eric-swalwell-at-san-francisco-airport-and-seize-his-electronics-as-part-of-sexual-misconduct-investigation/\">Read More and Comment: FBI agents confront Eric Swalwell at San Francisco Airport and seize his electronics as part of sexual misconduct investigation</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/22/fbi-agents-confront-eric-swalwell-at-san-francisco-airport-and-seize-his-electronics-as-part-of-sexual-misconduct-investigation/\">FBI agents confront Eric Swalwell at San Francisco Airport and seize his electronics as part of sexual misconduct investigation</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
     "source": "Capitol Weekly",
@@ -322,41 +350,6 @@
     "summary": "An act to amend Section 14841 of, and to add Section 11148.5.1 to, the Government Code, and to add Chapter 12 (commencing with Section 19200) to Part 2 of Division 2 of the Public Contract Code, relating to businesses.<br />\n<br />\n2026/08/21 Ordered to third reading."
   },
   {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB2467",
-    "link": "https://legiscan.com/CA/bill/AB2467/2025?utm_campaign=rss&guid=5XfgeGYNkMDwEwwwV02Mn8",
-    "published": "2026-08-21T04:00:00Z",
-    "summary": "An act to amend Sections 44320, 48004, 48204.3, and 51461 of the Education Code, relating to elementary and secondary education, making an appropriation therefor, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/08/21 Read second time and amended. Ordered returned to second reading."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SB574",
-    "link": "https://legiscan.com/CA/bill/SB574/2025?utm_campaign=rss&guid=5Jwe9AoDhqJwVrF455706K",
-    "published": "2026-08-21T04:00:00Z",
-    "summary": "An act to amend Section 6173 of, and to add Section 6068.1 to, the Business and Professions Code, and to amend Section 128.7 of, and to add Sections 180 and 1282.1 to, the Code of Civil Procedure, relating to civil proceedings.<br />\n<br />\n2026/08/21 Ordered to third reading."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB1881",
-    "link": "https://legiscan.com/CA/bill/AB1881/2025?utm_campaign=rss&guid=5iVztKcQSKDP0OloFveQno",
-    "published": "2026-08-21T04:00:00Z",
-    "summary": "An act to amend, repeal, and add Section 7930.205 of the Government Code, and to add Chapter 1.79 (commencing with Section 5097.1000) to Division 5 of the Public Resources Code, relating to California Indians.<br />\n<br />\n2026/08/21 Read third time and amended. Ordered to second reading."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB1883",
-    "link": "https://legiscan.com/CA/bill/AB1883/2025?utm_campaign=rss&guid=4h0ST5cT1kBQtI5MYr5deM",
-    "published": "2026-08-21T04:00:00Z",
-    "summary": "An act to add Part 5.8 (commencing with Section 1580) to Division 2 of the Labor Code, relating to employment.<br />\n<br />\n2026/08/21 Read third time and amended. Ordered to second reading."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SB328",
-    "link": "https://legiscan.com/CA/bill/SB328/2025?utm_campaign=rss&guid=3ajpgwjEonkwpwsQ9GyExl",
-    "published": "2026-08-21T04:00:00Z",
-    "summary": "An act to amend Section 54221 of the Government Code, and to add Chapter 6.8 (commencing with Section 21189.60) to Division 13 of the Public Resources Code, relating to land use, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/08/21 Ordered to third reading."
-  },
-  {
     "source": "The Official United States Marine Corps Public Website News",
     "title": "High North advantage – U.S. Marines, Allied Forces Deploy to Jan Mayen",
     "link": "https://www.marines.mil/News/News-Display/Article/4581396/high-north-advantage-us-marines-allied-forces-deploy-to-jan-mayen/",
@@ -427,13 +420,6 @@
     "summary": "&#160; Seal Beach, CA – Dr. Paula Swift, candidate for California State Assembly District 70, today announced the endorsement of the American Federation of State, County and <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/08/18/afscme-california-people-endorses-dr-paula-swift-for-assembly-district-70/\" title=\"AFSCME California People Endorses Dr. Paula Swift for Assembly District 70 \">[...]</a>"
   },
   {
-    "source": "The Auditor",
-    "title": "Field Report: EMC + SIPI Symposium 2026",
-    "link": "https://www.theauditoronline.com/field-report-emc-sipi-symposium-2026/",
-    "published": "2026-08-18T04:51:28Z",
-    "summary": "<p>By Mike Richman Exemplar Global is the organization behind The Auditor Online media brand, but management system auditing and other conformity assessment professions are not the only industries we serve. Exemplar Global also operates the well-established International Association for Radio, Telecommunications and Electromagnetics (iNARTE) brand. iNARTE certifications are designed for qualified engineers and technicians working [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/field-report-emc-sipi-symposium-2026/\">Field Report: EMC + SIPI Symposium 2026</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
     "source": "The Liberal OC",
     "title": "Trump’s War on Fraud hits a Santa Ana Food Truck",
     "link": "https://theliberaloc.com/2026/08/17/trumps-war-on-fraud-hits-a-santa-ana-food-truck/",
@@ -474,13 +460,6 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4575248/digital-manufacturing-exchange-expands-manufacturing-options-for-marines-at-the/",
     "published": "2026-08-14T15:31:00Z",
     "summary": "During Valiant Shield 26, Marine Depot Maintenance Command (MDMC) joined operating forces, other military services, original equipment manufacturers and regional industry partners to test how DMX could support a distributed sustainment network across the Indo-Pacific.<br /> \n<img alt=\"U.S. Marines with Intermediate Repair Company, 3rd Maintenance Battalion, 3rd Marine Logistics Group, prepare to test print on-the-move capabilities during Valiant Shield 26 on Camp Kinser, Okinawa, Japan, June 22, 2026. IRC Marines participated in Resilient Advanced Manufacturing for Contested Environments, or RAMFORCE, an initiative hosted by the Office of the Under Secretary of Defense for Research and Engineering. The innovative event brought together military personnel, government laboratories, and private industry to evaluate how advanced manufacturing technologies could enable expeditionary forces to repair, replace and even produce critical equipment at the point of need. (U.S. Marine Corps photo by Cpl. Rachel Mason)\" src=\"https://media.defense.gov/2026/Jul/29/2003982807/115/75/0/260622-M-BN442-1008.JPG\" /> <br />"
-  },
-  {
-    "source": "The Auditor",
-    "title": "Accreditation Is the Foundation for Trustworthy Sustainability Certification",
-    "link": "https://www.theauditoronline.com/accreditation-is-the-foundation-for-trustworthy-sustainability-certification/",
-    "published": "2026-08-13T22:10:56Z",
-    "summary": "<p>A sustainability standard can be a powerful tool for achieving environmental and social goals across a supply chain, but it is only as good as the way it plays out in the world. Take soccer as an analogy: the sport’s governing body codifies the rules of the game, and each league hires referees to monitor [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/accreditation-is-the-foundation-for-trustworthy-sustainability-certification/\">Accreditation Is the Foundation for Trustworthy Sustainability Certification</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "Public Policy Institute of California",
@@ -544,13 +523,6 @@
     "link": "https://www.ppic.org/publication/policy-brief-californias-political-geography/?utm_source=rss&utm_medium=rss&utm_campaign=policy-brief-californias-political-geography",
     "published": "2026-08-12T19:16:28Z",
     "summary": "<p><img alt=\"photo - Aerial View High above Camarillo Oxnard Area of California\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/08/aerial-view-high-above-camarillo-oxnard-area-of-california-1.jpg\" width=\"2000\" /></p>How do Californians’ political views differ across state? Using PPIC Statewide Survey data and sophisticated modeling to estimate public opinion across 46 areas, we examine views on politics, the cost of living, climate change, abortion, and more."
-  },
-  {
-    "source": "The Auditor",
-    "title": "Why Some Consultants Get Invited Back… and Others Don’t",
-    "link": "https://www.theauditoronline.com/why-some-consultants-get-invited-back-and-others-dont/",
-    "published": "2026-08-12T05:24:58Z",
-    "summary": "<p>By Jackie Stapleton Findings don&#8217;t get you invited back. Behavior does. I recently shared on LinkedIn an interesting question I was asked: “As a consultant, how do you get invited back, especially if you’ve documented a lot of findings in an audit?” The assumption behind this question is an interesting one—that the number of findings [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/why-some-consultants-get-invited-back-and-others-dont/\">Why Some Consultants Get Invited Back… and Others Don&#8217;t</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "Legislative Analyst's Office: Recent Publications",
@@ -651,13 +623,6 @@
     "summary": "<p>Concerned Veterans for America Strategic Director John Byrnes delivered a letter of recommendations to the U.S. Senate for the National Defense Authorization Act. Read the letter below: This browser doesn&#8217;t support embedded PDFs. Click here to download it. &#160;</p>\n<p>The post <a href=\"https://cv4a.org/news-media/cva-submits-recommendations-to-senate-for-fy27-ndaa/\">CVA Submits Recommendations to Senate for FY27 NDAA</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
   },
   {
-    "source": "The Auditor",
-    "title": "What Certified Professionals and Training Providers Need to Know About ISO 9001:2026",
-    "link": "https://www.theauditoronline.com/what-certified-professionals-and-training-providers-need-to-know-about-iso-90012026/",
-    "published": "2026-07-22T21:48:46Z",
-    "summary": "<p>Earlier this year, the International Organization for Standardization published ISO 14001:2026, the world’s most recognized standard for environmental management systems. This September, ISO is planning to release ISO 9001:2026, the standard that helps organizations optimize their quality management systems. Exemplar Global has published detailed procedures for certified professionals as well as certified training providers who [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/what-certified-professionals-and-training-providers-need-to-know-about-iso-90012026/\">What Certified Professionals and Training Providers Need to Know About ISO 9001:2026</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
     "source": "California Democratic Party",
     "title": "California Democratic Party Announces Endorsements for Statewide, Congressional and State Legislature Candidates",
     "link": "https://cadem.org/california-democratic-party-announces-endorsements-for-statewide-congressional-and-state-legislature-candidates/",
@@ -698,5 +663,40 @@
     "link": "https://legiscan.com/CA/bill/AB1702/2025?utm_campaign=rss&guid=6ReVyBf7TaavgUZBZt7yG9",
     "published": "2026-05-14T04:00:00Z",
     "summary": "An act to amend Section 5011.5 of, and to add Section 5011.8 to, the Public Resources Code, relating to parks.<br />\n<br />\n2026/05/14 In committee: Held under submission."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB2064",
+    "link": "https://legiscan.com/CA/bill/AB2064/2025?utm_campaign=rss&guid=5FX70IGbiGuc4rRS59jUb5",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Section 51 of the Civil Code, and to amend Sections 12920, 12921, 12926, 12940, and 12955 of the Government Code, relating to discrimination.<br />\n<br />\n2026/05/14 In committee: Held under submission."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB2370",
+    "link": "https://legiscan.com/CA/bill/AB2370/2025?utm_campaign=rss&guid=3gjVfay8bfPPOEgZJONi5T",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Section 15277 of the Government Code, relating to emergency services.<br />\n<br />\n2026/05/14 In committee: Held under submission."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB2590",
+    "link": "https://legiscan.com/CA/bill/AB2590/2025?utm_campaign=rss&guid=2GSBo4ymrDsBBg0kXPJg9r",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Section 10230.2 of, and to add Division 9.5 (commencing with Section 9975) to, the Public Resources Code, relating to public resources, and making an appropriation therefor.<br />\n<br />\n2026/05/14 In committee: Held under submission."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB2016",
+    "link": "https://legiscan.com/CA/bill/AB2016/2025?utm_campaign=rss&guid=338a1glbJmvj3f83LBUwKo",
+    "published": "2026-04-27T04:00:00Z",
+    "summary": "An act to add Section 116365.7 to the Health and Safety Code, relating to water, and making an appropriation therefor.<br />\n<br />\n2026/04/27 In committee: Hearing postponed by committee."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
+    "title": "CA AB2645",
+    "link": "https://legiscan.com/CA/bill/AB2645/2025?utm_campaign=rss&guid=1Ya8IZvtvRBZB2wo4Elnpg",
+    "published": "2026-04-13T04:00:00Z",
+    "summary": "An act to add Article 3 (commencing with Section 983) to Chapter 6 of Division 4 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/04/13 In committee: Set, first hearing. Hearing canceled at the request of author."
   }
 ]
