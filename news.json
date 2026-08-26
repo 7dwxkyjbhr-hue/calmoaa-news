@@ -1,31 +1,59 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
-    "published": "2026-08-26T06:24:59Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-08-26T06:24:58Z",
+    "published": "2026-08-26T12:23:55Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
+    "published": "2026-08-26T12:23:55Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-08-26T06:24:57Z",
+    "published": "2026-08-26T12:23:54Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-08-26T06:24:55Z",
+    "published": "2026-08-26T12:23:53Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "CalMatters",
+    "title": "UC should examine how it sorts students by campus",
+    "link": "https://calmatters.org/commentary/2026/08/uc-sorts-students-by-campus/",
+    "published": "2026-08-26T12:00:00Z",
+    "summary": "<figure><img alt=\"A person carrying books walks past a shelf of SAT study books.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/112719_SAT_AW_CM_03.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>New students are pegged by the informal hierarchy of UC campuses, affecting resources, faculty credentials, graduation chances and future earning ability."
+  },
+  {
+    "source": "CalMatters",
+    "title": "California’s political battle over key environmental law brews on two fronts",
+    "link": "https://calmatters.org/commentary/2026/08/california-political-battle-environmental-law/",
+    "published": "2026-08-26T12:00:00Z",
+    "summary": "<figure><img alt=\"A construction site to a apartment complex.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2024/10/102424_Santa-Monica-Construction_ZS-28.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Legislators this week and voters this November will weigh in on measures to curtail some of CEQA's vexing construction project restrictions."
+  },
+  {
+    "source": "CalMatters",
+    "title": "Parents of transgender kids say California is ‘unprepared’ as feds cut off their healthcare",
+    "link": "https://calmatters.org/health/2026/08/transgender-youth-medicaid-california-funding/",
+    "published": "2026-08-26T12:00:00Z",
+    "summary": "<figure><img alt=\"Three demonstrators stand in the rain holding umbrellas and a large transgender pride flag, with one person holding a sign reading “History has its eyes on you,” outside a brightly lit hospital sign at dusk.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/01/021325_CHLA-Gender-Affirming-Care-Demo_JWH_CM_06.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>Parents of transgender kids warned California for months. State officials are rushing to find money before the Oct. 13 deadline."
+  },
+  {
+    "source": "California Globe",
+    "title": "Office of Administrative Hearings Procedures – Part 3",
+    "link": "https://californiaglobe.com/articles/office-of-administrative-hearings-procedures-part-3/",
+    "published": "2026-08-26T09:28:39Z",
+    "summary": "Résumés cannot be advertisements but instead must be factual information pages"
   },
   {
     "source": "CalMatters",
@@ -75,13 +103,6 @@
     "link": "https://californiaglobe.com/fr/exclusive-az-dcs-whistleblower-reveals-127-medicaid-fraud-referrals-federal-reports-list-zero/",
     "published": "2026-08-25T21:22:41Z",
     "summary": "DCS says it does not receive investigative results directly or see claims across several child-service programs; AHCCCS says initial AI rollout does not apply to managed-care claims"
-  },
-  {
-    "source": "California Globe",
-    "title": "Marketplace Facilitator Act",
-    "link": "https://californiaglobe.com/articles/marketplace-facilitator-act/",
-    "published": "2026-08-25T21:00:19Z",
-    "summary": "Deals with the Marketplace Facilitator Act under the Sales and Use Tax Laws"
   },
   {
     "source": "Governor of California",
@@ -173,27 +194,6 @@
     "link": "https://capoliticalreview.com/2026/08/25/walters-californias-clashes-over-business-regulation-rage-on-as-legislative-session-nears-end/",
     "published": "2026-08-25T14:00:44Z",
     "summary": "<p>The state Capitol’s most enduring conflict pits corporate California against four powerful interest groups over new regulations, taxes, minimum wages or other costly mandates. The specific issues may vary from year to year, although some continue for decades, but the underlying clash of interests is perpetual. The four groups arrayed against business — unions, personal [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/25/walters-californias-clashes-over-business-regulation-rage-on-as-legislative-session-nears-end/\">Read More and Comment: Walters: California’s clashes over business regulation rage on as legislative session nears end</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/25/walters-californias-clashes-over-business-regulation-rage-on-as-legislative-session-nears-end/\">Walters: California’s clashes over business regulation rage on as legislative session nears end</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "CalMatters",
-    "title": "CalMatters sues UCLA over refusal to disclose athlete payments",
-    "link": "https://calmatters.org/newsletter/ucla-nil-lawsuit/",
-    "published": "2026-08-25T13:00:00Z",
-    "summary": "<figure><img alt=\"Football players dressed in blue and gold uniforms, run towards a football field as theatrical smoke, fog and flames surround them before the start of an evening game.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/110825_UCLA-Football_AP_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>We know two of California’s top public universities are paying tens of millions of dollars a year to student athletes, and now CalMatters is suing to find out the details of how taxpayer dollars are being spent. As CalMatters’ Adam Echelman explains, in 2021 California allowed college athletes to profit off their own name, image [&#8230;]"
-  },
-  {
-    "source": "CalMatters",
-    "title": "Counting votes quickly and accurately are not mutually exclusive. Here’s how California can do it",
-    "link": "https://calmatters.org/commentary/2026/08/counting-votes-quickly-accurately-california/",
-    "published": "2026-08-25T12:00:00Z",
-    "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/04/110525_Election-Counting-Fresno_LV_CM_15.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>California's slow vote counts are a policy problem, argues the Republican candidate for state elections chief. Three changes could made a concrete difference, he says."
-  },
-  {
-    "source": "CalMatters",
-    "title": "Federal wildfire crews are stretched thin. California is stepping in to help",
-    "link": "https://calmatters.org/environment/wildfires/2026/08/california-wildfires-forest-fuels-management/",
-    "published": "2026-08-25T12:00:00Z",
-    "summary": "<figure><img alt=\"An aerial view of a break carved into the ridgeline of a mountain peak overlooking clouds of fog that cover a coastline, where a nuclear power plant with two dome structures sits near the shore.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/072226_Diablo-Canyon-Fire-Gaps_LV_CM_02.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>As fire season takes hold, California is managing fuels and fire on federal lands. Can California keep it up?"
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
@@ -355,6 +355,41 @@
     "link": "https://www.ppic.org/publication/policy-brief-making-sense-of-varying-policies-for-reclassifying-english-learners/?utm_source=rss&utm_medium=rss&utm_campaign=policy-brief-making-sense-of-varying-policies-for-reclassifying-english-learners",
     "published": "2026-08-24T18:47:38Z",
     "summary": "<p><img alt=\"photo - Child Learning English Language while Playing Games in Classroom\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/08/child-learning-english-language-while-playing-games-in-classroom.jpg\" width=\"2000\" /></p>PPIC surveyed nearly 350 California districts to gain insight into their processes for reclassifying English Learner students as fluent. Half of districts say the process is too hard, while half say it is just right. The reclassification process could be streamlined with one test and through teacher evaluations that are less formal."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "MVP Research: From Data to Impact",
+    "link": "https://www.youtube.com/watch?v=5lCxqhVV_QY",
+    "published": "2026-08-24T18:44:11Z",
+    "summary": "VA’s Million Veteran Program (MVP) is turning discoveries into more personalized care, earlier risk detection, and new approaches to treatments for Veterans. By joining more than 1 million Veterans in MVP, you can help shape the future of Veteran health care. Learn more or join today at https://www.mvp.va.gov or call 866-441-6075. \n\nThe studies/programs mentioned in this video include:\n• The Prostate Cancer, Genetic Risk, and Equitable Screening Study (ProGRESS)\n• The Return of Actionable Results Study (ROAR)\n• The Recovery Engagement and Coordination for Health – Veterans \n• Enhanced Treatment Program (REACHVET)"
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "MVP Experts: What is Pharmacogenomics in Health Research?",
+    "link": "https://www.youtube.com/watch?v=_55uyDwBKhU",
+    "published": "2026-08-24T18:29:10Z",
+    "summary": "VA researchers are using data from the Million Veteran Program (MVP) to help inform personalized care for all Veterans. Hear directly from expert researchers and physicians about the impact of MVP studies on Veteran health care—like pharmacogenomics, the study of how a person's genetic makeup affects their response to medications. Learn more at https://www.mvp.va.gov or call 866-441-6075."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "How Does MVP Use Veteran Data?",
+    "link": "https://www.youtube.com/watch?v=Uw3h89ZpGzY",
+    "published": "2026-08-24T18:27:38Z",
+    "summary": "You must attach a closed caption file before making this video public unless it is open captioned or there is no dialogue.  \n\nYouTube auto-generated captions must be edited for proper grammar and spelling.  \n\nThis is a legal requirement; videos not adhering to this mandate will be made private until captioned."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "MVP's Role in Helping Doctors Predict Health Risks Earlier",
+    "link": "https://www.youtube.com/watch?v=8RpfAQFaJBU",
+    "published": "2026-08-24T18:25:57Z",
+    "summary": "VA’s Million Veteran Program (MVP) is using research to better understand health risks before symptoms appear. By studying genes, health history, and lifestyle, researchers are identifying patterns that may support earlier detection and personalized care for Veterans. Learn more or join today at https://www.mvp.va.gov or call 866-441-6075."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "How MVP Research Translates Into Real-World Care",
+    "link": "https://www.youtube.com/watch?v=Rv-idL3l4mY",
+    "published": "2026-08-24T18:23:47Z",
+    "summary": "VA’s Million Veteran Program (MVP) is turning research into better care for Veterans. By studying health and genetic information, MVP researchers are developing insights that support more personalized care and treatments. Learn more or join today at https://www.mvp.va.gov or call 866-441-6075."
   },
   {
     "source": "Capitol Weekly",
@@ -663,40 +698,5 @@
     "link": "https://cadem.org/california-democratic-party-announces-endorsements-for-statewide-congressional-and-state-legislature-candidates/",
     "published": "2026-07-14T16:08:19Z",
     "summary": "<p>SACRAMENTO, CA – Today, following the certification of the June 2 Primary Election, the California Democratic Party (CADEM) announced the following Statewide, Congressional and State Senate &#38; Assembly candidate endorsements: “Once again, California is leading the charge to take back the House and put an end to the Trump-Republican agenda of chaos and cruelty,” said [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-announces-endorsements-for-statewide-congressional-and-state-legislature-candidates/\">California Democratic Party Announces Endorsements for Statewide, Congressional and State Legislature Candidates</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "California Democratic Party",
-    "title": "California Democratic Party Endorses Xavier Becerra for Governor of California",
-    "link": "https://cadem.org/california-democratic-party-endorses-xavier-becerra-for-governor-of-california/",
-    "published": "2026-07-13T18:52:41Z",
-    "summary": "<p>SACRAMENTO &#8211; Today, following the certification of the June 2 Primary Election, the California Democratic Party (CADEM) has officially endorsed Sec. Xavier Becerra for Governor of California. Becerra emerged from the primary as the top vote-getter among the field of gubernatorial candidates, earning over 2.5 million votes statewide. “California Democrats are proud to endorse Xavier [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-endorses-xavier-becerra-for-governor-of-california/\">California Democratic Party Endorses Xavier Becerra for Governor of California</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "Legislative Analyst's Office: Recent Publications",
-    "title": "The 2011 Realignment of Adult Felony Populations: Results and Key Takeaways",
-    "link": "https://lao.ca.gov/Publications/Detail/5191",
-    "published": "2026-06-30T00:00:00Z",
-    "summary": "In 2011, California shifted responsibility for incarcerating and supervising certain adult felony populations from the state to counties. The state also shifted a portion of tax revenues to counties to cover the additional costs. These changes were part of a larger shift of responsibilities known as the 2011 realignment. Pursuant to Chapter 96 of 2023 (AB 1080, Ta), this report provides information on how various aspects of the realignment of adult felony populations have been implemented and evaluates the results."
-  },
-  {
-    "source": "Legislative Analyst's Office: Recent Publications",
-    "title": "Assembly Handout: Overview of ACA 20",
-    "link": "https://lao.ca.gov/Publications/Detail/5193",
-    "published": "2026-06-24T00:00:00Z",
-    "summary": "Assembly Budget Committee No. 7 on Accountability and Oversight"
-  },
-  {
-    "source": "California Democratic Party",
-    "title": "California Democratic Party Expands “California Fights Forward” Leadership Team with New Political Director Nichole Trujillo Rice",
-    "link": "https://cadem.org/california-democratic-party-expands-california-fights-forward-leadership-team-with-new-political-director-nichole-trujillo-rice/",
-    "published": "2026-06-23T17:54:41Z",
-    "summary": "<p>SACRAMENTO, CA — The California Democratic Party (CADEM) today announced the expansion of its senior staff as Democrats gear up for pivotal midterm elections in 2026. Nichole Trujillo Rice has joined CADEM as Political Director, drawing on nearly two decades of experience as a political strategist, coalition builder, and advocate for working families.&#160; “This year’s [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-expands-california-fights-forward-leadership-team-with-new-political-director-nichole-trujillo-rice/\">California Democratic Party Expands “California Fights Forward” Leadership Team with New Political Director Nichole Trujillo Rice</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB1702",
-    "link": "https://legiscan.com/CA/bill/AB1702/2025?utm_campaign=rss&guid=6ReVyBf7TaavgUZBZt7yG9",
-    "published": "2026-05-14T04:00:00Z",
-    "summary": "An act to amend Section 5011.5 of, and to add Section 5011.8 to, the Public Resources Code, relating to parks.<br />\n<br />\n2026/05/14 In committee: Held under submission."
   }
 ]
