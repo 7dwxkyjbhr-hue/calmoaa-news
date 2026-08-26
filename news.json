@@ -1,31 +1,101 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-08-26T12:23:55Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
-    "published": "2026-08-26T12:23:55Z",
+    "published": "2026-08-26T19:28:21Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-08-26T12:23:54Z",
+    "published": "2026-08-26T19:28:20Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-08-26T19:28:20Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-08-26T12:23:53Z",
+    "published": "2026-08-26T19:28:19Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "CalMatters",
+    "title": "Equipos federales de lucha contra incendios forestales están sobrecargados. California está interviniendo para ayudar",
+    "link": "https://calmatters.org/calmatters-en-espanol/2026/08/incendios-forestales-california-gobierno-federal/",
+    "published": "2026-08-26T18:07:37Z",
+    "summary": "<figure><img alt=\"An aerial view of a break carved into the ridgeline of a mountain peak overlooking clouds of fog that cover a coastline, where a nuclear power plant with two dome structures sits near the shore.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/072226_Diablo-Canyon-Fire-Gaps_LV_CM_02.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>A medida que avanza la temporada de incendios, California está gestionando los combustibles y los incendios en los terrenos federales. ¿Podrá el estado mantener este ritmo?"
+  },
+  {
+    "source": "CalMatters",
+    "title": "Con el tiempo en contra, los legisladores de California rechazan partes clave del plan de Newsom para combatir los incendios forestales",
+    "link": "https://calmatters.org/calmatters-en-espanol/2026/08/california-rechazan-partes-clave-del-plan-de-newsom/",
+    "published": "2026-08-26T17:50:36Z",
+    "summary": "<figure><img alt=\"Wildfire survivors hold signs during a demonstration outside the California Governor’s Mansion.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/082426-Eaton-Fire-Survivors-MG-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>El gobernador Gavin Newsom está impulsando con urgencia un plan para brindar ayuda financiera a las empresas de servicios públicos que enfrentan enormes indemnizaciones por demandas judiciales debido a los incendios forestales en California. Algunos legisladores se oponen a la medida."
+  },
+  {
+    "source": "Task & Purpose",
+    "title": "Marine Corps releases roadmap for infantry in drone-covered world",
+    "link": "https://taskandpurpose.com/news/marine-air-defenses-squads/",
+    "published": "2026-08-26T17:34:20Z",
+    "summary": "<p>The Marines have already begun fielding more than 80 new systems to help infantry squads detect and destroy small drones.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/marine-air-defenses-squads/\">Marine Corps releases roadmap for infantry in drone-covered world</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+  },
+  {
+    "source": "Task & Purpose",
+    "title": "Some Army pilots cut from flying can transfer to the Navy. But not all.",
+    "link": "https://taskandpurpose.com/news/army-pilots-transfer-navy/",
+    "published": "2026-08-26T16:29:30Z",
+    "summary": "<p>Around 75 Army pilots could see a new future flying for the Navy.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/army-pilots-transfer-navy/\">Some Army pilots cut from flying can transfer to the Navy. But not all.</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+  },
+  {
+    "source": "CalMatters",
+    "title": "Meta to pay $17 billion  — and limit ‘likes’ for teens — in social media settlement with states",
+    "link": "https://calmatters.org/economy/technology/2026/08/meta-to-pay-17-billion-and-limit-likes-for-teens-in-social-media-settlement-with-states/",
+    "published": "2026-08-26T15:00:00Z",
+    "summary": "<figure><img alt=\"A teen lies on a couch while looking at social media on a cellphone.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/082626-Teen-Phone-Use-IS-CM.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>California will get over $2 billion from Meta as part of a proposed settlement in a 47-state social media addiction case. The trial kicked off just last week in a federal court in Oakland."
+  },
+  {
+    "source": "California Political Review",
+    "title": "California to sue Trump administration again over mail-in voting restrictions",
+    "link": "https://capoliticalreview.com/2026/08/26/california-to-sue-trump-administration-again-over-mail-in-voting-restrictions/",
+    "published": "2026-08-26T14:30:50Z",
+    "summary": "<p>Gov. Gavin Newsom announced Monday that California intends to sue the Trump administration again over President Donald Trump’s efforts to impose new restrictions on mail-in voting ahead of the November midterms. The announcement came after the U.S. Supreme Court allowed the administration to move forward with key parts of Trump’s March executive order on elections, [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/26/california-to-sue-trump-administration-again-over-mail-in-voting-restrictions/\">Read More and Comment: California to sue Trump administration again over mail-in voting restrictions</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/26/california-to-sue-trump-administration-again-over-mail-in-voting-restrictions/\">California to sue Trump administration again over mail-in voting restrictions</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
+    "source": "California Political Review",
+    "title": "Fed up with high prices, California weighs penalties against hospitals, other entities",
+    "link": "https://capoliticalreview.com/2026/08/26/fed-up-with-high-prices-california-weighs-penalties-against-hospitals-other-entities/",
+    "published": "2026-08-26T14:00:11Z",
+    "summary": "<p>About half of U.S. adults say they can’t afford healthcare. California is among at least eight states that have set spending growth targets for the healthcare sector. It may soon impose enforcement penalties aimed at pushing hospitals and other providers to meet those goals. California is weighing stiff penalties for hospitals and other healthcare entities [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/26/fed-up-with-high-prices-california-weighs-penalties-against-hospitals-other-entities/\">Read More and Comment: Fed up with high prices, California weighs penalties against hospitals, other entities</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/26/fed-up-with-high-prices-california-weighs-penalties-against-hospitals-other-entities/\">Fed up with high prices, California weighs penalties against hospitals, other entities</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
+    "source": "Your Leo Nation",
+    "title": "How Flock Cameras Cut Beverly Hills Crime 34%",
+    "link": "",
+    "published": "2026-08-26T14:00:00Z",
+    "summary": "<p>Retired Beverly Hills Police Chief Mark Stainbrook sits down with Your LEO Nation and walks through the system he built after his first night on the job — the night Jacqueline Avant was murdered.<br /></p><p>He covers the constitutional fight over Flock cameras and ALPRs, why public streets are not a privacy zone, and how BHPD combined license-plate readers at every entrance, live cameras, and drones into a military-style command center. Stolen-car recoveries jumped from about 50 a year to more than 200. Arrests rose 22%. Career criminals got a “jail card” warning them: come here to steal, and this technology will find you.<br /></p><p>Stainbrook also tells the story of a suspect tied to four murders in four days whose plate hit coming into the city — officers were on the car in two minutes, recovered the gun, and ballistics linked the killings. He breaks down audits, two-year video retention, supervisor oversight, fewer bad stops, lower liability, and why 600-plus agencies came to study the model.</p>"
+  },
+  {
+    "source": "Capitol Weekly",
+    "title": "Driving data bill stalls…again",
+    "link": "http://capitolweekly.net/driving-data-bill-stalls-again/",
+    "published": "2026-08-26T13:37:46Z",
+    "summary": "A bill that would have allowed drivers to opt in to usage-based insurance was held under submission by the Senate Appropriations Committee earlier this month, leaving California as the only state not to allow car insurance rates based on driving data<p><strong>Continue reading the full article:</strong> <a href=\"http://capitolweekly.net/driving-data-bill-stalls-again/\">Capitol Weekly</a></p><span style=\"font-size: 0; color: transparent;\">Original article: http://capitolweekly.net/driving-data-bill-stalls-again/</span>"
+  },
+  {
+    "source": "CalMatters",
+    "title": "Gavin Newsom’s last-minute wildfire plan hits friction in Capitol",
+    "link": "https://calmatters.org/newsletter/newsom-wildfire-relief-legislature/",
+    "published": "2026-08-26T13:00:00Z",
+    "summary": "<figure><img alt=\"Wildfire survivors hold signs and chant during a demonstration calling for support.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/082426-Eaton-Fire-Survivors-MG-CM-02.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Comparing utility companies to terrorists, Democratic state lawmakers are pushing back against Gov. Gavin Newsom’s complex proposal that would reduce how much utilities pay for the wildfires they cause. As CalMatters’ Jeanne Kuang and Levi Sumagaysay explain, the proposal’s most controversial provisions include capping compensation for fire victims; curbing insurance companies’ right to recover wildfire [&#8230;]"
   },
   {
     "source": "CalMatters",
@@ -35,18 +105,11 @@
     "summary": "<figure><img alt=\"A person carrying books walks past a shelf of SAT study books.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/112719_SAT_AW_CM_03.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>New students are pegged by the informal hierarchy of UC campuses, affecting resources, faculty credentials, graduation chances and future earning ability."
   },
   {
-    "source": "CalMatters",
-    "title": "California’s political battle over key environmental law brews on two fronts",
-    "link": "https://calmatters.org/commentary/2026/08/california-political-battle-environmental-law/",
+    "source": "The Official United States Marine Corps Public Website News",
+    "title": "Crusading for Right' or 'Iron Mike'? The true story of Quantico's iconic statue",
+    "link": "https://www.marines.mil/News/News-Display/Article/4583532/crusading-for-right-or-iron-mike-the-true-story-of-quanticos-iconic-statue/",
     "published": "2026-08-26T12:00:00Z",
-    "summary": "<figure><img alt=\"A construction site to a apartment complex.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2024/10/102424_Santa-Monica-Construction_ZS-28.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Legislators this week and voters this November will weigh in on measures to curtail some of CEQA's vexing construction project restrictions."
-  },
-  {
-    "source": "CalMatters",
-    "title": "Parents of transgender kids say California is ‘unprepared’ as feds cut off their healthcare",
-    "link": "https://calmatters.org/health/2026/08/transgender-youth-medicaid-california-funding/",
-    "published": "2026-08-26T12:00:00Z",
-    "summary": "<figure><img alt=\"Three demonstrators stand in the rain holding umbrellas and a large transgender pride flag, with one person holding a sign reading “History has its eyes on you,” outside a brightly lit hospital sign at dusk.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/01/021325_CHLA-Gender-Affirming-Care-Demo_JWH_CM_06.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>Parents of transgender kids warned California for months. State officials are rushing to find money before the Oct. 13 deadline."
+    "summary": "In the quiet, dust motes of a Parisian sculptor’s studio in 1918, Charles Raphaël Peyre stood face-to-face with the raw reality of the Western Front. Before him stood Pvt. Carl J. Millard — a twice-wounded Marine from the 5th Regiment, sent directly from the hellscape of Chateau-Thierry. Still clad in his mud-caked combat gear and gripping his Springfield rifle, the exhausted private embodied the fierce defiance Peyre had only read about in the front-line dispatches. Peyre knew immediately that this was the stance he had to freeze in bronze.<br /> \n<img alt=\"The “Crusading for Right” statue, also known as “Iron Mike,” stands outside Butler Hall at Marine Corps Base Quantico, Virginia, Aug. 16, 2026. The bronze monument, created in 1918 by French sculptor Charles Raphael Peyre, depicts a World War I U.S. Marine holding an M1903 Springfield rifle. (U.S. Marine Corps photo by Lance Cpl. Lynsee Avila-Ramirez)\" src=\"https://media.defense.gov/2026/Aug/26/2003986926/115/75/0/260814-M-YW408-1004.JPG\" /> <br />"
   },
   {
     "source": "California Globe",
@@ -56,25 +119,18 @@
     "summary": "Résumés cannot be advertisements but instead must be factual information pages"
   },
   {
-    "source": "CalMatters",
-    "title": "Surprise Solano County vote kills California Forever’s shipyard bill for this year",
-    "link": "https://calmatters.org/politics/2026/08/california-forever-shipbuilding-solano-county-vote/",
-    "published": "2026-08-26T04:42:34Z",
-    "summary": "<figure><img alt=\"Solano County supervisors sit at the dais during a Board of Supervisors meeting as attendees sit in the foreground.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/082526_Solano-County-Board-of-Supervisors_AHK_CM_03.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Supervisors rejected a California Forever plan backed by Gov. Gavin Newsom to allow construction of a shipbuilding facility in Solano County."
-  },
-  {
-    "source": "CalMatters",
-    "title": "With clock ticking, California lawmakers reject key parts of Newsom’s wildfire plan",
-    "link": "https://calmatters.org/politics/2026/08/california-wildfire-package-newsom-lawmakers-balk/",
-    "published": "2026-08-26T03:06:52Z",
-    "summary": "<figure><img alt=\"Wildfire survivors hold signs during a demonstration outside the California Governor’s Mansion.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/082426-Eaton-Fire-Survivors-MG-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Gov. Gavin Newsom is rushing a plan to provide financial relief to utilities facing massive lawsuit payouts because of California wildfires. Some lawmakers are fighting it."
-  },
-  {
     "source": "Governor of California",
     "title": "Governor Newsom announces appointments 8.25.2026",
     "link": "https://www.gov.ca.gov/2026/08/25/governor-newsom-announces-appointments-8-25-2026/",
     "published": "2026-08-26T00:06:03Z",
     "summary": "<img alt=\"White “Governor Gavin Newsom” logo beside a walking California grizzly bear and star on a blue background.\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2024/05/6C94C750-0DF8-46C6-A8E3-00EA4F1B1ADD-150x150.jpeg\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/08/25/governor-newsom-announces-appointments-8-25-2026/\" rel=\"nofollow\">Source</a></p>"
+  },
+  {
+    "source": "Legislative Analyst's Office: Recent Publications",
+    "title": "The 2026-27 Budget: Overview of the Spending Plan",
+    "link": "https://lao.ca.gov/Publications/Detail/5197",
+    "published": "2026-08-26T00:00:00Z",
+    "summary": "Each year, our office publishes the California Spending Plan to summarize the annual state budget. In this publication we provide an overview of the 2026-27 budget package, give a brief description of how the budget process unfolded, and then highlight the major features of the budget approved by the Legislature and signed by the Governor."
   },
   {
     "source": "California Globe",
@@ -322,25 +378,11 @@
     "summary": "<p>“Leave it to Trump’s Court to attempt to save an unpopular, unproductive president from a devastating defeat,” said Rusty Hicks, Chair of CADEM. “They know Republicans can’t win fair and square, so they’re trying to rig the game before it ever begins. It won’t work. The American People are sick and tired of billionaire giveaways, [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/statement-from-cadem-chair-rusty-hicks-on-scotus-decision-regarding-trumps-executive-order-restricting-mail-in-voting/\">Statement from CADEM Chair Rusty Hicks on SCOTUS Decision Regarding Trump’s Executive Order Restricting Mail-in Voting:</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
   },
   {
-    "source": "Task & Purpose",
-    "title": "Military buildings need $285 billion worth of maintenance, report says",
-    "link": "https://taskandpurpose.com/news/military-gao-maintenance-backlog/",
-    "published": "2026-08-24T20:42:29Z",
-    "summary": "<p>The price tag for needed maintenance on barracks and other facilities has more than doubled in five years, a federal watchdog found.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/military-gao-maintenance-backlog/\">Military buildings need $285 billion worth of maintenance, report says</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
     "source": "The Auditor",
     "title": "Standards Australia’s NEXTgen Program",
     "link": "https://www.theauditoronline.com/standards-australias-nextgen-program/",
     "published": "2026-08-24T20:22:51Z",
     "summary": "<p>Standards Australia’s NEXTgen Program selects emerging industry and technical experts and provides them with an exciting opportunity to become involved in the national and international standardization processes supporting Australian industry and government. &#x200d; Through the program, participants will access training and gain direct exposure to the standards development process and context. They will attend and participate [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/standards-australias-nextgen-program/\">Standards Australia’s NEXTgen Program</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
-    "source": "Task & Purpose",
-    "title": "National Guard ends eight-month deployment in New Orleans",
-    "link": "https://taskandpurpose.com/news/national-guard-new-orleans-deployment-ends/",
-    "published": "2026-08-24T20:19:19Z",
-    "summary": "<p>At its height, the deployment saw 350 troops patrolling tourist-friendly areas of the city. Troops assisted in less than one arrest per day.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/national-guard-new-orleans-deployment-ends/\">National Guard ends eight-month deployment in New Orleans</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
     "source": "Publication Archive - Public Policy Institute of California",
@@ -413,13 +455,6 @@
     "summary": "<p>The Democratic front-runner has pledged he’ll share a stage with his Republican foe, but hasn’t said where or when. Hilton, in typical underdog fashion, is eager to meet anytime, anyplace. Barring some extraordinary event — a health emergency, a career-ending scandal, a killer asteroid destroying all life on earth — Xavier Becerra will be the next governor of California. [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/24/its-beyond-debate-california-voters-deserve-a-becerra-hilton-face-off/\">Read More and Comment: It’s beyond debate. California voters deserve a Becerra-Hilton face-off</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/24/its-beyond-debate-california-voters-deserve-a-becerra-hilton-face-off/\">It’s beyond debate. California voters deserve a Becerra-Hilton face-off</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
-    "source": "California Political Review",
-    "title": "Gov. Newsom Wails Grimes: About Assaults on the Free Press, then Signs ‘Stop Nick Shirley Act’ into Law",
-    "link": "https://capoliticalreview.com/2026/08/24/gov-newsom-wails-grimes-about-assaults-on-the-free-press-then-signs-stop-nick-shirley-act-into-law/",
-    "published": "2026-08-24T14:00:30Z",
-    "summary": "<p>‘California Passes a law making it a crime to report a crime’ California Governor Gavin Newsom signed the “Stop Nick Shirley Act,” Assembly Bill 2624, by Assemblywoman Mia Bonta (D-Oakland) into law Saturday August 22, 2026. Bonta claims her bill is about “privacy for immigration support services providers.” Gov. Newsom two days ago screeched on X about unfair [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/24/gov-newsom-wails-grimes-about-assaults-on-the-free-press-then-signs-stop-nick-shirley-act-into-law/\">Read More and Comment: Gov. Newsom Wails Grimes: About Assaults on the Free Press, then Signs ‘Stop Nick Shirley Act’ into Law</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/24/gov-newsom-wails-grimes-about-assaults-on-the-free-press-then-signs-stop-nick-shirley-act-into-law/\">Gov. Newsom Wails Grimes: About Assaults on the Free Press, then Signs ‘Stop Nick Shirley Act’ into Law</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "CA SB1439",
     "link": "https://legiscan.com/CA/bill/SB1439/2025?utm_campaign=rss&guid=4xSwSKZpA6vkVwWVutPFXc",
@@ -427,25 +462,11 @@
     "summary": "An act to amend Sections 6508, 17560, 24011, 26802, 26803, 26803.5, 26809, 26831, 26837, 26840.1, 27297.7, 27361.4, 40602, 53651, 54221, 54953.8.6, 54953.8.7, and 66474.02 of the Government Code, and to amend Section 32499.8 of the Health and Safety Code, relating to local government.<br />\n<br />\n2026/08/24 In Senate. Concurrence in Assembly amendments pending."
   },
   {
-    "source": "California Political Review",
-    "title": "REPORT: California Assemblyman Steers $6 Million to His Own Nonprofit",
-    "link": "https://capoliticalreview.com/2026/08/23/report-california-assemblyman-steers-6-million-to-his-own-nonprofit/",
-    "published": "2026-08-23T14:30:58Z",
-    "summary": "<p>Assemblyman Dr Corey Jackson named CART, his own nonprofit, his legislative district’s “Nonprofit of the Year” California Assemblyman Dr. Corey Jackson (D-Moreno Valley), who received his Masters in Social Work, founded and directs the nonprofit Center Against Racism and Trauma (CART), which has been tax-exempt since February 2022. “California quietly boosted taxpayer funding for a [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/23/report-california-assemblyman-steers-6-million-to-his-own-nonprofit/\">Read More and Comment: REPORT: California Assemblyman Steers $6 Million to His Own Nonprofit</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/23/report-california-assemblyman-steers-6-million-to-his-own-nonprofit/\">REPORT: California Assemblyman Steers $6 Million to His Own Nonprofit</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
     "source": "Capitol Weekly",
     "title": "Governor could grant clemency in 565 death penalty cases. Or not",
     "link": "http://capitolweekly.net/governor-could-grant-clemency-in-565-death-penalty-cases-or-not/",
     "published": "2026-08-23T14:00:33Z",
     "summary": "As his time as governor comes to an end, Gov. Gavin Newsom is facing a life-or-death decision: whether to commute the sentences of the 547 men and 18 women in state prison who have been condemned to death. There is good reason to believe Newsom will take that step, and there is reason to believe he won’t. Neither he nor his aides are telegraphing his plan.<p><strong>Continue reading the full article:</strong> <a href=\"http://capitolweekly.net/governor-could-grant-clemency-in-565-death-penalty-cases-or-not/\">Capitol Weekly</a></p><span style=\"font-size: 0; color: transparent;\">Original article: http://capitolweekly.net/governor-could-grant-clemency-in-565-death-penalty-cases-or-not/</span>"
-  },
-  {
-    "source": "Capitol Weekly",
-    "title": "Experts Expound: How much is too much?",
-    "link": "http://capitolweekly.net/experts-expound-how-much-is-too-much/",
-    "published": "2026-08-21T15:17:38Z",
-    "summary": "The latest question posed to our panel of experts: “Should there be a hard limit on the number of committees a legislator can serve on?” <p><strong>Continue reading the full article:</strong> <a href=\"http://capitolweekly.net/experts-expound-how-much-is-too-much/\">Capitol Weekly</a></p><span style=\"font-size: 0; color: transparent;\">Original article: http://capitolweekly.net/experts-expound-how-much-is-too-much/</span>"
   },
   {
     "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
@@ -567,13 +588,6 @@
     "summary": "An act to amend Sections 14838.5 and 14838.64 of the Government Code, relating to public contracts.<br />\n<br />\n2026/08/13 August 13 hearing: Held in committee and under submission."
   },
   {
-    "source": "The Official United States Marine Corps Public Website News",
-    "title": "KMEP 26.2: U.S., ROK Marines forge readiness across the peninsula",
-    "link": "https://www.marines.mil/News/News-Display/Article/4573061/kmep-262-us-rok-marines-forge-readiness-across-the-peninsula/",
-    "published": "2026-08-13T03:56:00Z",
-    "summary": "Across the Korean Peninsula, KMEP 26.2 created opportunities to put that readiness under pressure. Participating forces conducted live-fire training, small-unit tactics, aviation operations, logistics, engineering and events incorporating emerging capabilities, with each activity testing a different part of the combined force.<br /> \n<img alt=\"U.S. Marine Corps Lance Cpl. Min Suk Kim, center, an inventory management specialist, stands with Lance Cpl. Urayuan Pereiracruz, left, an electrician, and Cpl. Carlos Borba, a field radio operator, all with Marine Wing Support Squadron 171, Marine Aircraft Group 12, 1st Marine Aircraft Wing, during Combined Joint Logistics Over-the-Shore 26 in Pohang, South Korea, July 23, 2026. Kim supported communication between U.S. and Republic of Korea service members by providing interpretation. CJLOTS 26 is a combined exercise designed to integrate U.S. and Republic of Korea lighterage and ship-to-shore connector capabilities, improve combined readiness, strengthen the Republic of Korea-U.S. alliance, and expand combined maritime sustainment capacity during logistics operations. Kim is a native of Jeonju, South Korea; Pereiracruz is a native of Puerto Rico; Borba is a native of Washington. (U.S. Marine Corps photo by Lance Cpl. Marcus Henson)\" src=\"https://media.defense.gov/2026/Aug/12/2003981607/115/75/0/260723-M-WJ190-1043.JPG\" /> <br />"
-  },
-  {
     "source": "The Liberal OC",
     "title": "The DNC’s RCV Reality Check: Apparently Republicans Aren’t the Only Ones Who Hate It",
     "link": "https://theliberaloc.com/2026/08/12/the-dncs-rcv-reality-check-apparently-republicans-arent-the-only-ones-who-hate-it/",
@@ -684,19 +698,5 @@
     "link": "",
     "published": "2026-07-30T14:54:03Z",
     "summary": "<p>Dr. Anthony Fauci’s record is filled with contradictions, shifting science, and institutional arrogance that cost the public dearly. This video walks through the documented lies, the financial conflicts, the lockdown hypocrisy, and why his leadership still poses a danger to public trust in health institutions.</p><p>Takeaways</p><p>• Fauci’s pattern of lies and corruption raised serious questions about public health leadership</p><p>• Arrogance and hypocrisy during COVID lockdowns permanently damaged trust in health officials</p><p>Chapters</p><p>00:00 – Fauci’s Lies and Hearings</p><p>05:13 – Fauci’s Corruption and Arrogance</p><p>06:13 – Arrogance During COVID Lockdowns</p><p>09:01 – Public Health Hypocrisy</p><p>10:49 – Fauci’s Disgrace and Danger</p><p>If this opened your eyes, drop a comment and share it. Subscribe for more unfiltered breakdowns of the people and policies that still shape our lives.</p>"
-  },
-  {
-    "source": "Your Leo Nation",
-    "title": "NJ MVC Software Error Registered 6,600 Non-Citizens to Vote—Why No Prosecutions?",
-    "link": "",
-    "published": "2026-07-25T07:00:00Z",
-    "summary": "<p>NJ MVC Software Error Registered 6,600 Noncitizens to Vote—Why No Prosecutions?<br /><br />Mark Garrett of Your LEO Nation reacts to a New Jersey press conference with Lieutenant Governor Caldwell and MVC acting chair Rosalie Johnson, where the governor disclosed a serious MVC software error that allegedly improperly registered about 6,600 noncitizens to vote between June 2023 and June 2024, with an initial analysis indicating fewer than 400 of those individuals voted. Garrett says the governor is using “accountability” language while blaming predecessors and Donald Trump, but failed to include any prosecutors on stage and showed no intent to prosecute those who voted illegally—an indictable third-degree offense carrying 3–5 years and up to $15,000 in penalties. He also claims the governor will not share identifying information with the federal government for removal and urges viewers to comment.<br /><br />00:00 Press Conference Opens<br />00:29 Software Error Explained<br />01:53 Accountability Message<br />02:25 Oaths and Election Integrity<br />03:00 Who Was Missing<br />03:52 Illegal Voting Penalties<br />04:21 No Prosecution Critique<br />05:23 Refusal to Share with Feds<br />06:17 Broader Political Claims<br />06:31 Closing and Viewer Comments</p>"
-  },
-  {
-    "source": "California Democratic Party",
-    "title": "California Democratic Party Announces Endorsements for Statewide, Congressional and State Legislature Candidates",
-    "link": "https://cadem.org/california-democratic-party-announces-endorsements-for-statewide-congressional-and-state-legislature-candidates/",
-    "published": "2026-07-14T16:08:19Z",
-    "summary": "<p>SACRAMENTO, CA – Today, following the certification of the June 2 Primary Election, the California Democratic Party (CADEM) announced the following Statewide, Congressional and State Senate &#38; Assembly candidate endorsements: “Once again, California is leading the charge to take back the House and put an end to the Trump-Republican agenda of chaos and cruelty,” said [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-announces-endorsements-for-statewide-congressional-and-state-legislature-candidates/\">California Democratic Party Announces Endorsements for Statewide, Congressional and State Legislature Candidates</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
   }
 ]
