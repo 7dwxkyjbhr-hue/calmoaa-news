@@ -1,31 +1,52 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
-    "published": "2026-09-01T02:19:09Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-09-01T02:19:08Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-09-01T01:17:52Z",
+    "published": "2026-09-01T10:37:53Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-09-01T01:17:40Z",
+    "published": "2026-09-01T10:37:53Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
+    "published": "2026-09-01T10:37:53Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-09-01T10:37:51Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Globe",
+    "title": "Chart of 72-Hour Bills in the California Legislature",
+    "link": "https://californiaglobe.com/articles/chart-of-72-hour-bills-in-the-california-legislature-2/",
+    "published": "2026-09-01T09:30:22Z",
+    "summary": "There is always a list of bills that were subject to this rule on the final day of the Legislative Session"
+  },
+  {
+    "source": "Governor of California",
+    "title": "Governor Newsom signs legislation 8.31.2026",
+    "link": "https://www.gov.ca.gov/2026/08/31/governor-newsom-signs-legislation-8-31-2026/",
+    "published": "2026-09-01T03:14:23Z",
+    "summary": "<img alt=\"White “Governor Gavin Newsom” logo beside a walking California grizzly bear and star on a blue background.\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2024/05/B0954947-3264-40FA-A530-D8DCD4877E05-150x150.jpeg\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/08/31/governor-newsom-signs-legislation-8-31-2026/\" rel=\"nofollow\">Source</a></p>"
+  },
+  {
+    "source": "California Globe",
+    "title": "Why Did the Current Year Budget Bill Junior Require an Urgency Clause?",
+    "link": "https://californiaglobe.com/fr/why-did-the-current-year-budget-bill-junior-require-an-urgency-clause/",
+    "published": "2026-09-01T02:21:48Z",
+    "summary": "The appeals court made clear that the judiciary determines what the law means"
   },
   {
     "source": "Governor of California",
@@ -77,25 +98,11 @@
     "summary": "<figure><img alt=\"An aerial view of a large building complex surrounded by high-rises near the San Francisco waterfront.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/121625-SFO12-Data-Center-AP-CM.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Two bills requiring data centers to disclose water use head to Newsom’s desk."
   },
   {
-    "source": "California Globe",
-    "title": "Riparian Habitat Conservation",
-    "link": "https://californiaglobe.com/articles/riparian-habitat-conservation/",
-    "published": "2026-08-31T21:00:21Z",
-    "summary": "Deals with the California Riparian Habitat Conservation Program"
-  },
-  {
     "source": "Public Policy Institute of California",
     "title": "Homelessness and Drug Use in California",
     "link": "https://www.ppic.org/event/homelessness-and-drug-use-in-california/?utm_source=rss&utm_medium=rss&utm_campaign=homelessness-and-drug-use-in-california",
     "published": "2026-08-31T20:18:44Z",
     "summary": "<p><img alt=\"photo - Green Tent in Front of Church\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/08/green-tent-in-front-of-church.jpg\" width=\"2000\" /></p>In the past decade, California has grappled with growing rates of homelessness and the intertwined issue of serious drug use. PPIC researcher Magnus Lofstrom will present key findings from a new report exploring trends in homelessness and drug use over time, including the role of local conditions and the impact of criminal justice reforms such as Proposition 47. He will be joined by coauthor Shannon McConville to answer audience questions."
-  },
-  {
-    "source": "California Globe",
-    "title": "DOT Emergency Order Hits 11 California Trucking Schools After Schools Certified Drivers Who Couldn’t Speak English",
-    "link": "https://californiaglobe.com/fl/dot-emergency-order-hits-11-california-trucking-schools-after-schools-certified-drivers-who-couldnt-speak-english/",
-    "published": "2026-08-31T20:17:02Z",
-    "summary": "The Department of Transportation used an emergency order to shut down more than 110 trucker schools nationwide, with 160 more under investigation"
   },
   {
     "source": "CalMatters",
@@ -231,6 +238,111 @@
     "summary": "<figure><img alt=\"Pechanga Arena in San Diego stands behind an empty parking lot lined with palm trees.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/082126-Pechanga-Arena-San-Diego-VOSD-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Lawmakers approved a last-minute deal for a controversial sports arena and housing project in San Diego, allowing the city to use an existing environmental review."
   },
   {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SB1303",
+    "link": "https://legiscan.com/CA/bill/SB1303/2025?utm_campaign=rss&guid=t4mIbj4dK6LLaJZfOt1BD",
+    "published": "2026-08-31T04:00:00Z",
+    "summary": "An act to amend Sections 3621, 3623, 3643.5, 3644, 3680, and 3686 of, to add Sections 3636.1, 3638, 3660.5, and 3661.5 to, and to repeal Section 3633.1 of, the Business and Professions Code, relating to healing arts.<br />\n<br />\n2026/08/31 Enrolled and presented to the Governor at 6 p.m."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2478",
+    "link": "https://legiscan.com/CA/bill/AB2478/2025?utm_campaign=rss&guid=4I42khXUmYfPaevdrhd7J3",
+    "published": "2026-08-31T04:00:00Z",
+    "summary": "An act to amend Sections 49069.3, 49076, 56055, and 56155.5 of the Education Code, to amend Sections 6552, 8609, 8704.5, 8708, and 9201 of, and to repeal Section 9203.1 of, the Family Code, to amend Sections 7930.165, 7930.190, and 30029.7 of the Government Code, to amend Sections 1501.1, 1502, 1505, 1506, 1506.1, 1506.5, 1506.9, 1507.25, 1517, 1517.2, 1517.3, 1520, 1520.3, 1522.08, 1522.1, 1522.4, 1522.44, 1523.1, 1524, 1524.01, 1527, 1527.1, 1527.2, 1527.4, 1527.5, 1530.5, 1530.7, 1536, 1536.2, 1538, 1558, 1559.110, 1568.26, and 115725 of, to amend, repeal, and add Section 1522 of, and to repeal Sections 1506.6, 1506.7, 1506.8, and 1517.1 of, the Health and Safety Code, to amend Section 676.7 of the Insurance Code, to amend Sections 11105.2, 11165.7, 11167.5, and 11170 of the Penal Code, to amend Sections 1541 and 1543 of the Probate Code, and to amend Sections 224.1, 291, 293, 294, 295, 309, 319, 361, 361.2, 361.4, 361.45, 362.04, 366.1, 366.3, 366.31, 628, 706.5, 706.6, 727, 727.05, 727.12, 727.4, 827, 4684, 10553.12, 10952.5, 11362, 11363, 11386, 11391, 11400, 11402, 11461, 11461.3, 11461.36, 11461.6, 11462, 11462.01, 11463, 16003.5, 16119, 16120, 16161, 16501.01, 16501.02, 16501.1, 16504.5, 16507.5, 16514, 16519, 16519.3, 16519.501, 16519.502, 16519.51, 16519.52, 16519.53, 16519.54, 16519.55, 16519.555, 16519.56, 16519.57, 16519.6, 16521.6, 16563, 16565, 17710, 17730, 17731, 17736, and 18250 of, to amend the heading of Article 2 (commencing with Section 16519.3) of Chapter 5 of Part 4 of Division 9 of, to amend, repeal, and add Section 16519.5 of, to add Sections 16519.605 and 16519.615 to, and to repeal and add Section 16519.4 of, the Welfare and Institutions Code, relating to foster care.<br />\n<br />\n2026/08/31 Senate amendments concurred in. To Engrossing and Enrolling."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB1775",
+    "link": "https://legiscan.com/CA/bill/AB1775/2025?utm_campaign=rss&guid=4vAbszDksxC0OJWeAQBhcL",
+    "published": "2026-08-31T04:00:00Z",
+    "summary": "An act to amend Sections 115.4 and 115.8 of the Business and Professions Code, and to amend Section 885 of, and to add Section 886 to, the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/08/31 Enrolled and presented to the Governor at 4 p.m."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2128",
+    "link": "https://legiscan.com/CA/bill/AB2128/2025?utm_campaign=rss&guid=dCE1Zzd3DojRuuyt2O8ip",
+    "published": "2026-08-31T04:00:00Z",
+    "summary": "An act to add Section 34336 to the Health and Safety Code, relating to housing.<br />\n<br />\n2026/08/31 Enrolled and presented to the Governor at 4 p.m."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB114",
+    "link": "https://legiscan.com/CA/bill/AB114/2025?utm_campaign=rss&guid=6zqrY1HhGf1XNWo3GsEQ1o",
+    "published": "2026-08-31T04:00:00Z",
+    "summary": "An act to amend the Budget Act of 2022 (Chapters 43, 45, and 249 of the Statutes of 2022) by amending Sections 19.56 and 39.10 of that act, to amend the Budget Act of 2023 (Chapters 12, 38, and 189 of the Statutes of 2023) by amending Item 0509-101-0001 of Section 2.00 of, and by amending Sections 19.563, 19.569, and 39.10 of, that act, to amend the Budget Act of 2024 (Chapters 22, 35, and 994 of the Statutes of 2024) by amending Items 0650-101-3371, 4260-101-0001, and 8660-101-3371 of Section 2.00 of, and to amend Section 39.10 of, that act, and to amend the Budget Act of 2025 (Chapters 4 and 5 of the Statutes of 2025) by amending Items 0690-104-0001, 0911-001-0001, 2740-004-0044, 3480-491, 3540-009-6093, and 3790-102-6093 of Section 2.00 of, amending Sections 39.00, 39.10, and 99.50 of, and adding Section 15.04 to, that act, relating to the state budget, and making an appropriation therefor, to take effect immediately, budget bill.<br />\n<br />\n2026/08/31 Read second time. Ordered to third reading."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA SB1303",
+    "link": "https://legiscan.com/CA/bill/SB1303/2025?utm_campaign=rss&guid=t4mIbj4dK6LLaJZfOt1BD",
+    "published": "2026-08-31T04:00:00Z",
+    "summary": "An act to amend Sections 3621, 3623, 3643.5, 3644, 3680, and 3686 of, to add Sections 3636.1, 3638, 3660.5, and 3661.5 to, and to repeal Section 3633.1 of, the Business and Professions Code, relating to healing arts.<br />\n<br />\n2026/08/31 Enrolled and presented to the Governor at 6 p.m."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA SB574",
+    "link": "https://legiscan.com/CA/bill/SB574/2025?utm_campaign=rss&guid=3ywpjbYrdjKRezXal8ztdQ",
+    "published": "2026-08-31T04:00:00Z",
+    "summary": "An act to amend Section 6173 of, and to add Section 6068.1 to, the Business and Professions Code, and to amend Section 128.7 of, and to add Sections 180 and 1282.1 to, the Code of Civil Procedure, relating to civil proceedings.<br />\n<br />\n2026/08/31 Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA AB2478",
+    "link": "https://legiscan.com/CA/bill/AB2478/2025?utm_campaign=rss&guid=4I42khXUmYfPaevdrhd7J3",
+    "published": "2026-08-31T04:00:00Z",
+    "summary": "An act to amend Sections 49069.3, 49076, 56055, and 56155.5 of the Education Code, to amend Sections 6552, 8609, 8704.5, 8708, and 9201 of, and to repeal Section 9203.1 of, the Family Code, to amend Sections 7930.165, 7930.190, and 30029.7 of the Government Code, to amend Sections 1501.1, 1502, 1505, 1506, 1506.1, 1506.5, 1506.9, 1507.25, 1517, 1517.2, 1517.3, 1520, 1520.3, 1522.08, 1522.1, 1522.4, 1522.44, 1523.1, 1524, 1524.01, 1527, 1527.1, 1527.2, 1527.4, 1527.5, 1530.5, 1530.7, 1536, 1536.2, 1538, 1558, 1559.110, 1568.26, and 115725 of, to amend, repeal, and add Section 1522 of, and to repeal Sections 1506.6, 1506.7, 1506.8, and 1517.1 of, the Health and Safety Code, to amend Section 676.7 of the Insurance Code, to amend Sections 11105.2, 11165.7, 11167.5, and 11170 of the Penal Code, to amend Sections 1541 and 1543 of the Probate Code, and to amend Sections 224.1, 291, 293, 294, 295, 309, 319, 361, 361.2, 361.4, 361.45, 362.04, 366.1, 366.3, 366.31, 628, 706.5, 706.6, 727, 727.05, 727.12, 727.4, 827, 4684, 10553.12, 10952.5, 11362, 11363, 11386, 11391, 11400, 11402, 11461, 11461.3, 11461.36, 11461.6, 11462, 11462.01, 11463, 16003.5, 16119, 16120, 16161, 16501.01, 16501.02, 16501.1, 16504.5, 16507.5, 16514, 16519, 16519.3, 16519.501, 16519.502, 16519.51, 16519.52, 16519.53, 16519.54, 16519.55, 16519.555, 16519.56, 16519.57, 16519.6, 16521.6, 16563, 16565, 17710, 17730, 17731, 17736, and 18250 of, to amend the heading of Article 2 (commencing with Section 16519.3) of Chapter 5 of Part 4 of Division 9 of, to amend, repeal, and add Section 16519.5 of, to add Sections 16519.605 and 16519.615 to, and to repeal and add Section 16519.4 of, the Welfare and Institutions Code, relating to foster care.<br />\n<br />\n2026/08/31 Senate amendments concurred in. To Engrossing and Enrolling."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA AB1775",
+    "link": "https://legiscan.com/CA/bill/AB1775/2025?utm_campaign=rss&guid=4vAbszDksxC0OJWeAQBhcL",
+    "published": "2026-08-31T04:00:00Z",
+    "summary": "An act to amend Sections 115.4 and 115.8 of the Business and Professions Code, and to amend Section 885 of, and to add Section 886 to, the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/08/31 Enrolled and presented to the Governor at 4 p.m."
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA AB2787",
+    "link": "https://legiscan.com/CA/bill/AB2787/2025?utm_campaign=rss&guid=34lCg4r3uG8GflwQZqg9Av",
+    "published": "2026-08-31T04:00:00Z",
+    "summary": "An act to amend Section 675 of the Harbors and Navigation Code, to amend Sections 9853 and 9860 of the Vehicle Code, and to amend Section 10722.4 of the Water Code, relating to public resources.<br />\n<br />\n2026/08/31 Enrolled and presented to the Governor at 4 p.m."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SB876",
+    "link": "https://legiscan.com/CA/bill/SB876/2025?utm_campaign=rss&guid=S9cemQZSckLK7qsmUH1cy",
+    "published": "2026-08-31T04:00:00Z",
+    "summary": "An act to amend Section 2071 of, to amend, repeal, and add Sections 790.035, 929, 2051.5, 2060, 10102, 10103, 10103.2, 10103.4, 12928.7, and 14047 of, and to add Section 10103.8 to, the Insurance Code, relating to insurance.<br />\n<br />\n2026/08/31 Assembly amendments concurred in. (Ayes 26. Noes 9.) Ordered to engrossing and enrolling."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB1775",
+    "link": "https://legiscan.com/CA/bill/AB1775/2025?utm_campaign=rss&guid=4vAbszDksxC0OJWeAQBhcL",
+    "published": "2026-08-31T04:00:00Z",
+    "summary": "An act to amend Sections 115.4 and 115.8 of the Business and Professions Code, and to amend Section 885 of, and to add Section 886 to, the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/08/31 Enrolled and presented to the Governor at 4 p.m."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SB1365",
+    "link": "https://legiscan.com/CA/bill/SB1365/2025?utm_campaign=rss&guid=6znES9JiS9yQxTHagXqzCx",
+    "published": "2026-08-31T04:00:00Z",
+    "summary": "An act to amend Section 396 of the Penal Code, relating to price gouging.<br />\n<br />\n2026/08/31 Assembly amendments concurred in. (Ayes 27. Noes 10.) Ordered to engrossing and enrolling."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB114",
+    "link": "https://legiscan.com/CA/bill/AB114/2025?utm_campaign=rss&guid=6zqrY1HhGf1XNWo3GsEQ1o",
+    "published": "2026-08-31T04:00:00Z",
+    "summary": "An act to amend the Budget Act of 2022 (Chapters 43, 45, and 249 of the Statutes of 2022) by amending Sections 19.56 and 39.10 of that act, to amend the Budget Act of 2023 (Chapters 12, 38, and 189 of the Statutes of 2023) by amending Item 0509-101-0001 of Section 2.00 of, and by amending Sections 19.563, 19.569, and 39.10 of, that act, to amend the Budget Act of 2024 (Chapters 22, 35, and 994 of the Statutes of 2024) by amending Items 0650-101-3371, 4260-101-0001, and 8660-101-3371 of Section 2.00 of, and to amend Section 39.10 of, that act, and to amend the Budget Act of 2025 (Chapters 4 and 5 of the Statutes of 2025) by amending Items 0690-104-0001, 0911-001-0001, 2740-004-0044, 3480-491, 3540-009-6093, and 3790-102-6093 of Section 2.00 of, amending Sections 39.00, 39.10, and 99.50 of, and adding Section 15.04 to, that act, relating to the state budget, and making an appropriation therefor, to take effect immediately, budget bill.<br />\n<br />\n2026/08/31 Read second time. Ordered to third reading."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB2534",
+    "link": "https://legiscan.com/CA/bill/AB2534/2025?utm_campaign=rss&guid=4seqplwBV0sIJEP38Mldca",
+    "published": "2026-08-31T04:00:00Z",
+    "summary": "An act to amend Sections 6211, 6301, 6320, and 6340 of, and to add Sections 6217 and 6230 to, the Family Code, relating to domestic violence.<br />\n<br />\n2026/08/31 Enrolled and presented to the Governor at 4 p.m."
+  },
+  {
     "source": "Task & Purpose",
     "title": "Iran, US trade strikes in first fighting in a month",
     "link": "https://taskandpurpose.com/news/us-iran-new-strikes-larak-island-jordan/",
@@ -259,109 +371,11 @@
     "summary": "<p>Keeping up with your California representatives felt impossible before. Now you can watch them like a hawk: Sign up for My Legislator, your weekly, personalized report that tracks what your state representatives say and do. Gov. Gavin Newsom on Saturday backed off his proposal to reduce costs for electrical utilities after their equipment sparks wildfires, agreeing [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/30/california-lawmakers-strike-wildfire-deal-that-leaves-out-most-of-newsoms-big-demands/\">Read More and Comment: California lawmakers strike wildfire deal that leaves out most of Newsom’s big demands</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/30/california-lawmakers-strike-wildfire-deal-that-leaves-out-most-of-newsoms-big-demands/\">California lawmakers strike wildfire deal that leaves out most of Newsom’s big demands</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
   },
   {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB186",
-    "link": "https://legiscan.com/CA/bill/SB186/2025?utm_campaign=rss&guid=78MRuUrYY5RnhV3giojgyt",
-    "published": "2026-08-30T04:00:00Z",
-    "summary": "An act to amend Sections 17039.4, 17039.6, 17053.95, 17053.98, 17053.98.1, 23036.4, 23036.6, 23695, 23698, and 23698.1 of the Revenue and Taxation Code, relating to taxation, and making an appropriation therefor, to take effect immediately, bill related to the budget.<br />\n<br />\n2026/08/30 Ordered to third reading."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2294",
-    "link": "https://legiscan.com/CA/bill/AB2294/2025?utm_campaign=rss&guid=4Tk0phNQOaWQmzzsZogSSY",
-    "published": "2026-08-30T04:00:00Z",
-    "summary": "An act to amend Section 135 of the Code of Civil Procedure, and to amend Section 6700 of the Government Code, relating to state government.<br />\n<br />\n2026/08/30 In Assembly. Concurrence in Senate amendments pending."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB133",
-    "link": "https://legiscan.com/CA/bill/SB133/2025?utm_campaign=rss&guid=52LUyPSi0Fy5RO5sN4FnSf",
-    "published": "2026-08-30T04:00:00Z",
-    "summary": "An act to amend Sections 2582, 8281.5, 8320, 8902, 8903, 11800, 12000, 33110, 33110.5, 38100, 41341, 41490, 41585, 42238.022, 44259.4, 44475, 46146.5, 46160, 49507, 52064.5, 52071, 52071.5, 53008.5, 53008.7, 53009, 53009.1, 53025, 54451, 54680, 54682, 54683, 69617, and 76004 of, and to amend and renumber Section 98 of, the Education Code, to amend Section 531 of the Military and Veterans Code, to amend Section 162 of Chapter 44 of the Statutes of 2021, and to amend Section 149 of Chapter 65 of the Statutes of 2026, relating to education finance, and making an appropriation therefor, to take effect immediately, bill related to the budget.<br />\n<br />\n2026/08/30 Ordered to third reading."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2796",
-    "link": "https://legiscan.com/CA/bill/AB2796/2025?utm_campaign=rss&guid=4HaiTY6iid8m1cREo40hUx",
-    "published": "2026-08-30T04:00:00Z",
-    "summary": "An act to amend Sections 2736, 4606, 6533.5, and 22253.5 of the Business and Professions Code, to amend Section 14502 of the Corporations Code, to amend Sections 33192, 33195.2, 44237, and 45125.1 of the Education Code, to amend Section 8908 of the Family Code, to amend Sections 1300 and 17331 of the Financial Code, to amend Section 725 of the Harbors and Navigation Code, to amend Sections 1522, 1568.09, 1569.17, and 1596.871 of, and to add Section 54933 to, the Health and Safety Code, to amend Sections 11105, 11105.001, 11105.002, 11105.05, and 11105.3 of, to add Section 11105.003 to, and to repeal and add Section 23520 of, the Penal Code, to amend Section 5164 of the Public Resources Code, and to amend Sections 14043.38 and 16519.5 of the Welfare and Institutions Code, relating to criminal history information, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/08/30 Senate amendments concurred in. To Engrossing and Enrolling."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2467",
-    "link": "https://legiscan.com/CA/bill/AB2467/2025?utm_campaign=rss&guid=5UX422K8iFSzInU4618EB9",
-    "published": "2026-08-30T04:00:00Z",
-    "summary": "An act to amend Sections 41020.6, 44258.9, 44320, 45037, 47604.32, 48004, 48204.3, 51461, and 51827 of the Education Code, relating to elementary and secondary education, making an appropriation therefor, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/08/30 Urgency clause adopted. Senate amendments concurred in. To Engrossing and Enrolling."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
     "title": "CA SB577",
     "link": "https://legiscan.com/CA/bill/SB577/2025?utm_campaign=rss&guid=2AlLmJINEpkOyuBhO2NnSK",
     "published": "2026-08-30T04:00:00Z",
     "summary": "An act to add Section 6095.2 to the Business and Professions Code, to amend Section 1431.2 of the Civil Code, to amend Sections 340.1, 340.11, 864, and 1038 of, and to add Section 340.12 to, the Code of Civil Procedure, to amend Sections 41320, 41329.52, and 41329.53 of, and to add Chapter 5 (commencing with Section 14560) to Part 9 of Division 1 of Title 1 of, the Education Code, to add Section 50035 to the Government Code, to add Sections 1526.76, 1534.2, and 1534.3 to the Health and Safety Code, to amend Section 11165.7 of, amend, repeal, and add Section 832.7 of, and to add Section 11054.6 to, the Penal Code, and to add Sections 2203, 16166.5, and 16500.2 to, and to add and repeal Section 16545.5 of, the Welfare and Institutions Code, relating to public entities.<br />\n<br />\n2026/08/30 Assembly amendments concurred in. (Ayes 24. Noes 10.) Ordered to engrossing and enrolling."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA SB173",
-    "link": "https://legiscan.com/CA/bill/SB173/2025?utm_campaign=rss&guid=6S35djuRyk7uvpJ8OGEdI1",
-    "published": "2026-08-30T04:00:00Z",
-    "summary": "An act to amend Sections 53123.1.5, 53123.2, 53123.3, and 53123.4 of, and to add Sections 53123.7 and 53123.8 to, the Government Code, to amend Sections 1280.3, 32121, and 120956 of, to add Section 130206 to, and to add Chapter 3.5 (commencing with Section 131325) to Part 1 of Division 112 of, the Health and Safety Code, to amend Sections 41030, 41031, 41135, and 41136 of the Revenue and Taxation Code, and to amend Sections 14005.11, 14005.36, 14007.5, 14007.8, 14043.2, 14043.27, 14043.28, 14043.36, 14043.55, 14107.11, 14132.26, and 14184.201 of the Welfare and Institutions Code, relating to health, and making an appropriation therefor, to take effect immediately, bill related to the budget.<br />\n<br />\n2026/08/30 Ordered to third reading."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA AB2467",
-    "link": "https://legiscan.com/CA/bill/AB2467/2025?utm_campaign=rss&guid=5UX422K8iFSzInU4618EB9",
-    "published": "2026-08-30T04:00:00Z",
-    "summary": "An act to amend Sections 41020.6, 44258.9, 44320, 45037, 47604.32, 48004, 48204.3, 51461, and 51827 of the Education Code, relating to elementary and secondary education, making an appropriation therefor, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/08/30 Urgency clause adopted. Senate amendments concurred in. To Engrossing and Enrolling."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA AB2478",
-    "link": "https://legiscan.com/CA/bill/AB2478/2025?utm_campaign=rss&guid=1e8BBmu9fHtAA3emNLlPIN",
-    "published": "2026-08-30T04:00:00Z",
-    "summary": "An act to amend Sections 49069.3, 49076, 56055, and 56155.5 of the Education Code, to amend Sections 6552, 8609, 8704.5, 8708, and 9201 of, and to repeal Section 9203.1 of, the Family Code, to amend Sections 7930.165, 7930.190, and 30029.7 of the Government Code, to amend Sections 1501.1, 1502, 1505, 1506, 1506.1, 1506.5, 1506.9, 1507.25, 1517, 1517.2, 1517.3, 1520, 1520.3, 1522.08, 1522.1, 1522.4, 1522.44, 1523.1, 1524, 1524.01, 1527, 1527.1, 1527.2, 1527.4, 1527.5, 1530.5, 1530.7, 1536, 1536.2, 1538, 1558, 1559.110, 1568.26, and 115725 of, to amend, repeal, and add Section 1522 of, and to repeal Sections 1506.6, 1506.7, 1506.8, and 1517.1 of, the Health and Safety Code, to amend Section 676.7 of the Insurance Code, to amend Sections 11105.2, 11165.7, 11167.5, and 11170 of the Penal Code, to amend Sections 1541 and 1543 of the Probate Code, and to amend Sections 224.1, 291, 293, 294, 295, 309, 319, 361, 361.2, 361.4, 361.45, 362.04, 366.1, 366.3, 366.31, 628, 706.5, 706.6, 727, 727.05, 727.12, 727.4, 827, 4684, 10553.12, 10952.5, 11362, 11363, 11386, 11391, 11400, 11402, 11461, 11461.3, 11461.36, 11461.6, 11462, 11462.01, 11463, 16003.5, 16119, 16120, 16161, 16501.01, 16501.02, 16501.1, 16504.5, 16507.5, 16514, 16519, 16519.3, 16519.501, 16519.502, 16519.51, 16519.52, 16519.53, 16519.54, 16519.55, 16519.555, 16519.56, 16519.57, 16519.6, 16521.6, 16563, 16565, 17710, 17730, 17731, 17736, and 18250 of, to amend the heading of Article 2 (commencing with Section 16519.3) of Chapter 5 of Part 4 of Division 9 of, to amend, repeal, and add Section 16519.5 of, to add Sections 16519.605 and 16519.615 to, and to repeal and add Section 16519.4 of, the Welfare and Institutions Code, relating to foster care.<br />\n<br />\n2026/08/30 Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0.)."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA AB2796",
-    "link": "https://legiscan.com/CA/bill/AB2796/2025?utm_campaign=rss&guid=4HaiTY6iid8m1cREo40hUx",
-    "published": "2026-08-30T04:00:00Z",
-    "summary": "An act to amend Sections 2736, 4606, 6533.5, and 22253.5 of the Business and Professions Code, to amend Section 14502 of the Corporations Code, to amend Sections 33192, 33195.2, 44237, and 45125.1 of the Education Code, to amend Section 8908 of the Family Code, to amend Sections 1300 and 17331 of the Financial Code, to amend Section 725 of the Harbors and Navigation Code, to amend Sections 1522, 1568.09, 1569.17, and 1596.871 of, and to add Section 54933 to, the Health and Safety Code, to amend Sections 11105, 11105.001, 11105.002, 11105.05, and 11105.3 of, to add Section 11105.003 to, and to repeal and add Section 23520 of, the Penal Code, to amend Section 5164 of the Public Resources Code, and to amend Sections 14043.38 and 16519.5 of the Welfare and Institutions Code, relating to criminal history information, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/08/30 Senate amendments concurred in. To Engrossing and Enrolling."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB1983",
-    "link": "https://legiscan.com/CA/bill/AB1983/2025?utm_campaign=rss&guid=owo31R0SAtkHu69TK8Vul",
-    "published": "2026-08-30T04:00:00Z",
-    "summary": "An act to amend Sections 1771, 1788, and 1788.4 of the Health and Safety Code, relating to continuing care contracts.<br />\n<br />\n2026/08/30 Senate amendments concurred in. To Engrossing and Enrolling."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SB685",
-    "link": "https://legiscan.com/CA/bill/SB685/2025?utm_campaign=rss&guid=6uXE2yQ6UfpOZf18jT5uqC",
-    "published": "2026-08-30T04:00:00Z",
-    "summary": "An act to amend Sections 33050, 44237, 44415, 48645.5, 48853, 48853.5, 48854, 48856, 48911.5, 48986, 49001, 51225.2, 52052, 56001, 56028, 56034, 56035, 56040.6, 56042, 56101, 56124, 56157, 56168, 56170, 56195.8, 56205, 56325, 56326.5, 56342.1, 56345, 56361, 56361.5, 56365, 56366, 56366.1, 56366.4, 56366.45, 56366.5, 56366.6, 56366.8, 56366.9, 56366.10, 56366.11, 56366.12, 56383, 56430, 56441.8, 56505, 56505.2, 56521.2, 56836.20, 56836.21, 56847, 56856, and 56857 of, to amend the heading of Article 4 (commencing with Section 56836.20) of Chapter 7.2 of Part 30 of Division 4 of Title 2 of, to add Section 56359 to, and to repeal and add Section 56366.2 of, the Education Code, and to amend Sections 7575 and 7579 of the Government Code, relating to special education.<br />\n<br />\n2026/08/30 Assembly amendments concurred in. (Ayes 28. Noes 10.) Ordered to engrossing and enrolling."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB2467",
-    "link": "https://legiscan.com/CA/bill/AB2467/2025?utm_campaign=rss&guid=5UX422K8iFSzInU4618EB9",
-    "published": "2026-08-30T04:00:00Z",
-    "summary": "An act to amend Sections 41020.6, 44258.9, 44320, 45037, 47604.32, 48004, 48204.3, 51461, and 51827 of the Education Code, relating to elementary and secondary education, making an appropriation therefor, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/08/30 Urgency clause adopted. Senate amendments concurred in. To Engrossing and Enrolling."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB282",
-    "link": "https://legiscan.com/CA/bill/AB282/2025?utm_campaign=rss&guid=7Q6aQyZjc730cvmJrz0SPa",
-    "published": "2026-08-30T04:00:00Z",
-    "summary": "An act to add Section 18579 to the Elections Code, relating to elections, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/08/30 Urgency clause adopted. Senate amendments concurred in. To Engrossing and Enrolling."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SB328",
-    "link": "https://legiscan.com/CA/bill/SB328/2025?utm_campaign=rss&guid=4QoHR5L5CHXGnid5L2Mho0",
-    "published": "2026-08-30T04:00:00Z",
-    "summary": "An act to amend Section 54221 of the Government Code, and to add Chapter 6.8 (commencing with Section 21189.60) to Division 13 of the Public Resources Code, relating to land use, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/08/30 Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling."
   },
   {
     "source": "Governor of California",
@@ -376,13 +390,6 @@
     "link": "https://capoliticalreview.com/2026/08/29/legislature-passes-bill-making-it-easier-for-californians-to-sue-ice-agents/",
     "published": "2026-08-29T14:30:40Z",
     "summary": "<p>Legislation that makes it easier for Californians to sue federal officers, including immigration agents, is heading to Gov. Gavin Newsom’s desk after the Senate overwhelmingly passed it Thursday. The bill, authored by Sen. Scott Wiener, D-San Francisco, passed the Senate in a 28-10 vote after passing 54-17 in the Assembly on Tuesday. Wiener told the [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/08/29/legislature-passes-bill-making-it-easier-for-californians-to-sue-ice-agents/\">Read More and Comment: Legislature passes bill making it easier for Californians to sue ICE agents</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/08/29/legislature-passes-bill-making-it-easier-for-californians-to-sue-ice-agents/\">Legislature passes bill making it easier for Californians to sue ICE agents</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "Governor of California",
-    "title": "Governor Newsom announces $44 million for tribal stewardship, salmon recovery and desert protection projects",
-    "link": "https://www.gov.ca.gov/2026/08/28/governor-newsom-announces-44-million-for-tribal-stewardship-salmon-recovery-and-desert-protection-projects/",
-    "published": "2026-08-28T17:54:00Z",
-    "summary": "<img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2026/08/Governor-Newsom-announces-44-million-for-tribal-stewardship-salmon-recovery-and-desert-protection-projects-SEO-GFX-150x150.png\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/08/28/governor-newsom-announces-44-million-for-tribal-stewardship-salmon-recovery-and-desert-protection-projects/\" rel=\"nofollow\">Source</a></p>"
   },
   {
     "source": "The Liberal OC",
@@ -462,13 +469,6 @@
     "summary": "Each year, our office publishes the California Spending Plan to summarize the annual state budget. In this publication we provide an overview of the 2026-27 budget package, give a brief description of how the budget process unfolded, and then highlight the major features of the budget approved by the Legislature and signed by the Governor."
   },
   {
-    "source": "The Auditor",
-    "title": "All-New and Improved Exemplar Global Career Center Open Now",
-    "link": "https://www.theauditoronline.com/all-new-and-improved-exemplar-global-career-center-open-now/",
-    "published": "2026-08-25T20:01:43Z",
-    "summary": "<p>All of us at Exemplar Global are thrilled to share an exciting development that will benefit all conformity assessment professionals (and those that employ them, too!) Our all-new Career Center offers a smarter, more connected experience built for certified professionals and graduates training for new roles. Whether you’re looking for career opportunities in management system [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/all-new-and-improved-exemplar-global-career-center-open-now/\">All-New and Improved Exemplar Global Career Center Open Now</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
     "source": "The Liberal OC",
     "title": "Time to Get Real on City Council Staff Pay",
     "link": "https://theliberaloc.com/2026/08/25/time-to-get-real-on-city-council-staff-pay/",
@@ -490,25 +490,11 @@
     "summary": "<p>COLUMBUS, Ohio &#8213; Concerned Veterans for America (CVA) today announced its endorsement of U.S. Navy Reserve veteran and current state Rep. Mike Dovilla for Ohio House District 17. “Mike Dovilla brings a veteran’s commitment to service and a proven record of delivering for Ohioans,” said Adam Miller, CVA Strategic Director for Ohio. “From his time [&#8230;]</p>\n<p>The post <a href=\"https://cv4a.org/news-media/concerned-veterans-for-america-endorses-mike-dovilla-for-ohio-state-house/\">Concerned Veterans for America Backs Mike Dovilla for Re-Election to Ohio State House</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
   },
   {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA AB2787",
-    "link": "https://legiscan.com/CA/bill/AB2787/2025?utm_campaign=rss&guid=5hC1H3dN3okw7W0B6Yteiq",
-    "published": "2026-08-25T04:00:00Z",
-    "summary": "An act to amend Section 675 of the Harbors and Navigation Code, to amend Sections 9853 and 9860 of the Vehicle Code, and to amend Section 10722.4 of the Water Code, relating to public resources.<br />\n<br />\n2026/08/25 Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 78. Noes 0.)."
-  },
-  {
     "source": "California Democratic Party",
     "title": "Statement from CADEM Chair Rusty Hicks on SCOTUS Decision Regarding Trump’s Executive Order Restricting Mail-in Voting:",
     "link": "https://cadem.org/statement-from-cadem-chair-rusty-hicks-on-scotus-decision-regarding-trumps-executive-order-restricting-mail-in-voting/",
     "published": "2026-08-24T22:44:08Z",
     "summary": "<p>“Leave it to Trump’s Court to attempt to save an unpopular, unproductive president from a devastating defeat,” said Rusty Hicks, Chair of CADEM. “They know Republicans can’t win fair and square, so they’re trying to rig the game before it ever begins. It won’t work. The American People are sick and tired of billionaire giveaways, [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/statement-from-cadem-chair-rusty-hicks-on-scotus-decision-regarding-trumps-executive-order-restricting-mail-in-voting/\">Statement from CADEM Chair Rusty Hicks on SCOTUS Decision Regarding Trump’s Executive Order Restricting Mail-in Voting:</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "The Auditor",
-    "title": "Standards Australia’s NEXTgen Program",
-    "link": "https://www.theauditoronline.com/standards-australias-nextgen-program/",
-    "published": "2026-08-24T20:22:51Z",
-    "summary": "<p>Standards Australia’s NEXTgen Program selects emerging industry and technical experts and provides them with an exciting opportunity to become involved in the national and international standardization processes supporting Australian industry and government. &#x200d; Through the program, participants will access training and gain direct exposure to the standards development process and context. They will attend and participate [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/standards-australias-nextgen-program/\">Standards Australia’s NEXTgen Program</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "Publication Archive - Public Policy Institute of California",
@@ -588,13 +574,6 @@
     "summary": "&#160; Seal Beach, CA – Dr. Paula Swift, candidate for California State Assembly District 70, today announced the endorsement of the American Federation of State, County and <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/08/18/afscme-california-people-endorses-dr-paula-swift-for-assembly-district-70/\" title=\"AFSCME California People Endorses Dr. Paula Swift for Assembly District 70 \">[...]</a>"
   },
   {
-    "source": "The Auditor",
-    "title": "Field Report: EMC + SIPI Symposium 2026",
-    "link": "https://www.theauditoronline.com/field-report-emc-sipi-symposium-2026/",
-    "published": "2026-08-18T04:51:28Z",
-    "summary": "<p>By Mike Richman Exemplar Global is the organization behind The Auditor Online media brand, but management system auditing and other conformity assessment professions are not the only industries we serve. Exemplar Global also operates the well-established International Association for Radio, Telecommunications and Electromagnetics (iNARTE) brand. iNARTE certifications are designed for qualified engineers and technicians working [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/field-report-emc-sipi-symposium-2026/\">Field Report: EMC + SIPI Symposium 2026</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
     "source": "The Official United States Marine Corps Public Website News",
     "title": "MRF-SEA Tests TPS-80 Mobility to Enhance Fires Integration in the Philippines",
     "link": "https://www.marines.mil/News/News-Display/Article/4576684/mrf-sea-tests-tps-80-mobility-to-enhance-fires-integration-in-the-philippines/",
@@ -609,13 +588,6 @@
     "summary": "<p> A murder in Martinez, California just exposed the real cost of sanctuary policies and soft-on-crime judges.<br /></p><p>Mark Garrett breaks down the case, the role California’s sanctuary laws played, how leftist judges repeatedly undermined public safety, and why surveillance tools remain one of law enforcement’s most effective weapons against violent crime. This episode digs into the hard truths about crime prevention when policy and the courtroom work against officers on the street.</p>"
   },
   {
-    "source": "The Auditor",
-    "title": "Accreditation Is the Foundation for Trustworthy Sustainability Certification",
-    "link": "https://www.theauditoronline.com/accreditation-is-the-foundation-for-trustworthy-sustainability-certification/",
-    "published": "2026-08-13T22:10:56Z",
-    "summary": "<p>A sustainability standard can be a powerful tool for achieving environmental and social goals across a supply chain, but it is only as good as the way it plays out in the world. Take soccer as an analogy: the sport’s governing body codifies the rules of the game, and each league hires referees to monitor [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/accreditation-is-the-foundation-for-trustworthy-sustainability-certification/\">Accreditation Is the Foundation for Trustworthy Sustainability Certification</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
     "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
     "title": "CA SB247",
     "link": "https://legiscan.com/CA/bill/SB247/2025?utm_campaign=rss&guid=2UEf0cKAL25POYWQxoxt99",
@@ -628,13 +600,6 @@
     "link": "https://legiscan.com/CA/bill/SB1044/2025?utm_campaign=rss&guid=5KmpmtmeCWl8qjL0TpSna9",
     "published": "2026-08-13T04:00:00Z",
     "summary": "An act to amend Sections 14838.5 and 14838.64 of the Government Code, relating to public contracts.<br />\n<br />\n2026/08/13 August 13 hearing: Held in committee and under submission."
-  },
-  {
-    "source": "The Auditor",
-    "title": "Why Some Consultants Get Invited Back… and Others Don’t",
-    "link": "https://www.theauditoronline.com/why-some-consultants-get-invited-back-and-others-dont/",
-    "published": "2026-08-12T05:24:58Z",
-    "summary": "<p>By Jackie Stapleton Findings don&#8217;t get you invited back. Behavior does. I recently shared on LinkedIn an interesting question I was asked: “As a consultant, how do you get invited back, especially if you’ve documented a lot of findings in an audit?” The assumption behind this question is an interesting one—that the number of findings [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/why-some-consultants-get-invited-back-and-others-dont/\">Why Some Consultants Get Invited Back… and Others Don&#8217;t</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "Legislative Analyst's Office: Recent Publications",
@@ -698,5 +663,40 @@
     "link": "",
     "published": "2026-07-30T14:54:03Z",
     "summary": "<p>Dr. Anthony Fauci’s record is filled with contradictions, shifting science, and institutional arrogance that cost the public dearly. This video walks through the documented lies, the financial conflicts, the lockdown hypocrisy, and why his leadership still poses a danger to public trust in health institutions.</p><p>Takeaways</p><p>• Fauci’s pattern of lies and corruption raised serious questions about public health leadership</p><p>• Arrogance and hypocrisy during COVID lockdowns permanently damaged trust in health officials</p><p>Chapters</p><p>00:00 – Fauci’s Lies and Hearings</p><p>05:13 – Fauci’s Corruption and Arrogance</p><p>06:13 – Arrogance During COVID Lockdowns</p><p>09:01 – Public Health Hypocrisy</p><p>10:49 – Fauci’s Disgrace and Danger</p><p>If this opened your eyes, drop a comment and share it. Subscribe for more unfiltered breakdowns of the people and policies that still shape our lives.</p>"
+  },
+  {
+    "source": "California Democratic Party",
+    "title": "California Democratic Party Announces Endorsements for Statewide, Congressional and State Legislature Candidates",
+    "link": "https://cadem.org/california-democratic-party-announces-endorsements-for-statewide-congressional-and-state-legislature-candidates/",
+    "published": "2026-07-14T16:08:19Z",
+    "summary": "<p>SACRAMENTO, CA – Today, following the certification of the June 2 Primary Election, the California Democratic Party (CADEM) announced the following Statewide, Congressional and State Senate &#38; Assembly candidate endorsements: “Once again, California is leading the charge to take back the House and put an end to the Trump-Republican agenda of chaos and cruelty,” said [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-announces-endorsements-for-statewide-congressional-and-state-legislature-candidates/\">California Democratic Party Announces Endorsements for Statewide, Congressional and State Legislature Candidates</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
+  },
+  {
+    "source": "California Democratic Party",
+    "title": "California Democratic Party Endorses Xavier Becerra for Governor of California",
+    "link": "https://cadem.org/california-democratic-party-endorses-xavier-becerra-for-governor-of-california/",
+    "published": "2026-07-13T18:52:41Z",
+    "summary": "<p>SACRAMENTO &#8211; Today, following the certification of the June 2 Primary Election, the California Democratic Party (CADEM) has officially endorsed Sec. Xavier Becerra for Governor of California. Becerra emerged from the primary as the top vote-getter among the field of gubernatorial candidates, earning over 2.5 million votes statewide. “California Democrats are proud to endorse Xavier [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-endorses-xavier-becerra-for-governor-of-california/\">California Democratic Party Endorses Xavier Becerra for Governor of California</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
+  },
+  {
+    "source": "Legislative Analyst's Office: Recent Publications",
+    "title": "The 2011 Realignment of Adult Felony Populations: Results and Key Takeaways",
+    "link": "https://lao.ca.gov/Publications/Detail/5191",
+    "published": "2026-06-30T00:00:00Z",
+    "summary": "In 2011, California shifted responsibility for incarcerating and supervising certain adult felony populations from the state to counties. The state also shifted a portion of tax revenues to counties to cover the additional costs. These changes were part of a larger shift of responsibilities known as the 2011 realignment. Pursuant to Chapter 96 of 2023 (AB 1080, Ta), this report provides information on how various aspects of the realignment of adult felony populations have been implemented and evaluates the results."
+  },
+  {
+    "source": "California Democratic Party",
+    "title": "California Democratic Party Expands “California Fights Forward” Leadership Team with New Political Director Nichole Trujillo Rice",
+    "link": "https://cadem.org/california-democratic-party-expands-california-fights-forward-leadership-team-with-new-political-director-nichole-trujillo-rice/",
+    "published": "2026-06-23T17:54:41Z",
+    "summary": "<p>SACRAMENTO, CA — The California Democratic Party (CADEM) today announced the expansion of its senior staff as Democrats gear up for pivotal midterm elections in 2026. Nichole Trujillo Rice has joined CADEM as Political Director, drawing on nearly two decades of experience as a political strategist, coalition builder, and advocate for working families.&#160; “This year’s [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-expands-california-fights-forward-leadership-team-with-new-political-director-nichole-trujillo-rice/\">California Democratic Party Expands “California Fights Forward” Leadership Team with New Political Director Nichole Trujillo Rice</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
+    "title": "CA AB1702",
+    "link": "https://legiscan.com/CA/bill/AB1702/2025?utm_campaign=rss&guid=6ReVyBf7TaavgUZBZt7yG9",
+    "published": "2026-05-14T04:00:00Z",
+    "summary": "An act to amend Section 5011.5 of, and to add Section 5011.8 to, the Public Resources Code, relating to parks.<br />\n<br />\n2026/05/14 In committee: Held under submission."
   }
 ]
