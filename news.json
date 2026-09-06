@@ -3,22 +3,43 @@
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
-    "published": "2026-09-05T19:38:15Z",
+    "published": "2026-09-06T01:34:59Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-09-05T19:38:14Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-09-05T19:38:13Z",
+    "published": "2026-09-06T01:34:57Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
+    "published": "2026-09-05T23:18:10Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-09-05T23:17:17Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Globe",
+    "title": "Suits for Refund",
+    "link": "https://californiaglobe.com/articles/suits-for-refund/",
+    "published": "2026-09-05T21:00:13Z",
+    "summary": "Deals with suits for refund involving overpayments of sales and use taxes in this state"
+  },
+  {
+    "source": "Task & Purpose",
+    "title": "US military disables ad trackers amid concerns over troops’ safety",
+    "link": "https://taskandpurpose.com/news/military-cybersecurity-ad-trackers-iran/",
+    "published": "2026-09-05T19:47:11Z",
+    "summary": "<p>The new security measures come after commercial data was used to track and target U.S. forces in the Middle East.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/military-cybersecurity-ad-trackers-iran/\">US military disables ad trackers amid concerns over troops’ safety</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
     "source": "California Globe",
@@ -26,13 +47,6 @@
     "link": "https://californiaglobe.com/articles/checkmate-at-the-border-stalemate-in-sacramento/",
     "published": "2026-09-05T19:00:28Z",
     "summary": "California’s Department of Motor Vehicles just handed me a case study I didn’t have to bill for"
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-09-05T17:17:29Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "Task & Purpose",
@@ -77,6 +91,13 @@
     "summary": "Deals with the probate of a will"
   },
   {
+    "source": "Governor of California",
+    "title": "Governor Gavin Newsom on California securing massive victory for democracy",
+    "link": "https://www.gov.ca.gov/2026/09/04/governor-gavin-newsom-on-california-securing-massive-victory-for-democracy/",
+    "published": "2026-09-04T23:24:22Z",
+    "summary": ""
+  },
+  {
     "source": "Task & Purpose",
     "title": "Dozens more troops added to tally of wounded in Iran war amid new strikes",
     "link": "https://taskandpurpose.com/news/iran-war-nearly-800-wounded/",
@@ -98,18 +119,25 @@
     "summary": "<p>Adam Telle oversaw the Army Corp of Engineers, which maintain dams, lakes, and waterways. He now will be the Army's top civilian, replacing Dan Driscoll.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/adam-telle-army-secretary-driscoll/\">Official who oversees Corps of Engineers named acting Army Secretary</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "California Globe",
-    "title": "Arizona Lawmaker Blasts Congressional Democrats As ‘Pandering Idiots,’ Calls Tucson Murders ‘Radical Islamic Terrorism’",
-    "link": "https://californiaglobe.com/fr/arizona-lawmaker-blasts-congressional-democrats-as-pandering-idiots-calls-tucson-murders-radical-islamic-terrorism/",
-    "published": "2026-09-04T20:25:10Z",
-    "summary": "Police confirmed an anti-LGBTQ hate motive but have not linked the gunman to a terrorist organization"
-  },
-  {
     "source": "Task & Purpose",
     "title": "Dakota Meyer to junior Marines: ‘You all are better than we were’",
     "link": "https://taskandpurpose.com/culture/dakota-meyer-suicide-prevention/",
     "published": "2026-09-04T18:59:56Z",
     "summary": "<p>“As somebody who was in the combat generation, to somebody who's standing in a formation next to these entry-level Marines, I want to tell you: you all are better than we were.”</p>\n<p>The post <a href=\"https://taskandpurpose.com/culture/dakota-meyer-suicide-prevention/\">Dakota Meyer to junior Marines: &#8216;You all are better than we were&#8217;</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+  },
+  {
+    "source": "Governor of California",
+    "title": "California’s public safety strategy works: Governor Newsom’s commitment helps lower crime as new study shows violence prevention saves lives",
+    "link": "https://www.gov.ca.gov/2026/09/04/californias-public-safety-strategy-works-governor-newsoms-commitment-helps-lower-crime-as-new-study-shows-violence-prevention-saves-lives/",
+    "published": "2026-09-04T17:11:56Z",
+    "summary": "<img alt=\"A graphic that says California’s public safety strategy works: Governor Newsom’s commitment helps lower crime as new study shows violence prevention saves lives \" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2026/09/Californias-public-safety-strategy-works-Governor-Newsoms-commitment-helps-lower-crime-as-new-study-shows-violence-prevention-saves-lives-SEO-GFX-150x150.png\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/09/04/californias-public-safety-strategy-works-governor-newsoms-commitment-helps-lower-crime-as-new-study-shows-violence-prevention-saves-lives/\" rel=\"nofollow\">Source</a></p>"
+  },
+  {
+    "source": "Governor of California",
+    "title": "Six years after Creek Fire, Governor Newsom recognizes historic nighttime CalGuard rescue that saved 242 lives",
+    "link": "https://www.gov.ca.gov/2026/09/04/six-years-after-creek-fire-governor-newsom-recognizes-historic-nighttime-calguard-rescue-that-saved-242-lives/",
+    "published": "2026-09-04T16:03:57Z",
+    "summary": "<img alt=\"A graphic that says Six years after Creek Fire, Governor Newsom recognizes historic nighttime CalGuard rescue that saved 242 lives\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2026/09/Six-years-after-Creek-Fire-Governor-Newsom-recognizes-historic-nighttime-CalGuard-rescue-that-saved-242-lives-SEO-GFX-150x150.png\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/09/04/six-years-after-creek-fire-governor-newsom-recognizes-historic-nighttime-calguard-rescue-that-saved-242-lives/\" rel=\"nofollow\">Source</a></p>"
   },
   {
     "source": "Capitol Weekly",
@@ -169,6 +197,13 @@
   },
   {
     "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA SB1435",
+    "link": "https://legiscan.com/CA/bill/SB1435/2025?utm_campaign=rss&guid=1Aqrrn2OcSnenF3gVjQi9E",
+    "published": "2026-09-04T04:00:00Z",
+    "summary": "An act to amend Sections 17024.5, 17052, 17077, 17085, 17091, 17156.1, 17201.3, 17225, 17260, 17276, 17276.1, 17276.3, 17276.4, 17276.7, 17276.21, 17276.22, 17276.24, 17302, 17551, 17560.5, 17737, 18622.5, 18624, 18666, 19311, 23051.5, 23609, 24355.5, 24416, 24416.1, 24416.3, 24416.4, 24416.7, 24416.21, 24416.22, 24452, and 25110 of, to repeal Sections 17132, 17279, 17865, 18044, and 24956 of, and to repeal and add Section 17250 of, the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/09/04 Enrolled and presented to the Governor at 2 p.m."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
     "title": "CA AB1165",
     "link": "https://legiscan.com/CA/bill/AB1165/2025?utm_campaign=rss&guid=ZQXMQteP0GkDGBtQenSrj",
     "published": "2026-09-04T04:00:00Z",
@@ -189,13 +224,6 @@
     "summary": "An act to add Section 2011 to the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/09/04 Enrolled and presented to the Governor at 4 p.m."
   },
   {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB685",
-    "link": "https://legiscan.com/CA/bill/AB685/2025?utm_campaign=rss&guid=70VmE7xlf2XjwYgLsFsJSh",
-    "published": "2026-09-04T04:00:00Z",
-    "summary": "An act to amend Sections 12100.61 and 12100.63 of the Government Code, relating to economic recovery.<br />\n<br />\n2026/09/04 Enrolled and presented to the Governor at 4 p.m."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "CA SB1439",
     "link": "https://legiscan.com/CA/bill/SB1439/2025?utm_campaign=rss&guid=57zx4f1e0SkoFTC3UC4kdx",
@@ -210,11 +238,18 @@
     "summary": "An act to add Section 1367.72 to the Health and Safety Code, and to add Section 10123.72 to the Insurance Code, relating to health care coverage.<br />\n<br />\n2026/09/04 Enrolled and presented to the Governor at 2 p.m."
   },
   {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SB1439",
-    "link": "https://legiscan.com/CA/bill/SB1439/2025?utm_campaign=rss&guid=57zx4f1e0SkoFTC3UC4kdx",
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA SB1445",
+    "link": "https://legiscan.com/CA/bill/SB1445/2025?utm_campaign=rss&guid=65HMAgt8GEBBK4DVXu2miZ",
     "published": "2026-09-04T04:00:00Z",
-    "summary": "An act to amend Sections 6508, 17560, 24011, 26802, 26803, 26803.5, 26809, 26831, 26837, 26840.1, 27297.7, 27361.4, 40602, 53651, 54221, 54953.8.6, 54953.8.7, and 66474.02 of the Government Code, and to amend Section 32499.8 of the Health and Safety Code, relating to local government.<br />\n<br />\n2026/09/04 Enrolled and presented to the Governor at 2 p.m."
+    "summary": "An act to amend Sections 115.10, 802.5, 1621, 1724, 1750.1, 2564.79, 4202.6, 4826.3, 4980.36, 4980.41, 4980.43.2, 4980.72, 4980.78, 4980.81, 4990.26.1, 4996.17.1, 4996.17.2, 4996.23.1, 4999.32, 4999.33, 4999.46.2, 4999.60, 4999.62, 7026.12, 7057, 7071.18, 7139.3, 7511, 7582.22, 9884.76, 9884.9, 17913, 19120, 19239, 19278, and 19279.2 of, and to repeal Sections 1632.6, 4840.9, 4842, 6980.82, 7519, 7581.5, and 7599.71 of, the Business and Professions Code, relating to healing arts.<br />\n<br />\n2026/09/04 Enrolled and presented to the Governor at 2 p.m."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB2113",
+    "link": "https://legiscan.com/CA/bill/AB2113/2025?utm_campaign=rss&guid=mpmniDXWyLsN91a50aFrn",
+    "published": "2026-09-04T04:00:00Z",
+    "summary": "An act to add Part 1.5 (commencing with Section 21750) to Division 9 of the Public Utilities Code, relating to aviation.<br />\n<br />\n2026/09/04 Enrolled and presented to the Governor at 4 p.m."
   },
   {
     "source": "LegiScan Search Feed - Military Search",
@@ -225,13 +260,6 @@
   },
   {
     "source": "LegiScan Search Feed - Military Search",
-    "title": "CA SB938",
-    "link": "https://legiscan.com/CA/bill/SB938/2025?utm_campaign=rss&guid=5nWHNxWO6JSRHEis7fs7Ax",
-    "published": "2026-09-04T04:00:00Z",
-    "summary": "An act to amend Section 13510.1 of the Penal Code, relating to peace officers.<br />\n<br />\n2026/09/04 Enrolled and presented to the Governor at 2 p.m."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
     "title": "CA AB1457",
     "link": "https://legiscan.com/CA/bill/AB1457/2025?utm_campaign=rss&guid=1Mm7IV6MXAyNWSOych2sxo",
     "published": "2026-09-04T04:00:00Z",
@@ -239,17 +267,31 @@
   },
   {
     "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB1519",
-    "link": "https://legiscan.com/CA/bill/AB1519/2025?utm_campaign=rss&guid=6xaRwohXSCTzF0hsFSwq8e",
+    "title": "CA SB1445",
+    "link": "https://legiscan.com/CA/bill/SB1445/2025?utm_campaign=rss&guid=65HMAgt8GEBBK4DVXu2miZ",
     "published": "2026-09-04T04:00:00Z",
-    "summary": "An act to amend Section 19255 of the Revenue and Taxation Code, relating to taxation.<br />\n<br />\n2026/09/04 Enrolled and presented to the Governor at 4 p.m."
+    "summary": "An act to amend Sections 115.10, 802.5, 1621, 1724, 1750.1, 2564.79, 4202.6, 4826.3, 4980.36, 4980.41, 4980.43.2, 4980.72, 4980.78, 4980.81, 4990.26.1, 4996.17.1, 4996.17.2, 4996.23.1, 4999.32, 4999.33, 4999.46.2, 4999.60, 4999.62, 7026.12, 7057, 7071.18, 7139.3, 7511, 7582.22, 9884.76, 9884.9, 17913, 19120, 19239, 19278, and 19279.2 of, and to repeal Sections 1632.6, 4840.9, 4842, 6980.82, 7519, 7581.5, and 7599.71 of, the Business and Professions Code, relating to healing arts.<br />\n<br />\n2026/09/04 Enrolled and presented to the Governor at 2 p.m."
   },
   {
-    "source": "Task & Purpose",
-    "title": "Acting Navy Secretary tells Marines that suicide is a ‘leadership issue’",
-    "link": "https://taskandpurpose.com/news/navy-secretary-mental-health/",
-    "published": "2026-09-03T19:18:50Z",
-    "summary": "<p>In a town hall with Acting Navy Secretary Hung Cao, the Commandant of the Marine Corps told Camp Lejeune Marines that suicide prevention demands \"intrusive leadership\" from local leaders.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/navy-secretary-mental-health/\">Acting Navy Secretary tells Marines that suicide is a ‘leadership issue’</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA SB1439",
+    "link": "https://legiscan.com/CA/bill/SB1439/2025?utm_campaign=rss&guid=57zx4f1e0SkoFTC3UC4kdx",
+    "published": "2026-09-04T04:00:00Z",
+    "summary": "An act to amend Sections 6508, 17560, 24011, 26802, 26803, 26803.5, 26809, 26831, 26837, 26840.1, 27297.7, 27361.4, 40602, 53651, 54221, 54953.8.6, 54953.8.7, and 66474.02 of the Government Code, and to amend Section 32499.8 of the Health and Safety Code, relating to local government.<br />\n<br />\n2026/09/04 Enrolled and presented to the Governor at 2 p.m."
+  },
+  {
+    "source": "Governor of California",
+    "title": "California and the Australian state of Queensland ink new partnership to accelerate climate resilience, agricultural technology, and innovation",
+    "link": "https://www.gov.ca.gov/2026/09/03/california-and-the-australian-state-of-queensland-ink-new-partnership-to-accelerate-climate-resilience-agricultural-technology-and-innovation/",
+    "published": "2026-09-03T20:10:28Z",
+    "summary": "<img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2026/09/Queensland.2-150x150.png\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/09/03/california-and-the-australian-state-of-queensland-ink-new-partnership-to-accelerate-climate-resilience-agricultural-technology-and-innovation/\" rel=\"nofollow\">Source</a></p>"
+  },
+  {
+    "source": "Governor of California",
+    "title": "Governor, First Partner statement on the passing of Gloria Steinem",
+    "link": "https://www.gov.ca.gov/2026/09/03/governor-first-partner-statement-on-the-passing-of-gloria-steinem/",
+    "published": "2026-09-03T19:14:24Z",
+    "summary": "<img alt=\"Blue graphic featuring the official Seal of the Governor of the State of California in white and blue.\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2019/02/GovernorSeal-Blue.png?resize=150,150\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/09/03/governor-first-partner-statement-on-the-passing-of-gloria-steinem/\" rel=\"nofollow\">Source</a></p>"
   },
   {
     "source": "Capitol Weekly",
@@ -267,13 +309,6 @@
   },
   {
     "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA AB2066",
-    "link": "https://legiscan.com/CA/bill/AB2066/2025?utm_campaign=rss&guid=1juH0B8QMhXrT2bfiJkWII",
-    "published": "2026-09-03T04:00:00Z",
-    "summary": "An act to amend Section 1399.849 of the Health and Safety Code, and to amend Section 10965.3 of the Insurance Code, relating to health care coverage.<br />\n<br />\n2026/09/03 Enrolled and presented to the Governor at 4 p.m."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
     "title": "CA AB2247",
     "link": "https://legiscan.com/CA/bill/AB2247/2025?utm_campaign=rss&guid=2fL4nvUdVlJD7GZS6ys04h",
     "published": "2026-09-03T04:00:00Z",
@@ -285,6 +320,13 @@
     "link": "https://legiscan.com/CA/bill/AB2531/2025?utm_campaign=rss&guid=7hVbWeaOZcyOFiLimUdDHh",
     "published": "2026-09-03T04:00:00Z",
     "summary": "An act to amend Sections 127632, 127633, and 127634 of the Health and Safety Code, and to add Section 92 to the Military and Veterans Code, relating to public health.<br />\n<br />\n2026/09/03 Enrolled and presented to the Governor at 4 p.m."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA AB2066",
+    "link": "https://legiscan.com/CA/bill/AB2066/2025?utm_campaign=rss&guid=1juH0B8QMhXrT2bfiJkWII",
+    "published": "2026-09-03T04:00:00Z",
+    "summary": "An act to amend Section 1399.849 of the Health and Safety Code, and to amend Section 10965.3 of the Insurance Code, relating to health care coverage.<br />\n<br />\n2026/09/03 Enrolled and presented to the Governor at 4 p.m."
   },
   {
     "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
@@ -439,13 +481,6 @@
     "link": "http://capitolweekly.net/gaming-the-system-podcast/",
     "published": "2026-08-31T16:39:10Z",
     "summary": "<strong>CAPITOL WEEKLY PODCAST:</strong> A poll from Median Strategies roiled the Los Angeles mayoral race earlier this month, showing Mayor Karen Bass with an 11 point lead over challenger Nithya Raman. The results were cited by several media outlets, and were touted by the Bass campaign before the poll was exposed as fake. Political data expert Paul Mitchell joined us to talk about how junk polls, paid influencers and strategic gaming of prediction markets can distort perceptions about a campaign.<p><strong>Continue reading the full article:</strong> <a href=\"http://capitolweekly.net/gaming-the-system-podcast/\">Capitol Weekly</a></p><span style=\"font-size: 0; color: transparent;\">Original article: http://capitolweekly.net/gaming-the-system-podcast/</span>"
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA AB173",
-    "link": "https://legiscan.com/CA/bill/AB173/2025?utm_campaign=rss&guid=5FjjW1rcuXKPklNes3zXpi",
-    "published": "2026-08-31T04:00:00Z",
-    "summary": "An act to amend Sections 53123.1.5, 53123.2, 53123.3, and 53123.4 of, and to add Sections 53123.7 and 53123.8 to, the Government Code, to amend Sections 1280.3, 32121, and 120956 of, to add Section 130206 to, and to add Chapter 3.5 (commencing with Section 131325) to Part 1 of Division 112 of, the Health and Safety Code, to amend Sections 41030, 41031, 41135, and 41136 of the Revenue and Taxation Code, and to amend Sections 14005.11, 14005.36, 14007.5, 14007.8, 14043.2, 14043.27, 14043.28, 14043.36, 14043.55, 14107.11, 14132.26, and 14184.201 of the Welfare and Institutions Code, relating to health, and making an appropriation therefor, to take effect immediately, bill related to the budget.<br />\n<br />\n2026/08/31 Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 65. Noes 3.)."
   },
   {
     "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
@@ -663,40 +698,5 @@
     "link": "",
     "published": "2026-07-30T14:54:03Z",
     "summary": "<p>Dr. Anthony Fauci’s record is filled with contradictions, shifting science, and institutional arrogance that cost the public dearly. This video walks through the documented lies, the financial conflicts, the lockdown hypocrisy, and why his leadership still poses a danger to public trust in health institutions.</p><p>Takeaways</p><p>• Fauci’s pattern of lies and corruption raised serious questions about public health leadership</p><p>• Arrogance and hypocrisy during COVID lockdowns permanently damaged trust in health officials</p><p>Chapters</p><p>00:00 – Fauci’s Lies and Hearings</p><p>05:13 – Fauci’s Corruption and Arrogance</p><p>06:13 – Arrogance During COVID Lockdowns</p><p>09:01 – Public Health Hypocrisy</p><p>10:49 – Fauci’s Disgrace and Danger</p><p>If this opened your eyes, drop a comment and share it. Subscribe for more unfiltered breakdowns of the people and policies that still shape our lives.</p>"
-  },
-  {
-    "source": "California Democratic Party",
-    "title": "California Democratic Party Announces Endorsements for Statewide, Congressional and State Legislature Candidates",
-    "link": "https://cadem.org/california-democratic-party-announces-endorsements-for-statewide-congressional-and-state-legislature-candidates/",
-    "published": "2026-07-14T16:08:19Z",
-    "summary": "<p>SACRAMENTO, CA – Today, following the certification of the June 2 Primary Election, the California Democratic Party (CADEM) announced the following Statewide, Congressional and State Senate &#38; Assembly candidate endorsements: “Once again, California is leading the charge to take back the House and put an end to the Trump-Republican agenda of chaos and cruelty,” said [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-announces-endorsements-for-statewide-congressional-and-state-legislature-candidates/\">California Democratic Party Announces Endorsements for Statewide, Congressional and State Legislature Candidates</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "California Democratic Party",
-    "title": "California Democratic Party Endorses Xavier Becerra for Governor of California",
-    "link": "https://cadem.org/california-democratic-party-endorses-xavier-becerra-for-governor-of-california/",
-    "published": "2026-07-13T18:52:41Z",
-    "summary": "<p>SACRAMENTO &#8211; Today, following the certification of the June 2 Primary Election, the California Democratic Party (CADEM) has officially endorsed Sec. Xavier Becerra for Governor of California. Becerra emerged from the primary as the top vote-getter among the field of gubernatorial candidates, earning over 2.5 million votes statewide. “California Democrats are proud to endorse Xavier [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-endorses-xavier-becerra-for-governor-of-california/\">California Democratic Party Endorses Xavier Becerra for Governor of California</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "Legislative Analyst's Office: Recent Publications",
-    "title": "The 2011 Realignment of Adult Felony Populations: Results and Key Takeaways",
-    "link": "https://lao.ca.gov/Publications/Detail/5191",
-    "published": "2026-06-30T00:00:00Z",
-    "summary": "In 2011, California shifted responsibility for incarcerating and supervising certain adult felony populations from the state to counties. The state also shifted a portion of tax revenues to counties to cover the additional costs. These changes were part of a larger shift of responsibilities known as the 2011 realignment. Pursuant to Chapter 96 of 2023 (AB 1080, Ta), this report provides information on how various aspects of the realignment of adult felony populations have been implemented and evaluates the results."
-  },
-  {
-    "source": "California Democratic Party",
-    "title": "California Democratic Party Expands “California Fights Forward” Leadership Team with New Political Director Nichole Trujillo Rice",
-    "link": "https://cadem.org/california-democratic-party-expands-california-fights-forward-leadership-team-with-new-political-director-nichole-trujillo-rice/",
-    "published": "2026-06-23T17:54:41Z",
-    "summary": "<p>SACRAMENTO, CA — The California Democratic Party (CADEM) today announced the expansion of its senior staff as Democrats gear up for pivotal midterm elections in 2026. Nichole Trujillo Rice has joined CADEM as Political Director, drawing on nearly two decades of experience as a political strategist, coalition builder, and advocate for working families.&#160; “This year’s [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-expands-california-fights-forward-leadership-team-with-new-political-director-nichole-trujillo-rice/\">California Democratic Party Expands “California Fights Forward” Leadership Team with New Political Director Nichole Trujillo Rice</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB1702",
-    "link": "https://legiscan.com/CA/bill/AB1702/2025?utm_campaign=rss&guid=6ReVyBf7TaavgUZBZt7yG9",
-    "published": "2026-05-14T04:00:00Z",
-    "summary": "An act to amend Section 5011.5 of, and to add Section 5011.8 to, the Public Resources Code, relating to parks.<br />\n<br />\n2026/05/14 In committee: Held under submission."
   }
 ]
