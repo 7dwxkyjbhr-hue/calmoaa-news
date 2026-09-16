@@ -1,31 +1,52 @@
 [
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-09-16T10:23:20Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
-    "published": "2026-09-16T02:00:04Z",
+    "published": "2026-09-16T10:23:20Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-09-16T02:00:03Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-09-16T00:57:32Z",
+    "published": "2026-09-16T10:23:19Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-09-16T00:57:16Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-09-16T10:23:18Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Globe",
+    "title": "Employment Agencies and Counseling",
+    "link": "https://californiaglobe.com/articles/employment-agencies-and-counseling/",
+    "published": "2026-09-16T09:30:19Z",
+    "summary": "Deals with employment agencies, employment counseling, and job listing services act"
+  },
+  {
+    "source": "Public Policy Institute of California",
+    "title": "PPIC Statewide Survey: Californians and Their Government",
+    "link": "https://www.ppic.org/publication/ppic-statewide-survey-californians-and-their-government-september-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ppic-statewide-survey-californians-and-their-government-september-2026",
+    "published": "2026-09-16T04:00:58Z",
+    "summary": "<p><img alt=\"photo - California State Capitol\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2021/09/california-state-capitol-survey-cag.jpg\" width=\"2000\" /></p>Key findings of the PPIC Statewide Survey include: Democrat Xavier Becerra maintains a wide lead over Republican Steve Hilton in the governor’s race. Likely voters are somewhat divided on a billionaire wealth tax initiative, and most oppose requiring a government ID at the polls. Overwhelming majorities of Democrats, Republicans, and independents agree that their ballots are too long."
+  },
+  {
+    "source": "Publication Archive - Public Policy Institute of California",
+    "title": "PPIC Statewide Survey: Californians and Their Government",
+    "link": "https://www.ppic.org/publication/ppic-statewide-survey-californians-and-their-government-september-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ppic-statewide-survey-californians-and-their-government-september-2026",
+    "published": "2026-09-16T04:00:58Z",
+    "summary": "<p><img alt=\"photo - California State Capitol\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2021/09/california-state-capitol-survey-cag.jpg\" width=\"2000\" /></p>Key findings of the PPIC Statewide Survey include: Democrat Xavier Becerra maintains a wide lead over Republican Steve Hilton in the governor’s race. Likely voters are somewhat divided on a billionaire wealth tax initiative, and most oppose requiring a government ID at the polls. Overwhelming majorities of Democrats, Republicans, and independents agree that their ballots are too long."
   },
   {
     "source": "Governor of California",
@@ -105,13 +126,6 @@
     "summary": "The woman had unverified credentials on her person identifying her as Yanet Dowden, a ‘Level II correctional officer,’ with the Arizona Department of Corrections, Rehabilitation &#38; Reentry"
   },
   {
-    "source": "California Globe",
-    "title": "Gavin Newsom has Talarico Moment with Phony Fly Fishing Stunt",
-    "link": "https://californiaglobe.com/fr/gavin-newsom-has-talarico-moment-with-phony-fly-fishing-stunt/",
-    "published": "2026-09-15T19:11:25Z",
-    "summary": "If the boot doesn&#8217;t fit, you probably should not force your foot into it"
-  },
-  {
     "source": "Capitol Weekly",
     "title": "Ancient redwoods, junk bonds and why salmon need a shady place",
     "link": "http://capitolweekly.net/byron-sher/",
@@ -189,6 +203,76 @@
     "summary": "<p>A Marine who credited John Kilmer with saving his life in Korea carried his memory: “I owed him all the years I lived, and I'll never forget.”</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/corpsman-john-kilmer-medal-of-honor/\">Destroyer named for Navy Corpsman who earned Medal of Honor hits milestone</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "25 Years Later | National Disabled Veterans Golf Clinic",
+    "link": "https://www.youtube.com/watch?v=ZbJCh4mp3cc",
+    "published": "2026-09-15T11:33:05Z",
+    "summary": "In this episode, Army Veteran Clifford Lovejoy opens up about navigating disability alone, and why being around fellow Veterans, on the course and off it, is just what he needed. \n\nThe real game is getting through the day to see tomorrow.\n\nThe National Disabled Veterans Golf Clinic (NDVGC) is a week-long adaptive golf program that is presented by the U.S. Department of Veterans Affairs and DAV (Disabled American Veterans). This annual event promotes rehabilitation by instructing Veterans with specific life-changing disabilities in adaptive golf.  In addition to adaptive golf Veterans will be introduced to other adaptive recreational sports.\n\nLearn more: \nhttps://www.veteransgolfclinic.org/\nhttps://department.va.gov/veteran-sports/\n\nwww.va.gov\nwww.dav.org\n\n#VeteransFirst #AdaptiveSports #DAV #GolfClinic #Veterans"
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2294",
+    "link": "https://legiscan.com/CA/bill/AB2294/2025?utm_campaign=rss&guid=474Bi03lZts3Docg4HXIJI",
+    "published": "2026-09-15T04:00:00Z",
+    "summary": "An act to amend Section 135 of the Code of Civil Procedure, and to amend Section 6700 of the Government Code, relating to state government.<br />\n<br />\n2026/09/15 Enrolled and presented to the Governor at 3 p.m."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2787",
+    "link": "https://legiscan.com/CA/bill/AB2787/2025?utm_campaign=rss&guid=mxAKu0UCLQ7wabJTgm7N6",
+    "published": "2026-09-15T04:00:00Z",
+    "summary": "An act to amend Section 675 of the Harbors and Navigation Code, to amend Sections 9853 and 9860 of the Vehicle Code, and to amend Section 10722.4 of the Water Code, relating to public resources.<br />\n<br />\n2026/09/15 Chaptered by Secretary of State - Chapter 222, Statutes of 2026."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2478",
+    "link": "https://legiscan.com/CA/bill/AB2478/2025?utm_campaign=rss&guid=5GpG3bMRkG1V0HzMk9X43q",
+    "published": "2026-09-15T04:00:00Z",
+    "summary": "An act to amend Sections 49069.3, 49076, 56055, and 56155.5 of the Education Code, to amend Sections 6552, 8609, 8704.5, 8708, and 9201 of, and to repeal Section 9203.1 of, the Family Code, to amend Sections 7930.165, 7930.190, and 30029.7 of the Government Code, to amend Sections 1501.1, 1502, 1505, 1506, 1506.1, 1506.5, 1506.9, 1507.25, 1517, 1517.2, 1517.3, 1520, 1520.3, 1522.08, 1522.1, 1522.4, 1522.44, 1523.1, 1524, 1524.01, 1527, 1527.1, 1527.2, 1527.4, 1527.5, 1530.5, 1530.7, 1536, 1536.2, 1538, 1558, 1559.110, 1568.26, and 115725 of, to amend, repeal, and add Section 1522 of, and to repeal Sections 1506.6, 1506.7, 1506.8, and 1517.1 of, the Health and Safety Code, to amend Section 676.7 of the Insurance Code, to amend Sections 11105.2, 11165.7, 11167.5, and 11170 of the Penal Code, to amend Sections 1541 and 1543 of the Probate Code, and to amend Sections 224.1, 291, 293, 294, 295, 309, 319, 361, 361.2, 361.4, 361.45, 362.04, 366.1, 366.3, 366.31, 628, 706.5, 706.6, 727, 727.05, 727.12, 727.4, 827, 4684, 10553.12, 10952.5, 11362, 11363, 11386, 11391, 11400, 11402, 11461, 11461.3, 11461.36, 11461.6, 11462, 11462.01, 11463, 16003.5, 16119, 16120, 16161, 16501.01, 16501.02, 16501.1, 16504.5, 16507.5, 16514, 16519, 16519.3, 16519.501, 16519.502, 16519.51, 16519.52, 16519.53, 16519.54, 16519.55, 16519.555, 16519.56, 16519.57, 16519.6, 16521.6, 16563, 16565, 17710, 17730, 17731, 17736, and 18250 of, to amend the heading of Article 2 (commencing with Section 16519.3) of Chapter 5 of Part 4 of Division 9 of, to amend, repeal, and add Section 16519.5 of, to add Sections 16519.605 and 16519.615 to, and to repeal and add Section 16519.4 of, the Welfare and Institutions Code, relating to foster care.<br />\n<br />\n2026/09/15 Enrolled and presented to the Governor at 3 p.m."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2161",
+    "link": "https://legiscan.com/CA/bill/AB2161/2025?utm_campaign=rss&guid=1N6PSbeMcBx4BDsHSeLbj8",
+    "published": "2026-09-15T04:00:00Z",
+    "summary": "An act to amend Section 14005.69 of the Welfare and Institutions Code, relating to Medi-Cal.<br />\n<br />\n2026/09/15 Chaptered by Secretary of State - Chapter 209, Statutes of 2026."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
+    "title": "CA AB2478",
+    "link": "https://legiscan.com/CA/bill/AB2478/2025?utm_campaign=rss&guid=5GpG3bMRkG1V0HzMk9X43q",
+    "published": "2026-09-15T04:00:00Z",
+    "summary": "An act to amend Sections 49069.3, 49076, 56055, and 56155.5 of the Education Code, to amend Sections 6552, 8609, 8704.5, 8708, and 9201 of, and to repeal Section 9203.1 of, the Family Code, to amend Sections 7930.165, 7930.190, and 30029.7 of the Government Code, to amend Sections 1501.1, 1502, 1505, 1506, 1506.1, 1506.5, 1506.9, 1507.25, 1517, 1517.2, 1517.3, 1520, 1520.3, 1522.08, 1522.1, 1522.4, 1522.44, 1523.1, 1524, 1524.01, 1527, 1527.1, 1527.2, 1527.4, 1527.5, 1530.5, 1530.7, 1536, 1536.2, 1538, 1558, 1559.110, 1568.26, and 115725 of, to amend, repeal, and add Section 1522 of, and to repeal Sections 1506.6, 1506.7, 1506.8, and 1517.1 of, the Health and Safety Code, to amend Section 676.7 of the Insurance Code, to amend Sections 11105.2, 11165.7, 11167.5, and 11170 of the Penal Code, to amend Sections 1541 and 1543 of the Probate Code, and to amend Sections 224.1, 291, 293, 294, 295, 309, 319, 361, 361.2, 361.4, 361.45, 362.04, 366.1, 366.3, 366.31, 628, 706.5, 706.6, 727, 727.05, 727.12, 727.4, 827, 4684, 10553.12, 10952.5, 11362, 11363, 11386, 11391, 11400, 11402, 11461, 11461.3, 11461.36, 11461.6, 11462, 11462.01, 11463, 16003.5, 16119, 16120, 16161, 16501.01, 16501.02, 16501.1, 16504.5, 16507.5, 16514, 16519, 16519.3, 16519.501, 16519.502, 16519.51, 16519.52, 16519.53, 16519.54, 16519.55, 16519.555, 16519.56, 16519.57, 16519.6, 16521.6, 16563, 16565, 17710, 17730, 17731, 17736, and 18250 of, to amend the heading of Article 2 (commencing with Section 16519.3) of Chapter 5 of Part 4 of Division 9 of, to amend, repeal, and add Section 16519.5 of, to add Sections 16519.605 and 16519.615 to, and to repeal and add Section 16519.4 of, the Welfare and Institutions Code, relating to foster care.<br />\n<br />\n2026/09/15 Enrolled and presented to the Governor at 3 p.m."
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA AB2787",
+    "link": "https://legiscan.com/CA/bill/AB2787/2025?utm_campaign=rss&guid=mxAKu0UCLQ7wabJTgm7N6",
+    "published": "2026-09-15T04:00:00Z",
+    "summary": "An act to amend Section 675 of the Harbors and Navigation Code, to amend Sections 9853 and 9860 of the Vehicle Code, and to amend Section 10722.4 of the Water Code, relating to public resources.<br />\n<br />\n2026/09/15 Chaptered by Secretary of State - Chapter 222, Statutes of 2026."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB1999",
+    "link": "https://legiscan.com/CA/bill/AB1999/2025?utm_campaign=rss&guid=1uElN1rNsZsw0ZFnMDyK5f",
+    "published": "2026-09-15T04:00:00Z",
+    "summary": "An act to amend Sections 4825.1, 4826.6, 4827, 4830, 4840.5, 4858, 4858.1, 4858.2, 4900, 4901, 4902, and 4905 of, to add Sections 4846.3, 4846.4, and 4848.2 to, and to repeal Sections 4843.5 and 4844 of, the Business and Professions Code, relating to professions and vocations.<br />\n<br />\n2026/09/15 Chaptered by Secretary of State - Chapter 205, Statutes of 2026."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB2787",
+    "link": "https://legiscan.com/CA/bill/AB2787/2025?utm_campaign=rss&guid=mxAKu0UCLQ7wabJTgm7N6",
+    "published": "2026-09-15T04:00:00Z",
+    "summary": "An act to amend Section 675 of the Harbors and Navigation Code, to amend Sections 9853 and 9860 of the Vehicle Code, and to amend Section 10722.4 of the Water Code, relating to public resources.<br />\n<br />\n2026/09/15 Chaptered by Secretary of State - Chapter 222, Statutes of 2026."
+  },
+  {
+    "source": "LegiScan Search Feed - Military Search",
+    "title": "CA AB1615",
+    "link": "https://legiscan.com/CA/bill/AB1615/2025?utm_campaign=rss&guid=6WIN8MOdd3S9nzevJqTM2s",
+    "published": "2026-09-15T04:00:00Z",
+    "summary": "An act to amend Section 32000 of the Penal Code, relating to firearms.<br />\n<br />\n2026/09/15 Chaptered by Secretary of State - Chapter 198, Statutes of 2026."
+  },
+  {
     "source": "Governor of California",
     "title": "Governor Newsom signs legislation 9.14.2026",
     "link": "https://www.gov.ca.gov/2026/09/14/governor-newsom-signs-legislation-9-14-2026/",
@@ -224,13 +308,6 @@
     "summary": "&#160; The Orange County Power Authority is holding a meeting today at 2PM to act on a recommendation from Director Fred Jung that would increase <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/09/14/an-ocpa-cash-grab-at-todays-meeting/\" title=\"An OCPA Cash Grab at Today&#8217;s Meeting?\">[...]</a>"
   },
   {
-    "source": "The Official United States Marine Corps Public Website News",
-    "title": "No Better Friend: 1st Battalion, 6th Marines Perform Lifesaving Rescue on Southern Border",
-    "link": "https://www.marines.mil/News/News-Display/Article/4600404/no-better-friend-1st-battalion-6th-marines-perform-lifesaving-rescue-on-souther/",
-    "published": "2026-09-14T17:06:39Z",
-    "summary": "A routine detection and monitoring mission along the southern border transitioned into a life-saving<br /> \n<img alt=\"U.S. Marine Corps Lance Cpl. James Brooks, an infantry rifleman, and U.S. Navy Petty Officer 3rd Class Valeria Carmona, a hospital corpsman, both with the 1st Battalion, 6th Marine Regiment, 2nd Marine Division, assigned to Joint Task Force-Southern Border (JTF-SB) in support of Operation Ardent Vanguard, pose for a photo after being awarded the Navy and Marine Corps Achievement Medal near Campo, California, Aug. 15, 2026.  Brooks and Carmona were presented with the award for saving the life of an suspected illegal alien that was suffering from a heat-related illness. U.S. Northern Command is working side-by-side with the Department of Homeland Security and the U.S. Customs and Border Protection within narrowly defined authorities to provide unique military capabilities to protect the territorial integrity of the U.S. southern border. (Dept. of War photo by Sgt. Nathan Hislop)\" src=\"https://media.defense.gov/2026/Sep/14/2003997403/115/75/0/260815-M-QA167-1062.JPG\" /> <br />"
-  },
-  {
     "source": "Capitol Weekly",
     "title": "The Micheli Minute, September 14, 2026",
     "link": "http://capitolweekly.net/the-micheli-minute-september-14-2026/",
@@ -245,34 +322,6 @@
     "summary": "<strong>CAPITOL WEEKLY PODCAST:</strong> We’re joined today by Asm. Josh Lowenthal (D – Long Beach) who spoke with us about his bills, AB 1709 and AB 2 - both signed by the governor last week – to regulate Social Media use by children and to hold tech companies financially liable when they cause harm. We also chat about a bill that did not make it out of the legislature - Senate Bill 1013, an effort to regulate the use of Flock cameras.<p><strong>Continue reading the full article:</strong> <a href=\"http://capitolweekly.net/asm-josh-lowenthal-on-regulating-social-media-use-for-children/\">Capitol Weekly</a></p><span style=\"font-size: 0; color: transparent;\">Original article: http://capitolweekly.net/asm-josh-lowenthal-on-regulating-social-media-use-for-children/</span>"
   },
   {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB1294",
-    "link": "https://legiscan.com/CA/bill/AB1294/2025?utm_campaign=rss&guid=2IhB7YWscmAlBhOmCTD2Ad",
-    "published": "2026-09-14T04:00:00Z",
-    "summary": "An act to amend Section 214 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.<br />\n<br />\n2026/09/14 Enrolled and presented to the Governor at 1:30 p.m."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB1896",
-    "link": "https://legiscan.com/CA/bill/AB1896/2025?utm_campaign=rss&guid=2y7QG76CMwZPhTqp1u5hRx",
-    "published": "2026-09-14T04:00:00Z",
-    "summary": "An act to amend Sections 1029, 1031, 1031.1, 18720.45, and 18935 of, and to add Sections 1025 and 1031.15 to, the Government Code, and to amend Sections 13510.8 and 13681 of the Penal Code, relating to public employment.<br />\n<br />\n2026/09/14 Enrolled and presented to the Governor at 1:30 p.m."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB1896",
-    "link": "https://legiscan.com/CA/bill/AB1896/2025?utm_campaign=rss&guid=2y7QG76CMwZPhTqp1u5hRx",
-    "published": "2026-09-14T04:00:00Z",
-    "summary": "An act to amend Sections 1029, 1031, 1031.1, 18720.45, and 18935 of, and to add Sections 1025 and 1031.15 to, the Government Code, and to amend Sections 13510.8 and 13681 of the Penal Code, relating to public employment.<br />\n<br />\n2026/09/14 Enrolled and presented to the Governor at 1:30 p.m."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB1567",
-    "link": "https://legiscan.com/CA/bill/AB1567/2025?utm_campaign=rss&guid=6FMwzobpjdotfbmSZHnwZS",
-    "published": "2026-09-14T04:00:00Z",
-    "summary": "An act to amend Section 65400 of the Government Code, relating to housing.<br />\n<br />\n2026/09/14 Enrolled and presented to the Governor at 1:30 p.m."
-  },
-  {
     "source": "LegiScan Search Feed - Military Search",
     "title": "CA AB1331",
     "link": "https://legiscan.com/CA/bill/AB1331/2025?utm_campaign=rss&guid=4sYrbULVkh6NvoGMa5vJtQ",
@@ -281,10 +330,10 @@
   },
   {
     "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB2047",
-    "link": "https://legiscan.com/CA/bill/AB2047/2025?utm_campaign=rss&guid=3J1HnjzqNuXUphNn0SZ8nc",
+    "title": "CA AB1567",
+    "link": "https://legiscan.com/CA/bill/AB1567/2025?utm_campaign=rss&guid=6FMwzobpjdotfbmSZHnwZS",
     "published": "2026-09-14T04:00:00Z",
-    "summary": "An act to add Title 21.1 (commencing with Section 3273.631) to Part 4 of Division 3 of the Civil Code, relating to firearms.<br />\n<br />\n2026/09/14 Enrolled and presented to the Governor at 1:30 p.m."
+    "summary": "An act to amend Section 65400 of the Government Code, relating to housing.<br />\n<br />\n2026/09/14 Enrolled and presented to the Governor at 1:30 p.m."
   },
   {
     "source": "The Liberal OC",
@@ -308,27 +357,6 @@
     "summary": "Adding to his impressive record of fraud and misuse of federal funds, President Trump offered voters $5,000 each for their vote for GOP candidates in <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/09/10/trump-midterm-promise-5k-for-your-vote-for-gop-if-they-win/\" title=\"Trump Midterm Promise: $5K for your vote for GOP if they win\">[...]</a>"
   },
   {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA SB133",
-    "link": "https://legiscan.com/CA/bill/SB133/2025?utm_campaign=rss&guid=5CnY49AJ4tnSl3HcC3m2rh",
-    "published": "2026-09-10T04:00:00Z",
-    "summary": "An act to amend Sections 2582, 8281.5, 8320, 8902, 8903, 11800, 12000, 33110, 33110.5, 38100, 41341, 41490, 41585, 42238.022, 44259.4, 44475, 46146.5, 46160, 49507, 52064.5, 52071, 52071.5, 53008.5, 53008.7, 53009, 53009.1, 53025, 54451, 54680, 54682, 54683, 69617, and 76004 of, and to amend and renumber Section 98 of, the Education Code, to amend Section 531 of the Military and Veterans Code, to amend Section 162 of Chapter 44 of the Statutes of 2021, and to amend Section 149 of Chapter 65 of the Statutes of 2026, relating to education finance, and making an appropriation therefor, to take effect immediately, bill related to the budget.<br />\n<br />\n2026/09/10 Enrolled and presented to the Governor at 4 p.m."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2734",
-    "link": "https://legiscan.com/CA/bill/AB2734/2025?utm_campaign=rss&guid=64Aohp5obAT4U3sjCAgni1",
-    "published": "2026-09-10T04:00:00Z",
-    "summary": "An act to amend Section 21191 of the Public Resources Code, and to amend Section 5067 of the Vehicle Code, relating to vehicles.<br />\n<br />\n2026/09/10 Enrolled and presented to the Governor at 3 p.m."
-  },
-  {
-    "source": "LegiScan Search Feed - Veteran Search",
-    "title": "CA AB2796",
-    "link": "https://legiscan.com/CA/bill/AB2796/2025?utm_campaign=rss&guid=2qnqaTUmmNWL2EFodrYwa0",
-    "published": "2026-09-10T04:00:00Z",
-    "summary": "An act to amend Sections 2736, 4606, 6533.5, and 22253.5 of the Business and Professions Code, to amend Section 14502 of the Corporations Code, to amend Sections 33192, 33195.2, 44237, and 45125.1 of the Education Code, to amend Section 8908 of the Family Code, to amend Sections 1300 and 17331 of the Financial Code, to amend Section 725 of the Harbors and Navigation Code, to amend Sections 1522, 1568.09, 1569.17, and 1596.871 of, and to add Section 54933 to, the Health and Safety Code, to amend Sections 11105, 11105.001, 11105.002, 11105.05, and 11105.3 of, to add Section 11105.003 to, and to repeal and add Section 23520 of, the Penal Code, to amend Section 5164 of the Public Resources Code, and to amend Sections 14043.38 and 16519.5 of the Welfare and Institutions Code, relating to criminal history information, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/09/10 Enrolled and presented to the Governor at 3 p.m."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
     "title": "CA AB2796",
     "link": "https://legiscan.com/CA/bill/AB2796/2025?utm_campaign=rss&guid=2qnqaTUmmNWL2EFodrYwa0",
@@ -341,13 +369,6 @@
     "link": "https://legiscan.com/CA/bill/AB2467/2025?utm_campaign=rss&guid=1pbDYH8Iyr8jTMSeg0YBhR",
     "published": "2026-09-10T04:00:00Z",
     "summary": "An act to amend Sections 41020.6, 44258.9, 44320, 45037, 47604.32, 48004, 48204.3, 51461, and 51827 of the Education Code, relating to elementary and secondary education, making an appropriation therefor, and declaring the urgency thereof, to take effect immediately.<br />\n<br />\n2026/09/10 Enrolled and presented to the Governor at 3 p.m."
-  },
-  {
-    "source": "LegiScan Search Feed - Military Search",
-    "title": "CA AB1881",
-    "link": "https://legiscan.com/CA/bill/AB1881/2025?utm_campaign=rss&guid=1RLeVDp3w7lddm7vocrLfE",
-    "published": "2026-09-10T04:00:00Z",
-    "summary": "An act to amend, repeal, and add Section 7930.205 of the Government Code, and to add Chapter 1.79 (commencing with Section 5097.1000) to Division 5 of the Public Resources Code, relating to California Indians.<br />\n<br />\n2026/09/10 Enrolled and presented to the Governor at 3 p.m."
   },
   {
     "source": "CVA News & Media",
@@ -385,6 +406,13 @@
     "summary": "<p><img alt=\"photo - People Lined Up at Polling Place with the US Flag Behind Them\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/08/people-lined-up-at-polling-place-with-the-US-flag-behind-them.jpg\" width=\"2000\" /></p>More eligible Californians are registered to vote today than ever before. How has the state’s electorate changed?"
   },
   {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Department of Labor Resources Help Veterans Build Strong Careers",
+    "link": "https://www.youtube.com/watch?v=yqnFNv3mVr4",
+    "published": "2026-09-09T14:54:37Z",
+    "summary": "Across the country, Veterans are preparing for life after service. Many know that VA helps them transition, but fewer realize the Department of Labor has an entire agency focused on helping Veterans, transitioning service members, and military spouses find meaningful careers.\n\nIn this episode of At the Table, I sat down with Jeremiah Workman, Assistant Secretary of the Department of Labor’s Veterans Employment and Training Service. \n\nWe talked about how DOL programs support Veterans, why skilled trades and defense related careers are such strong fits, and how Veterans can explore opportunities in trucking, manufacturing, and the defense industrial base.\n\nAssistant Secretary Workman explains how programs like the Transition Assistance Program, Jobs for Veterans State Grants, and USERRA protections meet Veterans wherever they are in their journey. \n\nHe also highlights why careers in welding, electrical work, trucking, and other trades provide long term stability and purpose.\n\nVeterans who want to explore trade careers or apprenticeships can visit their nearest American Job Center or browse thousands of opportunities at https:/apprenticeship.gov."
+  },
+  {
     "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
     "title": "CA SB574",
     "link": "https://legiscan.com/CA/bill/SB574/2025?utm_campaign=rss&guid=1CvZ4KUnCBp5PsyBzJpSie",
@@ -413,18 +441,18 @@
     "summary": "An act to add Section 6095.2 to the Business and Professions Code, to amend Section 1431.2 of the Civil Code, to amend Sections 340.1, 340.11, 864, and 1038 of, and to add Section 340.12 to, the Code of Civil Procedure, to amend Sections 41320, 41329.52, and 41329.53 of, and to add Chapter 5 (commencing with Section 14560) to Part 9 of Division 1 of Title 1 of, the Education Code, to add Section 50035 to the Government Code, to add Sections 1526.76, 1534.2, and 1534.3 to the Health and Safety Code, to amend Section 11165.7 of, amend, repeal, and add Section 832.7 of, and to add Section 11054.6 to, the Penal Code, and to add Sections 2203, 16166.5, and 16500.2 to, and to add and repeal Section 16545.5 of, the Welfare and Institutions Code, relating to public entities.<br />\n<br />\n2026/09/08 Enrolled and presented to the Governor at 4 p.m."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Licensure AND (veteran OR Military OR Spouse) Search",
-    "title": "CA AB173",
-    "link": "https://legiscan.com/CA/bill/AB173/2025?utm_campaign=rss&guid=2iPbbg7FSIha6DWv1ZeZav",
-    "published": "2026-09-08T04:00:00Z",
-    "summary": "An act to amend Sections 53123.1.5, 53123.2, 53123.3, and 53123.4 of, and to add Sections 53123.7 and 53123.8 to, the Government Code, to amend Sections 1280.3, 32121, and 120956 of, to add Section 130206 to, and to add Chapter 3.5 (commencing with Section 131325) to Part 1 of Division 112 of, the Health and Safety Code, to amend Sections 41030, 41031, 41135, and 41136 of the Revenue and Taxation Code, and to amend Sections 14005.11, 14005.36, 14007.5, 14007.8, 14043.2, 14043.27, 14043.28, 14043.36, 14043.55, 14107.11, 14132.26, and 14184.201 of the Welfare and Institutions Code, relating to health, and making an appropriation therefor, to take effect immediately, bill related to the budget.<br />\n<br />\n2026/09/08 Enrolled and presented to the Governor at 3:30 p.m."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
     "title": "CA SB1439",
     "link": "https://legiscan.com/CA/bill/SB1439/2025?utm_campaign=rss&guid=57zx4f1e0SkoFTC3UC4kdx",
     "published": "2026-09-04T04:00:00Z",
     "summary": "An act to amend Sections 6508, 17560, 24011, 26802, 26803, 26803.5, 26809, 26831, 26837, 26840.1, 27297.7, 27361.4, 40602, 53651, 54221, 54953.8.6, 54953.8.7, and 66474.02 of the Government Code, and to amend Section 32499.8 of the Health and Safety Code, relating to local government.<br />\n<br />\n2026/09/04 Enrolled and presented to the Governor at 2 p.m."
+  },
+  {
+    "source": "LegiScan Search Feed - Veteran Search",
+    "title": "CA AB2771",
+    "link": "https://legiscan.com/CA/bill/AB2771/2025?utm_campaign=rss&guid=6CfLgTouuMWfU6SuJquijn",
+    "published": "2026-09-03T04:00:00Z",
+    "summary": "An act to amend Sections 94801.5, 94874, 94874.7, 94874.9, 94885, 94885.5, 94885.7, 94886, 94887, 94890, 94891, 94894, 94897, 94902, 94909, 94911, 94912.5, 94913, 94916, 94917, 94918, 94921, 94923, 94925, 94927.5, 94930.5, 94934.5, 94941, 94944, 94944.5, 94944.6, 94948, and 94950 of, and to repeal Section 94900.7 of, the Education Code, relating to private postsecondary education, and making an appropriation therefor.<br />\n<br />\n2026/09/03 Enrolled and presented to the Governor at 4 p.m."
   },
   {
     "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
@@ -448,6 +476,27 @@
     "summary": "<p>Veterans are telling Washington what they want from their health care. A new Mission Roll Call survey of 1,058 veterans found 71% support the Take Care of America’s Veterans Act. Support for some of the bill’s individual priorities is even higher. The survey found 92% of veterans support protecting timely-access standards for VA care. Another [&#8230;]</p>\n<p>The post <a href=\"https://cv4a.org/news-media/what-americas-veterans-want-from-their-health-care/\">What veterans think about the Take Care of America’s Veterans Act</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
   },
   {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Myth Busting Genetic Research with MVP: Translating Data to Impact",
+    "link": "https://www.youtube.com/shorts/dNjqT-Mf5fs",
+    "published": "2026-09-02T19:10:09Z",
+    "summary": "Fact: VA's Million Veteran Program (MVP) is already transforming research into real-world health care. Learn more and join today at https://www.mvp.va.gov or call 866-441-6075."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Myth Busting Genetic Research with MVP: Translating Data to Impact",
+    "link": "https://www.youtube.com/watch?v=Db7LhoqtKt0",
+    "published": "2026-09-02T19:08:41Z",
+    "summary": "Fact: VA's Million Veteran Program (MVP) is already transforming research into real-world health care. Learn more and join today at https://www.mvp.va.gov or call 866-441-6075."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Myth Busting Genetic Research with MVP: Using MVP Data to Study All Health Conditions",
+    "link": "https://www.youtube.com/shorts/35cM4nlskyg",
+    "published": "2026-09-02T19:06:49Z",
+    "summary": "Fact: Researchers at VA's Million Veteran Program (MVP) are using health information from Veteran participants to study health conditions that affect everyone. Learn more and join today at https://www.mvp.va.gov or call 866-441-6075."
+  },
+  {
     "source": "Publication Archive - Public Policy Institute of California",
     "title": "California’s Cash-Based Safety Net",
     "link": "https://www.ppic.org/publication/californias-cash-based-safety-net/?utm_source=rss&utm_medium=rss&utm_campaign=californias-cash-based-safety-net",
@@ -469,13 +518,6 @@
     "summary": "In the United States Marine Corps infantry, the squad leader serves as the link between higher-level guidance and the Marines executing the mission on the ground. While responsible for tactical operations and mission accomplishment, squad leaders also carry the responsibility of developing, mentoring and caring for their Marines.<br /> \n<img alt=\"U.S. Marine Corps Sgt. James Martin, a squad leader with Alpha Company, 1st Battalion, 5th Marine Regiment, Marine Rotational Force – Darwin 26, fires an M4 carbine during a live-fire range as part of a platoon exchange at the Indonesian Marine Corps 9th Battalion near Lampung, Indonesia, Aug. 21, 2026.\" src=\"https://media.defense.gov/2026/Sep/01/2003990378/115/75/0/260821-M-MO098-2049.JPG\" /> <br />"
   },
   {
-    "source": "Public Policy Institute of California",
-    "title": "California Voter and Party Profiles",
-    "link": "https://www.ppic.org/publication/california-voter-and-party-profiles/?utm_source=rss&utm_medium=rss&utm_campaign=california-voter-and-party-profiles",
-    "published": "2026-09-01T16:00:51Z",
-    "summary": "<p><img alt=\"photo - Man at Voting Booth\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2022/08/african-american-man-at-voting-booth.jpg\" width=\"2000\" /></p>About 23 million Californians (85% of eligible adults) are registered to vote. The share of registered voters who are Democrats has fallen slightly within recent years, while the share who are Republicans has seen a slight uptick."
-  },
-  {
     "source": "Publication Archive - Public Policy Institute of California",
     "title": "California Voter and Party Profiles",
     "link": "https://www.ppic.org/publication/california-voter-and-party-profiles/?utm_source=rss&utm_medium=rss&utm_campaign=california-voter-and-party-profiles",
@@ -490,13 +532,6 @@
     "summary": "<p><img alt=\"photo - I Voted Pin\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2022/08/close-up-hands-i-voted-pin.jpg\" width=\"2000\" /></p>Among California’s likely voters—registered voters who cast ballots frequently and are politically engaged—46% report that they are Democrats, while 27% are Republicans, 25% are independents, and 2% are registered with other parties."
   },
   {
-    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
-    "title": "CA AB2787",
-    "link": "https://legiscan.com/CA/bill/AB2787/2025?utm_campaign=rss&guid=34lCg4r3uG8GflwQZqg9Av",
-    "published": "2026-08-31T04:00:00Z",
-    "summary": "An act to amend Section 675 of the Harbors and Navigation Code, to amend Sections 9853 and 9860 of the Vehicle Code, and to amend Section 10722.4 of the Water Code, relating to public resources.<br />\n<br />\n2026/08/31 Enrolled and presented to the Governor at 4 p.m."
-  },
-  {
     "source": "The Official United States Marine Corps Public Website News",
     "title": "5 years later; fallen service members, events of Kabul Evacuation remembered",
     "link": "https://www.marines.mil/News/News-Display/Article/4584911/5-years-later-fallen-service-members-events-of-kabul-evacuation-remembered/",
@@ -504,18 +539,18 @@
     "summary": "\"We landed under the cover of night, stepping into the exact nightmare we had just watched on<br /> \n<img alt=\"Ten battlefield crosses stand in honor of fallen Marines with 2nd Battalion, 1st Marine Regiment, 1st Marine Division, during a memorial ceremony at Prince Sultan Air Base, Kingdom of Saudi Arabia, Sept. 12, 2021.  The ceremony was held to honor the 10 Marines with 2nd Bn., 1st Marines, who were killed in a suicide attack on Aug. 26, 2021, during the U.S. military withdrawal from Afghanistan.\" src=\"https://media.defense.gov/2026/Aug/26/2003988744/115/75/0/210911-M-DY697-1002.JPG\" /> <br />"
   },
   {
-    "source": "Publication Archive - Public Policy Institute of California",
-    "title": "Homelessness and Drug Use in California",
-    "link": "https://www.ppic.org/publication/homelessness-and-drug-use-in-california/?utm_source=rss&utm_medium=rss&utm_campaign=homelessness-and-drug-use-in-california",
-    "published": "2026-08-26T20:01:50Z",
-    "summary": "<p><img alt=\"photo - Green Tent in Front of Church\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/08/green-tent-in-front-of-church.jpg\" width=\"2000\" /></p>In the past decade, California has grappled with growing rates of homelessness and the intertwined issue of serious drug use. Our new report explores trends in homelessness and drug use over time, including the role of local conditions and the impact of criminal justice reforms such as Proposition 47."
-  },
-  {
     "source": "Your Leo Nation",
     "title": "How Flock Cameras Cut Beverly Hills Crime 34%",
     "link": "",
     "published": "2026-08-26T14:00:00Z",
     "summary": "<p>Retired Beverly Hills Police Chief Mark Stainbrook sits down with Your LEO Nation and walks through the system he built after his first night on the job — the night Jacqueline Avant was murdered.<br /></p><p>He covers the constitutional fight over Flock cameras and ALPRs, why public streets are not a privacy zone, and how BHPD combined license-plate readers at every entrance, live cameras, and drones into a military-style command center. Stolen-car recoveries jumped from about 50 a year to more than 200. Arrests rose 22%. Career criminals got a “jail card” warning them: come here to steal, and this technology will find you.<br /></p><p>Stainbrook also tells the story of a suspect tied to four murders in four days whose plate hit coming into the city — officers were on the car in two minutes, recovered the gun, and ballistics linked the killings. He breaks down audits, two-year video retention, supervisor oversight, fewer bad stops, lower liability, and why 600-plus agencies came to study the model.</p>"
+  },
+  {
+    "source": "The Official United States Marine Corps Public Website News",
+    "title": "Crusading for Right' or 'Iron Mike'? The true story of Quantico's iconic statue",
+    "link": "https://www.marines.mil/News/News-Display/Article/4583532/crusading-for-right-or-iron-mike-the-true-story-of-quanticos-iconic-statue/",
+    "published": "2026-08-26T12:00:00Z",
+    "summary": "In the quiet, dust motes of a Parisian sculptor’s studio in 1918, Charles Raphaël Peyre stood face-to-face with the raw reality of the Western Front. Before him stood Pvt. Carl J. Millard — a twice-wounded Marine from the 5th Regiment, sent directly from the hellscape of Chateau-Thierry. Still clad in his mud-caked combat gear and gripping his Springfield rifle, the exhausted private embodied the fierce defiance Peyre had only read about in the front-line dispatches. Peyre knew immediately that this was the stance he had to freeze in bronze.<br /> \n<img alt=\"The “Crusading for Right” statue, also known as “Iron Mike,” stands outside Butler Hall at Marine Corps Base Quantico, Virginia, Aug. 16, 2026. The bronze monument, created in 1918 by French sculptor Charles Raphael Peyre, depicts a World War I U.S. Marine holding an M1903 Springfield rifle. (U.S. Marine Corps photo by Lance Cpl. Lynsee Avila-Ramirez)\" src=\"https://media.defense.gov/2026/Aug/26/2003986926/115/75/0/260814-M-YW408-1004.JPG\" /> <br />"
   },
   {
     "source": "Legislative Analyst's Office: Recent Publications",
@@ -663,40 +698,5 @@
     "link": "https://legiscan.com/CA/bill/AB1702/2025?utm_campaign=rss&guid=6ReVyBf7TaavgUZBZt7yG9",
     "published": "2026-05-14T04:00:00Z",
     "summary": "An act to amend Section 5011.5 of, and to add Section 5011.8 to, the Public Resources Code, relating to parks.<br />\n<br />\n2026/05/14 In committee: Held under submission."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2064",
-    "link": "https://legiscan.com/CA/bill/AB2064/2025?utm_campaign=rss&guid=5FX70IGbiGuc4rRS59jUb5",
-    "published": "2026-05-14T04:00:00Z",
-    "summary": "An act to amend Section 51 of the Civil Code, and to amend Sections 12920, 12921, 12926, 12940, and 12955 of the Government Code, relating to discrimination.<br />\n<br />\n2026/05/14 In committee: Held under submission."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2370",
-    "link": "https://legiscan.com/CA/bill/AB2370/2025?utm_campaign=rss&guid=3gjVfay8bfPPOEgZJONi5T",
-    "published": "2026-05-14T04:00:00Z",
-    "summary": "An act to amend Section 15277 of the Government Code, relating to emergency services.<br />\n<br />\n2026/05/14 In committee: Held under submission."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2590",
-    "link": "https://legiscan.com/CA/bill/AB2590/2025?utm_campaign=rss&guid=2GSBo4ymrDsBBg0kXPJg9r",
-    "published": "2026-05-14T04:00:00Z",
-    "summary": "An act to amend Section 10230.2 of, and to add Division 9.5 (commencing with Section 9975) to, the Public Resources Code, relating to public resources, and making an appropriation therefor.<br />\n<br />\n2026/05/14 In committee: Held under submission."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2016",
-    "link": "https://legiscan.com/CA/bill/AB2016/2025?utm_campaign=rss&guid=338a1glbJmvj3f83LBUwKo",
-    "published": "2026-04-27T04:00:00Z",
-    "summary": "An act to add Section 116365.7 to the Health and Safety Code, relating to water, and making an appropriation therefor.<br />\n<br />\n2026/04/27 In committee: Hearing postponed by committee."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veterans Home\" Search",
-    "title": "CA AB2645",
-    "link": "https://legiscan.com/CA/bill/AB2645/2025?utm_campaign=rss&guid=1Ya8IZvtvRBZB2wo4Elnpg",
-    "published": "2026-04-13T04:00:00Z",
-    "summary": "An act to add Article 3 (commencing with Section 983) to Chapter 6 of Division 4 of the Military and Veterans Code, relating to veterans.<br />\n<br />\n2026/04/13 In committee: Set, first hearing. Hearing canceled at the request of author."
   }
 ]
