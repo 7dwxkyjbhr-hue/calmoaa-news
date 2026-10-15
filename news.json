@@ -1,17 +1,108 @@
 [
   {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-10-15T20:36:38Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
-    "published": "2026-10-15T15:51:32Z",
+    "published": "2026-10-15T20:36:38Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
+    "published": "2026-10-15T20:36:37Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-10-15T15:51:30Z",
+    "published": "2026-10-15T20:36:36Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "CalMatters",
+    "title": "This landmark California brewery was slated for closure: Instead it’s returning to its roots",
+    "link": "https://calmatters.org/economy/2026/10/stone-brewing-new-owners/",
+    "published": "2026-10-15T20:23:07Z",
+    "summary": "<figure><img alt=\"A person enters a fully tinted building with a large garghoul logo at the top.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/10/093026_Prohibition-Brewing_AH_CM_25.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Stone Brewing’s Escondido site was one of many California breweries scheduled to close. Now, its original owners will revive it under a new name."
+  },
+  {
+    "source": "California Globe",
+    "title": "San Diego County Paid $30 Million for Two Jail Deaths: Who Answers for the Next One?",
+    "link": "https://californiaglobe.com/fr/san-diego-county-paid-30-million-for-two-jail-deaths-who-answers-for-the-next-one/",
+    "published": "2026-10-15T20:05:16Z",
+    "summary": "Settlements land on taxpayers, but no public ledger ties each payout to a fix"
+  },
+  {
+    "source": "California Globe",
+    "title": "‘No Kings’ Organizers Turn To Early Voting In Latest Bid For Arizona Mobilization",
+    "link": "https://californiaglobe.com/fr/no-kings-organizers-turn-to-early-voting-in-latest-bid-for-arizona-mobilization/",
+    "published": "2026-10-15T19:29:14Z",
+    "summary": "At least 30 Arizona events are planned for Oct. 17 as organizers emphasize early voting ahead of the midterm election— ‘not an occasion for political rhetoric’"
+  },
+  {
+    "source": "Governor of California",
+    "title": "Governor Newsom responds to unfounded Trump lawsuit that is desperate attempt to suppress California voters less than 3 weeks before election",
+    "link": "https://www.gov.ca.gov/2026/10/15/governor-newsom-responds-to-unfounded-trump-lawsuit-that-is-desperate-attempt-to-suppress-california-voters-less-than-3-weeks-before-election/",
+    "published": "2026-10-15T18:32:43Z",
+    "summary": "<img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2026/10/Governor-Newsom-responds-to-unfounded-Trump-lawsuit-that-is-desperate-attempt-to-suppress-California-voters-less-than-3-weeks-before-election-SEO-GFX-150x150.png\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/10/15/governor-newsom-responds-to-unfounded-trump-lawsuit-that-is-desperate-attempt-to-suppress-california-voters-less-than-3-weeks-before-election/\" rel=\"nofollow\">Source</a></p>"
+  },
+  {
+    "source": "California Globe",
+    "title": "What Are Some Unique Aspects of the California Rulemaking Process?",
+    "link": "https://californiaglobe.com/articles/what-are-some-unique-aspects-of-the-california-rulemaking-process/",
+    "published": "2026-10-15T17:22:11Z",
+    "summary": "The process stands out due to strict independent review standards, public transparency rules, and unique economic impact thresholds"
+  },
+  {
+    "source": "Governor of California",
+    "title": "Future of aerospace blasts off in the Golden State, as Governor Newsom visits Space Beach",
+    "link": "https://www.gov.ca.gov/2026/10/15/future-of-aerospace-blasts-off-in-the-golden-state-as-governor-newsom-visits-space-beach/",
+    "published": "2026-10-15T17:01:04Z",
+    "summary": "<img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2026/10/6P1A0074-copy-1-150x150.png\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/10/15/future-of-aerospace-blasts-off-in-the-golden-state-as-governor-newsom-visits-space-beach/\" rel=\"nofollow\">Source</a></p>"
+  },
+  {
+    "source": "Task & Purpose",
+    "title": "The Army’s barracks plan hinges on cheaper buildings with shorter lifespans",
+    "link": "https://taskandpurpose.com/news/army-barracks-repair-by-replace/",
+    "published": "2026-10-15T16:24:45Z",
+    "summary": "<p>The Army wants to build cheaper barracks they can easily replace, but that has raised concerns that soldiers will end up in buildings that are just going to fall apart faster.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/army-barracks-repair-by-replace/\">The Army&#8217;s barracks plan hinges on cheaper buildings with shorter lifespans</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+  },
+  {
+    "source": "CalMatters",
+    "title": "Información para los pacientes: Estos son los mejores consejos sobre cómo optar por no compartir tus datos",
+    "link": "https://calmatters.org/calmatters-en-espanol/2026/10/tips-para-no-compartir-dayos-pacientes/",
+    "published": "2026-10-15T16:14:35Z",
+    "summary": "<figure><img alt=\"Illustration of a patient standing in the middle of a maze which spells out the words &quot;opt out&quot;; there are multiple signs pointing to different directions with written phrases like &quot;call compliance,&quot; &quot;contact medical records,&quot; &quot;visit notary,&quot; and &quot;mail letter&quot;\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/10/101326-OPT-OUT-SIDEBAR-GH-CM.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>Aunque se les informa a los pacientes que pueden optar por no participar, los profesionales médicos a menudo no les dan instrucciones sobre cómo hacerlo. Para los pacientes interesados en optar por no participar, aquí les presento mis mejores consejos para comenzar."
+  },
+  {
+    "source": "CalMatters",
+    "title": "MyChart y un importante hospital me dijeron que podía optar por no compartir mis datos de salud. Pero no me lo pusieron fácil",
+    "link": "https://calmatters.org/calmatters-en-espanol/2026/10/mychart-datos-salud-privacidad/",
+    "published": "2026-10-15T16:03:06Z",
+    "summary": "<figure><img alt=\"Illustration of a patient standing in the middle of a maze which spells out the words &quot;opt out&quot;; there are multiple signs pointing to different directions with written phrases like &quot;call compliance,&quot; &quot;contact medical records,&quot; &quot;visit notary,&quot; and &quot;mail letter&quot;\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/10/101326-OPT-OUT-GH-CM.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Mi periplo incluyó un notario, un hospital que no respeta sus propias políticas y empleados que me dieron información errónea."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "VA's National Center for PTSD Website",
+    "link": "https://www.youtube.com/watch?v=ZIBq9rztNQM",
+    "published": "2026-10-15T15:51:56Z",
+    "summary": "Introduction to the National Center for PTSD website, highlighting research on PTSD, education on how to diagnose and treat PTSD, and offering options for family, friends and clinicians who help Veteran's dealing with trauma."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "VA's National Center for PTSD Website (AD version)",
+    "link": "https://www.youtube.com/watch?v=sY8Wtr18Exs",
+    "published": "2026-10-15T15:50:16Z",
+    "summary": "Introduction to the National Center for PTSD website, highlighting research on PTSD, education on how to diagnose and treat PTSD, and offering options for family, friends and clinicians who help Veteran's dealing with trauma."
   },
   {
     "source": "Task & Purpose",
@@ -49,13 +140,6 @@
     "summary": "Frank Lloyd Wright is remembered as one of the greatest architects in American history. But there's a lesser-known chapter of his legacy — one that begins with a paralyzed Navy Veteran, a VA grant, and a house in Rockford, Illinois.\n\nAfter World War II, the GI Bill helped nearly a million Veterans become homeowners. But for Veterans with spinal cord injuries or other severe disabilities, the postwar housing market remained out of reach. Many stayed in VA and military hospitals simply because no accessible housing existed for them.\n\nCongress acted in 1948, creating the Specially Adapted Housing program — a grant designed to help Veterans with severe disabilities build or modify homes that fit their needs. Within nine years, the program reached nearly 90 percent of eligible Veterans, helping about 6,500 men from World War II and the Korean War live independently.\nOne of them was Kenneth Laurent. After surgery to remove a spinal tumor left him paralyzed, Laurent used his VA grant to commission a home from Frank Lloyd Wright — extra-wide doorways, specially designed cabinetry, and features that put function and dignity at the center of the design.\n\nLaurent later said the home helped him focus on what he could do, not what he couldn't. The house became a lifelong home, a place to raise a family, and today, a museum open to the public.\n\nSince 1948, the Specially Adapted Housing program has helped nearly 50,000 Veterans live independently.\n\nThat's not just architecture. That's VA history.\n\n🎖️ This video is produced by the U.S. Department of Veterans Affairs.\n📌 Learn more about the VA Specially Adapted Housing program: https://www.va.gov/housing-assistance/disability-housing-grants\n\n#VA #history #FrankLloydWright #DisabledVeterans #GIBill #accessibility"
   },
   {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "The Oscar-Winning Film That Showed the Real Cost of Coming Home",
-    "link": "https://www.youtube.com/watch?v=5wn9SsAP9aU",
-    "published": "2026-10-15T14:20:18Z",
-    "summary": "In 1946, 16 million Americans were trading their uniforms for civilian life — and one Hollywood film was paying attention.\n\nThe Best Years of Our Lives followed three Veterans navigating the realities of returning home: post-traumatic stress, fractured relationships, job struggles, and the quiet identity crisis that no victory parade could fix. It wasn't just a movie. It was a mirror held up to a nation.\n\nThe film starred Harold Russell, a real Army Veteran who had lost both hands in a wartime training accident. His performance earned him two Academy Awards for the same role — something that has never happened since.\n\nThe Best Years of Our Lives became the highest-grossing film of 1946, won eight Oscars, and caught the attention of General Omar Bradley, then head of the VA, who screened it for his staff and personally thanked the producer.\n\nDecades later, it still resonates — because coming home isn't the end of a Veteran's story. It's the beginning of a new one.\n\n🎖️ This video is produced by the U.S. Department of Veterans Affairs.\n📌 Learn more about VA resources and services: https://www.va.gov/\n\n#Veterans #VA history, #WWII #Oscars"
-  },
-  {
     "source": "California Globe",
     "title": "Ninth Circuit Rebuke: Federal Appeals Court Strikes Down California ‘No Vigilantes Act’ as Unconstitutional",
     "link": "https://californiaglobe.com/fr/ninth-circuit-rebuke-strikes-down-california-no-vigilantes-act-as-unconstitutional/",
@@ -70,25 +154,11 @@
     "summary": "As the only statewide race pitting two Democrats against each other, the contest for insurance commissioner offers more than just election-night drama among a slate of otherwise predictable constitutional officer campaigns. It arguably serves as something of a proxy fight for the soul of the California Democratic Party.  <p><strong>Continue reading the full article:</strong> <a href=\"http://capitolweekly.net/why-the-insurance-commissioner-race-is-about-more-than-insurance/\">Capitol Weekly</a></p><span style=\"font-size: 0; color: transparent;\">Original article: http://capitolweekly.net/why-the-insurance-commissioner-race-is-about-more-than-insurance/</span>"
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-10-15T13:57:17Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "CalMatters",
     "title": "Gavin Newsom’s 24/7 social media machine",
     "link": "https://calmatters.org/newsletter/newsom-new-media-posting/",
     "published": "2026-10-15T13:00:00Z",
     "summary": "<figure><img alt=\"Gov. Gavin Newsom speaks at a podium between American and California state flags, seen through the monitor of a television camera during a press conference. The camera equipment is silhouetted in the foreground.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/10/051425-MayBudgetRevise-FG-CM-09.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>These days you can find Gov. Gavin Newsom on just about any media platform.&#160; With less than three months until he finishes his final term as California governor, you can catch Newsom on X picking fights with right-wing media, posting on Substack and interviewing guests on his podcast.&#160; As a potential 2028 presidential hopeful, he’s [&#8230;]"
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-10-15T12:57:46Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "California Political Review",
@@ -103,27 +173,6 @@
     "link": "https://calmatters.org/commentary/2026/10/california-ballot-propositions-tax-spending-war/",
     "published": "2026-10-15T12:00:00Z",
     "summary": "<figure><img alt=\"A person watches as an election worker with a pink button up blouse inserts a white envelope into the slot of a gray ballot box.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/06/060226_Primary-Election-Fresno_LV_CM_01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Until Proposition 13, California voters let elected officials decide taxes and spending options. Now, 48 years later, money matters dominate the ballot box."
-  },
-  {
-    "source": "CalMatters",
-    "title": "Inside Gavin Newsom’s taxpayer-funded team that never stops posting",
-    "link": "https://calmatters.org/politics/2026/10/gavin-newsom-communications-operation/",
-    "published": "2026-10-15T12:00:00Z",
-    "summary": "<figure><img alt=\"Gov. Gavin Newsom speaks with his hands extended during a press conference, surrounded by elected officials and supporters holding signs reading “Defend Democracy” and “Election Rigging Response Act.” Cameras and reporters fill the foreground.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/10/081425-Redistricting-Rally-TS-CM-23.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>Gavin Newsom is preparing to leave office as one of the Democrats’ most prolific communicators. He’s transformed the governor’s press shop into a content-generating media operation."
-  },
-  {
-    "source": "CalMatters",
-    "title": "Should California taxpayers chip in to fund political campaigns? Prop. 4 lets you decide",
-    "link": "https://calmatters.org/politics/2026/10/california-proposition-4-explainer/",
-    "published": "2026-10-15T12:00:00Z",
-    "summary": "<figure><img alt=\"A group of young supporters gathers around California gubernatorial candidate Tom Steyer for a selfie outdoors beneath a tree. Two supporters hold campaign signs reading “Tom Steyer for Governor,” while a woman in the foreground raises her phone to take the photo.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/10/060126-Tom-Steyer-Campaign-GETTY-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Prop. 4 would lift a ban that prohibits state and most local candidates from using public funding for their political campaigns. Proponents argue the mechanism helps more candidates run for office, but opponents are skeptical."
-  },
-  {
-    "source": "CalMatters",
-    "title": "Friends who’ve fallen out feud during gritty, final LA mayoral debate",
-    "link": "https://calmatters.org/commentary/2026/10/la-mayoral-debate-friends-feud/",
-    "published": "2026-10-15T12:00:00Z",
-    "summary": "<figure><img alt=\"A group of five people dressed in business attire sits around a round table conducting a debate inside a news studio, with studio lights hanging above them from the ceiling\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/10/101426-Mayoral-Debate-ET-Getty-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Mayor Karen Bass, who’s fallen behind in recent polls, went on the offensive against City Councilmember Nithya Raman, a supporter-turned-challenger."
   },
   {
     "source": "California Globe",
@@ -144,21 +193,7 @@
     "title": "California’s economic dominance under Governor Newsom",
     "link": "https://www.gov.ca.gov/2026/10/14/californias-economic-dominance-under-governor-newsom/",
     "published": "2026-10-14T22:25:37Z",
-    "summary": ""
-  },
-  {
-    "source": "California Globe",
-    "title": "The Man Who Hasn’t Paid Federal Income Tax Since 1993",
-    "link": "https://californiaglobe.com/fr/the-man-who-hasnt-paid-federal-income-tax-since-1993/",
-    "published": "2026-10-14T22:00:14Z",
-    "summary": "We have created a society in which asking a basic question about one of government&#8217;s greatest powers can itself become taboo"
-  },
-  {
-    "source": "California Globe",
-    "title": "Google Challenges LVMPD Reverse Keyword Warrant as ‘Illegal General Warrant’ in Homicide Probe",
-    "link": "https://californiaglobe.com/fr/google-challenges-lvmpd-reverse-keyword-warrant-as-illegal-general-warrant-in-homicide-probe/",
-    "published": "2026-10-14T21:36:55Z",
-    "summary": "Reverse keyword warrant sparks constitutional fight over private searches in Nevada court"
+    "summary": "<img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2026/10/85522f7d-8aaf-399b-cb84-03f91f033ae0-150x150.jpg\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/10/14/californias-economic-dominance-under-governor-newsom/\" rel=\"nofollow\">Source</a></p>"
   },
   {
     "source": "Task & Purpose",
@@ -168,25 +203,11 @@
     "summary": "<p>The team of five Army Rangers named Best Squad this week included experienced soldiers and one so new he had yet to earn a Ranger tab.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/army-best-squad-rangers/\">Youngest soldier in Army’s Best Squad wanted to win ‘with the guys to my left and right’</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "California Globe",
-    "title": "A Unique Aspect of California Legislative Drafting: The Digest",
-    "link": "https://californiaglobe.com/articles/a-unique-aspect-of-california-legislative-drafting-the-digest/",
-    "published": "2026-10-14T21:00:15Z",
-    "summary": "The Digest has a structured format because it always follows a strict layout"
-  },
-  {
     "source": "Publication Archive - Public Policy Institute of California",
     "title": "Participation in California Prison Programs amid and after the Pandemic",
     "link": "https://www.ppic.org/publication/participation-in-california-prison-programs-amid-and-after-the-pandemic/?utm_source=rss&utm_medium=rss&utm_campaign=participation-in-california-prison-programs-amid-and-after-the-pandemic",
     "published": "2026-10-14T20:23:00Z",
     "summary": "<p><img alt=\"photo - Group of Young Adult Men in Prison Uniforms Studying on Laptops in Classroom\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1333\" src=\"https://www.ppic.org/wp-content/uploads/2026/09/group-of-young-adult-men-in-prison-uniforms-studying-on-laptops-in-classroom.jpg\" width=\"2000\" /></p>Prison programs for education, employment, and behavioral health changed amid widespread pandemic disruptions, and participation rates fell. In this report, we consider the reasons behind persistently low participation and suggest strategies for improving rates, especially among people who need the programs most."
-  },
-  {
-    "source": "Governor of California",
-    "title": "Governor Newsom directs early, proactive steps to protect California communities and strengthen local fire response ahead of dangerous Santa Ana winds and Red Flag Warnings",
-    "link": "https://www.gov.ca.gov/2026/10/14/governor-newsom-directs-early-proactive-steps-to-protect-california-communities-and-strengthen-local-fire-response-ahead-of-dangerous-santa-ana-winds-and-red-flag-warnings/",
-    "published": "2026-10-14T20:15:51Z",
-    "summary": "<img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2026/10/Santa-Ana-Winds-Prepositioning-150x150.png\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/10/14/governor-newsom-directs-early-proactive-steps-to-protect-california-communities-and-strengthen-local-fire-response-ahead-of-dangerous-santa-ana-winds-and-red-flag-warnings/\" rel=\"nofollow\">Source</a></p>"
   },
   {
     "source": "Publication Archive - Public Policy Institute of California",
@@ -215,13 +236,6 @@
     "link": "https://taskandpurpose.com/news/how-army-combat-training-centers-changing/",
     "published": "2026-10-14T16:17:21Z",
     "summary": "<p>In Germany, skies fill with thousands of drones, and soldiers in Hawaii and Alaska are likely to see changes as the Army’s training centers adapt.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/how-army-combat-training-centers-changing/\">How the Army’s training ‘crucible’ bases are changing</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
-    "source": "Governor of California",
-    "title": "Look for the Label: Governor Newsom visits Central Valley, highlights state’s manufacturing might with new Made in California program",
-    "link": "https://www.gov.ca.gov/2026/10/14/look-for-the-label-governor-newsom-visits-central-valley-highlights-states-manufacturing-might-with-new-made-in-california-program/",
-    "published": "2026-10-14T16:01:49Z",
-    "summary": "<img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.gov.ca.gov/wp-content/uploads/2026/10/6P1A9660-150x150.jpg\" width=\"150\" />\n<p><a href=\"https://www.gov.ca.gov/2026/10/14/look-for-the-label-governor-newsom-visits-central-valley-highlights-states-manufacturing-might-with-new-made-in-california-program/\" rel=\"nofollow\">Source</a></p>"
   },
   {
     "source": "California Political Review",
@@ -257,13 +271,6 @@
     "link": "http://capitolweekly.net/will-prediction-markets-spark-new-war-with-casino-tribes/",
     "published": "2026-10-13T14:30:37Z",
     "summary": "As late as April 2025, the leaders of DraftKings and FanDuel effectively bent the knee to gaming tribes, appearing on stage with one of the tribe’s most outspoken advocates and declaring that sports betting wouldn’t happen in California without the tribes’ cooperation. Oh, how the sands have shifted since then.<p><strong>Continue reading the full article:</strong> <a href=\"http://capitolweekly.net/will-prediction-markets-spark-new-war-with-casino-tribes/\">Capitol Weekly</a></p><span style=\"font-size: 0; color: transparent;\">Original article: http://capitolweekly.net/will-prediction-markets-spark-new-war-with-casino-tribes/</span>"
-  },
-  {
-    "source": "Task & Purpose",
-    "title": "Eighth Army awarded South Korean Presidential Unit Citation once again",
-    "link": "https://taskandpurpose.com/news/eighth-army-south-korea-presidential-unit-citation/",
-    "published": "2026-10-13T13:46:53Z",
-    "summary": "<p>The Eighth Army received South Korea’s highest military honor weeks after joint exercises on the peninsula were cut short.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/eighth-army-south-korea-presidential-unit-citation/\">Eighth Army awarded South Korean Presidential Unit Citation once again</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
     "source": "California Political Review",
@@ -348,13 +355,6 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4623477/26th-meu-forms-complete-magtf-ahead-of-kearsarge-arg-deployment/",
     "published": "2026-10-09T18:28:57Z",
     "summary": "The 26th Marine Expeditionary Unit completed its composite Sept. 28, bringing together its command, ground, aviation and logistics combat elements as a Marine Air-Ground Task Force ahead of its upcoming deployment with the Kearsarge Amphibious Ready Group.<br /> \n<img alt=\"U.S. Marines assigned to the Maritime Raid Force and Multi-Domain Task Unit, 26th Marine Expeditionary Unit, patrol through a simulated danger zone during the Maritime Raid Force Interoperability Course, Stone Bay, North Carolina, Sept. 28, 2026. The Maritime Raid Force Interoperability Course focuses on fostering interoperability between the 26th MEU’s MRF and MDTU while conducting target development, reconnaissance, surveillance, and limited scale raid operations to prepare for the 26th MEU’s upcoming deployment. (U.S. Marine Corps photo by Cpl. Matthew Williams)\" src=\"https://media.defense.gov/2026/Oct/09/2004014007/115/75/0/260928-M-DQ946-1394.JPG\" /> <br />"
-  },
-  {
-    "source": "U.S. Dept. of Veterans Affairs",
-    "title": "Federal EHR Transformation: Real Stories, Real Impact for Veterans and Clinicians",
-    "link": "https://www.youtube.com/watch?v=rgZ-br3jGTU",
-    "published": "2026-10-09T16:43:06Z",
-    "summary": "Discover what the Federal EHR transformation means for Veterans and the clinicians who care for them. VA leaders share how the shift from paper records to a modern, integrated electronic health record is improving patient safety, streamlining care coordination, and preparing VA to meet the needs of an ever-evolving patient population. This once-in-a-lifetime transformation represents a powerful step forward in how VA delivers healthcare to Veterans — today and into the future.\n\nLearn more about EHR Modernization at VA: https://digital.va.gov/ehr-modernization/"
   },
   {
     "source": "California Democratic Party",
