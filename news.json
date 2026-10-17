@@ -3,29 +3,36 @@
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
-    "published": "2026-10-17T01:50:34Z",
+    "published": "2026-10-17T09:48:43Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-10-17T01:50:33Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-10-17T01:50:33Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-10-17T01:50:31Z",
+    "published": "2026-10-17T09:48:42Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Globe",
+    "title": "Sales Tax Presumptions",
+    "link": "https://californiaglobe.com/articles/sales-tax-presumptions/",
+    "published": "2026-10-17T09:30:04Z",
+    "summary": "Deals with presumptions and resale certificates under the California Sales Tax Law"
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
+    "published": "2026-10-17T08:57:13Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
+    "published": "2026-10-17T07:57:22Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "Governor of California",
@@ -154,13 +161,6 @@
     "summary": "Gavin Newsom has doubled his communications staff since 2020"
   },
   {
-    "source": "California Globe",
-    "title": "California Voters Deserve Elections They Can Trust, and Verify",
-    "link": "https://californiaglobe.com/fr/california-voters-deserve-elections-they-can-trust-and-verify/",
-    "published": "2026-10-16T15:00:19Z",
-    "summary": "Election officials telling us that ballots were accurately counted is not enough"
-  },
-  {
     "source": "CalMatters",
     "title": "Prop. 1 would generate billions for new housing. Here’s how it would be spent",
     "link": "https://calmatters.org/newsletter/prop-1-spending/",
@@ -201,6 +201,41 @@
     "link": "https://taskandpurpose.com/news/iran-war-purple-hearts/",
     "published": "2026-10-15T20:40:16Z",
     "summary": "<p>Over 180 of the awards for those injured in combat have gone to soldiers in the Army and Army Reserve, with 11 presented posthumously.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/iran-war-purple-hearts/\">Over 200 troops have been awarded Purple Hearts during the Iran war</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "VA's National Center for PTSD Website",
+    "link": "https://www.youtube.com/watch?v=ZIBq9rztNQM",
+    "published": "2026-10-15T15:51:56Z",
+    "summary": "Introduction to the National Center for PTSD website, highlighting research on PTSD, education on how to diagnose and treat PTSD, and offering options for family, friends and clinicians who help Veteran's dealing with trauma."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "VA's National Center for PTSD Website (AD version)",
+    "link": "https://www.youtube.com/watch?v=sY8Wtr18Exs",
+    "published": "2026-10-15T15:50:16Z",
+    "summary": "Introduction to the National Center for PTSD website, highlighting research on PTSD, education on how to diagnose and treat PTSD, and offering options for family, friends and clinicians who help Veteran's dealing with trauma."
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "How VA Built the Gold Standard for Blind Veteran Rehabilitation",
+    "link": "https://www.youtube.com/watch?v=qfS4UJlCXEA",
+    "published": "2026-10-15T14:29:08Z",
+    "summary": "On July 4, 1948, while most Americans were marking Independence Day, something historic happened just outside Chicago with almost no fanfare. The first trainee was admitted to the Central Blind Rehabilitation Center at the Edward Hines, Jr. VA Hospital — and a new era in care for blinded Veterans quietly began.\n\nBut the road to that moment was anything but quick.\n\nFederal care for blinded Veterans stretched back to 1917, when Army General Hospital Number Seven near Baltimore offered dozens of vocational classes — from woodworking to beekeeping. What it didn't offer was training on how to move through the world without sight. The program closed by 1925.\n\nWorld War II changed the scale of the problem. About 1,700 service members were completely blinded, and more than 20,000 experienced some degree of vision loss. The need was undeniable.\n\nOut of that moment came one of the most lasting innovations in rehabilitation history: the long cane technique, developed by Army Sergeant Richard Hoover. His lighter, longer cane — combined with a new method for detecting obstacles through sound and touch — became the global standard and remains so today.\n\nBy 1948, VA had taken full responsibility for blind rehabilitation, staffing Hines with experienced specialists, including Russell C. Williams, a Veteran blinded at Normandy who became the center's first chief. Sighted staff trained blindfolded. Orientation and mobility weren't afterthoughts — they were the foundation.\n\nFor nearly two decades, Hines stood alone. Today, VA operates thirteen blind rehabilitation centers and more than fifty outpatient clinics, serving tens of thousands of Veterans every year.\n\nNot bad for a story that started quietly on a holiday.\n\n🎖️ This video is produced by the U.S. Department of Veterans Affairs.\n📌 Learn more about VA blind rehabilitation services: https://www.va.gov/blindrehab\n\n#VA #BlindRehab #Veterans #WWII"
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "$8 a Month: The Origins of VA Disability Compensation",
+    "link": "https://www.youtube.com/watch?v=86Fpd4oNx3A",
+    "published": "2026-10-15T14:26:13Z",
+    "summary": "More than 350,000 Union soldiers never came home from the Civil War. Nearly 300,000 more came home wounded — and tens of thousands returned missing limbs. The question facing Congress was as urgent then as it is now: what does the country owe the people who served?\nThe answer, imperfect and evolving, started with the pension laws of the 1860s. A fully disabled private received $8 a month — a rate unchanged since 1816. Compensation varied by rank, injury, and a doctor's judgment of how much a Veteran could still earn through physical labor.\n\nThe system was well-intentioned, but complicated, inconsistent, and slow to adapt.\n\nOver the following decades, Congress added new injury categories, fixed payment rates for severe disabilities, and extended the same laws to Veterans of the Spanish-American War. But the patchwork was showing.\nWorld War I forced a reset. Congress scrapped the old approach and introduced a printed schedule of disability ratings — a structured, standardized method for calculating compensation. That decision became the foundation of the VA disability system still in use today.\n\nThe rules have changed. The technology has changed. But the core obligation — to recognize and compensate those harmed in service — traces a direct line back to the Civil War.\n\n🎖️ This video is produced by the U.S. Department of Veterans Affairs.\n📌 Learn more about VA disability compensation: https://www.va.gov/disability\n\n#VA #disability #CivilWar #pension #history #UnionArmy #WWI"
+  },
+  {
+    "source": "U.S. Dept. of Veterans Affairs",
+    "title": "Frank Lloyd Wright Designed a Home for a Disabled Veteran",
+    "link": "https://www.youtube.com/watch?v=1fYdDOAf9q4",
+    "published": "2026-10-15T14:22:50Z",
+    "summary": "Frank Lloyd Wright is remembered as one of the greatest architects in American history. But there's a lesser-known chapter of his legacy — one that begins with a paralyzed Navy Veteran, a VA grant, and a house in Rockford, Illinois.\n\nAfter World War II, the GI Bill helped nearly a million Veterans become homeowners. But for Veterans with spinal cord injuries or other severe disabilities, the postwar housing market remained out of reach. Many stayed in VA and military hospitals simply because no accessible housing existed for them.\n\nCongress acted in 1948, creating the Specially Adapted Housing program — a grant designed to help Veterans with severe disabilities build or modify homes that fit their needs. Within nine years, the program reached nearly 90 percent of eligible Veterans, helping about 6,500 men from World War II and the Korean War live independently.\nOne of them was Kenneth Laurent. After surgery to remove a spinal tumor left him paralyzed, Laurent used his VA grant to commission a home from Frank Lloyd Wright — extra-wide doorways, specially designed cabinetry, and features that put function and dignity at the center of the design.\n\nLaurent later said the home helped him focus on what he could do, not what he couldn't. The house became a lifelong home, a place to raise a family, and today, a museum open to the public.\n\nSince 1948, the Specially Adapted Housing program has helped nearly 50,000 Veterans live independently.\n\nThat's not just architecture. That's VA history.\n\n🎖️ This video is produced by the U.S. Department of Veterans Affairs.\n📌 Learn more about the VA Specially Adapted Housing program: https://www.va.gov/housing-assistance/disability-housing-grants\n\n#VA #history #FrankLloydWright #DisabledVeterans #GIBill #accessibility"
   },
   {
     "source": "Capitol Weekly",
@@ -257,13 +292,6 @@
     "link": "https://capoliticalreview.com/2026/10/14/record-breaking-hurricane-activity-in-pacific-ocean-is-battering-the-california-coast/",
     "published": "2026-10-14T12:00:06Z",
     "summary": "<p>Pacific storms have generated more accumulated cyclone energy this season than ever recorded, battering Southern California beaches, homes and roads and reshaping the coastline. El Niño and warming ocean waters are helping fuel the activity, while an exceptionally strong El Niño could bring more coastal erosion, flooding and damage this winter — especially during high [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/10/14/record-breaking-hurricane-activity-in-pacific-ocean-is-battering-the-california-coast/\">Read More and Comment: Record-breaking hurricane activity in Pacific Ocean is battering the California coast</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/10/14/record-breaking-hurricane-activity-in-pacific-ocean-is-battering-the-california-coast/\">Record-breaking hurricane activity in Pacific Ocean is battering the California coast</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
-  },
-  {
-    "source": "The Auditor",
-    "title": "Adaptive Auditing for Supply Chains",
-    "link": "https://www.theauditoronline.com/adaptive-auditing-for-supply-chains/",
-    "published": "2026-10-13T21:34:21Z",
-    "summary": "<p>By Suneel Kumar The traditional oversight of supply chains relies heavily on calendar-driven audits and static, pass/fail checklists. However, when manufacturing operations face dynamic setups, short production runs, and rapid engineering changes, scheduled periodic visits often fail to catch latent process drifts. To build resilient supplier networks, quality leaders must shift from routine compliance checking [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/adaptive-auditing-for-supply-chains/\">Adaptive Auditing for Supply Chains</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "Capitol Weekly",
@@ -392,13 +420,6 @@
     "summary": "<p>What can an anesthesiologist tell us about lethal injection? Chief Mark Garrett sits down with Dr. Austin Quina to discuss Tennessee's failed execution attempt involving Christa Pike, how anesthetic drugs work, and the ethical questions facing medical professionals.\n\nThe conversation covers consciousness and movement, drug supply, informed consent, training, and the debate over physician participation in executions. Dr. Quina offers his clinical perspective and possible explanations; the discussion does not establish the cause of the failed attempt.\n\nHosted by retired California Highway Patrol Chief Mark Garrett.\nGuest: Dr. Austin Quina\n\nMore from Your LEO Nation: <a href=\"https://yourleonation.org\" rel=\"noopener noreferrer nofollow\">https://yourleonation.org</a>\nInstagram: <a href=\"https://www.instagram.com/yourleonation\" rel=\"noopener noreferrer nofollow\">https://www.instagram.com/yourleonation</a>\nFacebook: <a href=\"https://www.facebook.com/yourleonationpodcast\" rel=\"noopener noreferrer nofollow\">https://www.facebook.com/yourleonationpodcast</a>\n\n#YourLEONation #LethalInjection #MedicalEthics</p>"
   },
   {
-    "source": "The Auditor",
-    "title": "ISO 9001:2026 Transition: Why Conversation Comes Before Documentation",
-    "link": "https://www.theauditoronline.com/iso-90012026-transition-why-conversation-comes-before-documentation/",
-    "published": "2026-10-06T20:00:15Z",
-    "summary": "<p>By Jackie Stapleton I had worked as a quality manager in a software and IT company for ten years when I moved to a large government organization involved in construction. I thought the quality management part would transfer easily enough. What I did not expect was how much I had to learn before I could [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/iso-90012026-transition-why-conversation-comes-before-documentation/\">ISO 9001:2026 Transition: Why Conversation Comes Before Documentation</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
     "source": "Public Policy Institute of California",
     "title": "Quick Tips to Tell if a Poll Is Legit",
     "link": "https://www.ppic.org/blog/quick-tips-to-tell-if-a-poll-is-legit/?utm_source=rss&utm_medium=rss&utm_campaign=quick-tips-to-tell-if-a-poll-is-legit",
@@ -432,13 +453,6 @@
     "link": "https://www.marines.mil/News/News-Display/Article/4619131/two-blount-island-marines-earn-top-honors-at-drill-instructor-school/",
     "published": "2026-10-02T19:31:00Z",
     "summary": "Marines assigned to Blount Island Command earned two of three honor graduate spots in their Drill Instructor School class and brought leadership lessons back to Florida.<br /> \n<img alt=\"Two Blount Island Marines earn top honors at Drill Instructor School\" src=\"https://media.defense.gov/2026/Oct/02/2004010965/115/75/0/261002-M-BD377-1175.JPG\" /> <br />"
-  },
-  {
-    "source": "The Auditor",
-    "title": "Your Next Steps for ISO 9001:2026",
-    "link": "https://www.theauditoronline.com/your-next-steps-for-iso-90012026/",
-    "published": "2026-10-02T06:58:33Z",
-    "summary": "<p>In an important event for conformity assessment professionals everywhere, the International Organization for Standardization officially released ISO 9001:2026 on September 16, 2026. Now that the standard has been published, we wanted to take a moment to remind you about the ways that Exemplar Global supports members of our industry throughout the transition from the prior [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/your-next-steps-for-iso-90012026/\">Your Next Steps for ISO 9001:2026</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "Legislative Analyst's Office: Recent Publications",
@@ -600,20 +614,6 @@
     "link": "https://legiscan.com/CA/bill/SB685/2025?utm_campaign=rss&guid=36TIdVGiu9z4yGvBJwUUTK",
     "published": "2026-09-30T04:00:00Z",
     "summary": "An act to amend Sections 33050, 44237, 44415, 48645.5, 48853, 48853.5, 48854, 48856, 48911.5, 48986, 49001, 51225.2, 52052, 56001, 56028, 56034, 56035, 56040.6, 56042, 56101, 56124, 56157, 56168, 56170, 56195.8, 56205, 56325, 56326.5, 56342.1, 56345, 56361, 56361.5, 56365, 56366, 56366.1, 56366.4, 56366.45, 56366.5, 56366.6, 56366.8, 56366.9, 56366.10, 56366.11, 56366.12, 56383, 56430, 56441.8, 56505, 56505.2, 56521.2, 56836.20, 56836.21, 56847, 56856, and 56857 of, to amend the heading of Article 4 (commencing with Section 56836.20) of Chapter 7.2 of Part 30 of Division 4 of Title 2 of, to add Section 56359 to, and to repeal and add Section 56366.2 of, the Education Code, and to amend Sections 7575 and 7579 of the Government Code, relating to special education.<br />\n<br />\n2026/09/30 Chaptered by Secretary of State. Chapter 975, Statutes of 2026."
-  },
-  {
-    "source": "The Auditor",
-    "title": "The Sound Nobody Taught You to Hear",
-    "link": "https://www.theauditoronline.com/the-sound-nobody-taught-you-to-hear/",
-    "published": "2026-09-29T23:50:06Z",
-    "summary": "<p>By Jackie Stapleton Aaron Amick served as a submarine sonar operator with the U.S. Navy. He now runs the YouTube channel “Sub Brief,” where he explains what submarine crews do and how they train. In his video “What It’s REALLY Like Hunting Enemy Submarines,” Amick describes sonar school. Training starts with the basics: analog equipment [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/the-sound-nobody-taught-you-to-hear/\">The Sound Nobody Taught You to Hear</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
-  },
-  {
-    "source": "The Auditor",
-    "title": "Field Report: ASQ Audit Division Conference",
-    "link": "https://www.theauditoronline.com/field-report-asq-audit-division-conference/",
-    "published": "2026-09-28T06:25:22Z",
-    "summary": "<p>By Mike Richman “Future Ready: Empowering Auditors, Transforming Tomorrow” was the theme of the recent ASQ Audit Division Conference at the stylish Loews Hotel in Rosemont, Illinois. Reflecting the principles of an exceptional quality management system, the session met its objectives and provided an engaged audience of industry professionals with valuable opportunities to exchange knowledge. [&#8230;]</p>\n<p><a href=\"https://www.theauditoronline.com/field-report-asq-audit-division-conference/\">Field Report: ASQ Audit Division Conference</a> on <a href=\"https://www.theauditoronline.com\">The Auditor</a>.</p>"
   },
   {
     "source": "LegiScan Search Feed - (CA) \"veteran Service Officer\" OR \"veteran Service\" Search",
