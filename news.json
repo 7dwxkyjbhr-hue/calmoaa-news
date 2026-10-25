@@ -1,31 +1,59 @@
 [
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
-    "published": "2026-10-25T10:16:29Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-10-25T10:16:27Z",
+    "published": "2026-10-25T15:05:15Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-10-25T09:57:20Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-10-25T08:57:13Z",
+    "published": "2026-10-25T15:05:14Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
+    "published": "2026-10-25T15:05:14Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "CalMatters",
+    "title": "A last-minute voter guide to all 14 propositions on the California ballot",
+    "link": "https://calmatters.org/politics/2026/10/last-minute-voter-guide-propositions/",
+    "published": "2026-10-25T13:00:00Z",
+    "summary": "<figure><img alt=\"A side view of people looking down while standing in front of voting booths. The photo focuses on a person with buzzed-cut hair and a nose ring.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/10/060226_Primary-Election-Sacramento_MG_CM_33.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Californians are voting on 14 ballot measures, including propositions on taxes, voting, healthcare, housing and the environment. It's a lot to take in, but we're here to help."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
+    "published": "2026-10-25T12:57:21Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "California Political Review",
+    "title": "Medi-Cal cuts could push seniors and people with disabilities off of coverage",
+    "link": "https://capoliticalreview.com/2026/10/25/medi-cal-cuts-could-push-seniors-and-people-with-disabilities-off-of-coverage/",
+    "published": "2026-10-25T12:30:03Z",
+    "summary": "<p>Welcome to CalMatters, the only nonprofit newsroom devoted solely to covering issues that affect all Californians. Sign up for WhatMatters to receive the latest news and commentary on the most important issues in the Golden State. Julia Feinberg feels like she’s living in a sinister version of Groundhog Day. For the second year in a row California [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/10/25/medi-cal-cuts-could-push-seniors-and-people-with-disabilities-off-of-coverage/\">Read More and Comment: Medi-Cal cuts could push seniors and people with disabilities off of coverage</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/10/25/medi-cal-cuts-could-push-seniors-and-people-with-disabilities-off-of-coverage/\">Medi-Cal cuts could push seniors and people with disabilities off of coverage</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
+    "source": "California Political Review",
+    "title": "After $1.6 billion in claims, addiction treatment leaders arrested by feds",
+    "link": "https://capoliticalreview.com/2026/10/25/after-1-6-billion-in-claims-addiction-treatment-leaders-arrested-by-feds/",
+    "published": "2026-10-25T12:00:50Z",
+    "summary": "<p>Column: Lawyers for father-son duo David and Nathan Young argue their arrests and detention were illegal It was very hard to leave the addiction treatment empire of Nathan and David Young: Clients were drugged with medication, cut off from communication with family members, prevented from accessing their belongings and even physically blocked when they tried [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/10/25/after-1-6-billion-in-claims-addiction-treatment-leaders-arrested-by-feds/\">Read More and Comment: After $1.6 billion in claims, addiction treatment leaders arrested by feds</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/10/25/after-1-6-billion-in-claims-addiction-treatment-leaders-arrested-by-feds/\">After $1.6 billion in claims, addiction treatment leaders arrested by feds</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
+    "source": "Task & Purpose",
+    "title": "US expands alcohol restrictions for troops in Japan",
+    "link": "https://taskandpurpose.com/news/us-japan-alcohol-ban-expands/",
+    "published": "2026-10-25T11:51:00Z",
+    "summary": "<p>Kadena Air Base enacted a ban on drinking for lower enlisted personnel, while troops participating in the large Keen Sword exercise are also barred from drinking.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/us-japan-alcohol-ban-expands/\">US expands alcohol restrictions for troops in Japan</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
     "source": "California Globe",
@@ -84,6 +112,20 @@
     "summary": "<figure><img alt=\"A view from afar of construction workers as they work on the framing of a house under construction.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/10/080326_EATON_FIRE_REBUILD_CM_35.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Californians will decide on $44 billion in bonds when the vote on Propositions 1, 37 and 38. They'd take out debt to pay for housing and medical research."
   },
   {
+    "source": "California Political Review",
+    "title": "Billionaire tax could cost California $39 billion, Stanford economists say",
+    "link": "https://capoliticalreview.com/2026/10/24/billionaire-tax-could-cost-california-39-billion-stanford-economists-say/",
+    "published": "2026-10-24T12:30:09Z",
+    "summary": "<p>Californians are already voting on a proposed billionaire wealth tax, but the debate over the policy among experts — including some Bay Area economists — is only ramping up. One of the latest salvos is a new report by two economists at Stanford University’s Hoover Institution, a conservative think tank. Not only do they think that the one-time [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/10/24/billionaire-tax-could-cost-california-39-billion-stanford-economists-say/\">Read More and Comment: Billionaire tax could cost California $39 billion, Stanford economists say</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/10/24/billionaire-tax-could-cost-california-39-billion-stanford-economists-say/\">Billionaire tax could cost California $39 billion, Stanford economists say</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
+    "source": "California Political Review",
+    "title": "Feds, Bonta clash over credit for cases alleging billions of dollars in healthcare fraud",
+    "link": "https://capoliticalreview.com/2026/10/24/feds-bonta-clash-over-credit-for-cases-alleging-billions-of-dollars-in-healthcare-fraud/",
+    "published": "2026-10-24T12:00:49Z",
+    "summary": "<p>Federal prosecutors announced charges against 15 people over alleged California schemes that billed taxpayers nearly $2 billion for unnecessary medical procedures, sham addiction treatment programs and bogus hospice care. First Assistant U.S. Atty. Bill Essayli held a news conference Thursday morning where he blamed California officials for allowing medical fraud to proliferate in the state. [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/10/24/feds-bonta-clash-over-credit-for-cases-alleging-billions-of-dollars-in-healthcare-fraud/\">Read More and Comment: Feds, Bonta clash over credit for cases alleging billions of dollars in healthcare fraud</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/10/24/feds-bonta-clash-over-credit-for-cases-alleging-billions-of-dollars-in-healthcare-fraud/\">Feds, Bonta clash over credit for cases alleging billions of dollars in healthcare fraud</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
     "source": "CalMatters",
     "title": "LA chemical plant on short leash from state regulators as neighbors continue to protest its operations",
     "link": "https://calmatters.org/environment/2026/10/hazardous-waste-facility-permit-appeal/",
@@ -140,13 +182,6 @@
     "summary": "<p>Chris Cathers launched Brothers Keeper Veterans Foundation to fight suicide among veterans after his own struggles.</p>\n<p>The post <a href=\"https://taskandpurpose.com/culture/cancer-selfie-chris-pratt/\">How a Special Forces veteran with cancer finally got this photo with Chris Pratt</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "Task & Purpose",
-    "title": "Air Force suspends rappelling events for special ops training unit after fatal fall",
-    "link": "https://taskandpurpose.com/news/air-force-suspends-rappel-training/",
-    "published": "2026-10-23T16:41:57Z",
-    "summary": "<p> The 6th Combat Training Squadron, which trains TACP airmen, has paused all rappel and ropes training and demonstrations following the death of Tech. Sgt. Ian Patterson.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/air-force-suspends-rappel-training/\">Air Force suspends rappelling events for special ops training unit after fatal fall</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
     "source": "Governor of California",
     "title": "Governor Newsom announces $300,000 in rewards for unsolved murders in San Mateo, Sacramento, Fresno, Los Angeles, San Diego, and Ventura counties",
     "link": "https://www.gov.ca.gov/2026/10/23/governor-newsom-announces-300000-in-rewards-for-unsolved-murders-in-san-mateo-sacramento-fresno-los-angeles-san-diego-and-ventura-counties/",
@@ -175,18 +210,18 @@
     "summary": "<figure><img alt=\"A split image shows two men speaking at separate events. At left, a man with short gray hair and glasses speaks into a handheld microphone while gesturing with his hand. At right, a bald man with a gray beard speaks at a table crowded with news microphones.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/09/092926-Becerra-Hilton-Split-CM-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>California’s carbon market was supposed to help the state cut pollution and reach its ambitious zero-emissions climate goals. But 20 years after its creation, some environmental advocates argue recent changes to the program will greatly diminish its effectiveness, and the fallout could land at the feet of the next governor.  As Emma Foehringer Merchant explains [&#8230;]"
   },
   {
+    "source": "California Political Review",
+    "title": "California mayor insists cash handout program will solve affordability challenges, but critics question cost",
+    "link": "https://capoliticalreview.com/2026/10/23/california-mayor-insists-cash-handout-program-will-solve-affordability-challenges-but-critics-question-cost/",
+    "published": "2026-10-23T12:30:30Z",
+    "summary": "<p>Rise Up Alameda program gave 150 low-income households $1,000 monthly, but city has no plans to continue A California mayor insisted that handing out monthly cash payments is an effective tool to combat the state&#8217;s soaring cost of living, even as local leaders face steep hurdles in securing permanent taxpayer funding to keep guaranteed income [&#8230;]</p>\n<p><a href=\"https://capoliticalreview.com/2026/10/23/california-mayor-insists-cash-handout-program-will-solve-affordability-challenges-but-critics-question-cost/\">Read More and Comment: California mayor insists cash handout program will solve affordability challenges, but critics question cost</a></p>\n<p>The post <a href=\"https://capoliticalreview.com/2026/10/23/california-mayor-insists-cash-handout-program-will-solve-affordability-challenges-but-critics-question-cost/\">California mayor insists cash handout program will solve affordability challenges, but critics question cost</a> appeared first on <a href=\"https://capoliticalreview.com\">California Political Review</a>.</p>"
+  },
+  {
     "source": "CalMatters",
     "title": "LA’s Latino neighborhoods backed Karen Bass in June. Will they stick with her in November?",
     "link": "https://calmatters.org/commentary/2026/10/latino-voters-bass-raman-analysis/",
     "published": "2026-10-23T12:00:00Z",
     "summary": "<figure><img alt=\"A low sideview of a person standing in front of a yellow voting booth inside of voting center.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/10/06072022_CAPrimary_CM_PU_15.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>A CalMatters analysis found L.A. Mayor Karen Bass vastly outperformed the opposition in majority-Latino precincts in June. The race could hinge on whether Latino voters stick with her."
-  },
-  {
-    "source": "CalMatters",
-    "title": "California has more revenue than expected thanks to AI. Should the state save it?",
-    "link": "https://calmatters.org/politics/2026/10/california-proposition-2-explained/",
-    "published": "2026-10-23T12:00:00Z",
-    "summary": "<figure><img alt=\"A person wearing a navy suit points to a monitor with a line chart on it during a press conference. The California state seal, state flag and the American flag can be seen behind them.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2025/05/051425_Newsom-May-Budget_FG_CM_03.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Proponents say Prop. 2 would allow the state to shore up its reserves for an economic downturn. Critics say it would only allow state leaders to spend more in the future."
   },
   {
     "source": "Governor of California",
@@ -663,40 +698,5 @@
     "link": "https://cadem.org/california-democratic-party-announces-endorsements-for-statewide-congressional-and-state-legislature-candidates/",
     "published": "2026-07-14T16:08:19Z",
     "summary": "<p>SACRAMENTO, CA – Today, following the certification of the June 2 Primary Election, the California Democratic Party (CADEM) announced the following Statewide, Congressional and State Senate &#38; Assembly candidate endorsements: “Once again, California is leading the charge to take back the House and put an end to the Trump-Republican agenda of chaos and cruelty,” said [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-announces-endorsements-for-statewide-congressional-and-state-legislature-candidates/\">California Democratic Party Announces Endorsements for Statewide, Congressional and State Legislature Candidates</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB1702",
-    "link": "https://legiscan.com/CA/bill/AB1702/2025?utm_campaign=rss&guid=6ReVyBf7TaavgUZBZt7yG9",
-    "published": "2026-05-14T04:00:00Z",
-    "summary": "An act to amend Section 5011.5 of, and to add Section 5011.8 to, the Public Resources Code, relating to parks.<br />\n<br />\n2026/05/14 In committee: Held under submission."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2064",
-    "link": "https://legiscan.com/CA/bill/AB2064/2025?utm_campaign=rss&guid=5FX70IGbiGuc4rRS59jUb5",
-    "published": "2026-05-14T04:00:00Z",
-    "summary": "An act to amend Section 51 of the Civil Code, and to amend Sections 12920, 12921, 12926, 12940, and 12955 of the Government Code, relating to discrimination.<br />\n<br />\n2026/05/14 In committee: Held under submission."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2370",
-    "link": "https://legiscan.com/CA/bill/AB2370/2025?utm_campaign=rss&guid=3gjVfay8bfPPOEgZJONi5T",
-    "published": "2026-05-14T04:00:00Z",
-    "summary": "An act to amend Section 15277 of the Government Code, relating to emergency services.<br />\n<br />\n2026/05/14 In committee: Held under submission."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2590",
-    "link": "https://legiscan.com/CA/bill/AB2590/2025?utm_campaign=rss&guid=2GSBo4ymrDsBBg0kXPJg9r",
-    "published": "2026-05-14T04:00:00Z",
-    "summary": "An act to amend Section 10230.2 of, and to add Division 9.5 (commencing with Section 9975) to, the Public Resources Code, relating to public resources, and making an appropriation therefor.<br />\n<br />\n2026/05/14 In committee: Held under submission."
-  },
-  {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"National Guard\" Search",
-    "title": "CA AB2016",
-    "link": "https://legiscan.com/CA/bill/AB2016/2025?utm_campaign=rss&guid=338a1glbJmvj3f83LBUwKo",
-    "published": "2026-04-27T04:00:00Z",
-    "summary": "An act to add Section 116365.7 to the Health and Safety Code, relating to water, and making an appropriation therefor.<br />\n<br />\n2026/04/27 In committee: Hearing postponed by committee."
   }
 ]
