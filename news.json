@@ -3,29 +3,71 @@
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"California State Guard\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=5E1Vo8aCIYFc7GKhCeYnMi",
-    "published": "2026-10-29T22:06:31Z",
+    "published": "2026-10-30T03:13:09Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=5E1Vo8aCIYFc7GKhCeYnMi\">LegiScan</a> to obtain updated and current session information."
+  },
+  {
+    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
+    "title": "No Bills Found",
+    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
+    "published": "2026-10-30T03:13:07Z",
+    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"military Spouse\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=2qHkOhYE8AnHBUup53T3Kw",
-    "published": "2026-10-29T22:06:30Z",
+    "published": "2026-10-30T01:57:27Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=2qHkOhYE8AnHBUup53T3Kw\">LegiScan</a> to obtain updated and current session information."
   },
   {
     "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Benefits\" Search",
     "title": "No Bills Found",
     "link": "https://legiscan.com/?utm_campaign=nbf&guid=6I8u74GtYe1MGRcI9QqsSL",
-    "published": "2026-10-29T22:06:30Z",
+    "published": "2026-10-30T01:57:18Z",
     "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=6I8u74GtYe1MGRcI9QqsSL\">LegiScan</a> to obtain updated and current session information."
   },
   {
-    "source": "LegiScan Search Feed - (CA) Status:introduced AND \"veteran Resource Center\" Search",
-    "title": "No Bills Found",
-    "link": "https://legiscan.com/?utm_campaign=nbf&guid=3eeK061Zw5lG0eCqHFpCqX",
-    "published": "2026-10-29T22:06:29Z",
-    "summary": "Could not locate any eligible bills to be returned. This may be caused by bills from prior sessions being archived and removed from the RSS channel. Please visit <a href=\"https://legiscan.com/?utm_campaign=nbf&amp;guid=3eeK061Zw5lG0eCqHFpCqX\">LegiScan</a> to obtain updated and current session information."
+    "source": "CalMatters",
+    "title": "For the record: Fresno man deported by ICE had previous illegal crossings",
+    "link": "https://calmatters.org/justice/2026/10/fresno-deportation-background/",
+    "published": "2026-10-30T01:16:34Z",
+    "summary": "<figure><img alt=\"A man wearing a black polo shirt and jeans stands holding a book outside a storefront, between large American and Mexican flags, with signs advertising translation and document services behind him.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/10/102126-ArreguinDeportation-DR-CM-07.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Luis Arreguin had been deported five times before his recent immigration arrest in Fresno County, according to federal authorities."
+  },
+  {
+    "source": "CalMatters",
+    "title": "DOJ subpoenas California election officials, despite judge’s order to stop threatening them",
+    "link": "https://calmatters.org/politics/2026/10/ca-election-officials-subpoenas/",
+    "published": "2026-10-30T00:34:06Z",
+    "summary": "<figure><img alt=\"Election ballots at the Sacramento County Registrar of Voters office in Sacramento on June 7, 2022. Photo by Miguel Gutierrez Jr., CalMatters\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2022/06/060722-Sac-County-Voter-Registrar-MG-CM-19.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Federal officials delivered a subpoena to Orange County Registrar of Voters’s office on Thursday."
+  },
+  {
+    "source": "CalMatters",
+    "title": "Did Trump invest more money in rural California health ahead of the election?",
+    "link": "https://calmatters.org/health/2026/10/trump-california-rural-health-fact-check/",
+    "published": "2026-10-30T00:18:47Z",
+    "summary": "<figure><img alt=\"A nurse practitioner in a white coat uses a stethoscope to examine a seated woman wearing a pink floral dress, while another woman gestures beside them in an exam room.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/10/020520_NursePractitioner_AW_CM_09.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>The Trump administration announced $233 million for rural California healthcare Thursday. Here’s where the money comes from."
+  },
+  {
+    "source": "California Globe",
+    "title": "SLO DA Investigating 63 DHS Suspected Non-Citizens Voter Registrations",
+    "link": "https://californiaglobe.com/fr/slo-da-investigating-63-dhs-suspected-non-citizens-voter-registrations/",
+    "published": "2026-10-29T23:44:43Z",
+    "summary": "DA warns that unlawful voting will be prosecuted"
+  },
+  {
+    "source": "California Globe",
+    "title": "Fourth Alien Charged with Illegal Voting in Nevada as DOJ Crackdown Accelerates",
+    "link": "https://californiaglobe.com/fr/fourth-alien-charged-with-illegal-voting-in-nevada-as-doj-crackdown-accelerates/",
+    "published": "2026-10-29T23:19:06Z",
+    "summary": "Fourth noncitizen charged as Nevada DOJ files more cases in 96 hours than prior six years, despite massive voter purge"
+  },
+  {
+    "source": "California Globe",
+    "title": "Another California Labor Law Struck Down by Federal Court",
+    "link": "https://californiaglobe.com/fr/another-california-labor-law-struck-down-by-federal-court/",
+    "published": "2026-10-29T23:00:32Z",
+    "summary": "This is the third time in just the past few years that a California labor law has been struck down by the federal courts"
   },
   {
     "source": "California Globe",
@@ -49,20 +91,6 @@
     "summary": "<p>A Congressman said they had thought that the Navy “revitalization” project would include housing until last week, but then news broke that a data center was proposed. </p>\n<p>The post <a href=\"https://taskandpurpose.com/news/san-diego-navy-data-center/\">Congressman pushes for military housing in San Diego amid Navy data center backlash</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
   },
   {
-    "source": "California Globe",
-    "title": "The Trump Economy Grew 3.4% Last Quarter, the Fastest Pace in a Year",
-    "link": "https://californiaglobe.com/fr/the-trump-economy-grew-3-4-last-quarter-the-fastest-pace-in-a-year/",
-    "published": "2026-10-29T20:49:50Z",
-    "summary": "12.7% Growth in business investment, the strongest in nearly 15 years"
-  },
-  {
-    "source": "California Globe",
-    "title": "Becerra Open to Mileage Tax After Newsom’s Spending Spree",
-    "link": "https://californiaglobe.com/fl/becerra-open-to-mileage-tax-after-newsoms-spending-spree/",
-    "published": "2026-10-29T20:17:51Z",
-    "summary": "“Everything should be on the table,” Becerra says of a mileage tax—despite years of massive spending with little to show for it"
-  },
-  {
     "source": "Task & Purpose",
     "title": "Pentagon investigates series of commissary freezer failures as possible cyberattack",
     "link": "https://taskandpurpose.com/news/military-commissary-cyberattack-pentagon-investigation/",
@@ -77,20 +105,6 @@
     "summary": "<p>In 1945, a teenage Holocaust survivor named Tibor Rubin made a promise that would change his life. He wanted to move to America and join the U.S. Army. What inspired a young Hungarian who&#8217;d survived a Nazi concentration camp to risk his life for a country he&#8217;d never visited? His answer helps explain why generations [&#8230;]</p>\n<p>The post <a href=\"https://cv4a.org/news-media/tibor-rubin-the-holocaust-survivor-who-risked-his-life-for-america/\">The story of Tibor Rubin: Why this Holocaust survivor risked his life to defend America</a> appeared first on <a href=\"https://cv4a.org\">Concerned Veterans for America</a>.</p>"
   },
   {
-    "source": "California Globe",
-    "title": "Clinton-Appointed Judge Blocks DOJ Bid to Sequester Suspected Noncitizen Ballots; DOJ Appeals to Ninth Circuit",
-    "link": "https://californiaglobe.com/fl/clinton-appointed-judge-blocks-doj-bid-to-sequester-suspected-noncitizen-ballots-doj-appeals-to-ninth-circuit/",
-    "published": "2026-10-29T17:56:30Z",
-    "summary": "Judge Carter invokes Jim Crow history while rejecting effort to set aside ballots from likely noncitizens"
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "Change is Coming to Newport Beach",
-    "link": "https://theliberaloc.com/2026/10/29/change-is-coming-to-newport-beach/",
-    "published": "2026-10-29T17:32:33Z",
-    "summary": "&#160; This contributed article is from Keith Curry, the former Mayor of Newport Beach.  TheLiberalOC welcomes articles from outside sources. &#160; Newport Beach City Council <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/10/29/change-is-coming-to-newport-beach/\" title=\"Change is Coming to Newport Beach\">[...]</a>"
-  },
-  {
     "source": "Public Policy Institute of California",
     "title": "Does California Have a Problem with Noncitizen Voting?",
     "link": "https://www.ppic.org/blog/does-california-have-a-problem-with-noncitizen-voting/?utm_source=rss&utm_medium=rss&utm_campaign=does-california-have-a-problem-with-noncitizen-voting",
@@ -103,13 +117,6 @@
     "link": "https://yourleonation.org",
     "published": "2026-10-29T16:52:35Z",
     "summary": "<p>Two candidates named Dan Sullivan are on Alaska’s U.S. Senate ballot. Chief Mark Garrett compares two CBS reports, walks through the New York Times reporting on the alleged ballot-composition effort, and gives his perspective on the questions it raises for voters and investigators.\n\nWatch the opening reports, then join the conversation: what should accountability look like? Subscribe to Your LEO Nation for more conversations about law enforcement, public safety and the rule of law.\n\nSources discussed:\nCBS News, October 26: <a href=\"https://youtu.be/j77aWFtZVp4\" rel=\"noopener noreferrer nofollow\">https://youtu.be/j77aWFtZVp4</a>\nCBS Evening News, October 28: <a href=\"https://youtu.be/sENU_yVmaSE\" rel=\"noopener noreferrer nofollow\">https://youtu.be/sENU_yVmaSE</a>\nNew York Times report: <a href=\"https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html\" rel=\"noopener noreferrer nofollow\">https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html</a>\n\nYour LEO Nation: <a href=\"https://yourleonation.org\" rel=\"noopener noreferrer nofollow\">https://yourleonation.org</a></p>"
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "Get Ready for Hackers Before Election Day",
-    "link": "https://theliberaloc.com/2026/10/29/get-ready-for-hackers-before-election-day/",
-    "published": "2026-10-29T16:18:13Z",
-    "summary": "&#160; A cyberattack targeting the Federal Election Commission (FEC) disrupted mandatory campaign finance disclosures just days before the November 3 midterm elections. According to the <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/10/29/get-ready-for-hackers-before-election-day/\" title=\"Get Ready for Hackers Before Election Day\">[...]</a>"
   },
   {
     "source": "Capitol Weekly",
@@ -154,27 +161,6 @@
     "summary": "<figure><img alt=\"Luis Arreguin stands holding a Bible inside a church, beneath a large gold-framed painting of Jesus Christ. Sunlight streams through an open doorway to his right.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/10/102126-ArreguinDeportation-DR-CM-05.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Luis Arreguin, padre de cuatro hijos, vivió 49 años en Estados Unidos. El ICE tardó solo 16 días en extraditarlo a México tras detenerlo en Fresno."
   },
   {
-    "source": "CalMatters",
-    "title": "Un juez rechaza la solicitud del gobierno de Trump para anular 20,000 votos electorales de California",
-    "link": "https://calmatters.org/calmatters-en-espanol/2026/10/juez-rechaza-peticion-de-anular-20000-votos-en-california/",
-    "published": "2026-10-29T13:05:14Z",
-    "summary": "<figure><img alt=\"Election workers wearing gloves sort and examine ballots at tables inside a large processing facility, photographed through shelves filled with trays of election materials.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/10/060326-LA-County-Ballots-AP-CM.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>Un juez federal se negó a ordenar a California que apartara 20,000 papeletas, citando un \"patrón de intentos de interferencia electoral\" por parte de la administración Trump."
-  },
-  {
-    "source": "CalMatters",
-    "title": "Homelessness declines, but still up over Newsom’s two terms",
-    "link": "https://calmatters.org/newsletter/newsom-homeless-count/",
-    "published": "2026-10-29T13:00:00Z",
-    "summary": "<figure><img alt=\"Small bike path lights illuminate two people leaning down as one of them hands a ziplock bag of toiletry items to a person sitting next to a bike with their head leaning forward.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/05/012926_PIT-Count-SD_AH_CM_06.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>We’ve got so much news in today’s WhatMatters: The latest homeless numbers, a brand new tool and the passing of an icon whose work transcended the California farmworker movement and became a worldwide symbol for human rights. We also have some breaking news this morning. The head of California&#8217;s high-speed rail agency resigned late last [&#8230;]"
-  },
-  {
-    "source": "CalMatters",
-    "title": "Dolores Huerta “se mantuvo en la lucha” durante siete décadas, inspirando a generaciones de californianos",
-    "link": "https://calmatters.org/calmatters-en-espanol/2026/10/dolores-huerta-lucha-siete-decadas/",
-    "published": "2026-10-29T12:58:52Z",
-    "summary": "<figure><img alt=\"Dolores Huerta sits with her hands folded in her lap, wearing a black graphic T-shirt, red pants and gold hoop earrings against a dark gray backdrop.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"682\" src=\"https://i0.wp.com/calmatters.org/wp-content/uploads/2026/10/102017-Dolores-Huerta-AP-CM-01.jpg?fit=1024%2C682&amp;ssl=1\" width=\"1024\" /></figure>La figura emblemática del movimiento obrero, Dolores Huerta, influyó en generaciones de californianos que se inspiraron en su defensa de los derechos civiles, los trabajadores agrícolas y los inmigrantes."
-  },
-  {
     "source": "California Political Review",
     "title": "Sean Hannity blamed by Katie Zacharia for firing.",
     "link": "https://capoliticalreview.com/2026/10/29/sean-hannity-blamed-by-katie-zacharia-for-firing/",
@@ -215,20 +201,6 @@
     "link": "https://cadem.org/statement-from-cadem-chair-rusty-hicks-on-the-passing-of-labor-icon-dolores-huerta/",
     "published": "2026-10-28T21:33:20Z",
     "summary": "<p>“California Democrats mourn the loss of a giant today. Dolores Huerta was a force of nature who dedicated her life to empowering and uplifting others. Even in the darkest of times, her voice and her life will forever be an example of what it means to never give up and never give in. We honor [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/statement-from-cadem-chair-rusty-hicks-on-the-passing-of-labor-icon-dolores-huerta/\">Statement from CADEM Chair Rusty Hicks on the Passing of Labor Icon Dolores Huerta</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "A Campaign Accomplishment That’s Not Accomplished: Melinda Liu’s Irvine Child Care Mirage",
-    "link": "https://theliberaloc.com/2026/10/28/a-campaign-accomplishment-thats-not-accomplished-melinda-lius-irvine-child-care-mirage/",
-    "published": "2026-10-28T18:00:54Z",
-    "summary": "&#160; In the high-stakes theater of Irvine City Council politics, nothing sells quite like a feel-good family policy. District 1 incumbent Melinda Liu has been <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/10/28/a-campaign-accomplishment-thats-not-accomplished-melinda-lius-irvine-child-care-mirage/\" title=\"A Campaign Accomplishment That’s Not Accomplished: Melinda Liu’s Irvine Child Care Mirage\">[...]</a>"
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "If you run into Tustin Mayor Austin Lumbard, Ask These Questions",
-    "link": "https://theliberaloc.com/2026/10/28/if-you-run-into-tustin-mayor-austin-lumbard-ask-these-questions/",
-    "published": "2026-10-28T17:37:13Z",
-    "summary": "&#160; Tustin&#8217;s first directly-elected Mayor Austin Lumbard has a well-written bio on his political web page.  But a deeper dive exposes two deficiencies. On his <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/10/28/if-you-run-into-tustin-mayor-austin-lumbard-ask-these-questions/\" title=\"If you run into Tustin Mayor Austin Lumbard, Ask These Questions\">[...]</a>"
   },
   {
     "source": "Task & Purpose",
@@ -278,13 +250,6 @@
     "link": "https://taskandpurpose.com/news/military-drug-boat-240-killed/",
     "published": "2026-10-27T20:31:01Z",
     "summary": "<p>The attack was at least the third deadly strike carried out by U.S. Southern Command this month.</p>\n<p>The post <a href=\"https://taskandpurpose.com/news/military-drug-boat-240-killed/\">US military&#8217;s drug boat strikes have now killed at least 240 people</a> appeared first on <a href=\"https://taskandpurpose.com\">Task &amp; Purpose</a>.</p>"
-  },
-  {
-    "source": "The Liberal OC",
-    "title": "A Bad Mailer Is Not a Political Scandal",
-    "link": "https://theliberaloc.com/2026/10/27/a-bad-mailer-is-not-a-political-scandal/",
-    "published": "2026-10-27T19:10:40Z",
-    "summary": "&#160; Campaign mailers are not known for their subtlety. They are designed to grab attention, deliver a message and persuade voters before the next piece <a class=\"mh-excerpt-more\" href=\"https://theliberaloc.com/2026/10/27/a-bad-mailer-is-not-a-political-scandal/\" title=\"A Bad Mailer Is Not a Political Scandal\">[...]</a>"
   },
   {
     "source": "Public Policy Institute of California",
@@ -698,5 +663,40 @@
     "link": "https://cadem.org/statement-from-cadem-chair-rusty-hicks-on-supreme-court-decision-to-reject-trumps-mail-in-voting-restrictions/",
     "published": "2026-09-15T16:19:43Z",
     "summary": "<p>“Even Trump’s broken and busted Supreme Court managed to get this one right &#8211; saying no to his efforts to mess with our elections. But Trump will not stop and we cannot count on his Court to get it right the next time. California Democrats must continue to do our part to protect the vote [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/statement-from-cadem-chair-rusty-hicks-on-supreme-court-decision-to-reject-trumps-mail-in-voting-restrictions/\">Statement from CADEM Chair Rusty Hicks on Supreme Court Decision to Reject Trump’s Mail-in Voting Restrictions</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA AB2787",
+    "link": "https://legiscan.com/CA/bill/AB2787/2025?utm_campaign=rss&guid=6Hs58GBG2mEDczGVGJ7SCg",
+    "published": "2026-09-14T04:00:00Z",
+    "summary": "An act to amend Section 675 of the Harbors and Navigation Code, to amend Sections 9853 and 9860 of the Vehicle Code, and to amend Section 10722.4 of the Water Code, relating to public resources.<br />\n<br />\n2026/09/14 Chaptered by Secretary of State - Chapter 222, Statutes of 2026."
+  },
+  {
+    "source": "California Democratic Party",
+    "title": "Statement from CADEM Chair Rusty Hicks on SCOTUS Decision Regarding Trump’s Executive Order Restricting Mail-in Voting:",
+    "link": "https://cadem.org/statement-from-cadem-chair-rusty-hicks-on-scotus-decision-regarding-trumps-executive-order-restricting-mail-in-voting/",
+    "published": "2026-08-24T22:44:08Z",
+    "summary": "<p>“Leave it to Trump’s Court to attempt to save an unpopular, unproductive president from a devastating defeat,” said Rusty Hicks, Chair of CADEM. “They know Republicans can’t win fair and square, so they’re trying to rig the game before it ever begins. It won’t work. The American People are sick and tired of billionaire giveaways, [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/statement-from-cadem-chair-rusty-hicks-on-scotus-decision-regarding-trumps-executive-order-restricting-mail-in-voting/\">Statement from CADEM Chair Rusty Hicks on SCOTUS Decision Regarding Trump’s Executive Order Restricting Mail-in Voting:</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA SB247",
+    "link": "https://legiscan.com/CA/bill/SB247/2025?utm_campaign=rss&guid=2UEf0cKAL25POYWQxoxt99",
+    "published": "2026-08-13T04:00:00Z",
+    "summary": "An act to add Article 1.7 (commencing with Section 10117) to Chapter 1 of Part 2 of Division 2 of the Public Contract Code, relating to public contracts.<br />\n<br />\n2026/08/13 August 13 hearing: Held in committee and under submission."
+  },
+  {
+    "source": "LegiScan Search Feed - DVBE OR \"disabled Veteran Business Enterprise\" Search",
+    "title": "CA SB1044",
+    "link": "https://legiscan.com/CA/bill/SB1044/2025?utm_campaign=rss&guid=5KmpmtmeCWl8qjL0TpSna9",
+    "published": "2026-08-13T04:00:00Z",
+    "summary": "An act to amend Sections 14838.5 and 14838.64 of the Government Code, relating to public contracts.<br />\n<br />\n2026/08/13 August 13 hearing: Held in committee and under submission."
+  },
+  {
+    "source": "California Democratic Party",
+    "title": "California Democratic Party Endorses Insurance Commissioner and Statewide Ballot Measures Ahead of 2026 General Election",
+    "link": "https://cadem.org/california-democratic-party-endorses-insurance-commissioner-and-statewide-ballot-measures-ahead-of-2026-general-election/",
+    "published": "2026-08-02T20:24:39Z",
+    "summary": "<p>SAN DIEGO – The California Democratic Party today announced their endorsement for Ben Allen for Insurance Commissioner and official positions on statewide ballot measures for the November 2026 General Election, reaffirming the Party’s commitment to advancing policies that make life affordable, strengthen democracy, and move California forward.&#160; “Every endorsement we make is earned, not given,” [&#8230;]</p>\n<p>The post <a href=\"https://cadem.org/california-democratic-party-endorses-insurance-commissioner-and-statewide-ballot-measures-ahead-of-2026-general-election/\">California Democratic Party Endorses Insurance Commissioner and Statewide Ballot Measures Ahead of 2026 General Election</a> appeared first on <a href=\"https://cadem.org\">California Democratic Party</a>.</p>"
   }
 ]
